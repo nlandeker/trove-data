@@ -1,0 +1,145 @@
+[
+  {
+    "number": "10307",
+    "name": "Eiffel Tower",
+    "theme": "Architecture",
+    "availability": "Retiring Soon",
+    "dateAvailableToDate": "2026-08-24",
+    "dateRetired": null,
+    "ukRetailPrice": 549.99,
+    "usRetailPrice": 629.99,
+    "image": { "imageURL": "https://images.brickset.com/sets/images/10307-1.jpg" }
+  },
+  {
+    "number": "10302",
+    "name": "Optimus Prime",
+    "theme": "Icons",
+    "availability": "Retiring Soon",
+    "dateAvailableToDate": "2026-09-15",
+    "dateRetired": null,
+    "ukRetailPrice": 169.99,
+    "usRetailPrice": 179.99,
+    "image": { "imageURL": "https://images.brickset.com/sets/images/10302-1.jpg" }
+  },
+  {
+    "number": "10497",
+    "name": "Galaxy Explorer",
+    "theme": "Icons",
+    "availability": "Retiring Soon",
+    "dateAvailableToDate": "2026-08-10",
+    "dateRetired": null,
+    "ukRetailPrice": 99.99,
+    "usRetailPrice": 99.99,
+    "image": { "imageURL": "https://images.brickset.com/sets/images/10497-1.jpg" }
+  },
+  {
+    "number": "10273",
+    "name": "Haunted House",
+    "theme": "Icons",
+    "availability": "Retired",
+    "dateAvailableToDate": null,
+    "dateRetired": "2025-12-31",
+    "ukRetailPrice": 229.99,
+    "usRetailPrice": 249.99,
+    "image": { "imageURL": "https://images.brickset.com/sets/images/10273-1.jpg" }
+  },
+  {
+    "number": "21325",
+    "name": "Medieval Blacksmith",
+    "theme": "Ideas",
+    "availability": "Retired",
+    "dateAvailableToDate": null,
+    "dateRetired": "2024-12-31",
+    "ukRetailPrice": 149.99,
+    "usRetailPrice": 149.99,
+    "image": { "imageURL": "https://images.brickset.com/sets/images/21325-1.jpg" }
+  },
+  {
+    "number": "71043",
+    "name": "Hogwarts Castle",
+    "theme": "Harry Potter",
+    "availability": "Retired",
+    "dateAvailableToDate": null,
+    "dateRetired": null,
+    "ukRetailPrice": null,
+    "usRetailPrice": null,
+    "image": { "imageURL": "https://images.brickset.com/sets/images/71043-1.jpg" }
+  },
+  {
+    "number": "75192",
+    "name": "Millennium Falcon",
+    "theme": "Star Wars",
+    "availability": "Retired",
+    "dateAvailableToDate": null,
+    "dateRetired": null,
+    "ukRetailPrice": null,
+    "usRetailPrice": null,
+    "image": { "imageURL": "https://images.brickset.com/sets/images/75192-1.jpg" }
+  },
+  {
+    "number": "76178",
+    "name": "Daily Bugle",
+    "theme": "Marvel",
+    "availability": "Retired",
+    "dateAvailableToDate": null,
+    "dateRetired": null,
+    "ukRetailPrice": null,
+    "usRetailPrice": null,
+    "image": { "imageURL": "https://images.brickset.com/sets/images/76178-1.jpg" }
+  },
+  {
+    "number": "10276",
+    "name": "Colosseum",
+    "theme": "Icons",
+    "availability": "Retired",
+    "dateAvailableToDate": null,
+    "dateRetired": null,
+    "ukRetailPrice": null,
+    "usRetailPrice": null,
+    "image": { "imageURL": "https://images.brickset.com/sets/images/10276-1.jpg" }
+  },
+  {
+    "number": "21318",
+    "name": "Tree House",
+    "theme": "Ideas",
+    "availability": "Retired",
+    "dateAvailableToDate": null,
+    "dateRetired": null,
+    "ukRetailPrice": null,
+    "usRetailPrice": null,
+    "image": { "imageURL": "https://images.brickset.com/sets/images/21318-1.jpg" }
+  },
+  {
+    "number": "92176",
+    "name": "Apollo Saturn V",
+    "theme": "Ideas",
+    "availability": "Retired",
+    "dateAvailableToDate": null,
+    "dateRetired": null,
+    "ukRetailPrice": null,
+    "usRetailPrice": null,
+    "image": { "imageURL": "https://images.brickset.com/sets/images/92176-1.jpg" }
+  },
+  {
+    "number": "10283",
+    "name": "Space Shuttle Discovery",
+    "theme": "Icons",
+    "availability": "Retired",
+    "dateAvailableToDate": null,
+    "dateRetired": null,
+    "ukRetailPrice": null,
+    "usRetailPrice": null,
+    "image": { "imageURL": "https://images.brickset.com/sets/images/10283-1.jpg" }
+  },
+  {
+    "number": "21330",
+    "name": "Home Alone",
+    "theme": "Ideas",
+    "availability": "Retired",
+    "dateAvailableToDate": null,
+    "dateRetired": null,
+    "ukRetailPrice": null,
+    "usRetailPrice": null,
+    "image": { "imageURL": "https://images.brickset.com/sets/images/21330-1.jpg" }
+  }
+]
