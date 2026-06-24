@@ -11,17 +11,40 @@ Attribution: data from Rebrickable (rebrickable.com) and Brickset (brickset.com)
 """
 # ponytail: stdlib HTTP only — no requests, no pandas, no third-party deps
 
+import datetime as _dt
 import json
 import os
 import sys
-import urllib.request
+import time
+import urllib.error
 import urllib.parse
+import urllib.request
 from pathlib import Path
+
+
+def _urlopen_json(req, timeout: int = 30, attempts: int = 4) -> dict:
+    """urlopen + json with retry/backoff. ponytail: covers transient TLS/network
+    blips (e.g. SSL UNEXPECTED_EOF) that otherwise abort a whole theme/page."""
+    last_err: Exception | None = None
+    for i in range(attempts):
+        try:
+            with urllib.request.urlopen(req, timeout=timeout) as r:
+                return json.loads(r.read())
+        except urllib.error.HTTPError:
+            raise  # 4xx/5xx are real — don't mask them behind retries
+        except Exception as e:  # noqa: BLE001 - transient transport errors only
+            last_err = e
+            time.sleep(1.5 * (i + 1))
+    raise last_err  # type: ignore[misc]
 
 HERE = Path(__file__).parent
 FIXTURES = HERE / "fixtures"
 OUT = HERE / "catalog.json"
 VERSION = 2  # bump when schema changes
+
+# Refuse to overwrite the published catalog with a near-empty result (a bad run
+# must never wipe good data). ponytail: simple floor, not a diff-ratio check.
+MIN_ITEMS = 5
 
 # ---------------------------------------------------------------------------
 # Rebrickable helpers
@@ -29,13 +52,14 @@ VERSION = 2  # bump when schema changes
 
 RB_BASE = "https://rebrickable.com/api/v3/lego"
 
-# Keep slim: only themes worth tracking for collectors
-# ponytail: hardcoded allowlist beats downloading all 900 themes
+# Keep slim: only themes worth tracking for collectors.
+# ponytail: names must match Rebrickable's theme list exactly; unresolved names
+# are skipped at runtime (no crash). Corrected to real RB names where they differ.
 TRACKED_THEMES = {
-    "Architecture", "Botanical", "Art", "Icons", "Ideas",
-    "Creator Expert", "Star Wars", "Harry Potter", "Marvel",
-    "DC", "Technic", "Jurassic World", "Speed Champions",
-    "Ninjago", "City", "LOTR",
+    "Architecture", "Botanicals", "Icons", "Creator Expert",
+    "Star Wars", "Harry Potter", "Marvel", "DC Comics Super Heroes",
+    "Technic", "Jurassic World", "Speed Champions", "Ninjago",
+    "City", "The Lord of the Rings",
 }
 
 
@@ -43,60 +67,77 @@ def rb_get(path: str, key: str, params: dict | None = None) -> dict:
     p = dict(params or {})
     p["key"] = key
     url = f"{RB_BASE}{path}?{urllib.parse.urlencode(p)}"
-    with urllib.request.urlopen(url, timeout=30) as r:
-        return json.loads(r.read())
+    return _urlopen_json(urllib.request.Request(url))
+
+
+def _load_theme_ids(key: str) -> dict[str, int]:
+    """Build {lowercased theme name: id} from the full Rebrickable theme list.
+
+    ponytail: one paginated pull, no per-name lookup — resolving names one at a
+    time was fragile and a miss produced theme_id=-1 → HTTP 400 (the first crash).
+    """
+    ids: dict[str, int] = {}
+    page = 1
+    while page <= 10:  # ~500 themes; page_size 1000 gets them in one page
+        try:
+            data = rb_get("/themes/", key, {"page": page, "page_size": 1000})
+        except Exception as e:  # noqa: BLE001 - one bad page shouldn't kill the run
+            print(f"  WARN: theme list page {page} failed: {e}", file=sys.stderr)
+            break
+        for t in data.get("results", []):
+            ids.setdefault((t.get("name") or "").lower(), t.get("id"))
+        if not data.get("next"):
+            break
+        page += 1
+    return ids
 
 
 def fetch_rb_sets(key: str) -> list[dict]:
-    """Fetch currently-available + recently-retired sets in tracked themes."""
+    """Fetch sets (year >= 2018) for each tracked theme that resolves to an id.
+
+    Defensive: a failure on any single theme/page is logged and skipped, never fatal.
+    """
+    theme_ids = _load_theme_ids(key)
+    print(f"  resolved {len(theme_ids)} Rebrickable themes")
     sets: list[dict] = []
-    for theme_name in TRACKED_THEMES:
+    for theme_name in sorted(TRACKED_THEMES):
+        tid = theme_ids.get(theme_name.lower())
+        if not tid:
+            print(f"  skip theme (no id): {theme_name}", file=sys.stderr)
+            continue
         page = 1
-        while True:
-            data = rb_get("/sets/", key, {
-                "theme_id": _theme_id(theme_name, key),
-                "page": page,
-                "page_size": 100,
-                "min_year": 2018,  # ponytail: skip truly vintage; keeps payload small
-            })
-            sets.extend(data.get("results", []))
+        while page <= 20:  # cap pages per theme; bounds runtime + payload
+            try:
+                data = rb_get("/sets/", key, {
+                    "theme_id": tid,
+                    "page": page,
+                    "page_size": 100,
+                    "min_year": 2018,  # ponytail: skip vintage; keeps payload small
+                })
+            except Exception as e:  # noqa: BLE001
+                print(f"  WARN: {theme_name} page {page} failed: {e}", file=sys.stderr)
+                break
+            for s in data.get("results", []):
+                s["theme_name"] = theme_name  # RB /sets/ omits theme_name; inject it
+                sets.append(s)
             if not data.get("next"):
                 break
             page += 1
     return sets
 
 
-# ponytail: theme-name → ID map populated lazily on first use
-_THEME_ID_CACHE: dict[str, int] = {}
-
-
-def _theme_id(name: str, key: str) -> int:
-    if name not in _THEME_ID_CACHE:
-        data = rb_get("/themes/", key, {"search": name, "page_size": 5})
-        for t in data.get("results", []):
-            if t["name"].lower() == name.lower():
-                _THEME_ID_CACHE[name] = t["id"]
-                break
-    return _THEME_ID_CACHE.get(name, -1)
-
-
 def normalize_rb_set(s: dict) -> dict:
-    """Map Rebrickable set dict → partial Trove item dict."""
-    set_num = s.get("set_num", "").rstrip("-1").replace("-", "")  # "10307-1" → "10307"
-    # ponytail: strip the "-1" variant suffix RB appends
-    if set_num.endswith("1") and "-" not in s.get("set_num", ""):
-        set_num = s["set_num"].rsplit("-", 1)[0]
-    else:
-        set_num = s["set_num"].rsplit("-", 1)[0]
-
+    """Map a Rebrickable set dict → partial Trove item dict."""
+    raw = s.get("set_num", "")
+    set_num = raw.rsplit("-", 1)[0] if "-" in raw else raw  # "10307-1" → "10307"
     return {
         "id": set_num,
         "category": "LEGO",
         "name": s.get("name", ""),
         "imageURL": s.get("set_img_url") or "",
         "themeOrSeries": s.get("theme_name", ""),
-        "retailPrice": s.get("retail_price"),  # may be None
-        "lifecycleStatus": "AVAILABLE",  # overridden by Brickset below
+        "retailPrice": s.get("retail_price"),  # RB omits price; Brickset fills below
+        "lifecycleStatus": "AVAILABLE",        # overridden by Brickset enrichment
         "retirementDate": None,
         "marketPrice": None,
         "volumeCount": None,
@@ -111,68 +152,89 @@ def normalize_rb_set(s: dict) -> dict:
 BS_API = "https://brickset.com/api/v3.asmx/getSets"
 
 
-def bs_get(params: dict) -> dict:
-    url = f"{BS_API}?{urllib.parse.urlencode(params)}"
-    with urllib.request.urlopen(url, timeout=30) as r:
-        return json.loads(r.read())
-
-
-def fetch_bs_retiring(key: str) -> list[dict]:
-    """Fetch sets flagged as retiring soon from Brickset."""
-    data = bs_get({
+def bs_get(key: str, params: dict) -> dict:
+    body = urllib.parse.urlencode({
         "apiKey": key,
         "userHash": "",
-        "params": json.dumps({
-            "theme": "",
-            "year": "",
-            "orderBy": "RetiredRecently",
-            "pageSize": 500,
-            "pageNumber": 1,
-            "extendedData": True,
-        }),
-    })
-    return data.get("sets", [])
+        "params": json.dumps(params),
+    }).encode()
+    # ponytail: POST — getSets accepts form-encoded POST and avoids long query URLs
+    return _urlopen_json(urllib.request.Request(BS_API, data=body))
 
 
-def fetch_bs_retired_recent(key: str) -> list[dict]:
-    """Fetch recently-retired sets from Brickset (last 2 years)."""
-    data = bs_get({
-        "apiKey": key,
-        "userHash": "",
-        "params": json.dumps({
-            "theme": "",
-            "year": "",
-            "orderBy": "YearTo",
-            "pageSize": 500,
-            "pageNumber": 1,
-            "extendedData": True,
-        }),
-    })
-    return data.get("sets", [])
+def fetch_bs_sets(key: str) -> list[dict]:
+    """Pull recent-year sets with extended data so we can read LEGO.com availability.
+
+    Brickset has no direct 'retiring soon' filter — we infer lifecycle from
+    LEGOCom.dateLastAvailable. Defensive + logs the API status for diagnosis.
+    """
+    out: list[dict] = []
+    this_year = _dt.date.today().year
+    for year in range(this_year - 1, this_year + 1):  # last ~2 years
+        page = 1
+        while page <= 10:
+            try:
+                data = bs_get(key, {
+                    "year": str(year),
+                    "pageSize": 500,
+                    "pageNumber": page,
+                    "extendedData": 1,
+                })
+            except Exception as e:  # noqa: BLE001 - non-fatal; RB data still useful
+                print(f"  WARN: Brickset year {year} page {page} failed: {e}", file=sys.stderr)
+                break
+            status = data.get("status")
+            if status != "success":
+                print(f"  WARN: Brickset year {year}: status={status} "
+                      f"msg={data.get('message')}", file=sys.stderr)
+                break
+            sets = data.get("sets", [])
+            out.extend(sets)
+            if len(sets) < 500:
+                break
+            page += 1
+    return out
 
 
-def bs_lifecycle(bs_set: dict) -> tuple[str | None, str | None]:
-    """Return (lifecycleStatus, retirementDate) from a Brickset set dict."""
-    availability = bs_set.get("availability", "") or ""
-    eol = bs_set.get("dateAddedToSAH") or ""  # Brickset's end-of-availability hint
+def _bs_price_and_eol(bs: dict) -> tuple[float | None, str | None]:
+    """Extract (retailPrice, dateLastAvailable yyyy-MM-dd) from LEGOCom regions."""
+    lego = bs.get("LEGOCom") or {}
+    price: float | None = None
+    last: str | None = None
+    for region in ("US", "UK", "DE"):
+        r = lego.get(region) or {}
+        if price is None and r.get("retailPrice") is not None:
+            price = r.get("retailPrice")
+        if last is None and r.get("dateLastAvailable"):
+            last = str(r["dateLastAvailable"])[:10]
+    return price, last
 
-    date_str: str | None = None
-    year_to = bs_set.get("yearTo") or ""
 
-    # Brickset exposes retiredDate in extendedData
-    retired_date = bs_set.get("dateRetired") or ""
-    eoa_date = bs_set.get("dateAvailableToDate") or ""
-    for candidate in (retired_date, eoa_date):
-        if candidate:
-            # Brickset dates arrive as ISO strings; normalise to yyyy-MM-dd
-            date_str = candidate[:10]
-            break
+def bs_lifecycle(bs: dict) -> tuple[str | None, str | None]:
+    """Return (lifecycleStatus, retirementDate) from a Brickset set dict.
 
-    if "Retired" in availability or year_to:
+    Primary signal: LEGOCom.dateLastAvailable (past → RETIRED, future → RETIRING_SOON).
+    Falls back to legacy fixture fields so --sample mode keeps working.
+    """
+    _, last = _bs_price_and_eol(bs)
+    if last:
+        today = _dt.date.today().isoformat()
+        return ("RETIRED", last) if last <= today else ("RETIRING_SOON", last)
+
+    # Legacy fixture shape (offline --sample fixtures predate the LEGOCom parse).
+    availability = (bs.get("availability") or "")
+    retired_date = bs.get("dateRetired") or bs.get("dateAvailableToDate") or ""
+    date_str = retired_date[:10] if retired_date else None
+    if "Retired" in availability or bs.get("yearTo"):
         return ("RETIRED", date_str)
-    if "EOFY" in availability or "Retiring" in availability or "retiring" in availability.lower():
+    if "retiring" in availability.lower() or "EOFY" in availability:
         return ("RETIRING_SOON", date_str)
     return (None, None)
+
+
+def _bs_image(bs: dict) -> str:
+    img = bs.get("image")
+    return img.get("imageURL", "") if isinstance(img, dict) else ""
 
 
 # ---------------------------------------------------------------------------
@@ -184,11 +246,9 @@ def load_fixtures() -> tuple[list[dict], list[dict]]:
     rb_path = FIXTURES / "rebrickable_sets.json"
     bs_path = FIXTURES / "brickset_retiring.json"
     if not rb_path.exists() or not bs_path.exists():
-        print("ERROR: fixtures not found. Run once with live keys first, or see README.", file=sys.stderr)
+        print("ERROR: fixtures not found. See README.", file=sys.stderr)
         sys.exit(1)
-    rb_sets = json.loads(rb_path.read_text())
-    bs_sets = json.loads(bs_path.read_text())
-    return rb_sets, bs_sets
+    return json.loads(rb_path.read_text()), json.loads(bs_path.read_text())
 
 
 # ---------------------------------------------------------------------------
@@ -197,7 +257,6 @@ def load_fixtures() -> tuple[list[dict], list[dict]]:
 
 def merge(rb_sets: list[dict], bs_sets: list[dict]) -> list[dict]:
     """Merge Rebrickable base data with Brickset lifecycle enrichment."""
-    # Index BS by set number
     bs_index: dict[str, dict] = {}
     for s in bs_sets:
         num = str(s.get("number", ""))
@@ -210,7 +269,7 @@ def merge(rb_sets: list[dict], bs_sets: list[dict]) -> list[dict]:
     for s in rb_sets:
         item = normalize_rb_set(s)
         set_id = item["id"]
-        if set_id in seen:
+        if not set_id or set_id in seen:
             continue
         seen.add(set_id)
 
@@ -221,25 +280,25 @@ def merge(rb_sets: list[dict], bs_sets: list[dict]) -> list[dict]:
                 item["lifecycleStatus"] = status
             if date:
                 item["retirementDate"] = date
-            # Use Brickset retail price as fallback
             if item["retailPrice"] is None:
-                item["retailPrice"] = bs.get("ukRetailPrice") or bs.get("usRetailPrice")
-
+                price, _ = _bs_price_and_eol(bs)
+                item["retailPrice"] = price
         items.append(item)
 
-    # Also add BS-only retiring/retired sets not in our RB pull
+    # Add Brickset-only retiring/retired sets not in our Rebrickable pull.
     for num, bs in bs_index.items():
         if num in seen:
             continue
         status, date = bs_lifecycle(bs)
         if status in ("RETIRING_SOON", "RETIRED"):
+            price, _ = _bs_price_and_eol(bs)
             items.append({
                 "id": num,
                 "category": "LEGO",
                 "name": bs.get("name", ""),
-                "imageURL": bs.get("image", {}).get("imageURL") if isinstance(bs.get("image"), dict) else "",
+                "imageURL": _bs_image(bs),
                 "themeOrSeries": bs.get("theme", ""),
-                "retailPrice": bs.get("ukRetailPrice") or bs.get("usRetailPrice"),
+                "retailPrice": price,
                 "lifecycleStatus": status,
                 "retirementDate": date,
                 "marketPrice": None,
@@ -253,8 +312,9 @@ def merge(rb_sets: list[dict], bs_sets: list[dict]) -> list[dict]:
 def build_catalog(items: list[dict]) -> dict:
     return {
         "version": VERSION,
-        "_attribution": "LEGO data: Rebrickable (rebrickable.com) + Brickset (brickset.com). Not affiliated with or endorsed by The LEGO Group.",
-        "_generated": __import__("datetime").datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "_attribution": "LEGO data: Rebrickable (rebrickable.com) + Brickset "
+                        "(brickset.com). Not affiliated with or endorsed by The LEGO Group.",
+        "_generated": _dt.datetime.now(_dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "items": items,
     }
 
@@ -273,24 +333,33 @@ def main() -> None:
         rb_key = os.environ.get("REBRICKABLE_API_KEY", "")
         bs_key = os.environ.get("BRICKSET_API_KEY", "")
         if not rb_key or not bs_key:
-            print(
-                "ERROR: REBRICKABLE_API_KEY and BRICKSET_API_KEY must be set (or pass --sample).",
-                file=sys.stderr,
-            )
+            print("ERROR: REBRICKABLE_API_KEY and BRICKSET_API_KEY must be set "
+                  "(or pass --sample).", file=sys.stderr)
             sys.exit(1)
+
         print("Fetching Rebrickable sets…")
         rb_sets = fetch_rb_sets(rb_key)
         print(f"  {len(rb_sets)} sets from Rebrickable")
-        print("Fetching Brickset retiring/retired…")
-        bs_retiring = fetch_bs_retiring(bs_key)
-        bs_retired = fetch_bs_retired_recent(bs_key)
-        bs_sets = bs_retiring + bs_retired
+
+        print("Fetching Brickset (lifecycle enrichment)…")
+        try:
+            bs_sets = fetch_bs_sets(bs_key)
+        except Exception as e:  # noqa: BLE001 - Brickset failure must not lose RB data
+            print(f"  WARN: Brickset fetch failed entirely: {e}", file=sys.stderr)
+            bs_sets = []
         print(f"  {len(bs_sets)} sets from Brickset")
 
     items = merge(rb_sets, bs_sets)
+
+    if not sample_mode and len(items) < MIN_ITEMS:
+        print(f"ERROR: only {len(items)} items produced — refusing to overwrite the "
+              f"published catalog (floor is {MIN_ITEMS}).", file=sys.stderr)
+        sys.exit(1)
+
+    retiring = sum(1 for i in items if i["lifecycleStatus"] in ("RETIRING_SOON", "RETIRED"))
     catalog = build_catalog(items)
     OUT.write_text(json.dumps(catalog, indent=2, default=str))
-    print(f"Wrote {len(items)} items → {OUT}")
+    print(f"Wrote {len(items)} items ({retiring} with retirement status) → {OUT}")
 
 
 if __name__ == "__main__":
