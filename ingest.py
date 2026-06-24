@@ -197,16 +197,21 @@ def fetch_bs_sets(key: str) -> list[dict]:
 
 
 def _bs_price_and_eol(bs: dict) -> tuple[float | None, str | None]:
-    """Extract (retailPrice, dateLastAvailable yyyy-MM-dd) from LEGOCom regions."""
+    """Extract (retailPrice EUR, dateLastAvailable yyyy-MM-dd) from LEGOCom.
+
+    ponytail: price comes ONLY from the DE region so every price is genuine EUR —
+    the app shows a € symbol, so mixing in USD/GBP would be a lie. No FX conversion.
+    The retirement date is currency-agnostic, so any region's date is fine.
+    """
     lego = bs.get("LEGOCom") or {}
-    price: float | None = None
+    de = lego.get("DE") or {}
+    price = de.get("retailPrice")  # EUR only
     last: str | None = None
-    for region in ("US", "UK", "DE"):
-        r = lego.get(region) or {}
-        if price is None and r.get("retailPrice") is not None:
-            price = r.get("retailPrice")
-        if last is None and r.get("dateLastAvailable"):
-            last = str(r["dateLastAvailable"])[:10]
+    for region in ("DE", "UK", "US"):
+        d = (lego.get(region) or {}).get("dateLastAvailable")
+        if d:
+            last = str(d)[:10]
+            break
     return price, last
 
 
@@ -312,6 +317,7 @@ def merge(rb_sets: list[dict], bs_sets: list[dict]) -> list[dict]:
 def build_catalog(items: list[dict]) -> dict:
     return {
         "version": VERSION,
+        "currency": "EUR",  # all retailPrice values are euros (Brickset DE region)
         "_attribution": "LEGO data: Rebrickable (rebrickable.com) + Brickset "
                         "(brickset.com). Not affiliated with or endorsed by The LEGO Group.",
         "_generated": _dt.datetime.now(_dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
