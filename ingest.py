@@ -136,7 +136,8 @@ def normalize_rb_set(s: dict) -> dict:
         "name": s.get("name", ""),
         "imageURL": s.get("set_img_url") or "",
         "themeOrSeries": s.get("theme_name", ""),
-        "retailPrice": s.get("retail_price"),  # RB omits price; Brickset fills below
+        "retailPrice": s.get("retail_price"),  # RB omits price; Brickset fills below (EUR, back-compat)
+        "prices": {},                           # native per-currency prices; Brickset fills below
         "lifecycleStatus": "AVAILABLE",        # overridden by Brickset enrichment
         "retirementDate": None,
         "marketPrice": None,
@@ -196,23 +197,33 @@ def fetch_bs_sets(key: str) -> list[dict]:
     return out
 
 
-def _bs_price_and_eol(bs: dict) -> tuple[float | None, str | None]:
-    """Extract (retailPrice EUR, dateLastAvailable yyyy-MM-dd) from LEGOCom.
+# LEGOCom region → ISO currency (native LEGO local prices, NOT FX conversions).
+_REGION_CURRENCY = {"DE": "EUR", "US": "USD", "UK": "GBP"}
 
-    ponytail: price comes ONLY from the DE region so every price is genuine EUR —
-    the app shows a € symbol, so mixing in USD/GBP would be a lie. No FX conversion.
-    The retirement date is currency-agnostic, so any region's date is fine.
+
+def _bs_prices(bs: dict) -> dict[str, float]:
+    """Native per-currency retail prices from LEGOCom (e.g. {'EUR':749.99,'USD':799.99}).
+
+    ponytail: each value is LEGO's real local shelf price for that region — no FX,
+    no rate source, no staleness. Missing regions are simply absent.
     """
     lego = bs.get("LEGOCom") or {}
-    de = lego.get("DE") or {}
-    price = de.get("retailPrice")  # EUR only
-    last: str | None = None
+    out: dict[str, float] = {}
+    for region, code in _REGION_CURRENCY.items():
+        price = (lego.get(region) or {}).get("retailPrice")
+        if price is not None:
+            out[code] = price
+    return out
+
+
+def _bs_eol(bs: dict) -> str | None:
+    """dateLastAvailable (yyyy-MM-dd) from any region — currency-agnostic."""
+    lego = bs.get("LEGOCom") or {}
     for region in ("DE", "UK", "US"):
         d = (lego.get(region) or {}).get("dateLastAvailable")
         if d:
-            last = str(d)[:10]
-            break
-    return price, last
+            return str(d)[:10]
+    return None
 
 
 def bs_lifecycle(bs: dict) -> tuple[str | None, str | None]:
@@ -221,7 +232,7 @@ def bs_lifecycle(bs: dict) -> tuple[str | None, str | None]:
     Primary signal: LEGOCom.dateLastAvailable (past → RETIRED, future → RETIRING_SOON).
     Falls back to legacy fixture fields so --sample mode keeps working.
     """
-    _, last = _bs_price_and_eol(bs)
+    last = _bs_eol(bs)
     if last:
         today = _dt.date.today().isoformat()
         return ("RETIRED", last) if last <= today else ("RETIRING_SOON", last)
@@ -285,9 +296,11 @@ def merge(rb_sets: list[dict], bs_sets: list[dict]) -> list[dict]:
                 item["lifecycleStatus"] = status
             if date:
                 item["retirementDate"] = date
-            if item["retailPrice"] is None:
-                price, _ = _bs_price_and_eol(bs)
-                item["retailPrice"] = price
+            prices = _bs_prices(bs)
+            if prices:
+                item["prices"] = prices
+                if item["retailPrice"] is None:
+                    item["retailPrice"] = prices.get("EUR")  # back-compat single price
         items.append(item)
 
     # Add Brickset-only retiring/retired sets not in our Rebrickable pull.
@@ -296,14 +309,15 @@ def merge(rb_sets: list[dict], bs_sets: list[dict]) -> list[dict]:
             continue
         status, date = bs_lifecycle(bs)
         if status in ("RETIRING_SOON", "RETIRED"):
-            price, _ = _bs_price_and_eol(bs)
+            prices = _bs_prices(bs)
             items.append({
                 "id": num,
                 "category": "LEGO",
                 "name": bs.get("name", ""),
                 "imageURL": _bs_image(bs),
                 "themeOrSeries": bs.get("theme", ""),
-                "retailPrice": price,
+                "retailPrice": prices.get("EUR"),
+                "prices": prices,
                 "lifecycleStatus": status,
                 "retirementDate": date,
                 "marketPrice": None,
