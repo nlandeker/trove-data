@@ -2,7 +2,7 @@
   "version": 2,
   "currency": "EUR",
   "_attribution": "LEGO data: Rebrickable (rebrickable.com) + Brickset (brickset.com). Not affiliated with or endorsed by The LEGO Group.",
-  "_generated": "2026-06-24T10:44:59Z",
+  "_generated": "2026-06-25T04:30:46Z",
   "items": [
     {
       "id": "21041",
@@ -1949,7 +1949,7 @@
       "themeOrSeries": "City",
       "retailPrice": 79.99,
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-01-01",
+      "retirementDate": "2025-12-22",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -1988,7 +1988,7 @@
       "themeOrSeries": "City",
       "retailPrice": 9.99,
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-01-18",
+      "retirementDate": "2025-11-28",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -2052,8 +2052,8 @@
       "imageURL": "https://cdn.rebrickable.com/media/sets/60473-1/156715.jpg",
       "themeOrSeries": "City",
       "retailPrice": 199.99,
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-06-24",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -2169,8 +2169,8 @@
       "imageURL": "https://cdn.rebrickable.com/media/sets/60506-1/172390.jpg",
       "themeOrSeries": "City",
       "retailPrice": 69.99,
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-06-14",
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -5328,8 +5328,8 @@
       "imageURL": "https://cdn.rebrickable.com/media/sets/10362-1/151707.jpg",
       "themeOrSeries": "Icons",
       "retailPrice": 79.99,
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-06-24",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -10801,8 +10801,8 @@
       "imageURL": "https://cdn.rebrickable.com/media/sets/71843-1/155606.jpg",
       "themeOrSeries": "Ninjago",
       "retailPrice": 69.99,
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-06-24",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -10867,7 +10867,7 @@
       "themeOrSeries": "Ninjago",
       "retailPrice": 199.99,
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-06-14",
+      "retirementDate": "2026-06-24",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -16119,7 +16119,20 @@
       "themeOrSeries": "Duplo",
       "retailPrice": 39.99,
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2025-10-31",
+      "retirementDate": "2025-11-28",
+      "marketPrice": null,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "11040",
+      "category": "LEGO",
+      "name": "Magical Transparent Box",
+      "imageURL": "https://images.brickset.com/sets/images/11040-1.jpg",
+      "themeOrSeries": "Classic",
+      "retailPrice": 19.99,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-06-24",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -16437,6 +16450,19 @@
       "ongoing": null
     },
     {
+      "id": "42658",
+      "category": "LEGO",
+      "name": "Unicorn & Flamingo Pool Party",
+      "imageURL": "https://images.brickset.com/sets/images/42658-1.jpg",
+      "themeOrSeries": "Friends",
+      "retailPrice": 9.99,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-06-24",
+      "marketPrice": null,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
       "id": "42662",
       "category": "LEGO",
       "name": "Hair Salon and Accessories Store",
@@ -16496,7 +16522,7 @@
       "themeOrSeries": "Friends",
       "retailPrice": 29.99,
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-03-24",
+      "retirementDate": "2026-06-24",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -16653,6 +16679,19 @@
       "retailPrice": 14.99,
       "lifecycleStatus": "RETIRED",
       "retirementDate": "2025-12-14",
+      "marketPrice": null,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "60452",
+      "category": "LEGO",
+      "name": "Donut Truck",
+      "imageURL": "https://images.brickset.com/sets/images/60452-1.jpg",
+      "themeOrSeries": "City",
+      "retailPrice": 19.99,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-06-24",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -16840,6 +16879,19 @@
       "ongoing": null
     },
     {
+      "id": "72034",
+      "category": "LEGO",
+      "name": "Baby Mario vs. Baby Luigi",
+      "imageURL": "https://images.brickset.com/sets/images/72034-1.jpg",
+      "themeOrSeries": "Super Mario",
+      "retailPrice": 29.99,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-06-24",
+      "marketPrice": null,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
       "id": "72035",
       "category": "LEGO",
       "name": "Toad's Garage",
@@ -16848,6 +16900,19 @@
       "retailPrice": 39.99,
       "lifecycleStatus": "RETIRED",
       "retirementDate": "2026-06-21",
+      "marketPrice": null,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "72036",
+      "category": "LEGO",
+      "name": "Baby Peach & Grand Prix Set",
+      "imageURL": "https://images.brickset.com/sets/images/72036-1.jpg",
+      "themeOrSeries": "Super Mario",
+      "retailPrice": 79.99,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-06-24",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -16879,6 +16944,19 @@
       "ongoing": null
     },
     {
+      "id": "72042",
+      "category": "LEGO",
+      "name": "Prince Florian & Castle Bowser",
+      "imageURL": "https://images.brickset.com/sets/images/72042-1.jpg",
+      "themeOrSeries": "Super Mario",
+      "retailPrice": 99.99,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-06-24",
+      "marketPrice": null,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
       "id": "75401",
       "category": "LEGO",
       "name": "Ahsoka's Jedi Interceptor",
@@ -16887,6 +16965,19 @@
       "retailPrice": 44.99,
       "lifecycleStatus": "RETIRED",
       "retirementDate": "2026-06-16",
+      "marketPrice": null,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "75404",
+      "category": "LEGO",
+      "name": "Acclamator-class Assault Ship",
+      "imageURL": "https://images.brickset.com/sets/images/75404-1.jpg",
+      "themeOrSeries": "Star Wars",
+      "retailPrice": 49.99,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-06-24",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -16912,7 +17003,7 @@
       "themeOrSeries": "One Piece",
       "retailPrice": 79.99,
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-06-21",
+      "retirementDate": "2026-06-24",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -18706,7 +18797,20 @@
       "themeOrSeries": "Gear",
       "retailPrice": 9.99,
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-05-30",
+      "retirementDate": "2026-06-24",
+      "marketPrice": null,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "5010356",
+      "category": "LEGO",
+      "name": "Recreate Activity Cards Animals",
+      "imageURL": "https://images.brickset.com/sets/images/5010356-1.jpg",
+      "themeOrSeries": "Gear",
+      "retailPrice": 9.99,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-06-24",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -18777,25 +18881,51 @@
       "ongoing": null
     },
     {
+      "id": "42682",
+      "category": "LEGO",
+      "name": "Nature Glamping Cabin",
+      "imageURL": "https://images.brickset.com/sets/images/42682-1.jpg",
+      "themeOrSeries": "Friends",
+      "retailPrice": 24.99,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-06-24",
+      "marketPrice": null,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "42687",
+      "category": "LEGO",
+      "name": "Liann's Family House",
+      "imageURL": "https://images.brickset.com/sets/images/42687-1.jpg",
+      "themeOrSeries": "Friends",
+      "retailPrice": 69.99,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-06-24",
+      "marketPrice": null,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "42690",
+      "category": "LEGO",
+      "name": "Forest Tea Party",
+      "imageURL": "https://images.brickset.com/sets/images/42690-1.jpg",
+      "themeOrSeries": "Friends",
+      "retailPrice": 9.99,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-06-24",
+      "marketPrice": null,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
       "id": "60481",
       "category": "LEGO",
       "name": "Police Truck",
       "imageURL": "https://images.brickset.com/sets/images/60481-1.jpg",
       "themeOrSeries": "City",
       "retailPrice": 9.99,
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-06-21",
-      "marketPrice": null,
-      "volumeCount": null,
-      "ongoing": null
-    },
-    {
-      "id": "60512",
-      "category": "LEGO",
-      "name": "Mountain Bike Adventure Van",
-      "imageURL": "https://images.brickset.com/sets/images/60512-1.jpg",
-      "themeOrSeries": "City",
-      "retailPrice": 19.99,
       "lifecycleStatus": "RETIRED",
       "retirementDate": "2026-06-21",
       "marketPrice": null,
@@ -19045,6 +19175,19 @@
       "retailPrice": 9.99,
       "lifecycleStatus": "RETIRED",
       "retirementDate": "2026-06-01",
+      "marketPrice": null,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "5010230",
+      "category": "LEGO",
+      "name": "Jedi Vader Key Light",
+      "imageURL": "https://images.brickset.com/sets/images/5010230-1.jpg",
+      "themeOrSeries": "Gear",
+      "retailPrice": 15.99,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-06-24",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
