@@ -2,7 +2,7 @@
   "version": 2,
   "currency": "EUR",
   "_attribution": "LEGO data: Rebrickable (rebrickable.com) + Brickset (brickset.com). Not affiliated with or endorsed by The LEGO Group.",
-  "_generated": "2026-06-25T11:36:05Z",
+  "_generated": "2026-06-26T04:34:08Z",
   "items": [
     {
       "id": "21041",
@@ -2215,7 +2215,7 @@
         "GBP": 69.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2025-12-22",
+      "retirementDate": "2026-06-25",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -7954,8 +7954,8 @@
         "USD": 24.99,
         "GBP": 19.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-06-25",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -12236,8 +12236,8 @@
         "USD": 109.99,
         "GBP": 89.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-06-25",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -18415,6 +18415,24 @@
       "ongoing": null
     },
     {
+      "id": "11204",
+      "category": "LEGO",
+      "name": "Mermaid Gabby's Aquarium Adventure",
+      "imageURL": "https://images.brickset.com/sets/images/11204-1.jpg",
+      "themeOrSeries": "Gabby's Dollhouse",
+      "retailPrice": 19.99,
+      "prices": {
+        "EUR": 19.99,
+        "USD": 22.99,
+        "GBP": 17.99
+      },
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-06-25",
+      "marketPrice": null,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
       "id": "21271",
       "category": "LEGO",
       "name": "The Trial Chamber",
@@ -19399,24 +19417,6 @@
       "ongoing": null
     },
     {
-      "id": "72036",
-      "category": "LEGO",
-      "name": "Baby Peach & Grand Prix Set",
-      "imageURL": "https://images.brickset.com/sets/images/72036-1.jpg",
-      "themeOrSeries": "Super Mario",
-      "retailPrice": 79.99,
-      "prices": {
-        "EUR": 79.99,
-        "USD": 79.99,
-        "GBP": 69.99
-      },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-06-24",
-      "marketPrice": null,
-      "volumeCount": null,
-      "ongoing": null
-    },
-    {
       "id": "72039",
       "category": "LEGO",
       "name": "Bowser's Castle",
@@ -19465,7 +19465,7 @@
         "GBP": 89.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-06-24",
+      "retirementDate": "2026-06-25",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -19502,6 +19502,24 @@
       },
       "lifecycleStatus": "RETIRED",
       "retirementDate": "2026-06-24",
+      "marketPrice": null,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "75405",
+      "category": "LEGO",
+      "name": "Home One Starcruiser",
+      "imageURL": "https://images.brickset.com/sets/images/75405-1.jpg",
+      "themeOrSeries": "Star Wars",
+      "retailPrice": 69.99,
+      "prices": {
+        "EUR": 69.99,
+        "USD": 69.99,
+        "GBP": 59.99
+      },
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-06-25",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -22008,24 +22026,6 @@
       "ongoing": null
     },
     {
-      "id": "5010360",
-      "category": "LEGO",
-      "name": "Recreate Activity Cards: Pets",
-      "imageURL": "https://images.brickset.com/sets/images/5010360-1.jpg",
-      "themeOrSeries": "Gear",
-      "retailPrice": 9.99,
-      "prices": {
-        "EUR": 9.99,
-        "USD": 9.99,
-        "GBP": 8.99
-      },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-06-14",
-      "marketPrice": null,
-      "volumeCount": null,
-      "ongoing": null
-    },
-    {
       "id": "ISBN9780593965870",
       "category": "LEGO",
       "name": "LEGO How to Build Everything!",
@@ -22177,24 +22177,6 @@
       },
       "lifecycleStatus": "RETIRED",
       "retirementDate": "2026-06-03",
-      "marketPrice": null,
-      "volumeCount": null,
-      "ongoing": null
-    },
-    {
-      "id": "77117",
-      "category": "LEGO",
-      "name": "Sonic: Speedster Lightning",
-      "imageURL": "https://images.brickset.com/sets/images/77117-1.jpg",
-      "themeOrSeries": "Sonic the Hedgehog",
-      "retailPrice": 9.99,
-      "prices": {
-        "EUR": 9.99,
-        "USD": 9.99,
-        "GBP": 8.99
-      },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-06-10",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
