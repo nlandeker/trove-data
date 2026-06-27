@@ -2,7 +2,7 @@
   "version": 2,
   "currency": "EUR",
   "_attribution": "LEGO data: Rebrickable (rebrickable.com) + Brickset (brickset.com). Not affiliated with or endorsed by The LEGO Group.",
-  "_generated": "2026-06-26T04:34:08Z",
+  "_generated": "2026-06-27T04:26:49Z",
   "items": [
     {
       "id": "21041",
@@ -18265,6 +18265,20 @@
       "ongoing": null
     },
     {
+      "id": "951325",
+      "category": "LEGO",
+      "name": "Go-Cart",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/951325-1/176530.jpg",
+      "themeOrSeries": "Technic",
+      "retailPrice": null,
+      "prices": {},
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
       "id": "L0002290",
       "category": "LEGO",
       "name": "Submarine",
@@ -18319,7 +18333,7 @@
         "GBP": 34.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2025-11-28",
+      "retirementDate": "2026-06-26",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -18410,24 +18424,6 @@
       },
       "lifecycleStatus": "RETIRED",
       "retirementDate": "2026-06-09",
-      "marketPrice": null,
-      "volumeCount": null,
-      "ongoing": null
-    },
-    {
-      "id": "11204",
-      "category": "LEGO",
-      "name": "Mermaid Gabby's Aquarium Adventure",
-      "imageURL": "https://images.brickset.com/sets/images/11204-1.jpg",
-      "themeOrSeries": "Gabby's Dollhouse",
-      "retailPrice": 19.99,
-      "prices": {
-        "EUR": 19.99,
-        "USD": 22.99,
-        "GBP": 17.99
-      },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-06-25",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -18955,24 +18951,6 @@
       "ongoing": null
     },
     {
-      "id": "43266",
-      "category": "LEGO",
-      "name": "Cinderella's Dress",
-      "imageURL": "https://images.brickset.com/sets/images/43266-1.jpg",
-      "themeOrSeries": "Disney",
-      "retailPrice": 39.99,
-      "prices": {
-        "EUR": 39.99,
-        "USD": 39.99,
-        "GBP": 34.99
-      },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-06-21",
-      "marketPrice": null,
-      "volumeCount": null,
-      "ongoing": null
-    },
-    {
       "id": "43273",
       "category": "LEGO",
       "name": "LEGO Disney Advent Calendar 2025",
@@ -19417,19 +19395,19 @@
       "ongoing": null
     },
     {
-      "id": "72039",
+      "id": "72036",
       "category": "LEGO",
-      "name": "Bowser's Castle",
-      "imageURL": "https://images.brickset.com/sets/images/72039-1.jpg",
+      "name": "Baby Peach & Grand Prix Set",
+      "imageURL": "https://images.brickset.com/sets/images/72036-1.jpg",
       "themeOrSeries": "Super Mario",
-      "retailPrice": 99.99,
+      "retailPrice": 79.99,
       "prices": {
-        "EUR": 99.99,
-        "USD": 99.99,
-        "GBP": 89.99
+        "EUR": 79.99,
+        "USD": 79.99,
+        "GBP": 69.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-06-21",
+      "retirementDate": "2026-06-26",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -21064,7 +21042,7 @@
         "GBP": 12.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2025-11-24",
+      "retirementDate": "2026-06-26",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -21985,7 +21963,7 @@
         "GBP": 8.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-06-24",
+      "retirementDate": "2026-05-30",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -22132,19 +22110,19 @@
       "ongoing": null
     },
     {
-      "id": "60481",
+      "id": "60487",
       "category": "LEGO",
-      "name": "Police Truck",
-      "imageURL": "https://images.brickset.com/sets/images/60481-1.jpg",
+      "name": "Yellow Taxi",
+      "imageURL": "https://images.brickset.com/sets/images/60487-1.jpg",
       "themeOrSeries": "City",
-      "retailPrice": 9.99,
+      "retailPrice": 14.99,
       "prices": {
-        "EUR": 9.99,
-        "USD": 9.99,
-        "GBP": 7.99
+        "EUR": 14.99,
+        "USD": 14.99,
+        "GBP": 12.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-06-21",
+      "retirementDate": "2026-06-26",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -22488,6 +22466,24 @@
       "ongoing": null
     },
     {
+      "id": "5010232",
+      "category": "LEGO",
+      "name": "Darth Vader Vacation Key Light",
+      "imageURL": "https://images.brickset.com/sets/images/5010232-1.jpg",
+      "themeOrSeries": "Gear",
+      "retailPrice": 15.99,
+      "prices": {
+        "EUR": 15.99,
+        "USD": 16.99,
+        "GBP": 13.99
+      },
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-06-26",
+      "marketPrice": null,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
       "id": "5010342",
       "category": "LEGO",
       "name": "Minifigures 100 Collectible Postcards",
@@ -22518,7 +22514,7 @@
         "GBP": 8.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-05-30",
+      "retirementDate": "2026-05-12",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
