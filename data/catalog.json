@@ -2,7 +2,7 @@
   "version": 2,
   "currency": "EUR",
   "_attribution": "LEGO data: Rebrickable (rebrickable.com) + Brickset (brickset.com). Not affiliated with or endorsed by The LEGO Group.",
-  "_generated": "2026-06-27T04:26:49Z",
+  "_generated": "2026-06-28T04:36:46Z",
   "items": [
     {
       "id": "21041",
@@ -2269,7 +2269,7 @@
         "GBP": 8.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2025-11-28",
+      "retirementDate": "2026-06-27",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -12542,8 +12542,8 @@
         "USD": 19.99,
         "GBP": 17.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-06-27",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -18429,6 +18429,24 @@
       "ongoing": null
     },
     {
+      "id": "11204",
+      "category": "LEGO",
+      "name": "Mermaid Gabby's Aquarium Adventure",
+      "imageURL": "https://images.brickset.com/sets/images/11204-1.jpg",
+      "themeOrSeries": "Gabby's Dollhouse",
+      "retailPrice": 19.99,
+      "prices": {
+        "EUR": 19.99,
+        "USD": 22.99,
+        "GBP": 17.99
+      },
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-06-27",
+      "marketPrice": null,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
       "id": "21271",
       "category": "LEGO",
       "name": "The Trial Chamber",
@@ -18711,7 +18729,7 @@
         "GBP": 14.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-01-05",
+      "retirementDate": "2026-06-27",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -18963,7 +18981,7 @@
         "GBP": 29.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-04-10",
+      "retirementDate": "2026-06-27",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -22110,6 +22128,42 @@
       "ongoing": null
     },
     {
+      "id": "42701",
+      "category": "LEGO",
+      "name": "Koala Habitat & Care Centre",
+      "imageURL": "https://images.brickset.com/sets/images/42701-1.jpg",
+      "themeOrSeries": "Friends",
+      "retailPrice": 64.99,
+      "prices": {
+        "EUR": 64.99,
+        "USD": 64.99,
+        "GBP": 59.99
+      },
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-06-27",
+      "marketPrice": null,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "42705",
+      "category": "LEGO",
+      "name": "Cosy Autumn Forest Cabin",
+      "imageURL": "https://images.brickset.com/sets/images/42705-1.jpg",
+      "themeOrSeries": "Friends",
+      "retailPrice": 99.99,
+      "prices": {
+        "EUR": 99.99,
+        "USD": 109.99,
+        "GBP": 89.99
+      },
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-06-27",
+      "marketPrice": null,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
       "id": "60487",
       "category": "LEGO",
       "name": "Yellow Taxi",
@@ -22123,6 +22177,24 @@
       },
       "lifecycleStatus": "RETIRED",
       "retirementDate": "2026-06-26",
+      "marketPrice": null,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "60511",
+      "category": "LEGO",
+      "name": "Vintage Steam Train",
+      "imageURL": "https://images.brickset.com/sets/images/60511-1.jpg",
+      "themeOrSeries": "City",
+      "retailPrice": 89.99,
+      "prices": {
+        "EUR": 89.99,
+        "USD": 89.99,
+        "GBP": 79.99
+      },
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-06-27",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
