@@ -2,7 +2,7 @@
   "version": 2,
   "currency": "EUR",
   "_attribution": "LEGO data: Rebrickable (rebrickable.com) + Brickset (brickset.com). Not affiliated with or endorsed by The LEGO Group.",
-  "_generated": "2026-06-29T04:38:13Z",
+  "_generated": "2026-06-30T04:31:22Z",
   "items": [
     {
       "id": "21041",
@@ -2304,8 +2304,8 @@
         "USD": 59.99,
         "GBP": 54.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-06-29",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -2520,8 +2520,8 @@
         "USD": 74.99,
         "GBP": 59.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-06-29",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -4982,8 +4982,8 @@
         "USD": 19.99,
         "GBP": 17.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-06-29",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -18411,24 +18411,6 @@
       "ongoing": null
     },
     {
-      "id": "11201",
-      "category": "LEGO",
-      "name": "Playground Fun with Bluey and Chloe",
-      "imageURL": "https://images.brickset.com/sets/images/11201-1.jpg",
-      "themeOrSeries": "Bluey",
-      "retailPrice": 19.99,
-      "prices": {
-        "EUR": 19.99,
-        "USD": 19.99,
-        "GBP": 17.99
-      },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-06-09",
-      "marketPrice": null,
-      "volumeCount": null,
-      "ongoing": null
-    },
-    {
       "id": "11204",
       "category": "LEGO",
       "name": "Mermaid Gabby's Aquarium Adventure",
@@ -18513,7 +18495,7 @@
         "GBP": 19.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-05-13",
+      "retirementDate": "2026-05-28",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -18645,6 +18627,42 @@
       "ongoing": null
     },
     {
+      "id": "40804",
+      "category": "LEGO",
+      "name": "Bumblebee Robot & Vehicle",
+      "imageURL": "https://images.brickset.com/sets/images/40804-1.jpg",
+      "themeOrSeries": "BrickHeadz",
+      "retailPrice": 24.99,
+      "prices": {
+        "EUR": 24.99,
+        "USD": 24.99,
+        "GBP": 19.99
+      },
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-06-29",
+      "marketPrice": null,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "40818",
+      "category": "LEGO",
+      "name": "Italy Postcard",
+      "imageURL": "https://images.brickset.com/sets/images/40818-1.jpg",
+      "themeOrSeries": "Creator",
+      "retailPrice": 14.99,
+      "prices": {
+        "EUR": 14.99,
+        "USD": 14.99,
+        "GBP": 13.49
+      },
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-06-29",
+      "marketPrice": null,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
       "id": "40821",
       "category": "LEGO",
       "name": "Love Bears",
@@ -18771,6 +18789,24 @@
       "ongoing": null
     },
     {
+      "id": "42654",
+      "category": "LEGO",
+      "name": "Pony Ranch & Stable",
+      "imageURL": "https://images.brickset.com/sets/images/42654-1.jpg",
+      "themeOrSeries": "Friends",
+      "retailPrice": 69.99,
+      "prices": {
+        "EUR": 69.99,
+        "USD": 69.99,
+        "GBP": 59.99
+      },
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-06-29",
+      "marketPrice": null,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
       "id": "42655",
       "category": "LEGO",
       "name": "Restaurant and Cooking School",
@@ -18838,6 +18874,24 @@
       },
       "lifecycleStatus": "RETIRED",
       "retirementDate": "2025-12-15",
+      "marketPrice": null,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "42665",
+      "category": "LEGO",
+      "name": "Puppy Playground",
+      "imageURL": "https://images.brickset.com/sets/images/42665-1.jpg",
+      "themeOrSeries": "Friends",
+      "retailPrice": 9.99,
+      "prices": {
+        "EUR": 9.99,
+        "USD": 9.99,
+        "GBP": 8.99
+      },
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-06-29",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -19108,6 +19162,24 @@
       },
       "lifecycleStatus": "RETIRED",
       "retirementDate": "2025-12-14",
+      "marketPrice": null,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "60451",
+      "category": "LEGO",
+      "name": "Emergency Ambulance",
+      "imageURL": "https://images.brickset.com/sets/images/60451-1.jpg",
+      "themeOrSeries": "City",
+      "retailPrice": 19.99,
+      "prices": {
+        "EUR": 19.99,
+        "USD": 19.99,
+        "GBP": 17.99
+      },
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-06-29",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -19660,6 +19732,24 @@
       },
       "lifecycleStatus": "RETIRED",
       "retirementDate": "2026-02-09",
+      "marketPrice": null,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "77057",
+      "category": "LEGO",
+      "name": "Creative Houses: Seasons of Fun",
+      "imageURL": "https://images.brickset.com/sets/images/77057-1.jpg",
+      "themeOrSeries": "Animal Crossing",
+      "retailPrice": 89.99,
+      "prices": {
+        "EUR": 89.99,
+        "USD": 89.99,
+        "GBP": 79.99
+      },
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-06-29",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -20738,6 +20828,24 @@
       "ongoing": null
     },
     {
+      "id": "5009343",
+      "category": "LEGO",
+      "name": "Red Compartment Storage Box",
+      "imageURL": "https://images.brickset.com/sets/images/5009343-1.jpg",
+      "themeOrSeries": "Gear",
+      "retailPrice": 29.99,
+      "prices": {
+        "EUR": 29.99,
+        "USD": 34.99,
+        "GBP": 26.99
+      },
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-06-29",
+      "marketPrice": null,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
       "id": "5009344",
       "category": "LEGO",
       "name": "NINJAGO Lunch Set \u2013 Green",
@@ -21078,7 +21186,7 @@
         "GBP": 12.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-06-26",
+      "retirementDate": "2025-11-24",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -22074,19 +22182,19 @@
       "ongoing": null
     },
     {
-      "id": "31377",
+      "id": "40954",
       "category": "LEGO",
-      "name": "Turtle with a Water Lily",
-      "imageURL": "https://images.brickset.com/sets/images/31377-1.jpg",
+      "name": "Germany Postcard",
+      "imageURL": "https://images.brickset.com/sets/images/40954-1.jpg",
       "themeOrSeries": "Creator",
-      "retailPrice": 9.99,
+      "retailPrice": 14.99,
       "prices": {
-        "EUR": 9.99,
-        "USD": 9.99,
-        "GBP": 8.99
+        "EUR": 14.99,
+        "USD": 14.99,
+        "GBP": 12.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-06-21",
+      "retirementDate": "2026-06-29",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -22182,24 +22290,6 @@
       "ongoing": null
     },
     {
-      "id": "42705",
-      "category": "LEGO",
-      "name": "Cosy Autumn Forest Cabin",
-      "imageURL": "https://images.brickset.com/sets/images/42705-1.jpg",
-      "themeOrSeries": "Friends",
-      "retailPrice": 99.99,
-      "prices": {
-        "EUR": 99.99,
-        "USD": 109.99,
-        "GBP": 89.99
-      },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-06-27",
-      "marketPrice": null,
-      "volumeCount": null,
-      "ongoing": null
-    },
-    {
       "id": "43294",
       "category": "LEGO",
       "name": "Rapunzel's Mini Tower",
@@ -22213,6 +22303,42 @@
       },
       "lifecycleStatus": "RETIRED",
       "retirementDate": "2026-06-28",
+      "marketPrice": null,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "60482",
+      "category": "LEGO",
+      "name": "Fire Engine",
+      "imageURL": "https://images.brickset.com/sets/images/60482-1.jpg",
+      "themeOrSeries": "City",
+      "retailPrice": 9.99,
+      "prices": {
+        "EUR": 9.99,
+        "USD": 9.99,
+        "GBP": 7.99
+      },
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-06-29",
+      "marketPrice": null,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "60483",
+      "category": "LEGO",
+      "name": "Loader",
+      "imageURL": "https://images.brickset.com/sets/images/60483-1.jpg",
+      "themeOrSeries": "City",
+      "retailPrice": 9.99,
+      "prices": {
+        "EUR": 9.99,
+        "USD": 9.99,
+        "GBP": 7.99
+      },
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-06-29",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -22236,19 +22362,19 @@
       "ongoing": null
     },
     {
-      "id": "60511",
+      "id": "60512",
       "category": "LEGO",
-      "name": "Vintage Steam Train",
-      "imageURL": "https://images.brickset.com/sets/images/60511-1.jpg",
+      "name": "Mountain Bike Adventure Van",
+      "imageURL": "https://images.brickset.com/sets/images/60512-1.jpg",
       "themeOrSeries": "City",
-      "retailPrice": 89.99,
+      "retailPrice": 19.99,
       "prices": {
-        "EUR": 89.99,
-        "USD": 89.99,
-        "GBP": 79.99
+        "EUR": 19.99,
+        "USD": 19.99,
+        "GBP": 17.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-06-27",
+      "retirementDate": "2026-06-29",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
