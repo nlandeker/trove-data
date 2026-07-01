@@ -2,7 +2,7 @@
   "version": 2,
   "currency": "EUR",
   "_attribution": "LEGO data: Rebrickable (rebrickable.com) + Brickset (brickset.com). Not affiliated with or endorsed by The LEGO Group.",
-  "_generated": "2026-06-30T04:31:22Z",
+  "_generated": "2026-07-01T04:37:46Z",
   "items": [
     {
       "id": "21041",
@@ -683,6 +683,24 @@
         "EUR": 19.99,
         "USD": 22.99,
         "GBP": 17.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "11507",
+      "category": "LEGO",
+      "name": "Olivia Rodrigo\u2019s Flower Bouquet",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/11507-1/176881.jpg",
+      "themeOrSeries": "Botanicals",
+      "retailPrice": 44.99,
+      "prices": {
+        "EUR": 44.99,
+        "USD": 49.99,
+        "GBP": 39.99
       },
       "lifecycleStatus": "AVAILABLE",
       "retirementDate": null,
@@ -4982,8 +5000,8 @@
         "USD": 19.99,
         "GBP": 17.99
       },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-06-29",
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -12128,8 +12146,8 @@
         "USD": 22.99,
         "GBP": 17.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-06-30",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -18339,19 +18357,19 @@
       "ongoing": null
     },
     {
-      "id": "11040",
+      "id": "10454",
       "category": "LEGO",
-      "name": "Magical Transparent Box",
-      "imageURL": "https://images.brickset.com/sets/images/11040-1.jpg",
-      "themeOrSeries": "Classic",
+      "name": "Mickey Mouse Clubhouse & Car ",
+      "imageURL": "https://images.brickset.com/sets/images/10454-1.jpg",
+      "themeOrSeries": "Duplo",
       "retailPrice": 19.99,
       "prices": {
         "EUR": 19.99,
-        "USD": 24.99,
+        "USD": 19.99,
         "GBP": 17.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-06-24",
+      "retirementDate": "2026-06-30",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -18627,42 +18645,6 @@
       "ongoing": null
     },
     {
-      "id": "40804",
-      "category": "LEGO",
-      "name": "Bumblebee Robot & Vehicle",
-      "imageURL": "https://images.brickset.com/sets/images/40804-1.jpg",
-      "themeOrSeries": "BrickHeadz",
-      "retailPrice": 24.99,
-      "prices": {
-        "EUR": 24.99,
-        "USD": 24.99,
-        "GBP": 19.99
-      },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-06-29",
-      "marketPrice": null,
-      "volumeCount": null,
-      "ongoing": null
-    },
-    {
-      "id": "40818",
-      "category": "LEGO",
-      "name": "Italy Postcard",
-      "imageURL": "https://images.brickset.com/sets/images/40818-1.jpg",
-      "themeOrSeries": "Creator",
-      "retailPrice": 14.99,
-      "prices": {
-        "EUR": 14.99,
-        "USD": 14.99,
-        "GBP": 13.49
-      },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-06-29",
-      "marketPrice": null,
-      "volumeCount": null,
-      "ongoing": null
-    },
-    {
       "id": "40821",
       "category": "LEGO",
       "name": "Love Bears",
@@ -18879,24 +18861,6 @@
       "ongoing": null
     },
     {
-      "id": "42665",
-      "category": "LEGO",
-      "name": "Puppy Playground",
-      "imageURL": "https://images.brickset.com/sets/images/42665-1.jpg",
-      "themeOrSeries": "Friends",
-      "retailPrice": 9.99,
-      "prices": {
-        "EUR": 9.99,
-        "USD": 9.99,
-        "GBP": 8.99
-      },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-06-29",
-      "marketPrice": null,
-      "volumeCount": null,
-      "ongoing": null
-    },
-    {
       "id": "42668",
       "category": "LEGO",
       "name": "LEGO Friends Advent Calendar 2025",
@@ -19090,24 +19054,6 @@
       },
       "lifecycleStatus": "RETIRED",
       "retirementDate": "2026-01-07",
-      "marketPrice": null,
-      "volumeCount": null,
-      "ongoing": null
-    },
-    {
-      "id": "60447",
-      "category": "LEGO",
-      "name": "Off-Road Mountain Truck",
-      "imageURL": "https://images.brickset.com/sets/images/60447-1.jpg",
-      "themeOrSeries": "City",
-      "retailPrice": 19.99,
-      "prices": {
-        "EUR": 19.99,
-        "USD": 19.99,
-        "GBP": 17.99
-      },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-06-21",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -19485,24 +19431,6 @@
       "ongoing": null
     },
     {
-      "id": "72036",
-      "category": "LEGO",
-      "name": "Baby Peach & Grand Prix Set",
-      "imageURL": "https://images.brickset.com/sets/images/72036-1.jpg",
-      "themeOrSeries": "Super Mario",
-      "retailPrice": 79.99,
-      "prices": {
-        "EUR": 79.99,
-        "USD": 79.99,
-        "GBP": 69.99
-      },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-06-26",
-      "marketPrice": null,
-      "volumeCount": null,
-      "ongoing": null
-    },
-    {
       "id": "72040",
       "category": "LEGO",
       "name": "Captain Toad's Camp",
@@ -19570,24 +19498,6 @@
       },
       "lifecycleStatus": "RETIRED",
       "retirementDate": "2026-06-24",
-      "marketPrice": null,
-      "volumeCount": null,
-      "ongoing": null
-    },
-    {
-      "id": "75405",
-      "category": "LEGO",
-      "name": "Home One Starcruiser",
-      "imageURL": "https://images.brickset.com/sets/images/75405-1.jpg",
-      "themeOrSeries": "Star Wars",
-      "retailPrice": 69.99,
-      "prices": {
-        "EUR": 69.99,
-        "USD": 69.99,
-        "GBP": 59.99
-      },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-06-25",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -21186,7 +21096,7 @@
         "GBP": 12.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2025-11-24",
+      "retirementDate": "2026-06-30",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -21769,7 +21679,7 @@
         "GBP": 17.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2025-11-23",
+      "retirementDate": "2026-06-30",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -22130,24 +22040,6 @@
       "ongoing": null
     },
     {
-      "id": "5010359",
-      "category": "LEGO",
-      "name": "Recreate Activity Cards: Tech",
-      "imageURL": "https://images.brickset.com/sets/images/5010359-1.jpg",
-      "themeOrSeries": "Gear",
-      "retailPrice": 9.99,
-      "prices": {
-        "EUR": 9.99,
-        "USD": 9.99,
-        "GBP": 8.99
-      },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-06-21",
-      "marketPrice": null,
-      "volumeCount": null,
-      "ongoing": null
-    },
-    {
       "id": "ISBN9780593965870",
       "category": "LEGO",
       "name": "LEGO How to Build Everything!",
@@ -22177,24 +22069,6 @@
       },
       "lifecycleStatus": "RETIRED",
       "retirementDate": "2026-06-14",
-      "marketPrice": null,
-      "volumeCount": null,
-      "ongoing": null
-    },
-    {
-      "id": "40954",
-      "category": "LEGO",
-      "name": "Germany Postcard",
-      "imageURL": "https://images.brickset.com/sets/images/40954-1.jpg",
-      "themeOrSeries": "Creator",
-      "retailPrice": 14.99,
-      "prices": {
-        "EUR": 14.99,
-        "USD": 14.99,
-        "GBP": 12.99
-      },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-06-29",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -22308,55 +22182,19 @@
       "ongoing": null
     },
     {
-      "id": "60482",
+      "id": "60511",
       "category": "LEGO",
-      "name": "Fire Engine",
-      "imageURL": "https://images.brickset.com/sets/images/60482-1.jpg",
+      "name": "Vintage Steam Train",
+      "imageURL": "https://images.brickset.com/sets/images/60511-1.jpg",
       "themeOrSeries": "City",
-      "retailPrice": 9.99,
+      "retailPrice": 89.99,
       "prices": {
-        "EUR": 9.99,
-        "USD": 9.99,
-        "GBP": 7.99
+        "EUR": 89.99,
+        "USD": 89.99,
+        "GBP": 79.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-06-29",
-      "marketPrice": null,
-      "volumeCount": null,
-      "ongoing": null
-    },
-    {
-      "id": "60483",
-      "category": "LEGO",
-      "name": "Loader",
-      "imageURL": "https://images.brickset.com/sets/images/60483-1.jpg",
-      "themeOrSeries": "City",
-      "retailPrice": 9.99,
-      "prices": {
-        "EUR": 9.99,
-        "USD": 9.99,
-        "GBP": 7.99
-      },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-06-29",
-      "marketPrice": null,
-      "volumeCount": null,
-      "ongoing": null
-    },
-    {
-      "id": "60487",
-      "category": "LEGO",
-      "name": "Yellow Taxi",
-      "imageURL": "https://images.brickset.com/sets/images/60487-1.jpg",
-      "themeOrSeries": "City",
-      "retailPrice": 14.99,
-      "prices": {
-        "EUR": 14.99,
-        "USD": 14.99,
-        "GBP": 12.99
-      },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-06-26",
+      "retirementDate": "2026-06-30",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -22646,24 +22484,6 @@
       "ongoing": null
     },
     {
-      "id": "5010226",
-      "category": "LEGO",
-      "name": "Wall Clock MOC (My Own Creation) \u2013 White",
-      "imageURL": "https://images.brickset.com/sets/images/5010226-1.jpg",
-      "themeOrSeries": "Gear",
-      "retailPrice": 59.99,
-      "prices": {
-        "EUR": 59.99,
-        "USD": 59.99,
-        "GBP": 54.99
-      },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-05-09",
-      "marketPrice": null,
-      "volumeCount": null,
-      "ongoing": null
-    },
-    {
       "id": "5010227",
       "category": "LEGO",
       "name": "Stormtrooper Vacation Bag Tag",
@@ -22736,6 +22556,24 @@
       "ongoing": null
     },
     {
+      "id": "5010313",
+      "category": "LEGO",
+      "name": "Masterbrand Creativity Clog",
+      "imageURL": "https://images.brickset.com/sets/images/5010313-1.jpg",
+      "themeOrSeries": "Gear",
+      "retailPrice": 89.99,
+      "prices": {
+        "EUR": 89.99,
+        "USD": 89.99,
+        "GBP": 89.99
+      },
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-06-30",
+      "marketPrice": null,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
       "id": "5010342",
       "category": "LEGO",
       "name": "Minifigures 100 Collectible Postcards",
@@ -22784,7 +22622,7 @@
         "GBP": 8.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-05-04",
+      "retirementDate": "2026-06-30",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
