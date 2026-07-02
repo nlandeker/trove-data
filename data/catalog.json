@@ -2,7 +2,7 @@
   "version": 2,
   "currency": "EUR",
   "_attribution": "LEGO data: Rebrickable (rebrickable.com) + Brickset (brickset.com). Not affiliated with or endorsed by The LEGO Group.",
-  "_generated": "2026-07-01T04:37:46Z",
+  "_generated": "2026-07-02T04:29:40Z",
   "items": [
     {
       "id": "21041",
@@ -4929,7 +4929,7 @@
         "GBP": 129.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-06-21",
+      "retirementDate": "2026-05-20",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -18825,24 +18825,6 @@
       "ongoing": null
     },
     {
-      "id": "42658",
-      "category": "LEGO",
-      "name": "Unicorn & Flamingo Pool Party",
-      "imageURL": "https://images.brickset.com/sets/images/42658-1.jpg",
-      "themeOrSeries": "Friends",
-      "retailPrice": 9.99,
-      "prices": {
-        "EUR": 9.99,
-        "USD": 9.99,
-        "GBP": 8.99
-      },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-06-24",
-      "marketPrice": null,
-      "volumeCount": null,
-      "ongoing": null
-    },
-    {
       "id": "42662",
       "category": "LEGO",
       "name": "Hair Salon and Accessories Store",
@@ -19498,6 +19480,24 @@
       },
       "lifecycleStatus": "RETIRED",
       "retirementDate": "2026-06-24",
+      "marketPrice": null,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "75405",
+      "category": "LEGO",
+      "name": "Home One Starcruiser",
+      "imageURL": "https://images.brickset.com/sets/images/75405-1.jpg",
+      "themeOrSeries": "Star Wars",
+      "retailPrice": 69.99,
+      "prices": {
+        "EUR": 69.99,
+        "USD": 69.99,
+        "GBP": 59.99
+      },
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-07-01",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -20803,7 +20803,7 @@
         "GBP": 22.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-03-30",
+      "retirementDate": "2026-02-08",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -21578,7 +21578,7 @@
         "GBP": 17.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-05-28",
+      "retirementDate": "2026-07-01",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -22005,41 +22005,6 @@
       "ongoing": null
     },
     {
-      "id": "5010355",
-      "category": "LEGO",
-      "name": "Recreate Activity Cards: Space",
-      "imageURL": "https://images.brickset.com/sets/images/5010355-1.jpg",
-      "themeOrSeries": "Gear",
-      "retailPrice": 9.99,
-      "prices": {
-        "EUR": 9.99,
-        "USD": 9.99,
-        "GBP": 8.99
-      },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-05-30",
-      "marketPrice": null,
-      "volumeCount": null,
-      "ongoing": null
-    },
-    {
-      "id": "5010356",
-      "category": "LEGO",
-      "name": "Recreate Activity Cards Animals",
-      "imageURL": "https://images.brickset.com/sets/images/5010356-1.jpg",
-      "themeOrSeries": "Gear",
-      "retailPrice": 9.99,
-      "prices": {
-        "EUR": 9.99,
-        "GBP": 8.99
-      },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-06-24",
-      "marketPrice": null,
-      "volumeCount": null,
-      "ongoing": null
-    },
-    {
       "id": "ISBN9780593965870",
       "category": "LEGO",
       "name": "LEGO How to Build Everything!",
@@ -22074,24 +22039,6 @@
       "ongoing": null
     },
     {
-      "id": "42682",
-      "category": "LEGO",
-      "name": "Nature Glamping Cabin",
-      "imageURL": "https://images.brickset.com/sets/images/42682-1.jpg",
-      "themeOrSeries": "Friends",
-      "retailPrice": 24.99,
-      "prices": {
-        "EUR": 24.99,
-        "USD": 24.99,
-        "GBP": 19.99
-      },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-06-24",
-      "marketPrice": null,
-      "volumeCount": null,
-      "ongoing": null
-    },
-    {
       "id": "42687",
       "category": "LEGO",
       "name": "Liann's Family House",
@@ -22105,78 +22052,6 @@
       },
       "lifecycleStatus": "RETIRED",
       "retirementDate": "2026-06-24",
-      "marketPrice": null,
-      "volumeCount": null,
-      "ongoing": null
-    },
-    {
-      "id": "42690",
-      "category": "LEGO",
-      "name": "Forest Tea Party",
-      "imageURL": "https://images.brickset.com/sets/images/42690-1.jpg",
-      "themeOrSeries": "Friends",
-      "retailPrice": 9.99,
-      "prices": {
-        "EUR": 9.99,
-        "USD": 9.99,
-        "GBP": 8.99
-      },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-06-24",
-      "marketPrice": null,
-      "volumeCount": null,
-      "ongoing": null
-    },
-    {
-      "id": "42694",
-      "category": "LEGO",
-      "name": "Pizza Truck",
-      "imageURL": "https://images.brickset.com/sets/images/42694-1.jpg",
-      "themeOrSeries": "Friends",
-      "retailPrice": 14.99,
-      "prices": {
-        "EUR": 14.99,
-        "USD": 14.99,
-        "GBP": 12.99
-      },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-06-28",
-      "marketPrice": null,
-      "volumeCount": null,
-      "ongoing": null
-    },
-    {
-      "id": "42701",
-      "category": "LEGO",
-      "name": "Koala Habitat & Care Centre",
-      "imageURL": "https://images.brickset.com/sets/images/42701-1.jpg",
-      "themeOrSeries": "Friends",
-      "retailPrice": 64.99,
-      "prices": {
-        "EUR": 64.99,
-        "USD": 64.99,
-        "GBP": 59.99
-      },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-06-27",
-      "marketPrice": null,
-      "volumeCount": null,
-      "ongoing": null
-    },
-    {
-      "id": "43294",
-      "category": "LEGO",
-      "name": "Rapunzel's Mini Tower",
-      "imageURL": "https://images.brickset.com/sets/images/43294-1.jpg",
-      "themeOrSeries": "Disney",
-      "retailPrice": 19.99,
-      "prices": {
-        "EUR": 19.99,
-        "USD": 19.99,
-        "GBP": 17.99
-      },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-06-28",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -22604,7 +22479,7 @@
         "GBP": 8.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-05-12",
+      "retirementDate": "2026-04-30",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -22622,7 +22497,7 @@
         "GBP": 8.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-06-30",
+      "retirementDate": "2026-05-04",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
