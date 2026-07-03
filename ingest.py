@@ -318,6 +318,21 @@ def load_fixtures() -> tuple[list[dict], list[dict]]:
 # Merge logic
 # ---------------------------------------------------------------------------
 
+# ponytail: Brickset only prices/classifies ~recent sets, so the ~17k Rebrickable-only
+# sets sit at AVAILABLE forever even when they've long since left shelves. Infer RETIRED
+# from age — no current price + released >= this many years ago => off-shelf. Conservative
+# window so we never retire a still-current set. Tune if LEGO lifespans shift.
+RETIRE_AGE_YEARS = 3
+
+
+def infer_retired(status: str, has_price: bool, year: int | None, now_year: int) -> str:
+    """Age-based retirement for sets Brickset didn't classify. See RETIRE_AGE_YEARS."""
+    if (status == "AVAILABLE" and not has_price
+            and isinstance(year, int) and year <= now_year - RETIRE_AGE_YEARS):
+        return "RETIRED"
+    return status
+
+
 def merge(rb_sets: list[dict], bs_sets: list[dict]) -> list[dict]:
     """Merge Rebrickable base data with Brickset lifecycle enrichment."""
     bs_index: dict[str, dict] = {}
@@ -348,6 +363,12 @@ def merge(rb_sets: list[dict], bs_sets: list[dict]) -> list[dict]:
                 item["prices"] = prices
                 if item["retailPrice"] is None:
                     item["retailPrice"] = prices.get("EUR")  # back-compat single price
+        item["lifecycleStatus"] = infer_retired(
+            item["lifecycleStatus"],
+            bool(item["prices"]) or item["retailPrice"] is not None,
+            s.get("year"),
+            _dt.date.today().year,
+        )
         items.append(item)
 
     # Add Brickset-only retiring/retired sets not in our Rebrickable pull.

@@ -3,7 +3,19 @@
 No network, no API key required."""
 # ponytail: plain asserts, no framework
 
-from ingest import build_id_to_root_name
+from ingest import build_id_to_root_name, infer_retired, RETIRE_AGE_YEARS
+
+# --- infer_retired (age-based retirement for Brickset-unclassified sets) ---
+NOW = 2026
+OLD = NOW - RETIRE_AGE_YEARS            # boundary: retired
+RECENT = NOW - RETIRE_AGE_YEARS + 1     # one year newer: still available
+assert infer_retired("AVAILABLE", False, OLD, NOW) == "RETIRED"       # old + no price
+assert infer_retired("AVAILABLE", True, OLD, NOW) == "AVAILABLE"      # old but still sold
+assert infer_retired("AVAILABLE", False, RECENT, NOW) == "AVAILABLE"  # too recent to assume
+assert infer_retired("AVAILABLE", False, None, NOW) == "AVAILABLE"    # unknown year → leave
+assert infer_retired("RETIRED", False, OLD, NOW) == "RETIRED"         # respect Brickset
+assert infer_retired("RETIRING_SOON", False, OLD, NOW) == "RETIRING_SOON"  # respect Brickset
+
 
 # Fixture: root → child → grandchild, a second root, and an orphan with a dangling parent.
 # Mirrors real Rebrickable structure (e.g. Star Wars → UCS → Mandalorian sets).
