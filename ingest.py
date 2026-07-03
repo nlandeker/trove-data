@@ -145,9 +145,13 @@ def fetch_rb_sets(key: str) -> list[dict]:
     Page cap raised to 200 — all-years + subtrees is much larger than before.
     """
     themes_raw = _load_themes_raw(key)
-    print(f"  resolved {len(themes_raw)} Rebrickable themes")
+    print(f"  resolved {len(themes_raw)} Rebrickable themes", flush=True)
+    sw_names = [t.get("name") for t in themes_raw if (t.get("name") or "") == "Star Wars"]
+    print(f"  DIAG themes with name 'Star Wars': {len(sw_names)}", flush=True)
 
     id_to_top = build_id_to_top_name(TRACKED_THEMES, themes_raw)
+    print(f"  DIAG mapped theme ids total={len(id_to_top)} "
+          f"star_wars_ids={sum(1 for v in id_to_top.values() if v == 'Star Wars')}", flush=True)
     # Group subtree ids by top-level theme for ordered iteration + logging
     top_to_subtree: dict[str, set[int]] = {}
     for tid, tname in id_to_top.items():
@@ -160,7 +164,7 @@ def fetch_rb_sets(key: str) -> list[dict]:
         if not subtree_ids:
             print(f"  skip theme (no id): {theme_name}", file=sys.stderr)
             continue
-        print(f"  {theme_name}: {len(subtree_ids)} subtheme id(s)")
+        print(f"  {theme_name}: {len(subtree_ids)} subtheme id(s)", flush=True)
         for tid in subtree_ids:
             page = 1
             while page <= 200:  # ponytail: safety cap; all-years+subtrees can be large
