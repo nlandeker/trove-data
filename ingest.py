@@ -76,19 +76,34 @@ def _load_themes_raw(key: str) -> list[dict]:
     ponytail: one paginated pull (page_size 1000 fits all ~500 themes in one page).
     Per-page error handling so a bad page never kills the run.
     """
-    themes: list[dict] = []
-    page = 1
-    while page <= 10:
-        try:
-            data = rb_get("/themes/", key, {"page": page, "page_size": 1000})
-        except Exception as e:  # noqa: BLE001 - one bad page shouldn't kill the run
-            print(f"  WARN: theme list page {page} failed: {e}", file=sys.stderr)
-            break
-        themes.extend(data.get("results", []))
-        if not data.get("next"):
-            break
-        page += 1
-    return themes
+    # ponytail: page_size 1000 returns all ~494 themes in one page. The theme list
+    # is load-bearing — a partial pull silently drops subthemes (e.g. Star Wars UCS),
+    # collapsing whole-theme coverage. So verify against the API's `count` and retry;
+    # fail loudly rather than emit a truncated list that quietly wrecks the catalog.
+    for attempt in range(4):
+        themes: list[dict] = []
+        expected: int | None = None
+        page = 1
+        ok = True
+        while page <= 10:
+            try:
+                data = rb_get("/themes/", key, {"page": page, "page_size": 1000})
+            except Exception as e:  # noqa: BLE001
+                print(f"  WARN: theme list page {page} attempt {attempt} failed: {e}",
+                      file=sys.stderr)
+                ok = False
+                break
+            expected = data.get("count", expected)
+            themes.extend(data.get("results", []))
+            if not data.get("next"):
+                break
+            page += 1
+        if ok and expected is not None and len(themes) >= expected:
+            return themes
+        print(f"  WARN: theme list incomplete ({len(themes)}/{expected}) — retrying",
+              file=sys.stderr)
+        time.sleep(2 * (attempt + 1))
+    raise RuntimeError(f"theme list incomplete after retries: {len(themes)}/{expected}")
 
 
 def build_id_to_top_name(tracked: set[str], themes: list[dict]) -> dict[int, str]:
