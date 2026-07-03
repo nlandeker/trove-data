@@ -42,6 +42,26 @@
 | `"Retired"` / `yearTo` set | `RETIRED` |
 | anything else | `AVAILABLE` |
 
+`RETIRED` is also inferred from `LEGOCom.dateLastAvailable` in the past (`bs_lifecycle`),
+or by age when Brickset has no lifecycle data at all (`infer_retired`).
+
+### `RETIRING_SOON` sources
+
+Brickset's `dateLastAvailable` is retrospective — it only confirms a set has *already*
+left shelves, so it can't drive a forward-looking alert. `RETIRING_SOON` is populated,
+in order, from:
+
+1. **LEGO.com scrape** — `fetch_lego_retiring_soon()` pages through LEGO.com's
+   "last-chance-to-buy" category and promotes any matching `AVAILABLE` item.
+   `retirementDate` is left as-is (often `null`). A failed or zero-result scrape is
+   treated as failure and skipped entirely — see `lego_retiring_step`.
+2. **`overrides/retiring.json`** — manual curated list, merged last and
+   authoritative: it can promote an item to `RETIRING_SOON` (and set its date)
+   regardless of current status. `{}` (empty object) if unused.
+3. **Legacy `dateLastAvailable`-in-the-future case** — `bs_lifecycle`'s original
+   signal; rarely fires in practice since Brickset usually only publishes the date
+   once it's already past.
+
 ## Attribution
 
 LEGO set data sourced from:

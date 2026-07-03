@@ -79,6 +79,75 @@ curl -s "https://raw.githubusercontent.com/<YOUR_GITHUB_USERNAME>/trove-data/dat
   python3 -c "import json,sys; d=json.load(sys.stdin); print(d['version'], len(d['items']), 'items')"
 ```
 
+## Failsafe: last-known-good cache + status.json
+
+`ingest.py` rebuilds the catalog from scratch every run. If the LEGO.com
+retiring-soon scrape has a bad day, three things now protect that day's publish:
+
+1. **`cache/retiring_last_good.json`** — on a successful scrape, ingest.py
+   rewrites this file with the current timestamp + set list. On a failed/zero
+   scrape it reads this file back and reuses it as the scrape result, as long
+   as it's younger than 21 days (otherwise it WARNs and proceeds with zero,
+   same as before this failsafe existed).
+2. **`status.json`** — written next to `catalog.json` every run:
+   `{"generatedAt", "scrapeOK", "scrapedAt", "retiringSoonCount", "degraded"}`.
+   `degraded` is true if the run fell back to the cache, or ended with zero
+   RETIRING_SOON items from every source (scrape + overrides combined).
+3. A workflow step (below) reads `status.json` **after** the catalog is
+   already committed and pushed, and fails the Action run if `degraded` is
+   true — so the (still valid) catalog ships, but the cron shows red and
+   GitHub's built-in failure-notification email fires.
+
+For this to work across runs, the workflow must commit `cache/retiring_last_good.json`
+(alongside `catalog.json` and `status.json`) to the `data` branch — it's the
+only thing that survives between "rebuild everything from scratch" runs.
+
+These steps are already wired into `.github/workflows/ingest.yml` (this repo).
+For reference:
+
+```yaml
+      # (a) Same step as before, but now also stages status.json and the cache file.
+      - name: Commit updated catalog
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          mkdir -p data
+          mv catalog.json data/catalog.json
+          mv status.json data/status.json
+          # cache/retiring_last_good.json stays at repo root — ingest.py reads it
+          # from there (CACHE_PATH) next run; committing it in place is what makes
+          # it survive across from-scratch rebuilds.
+          git add data/catalog.json data/status.json cache/retiring_last_good.json
+          git diff --cached --quiet || git commit -m "chore: refresh catalog $(date -u +%Y-%m-%d)"
+          git push
+```
+
+```yaml
+      # (b) AFTER publish: turn the run red on a degraded catalog without blocking the push above.
+      - name: Fail run if degraded (catalog already published — this just signals red + triggers GH's failure email)
+        run: python3 -c "import json,sys; sys.exit(1 if json.load(open('data/status.json'))['degraded'] else 0)"
+```
+
+```yaml
+      # (c) OPTIONAL: file a tracking issue on degraded runs, guarded so it doesn't spam
+      # one issue per day. Uncomment to enable (needs `issues: write` permission added
+      # to the job's `permissions:` block, and a `scrape-degraded` label to exist).
+      # - name: Open issue on degraded run (dedup via label)
+      #   if: always()
+      #   env:
+      #     GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      #   run: |
+      #     DEGRADED=$(python3 -c "import json; print(json.load(open('data/status.json'))['degraded'])")
+      #     if [ "$DEGRADED" = "True" ]; then
+      #       OPEN=$(gh issue list --repo "$GITHUB_REPOSITORY" --label scrape-degraded --state open --json number --jq length)
+      #       if [ "$OPEN" = "0" ]; then
+      #         gh issue create --repo "$GITHUB_REPOSITORY" --title "LEGO.com retiring-soon scrape degraded" \
+      #           --label scrape-degraded \
+      #           --body "Run $(date -u +%Y-%m-%d) is degraded — see data/status.json."
+      #       fi
+      #     fi
+```
+
 ## ponytail notes
 
 - No GitHub Pages required — raw.githubusercontent.com is simpler.

@@ -30,6 +30,28 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           mkdir -p data
           mv catalog.json data/catalog.json
-          git add data/catalog.json
+          mv status.json data/status.json
+          # cache/retiring_last_good.json stays at repo root — ingest.py reads it
+          # from there next run; committing it is what makes it survive runs.
+          git add data/catalog.json data/status.json cache/retiring_last_good.json
           git diff --cached --quiet || git commit -m "chore: refresh catalog $(date -u +%Y-%m-%d)"
           git push
+
+      # Runs AFTER publish: the (valid, degraded) catalog still ships; this just
+      # turns the run red so GitHub's failure-notification email fires.
+      - name: Fail run if degraded
+        run: python3 -c "import json,sys; sys.exit(1 if json.load(open('data/status.json'))['degraded'] else 0)"
+
+      # OPTIONAL: file a tracking issue on degraded runs, deduped via label.
+      # Needs `issues: write` in permissions and a `scrape-degraded` label to exist.
+      # - name: Open issue on degraded run
+      #   if: failure()
+      #   env:
+      #     GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      #   run: |
+      #     OPEN=$(gh issue list --repo "$GITHUB_REPOSITORY" --label scrape-degraded --state open --json number --jq length)
+      #     if [ "$OPEN" = "0" ]; then
+      #       gh issue create --repo "$GITHUB_REPOSITORY" --title "LEGO.com retiring-soon scrape degraded" \
+      #         --label scrape-degraded \
+      #         --body "Run $(date -u +%Y-%m-%d) is degraded — see data/status.json."
+      #     fi
