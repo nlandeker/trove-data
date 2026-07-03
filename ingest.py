@@ -30,8 +30,17 @@ def _urlopen_json(req, timeout: int = 30, attempts: int = 4) -> dict:
         try:
             with urllib.request.urlopen(req, timeout=timeout) as r:
                 return json.loads(r.read())
-        except urllib.error.HTTPError:
-            raise  # 4xx/5xx are real — don't mask them behind retries
+        except urllib.error.HTTPError as e:
+            # 429 = rate limited: honour Retry-After (or back off) and retry.
+            # ponytail: Rebrickable's free tier throttles bursts; without this the
+            # whole theme's pagination aborts and its sets vanish from the catalog.
+            if e.code == 429:
+                wait = int(e.headers.get("Retry-After", 0) or 0) or (2 * (i + 1))
+                print(f"  429 rate-limited — sleeping {wait}s (attempt {i})", file=sys.stderr)
+                time.sleep(wait)
+                last_err = e
+                continue
+            raise  # other 4xx/5xx are real — don't mask them
         except Exception as e:  # noqa: BLE001 - transient transport errors only
             last_err = e
             time.sleep(1.5 * (i + 1))
@@ -67,6 +76,9 @@ def rb_get(path: str, key: str, params: dict | None = None) -> dict:
     p = dict(params or {})
     p["key"] = key
     url = f"{RB_BASE}{path}?{urllib.parse.urlencode(p)}"
+    # ponytail: crude global throttle — Rebrickable's free tier rejects bursts with
+    # 429. 1 req/s keeps us under the limit; the all-years pull is ~150 calls (~3 min).
+    time.sleep(1.0)
     return _urlopen_json(urllib.request.Request(url))
 
 
@@ -146,12 +158,7 @@ def fetch_rb_sets(key: str) -> list[dict]:
     """
     themes_raw = _load_themes_raw(key)
     print(f"  resolved {len(themes_raw)} Rebrickable themes", flush=True)
-    sw_names = [t.get("name") for t in themes_raw if (t.get("name") or "") == "Star Wars"]
-    print(f"  DIAG themes with name 'Star Wars': {len(sw_names)}", flush=True)
-
     id_to_top = build_id_to_top_name(TRACKED_THEMES, themes_raw)
-    print(f"  DIAG mapped theme ids total={len(id_to_top)} "
-          f"star_wars_ids={sum(1 for v in id_to_top.values() if v == 'Star Wars')}", flush=True)
     # Group subtree ids by top-level theme for ordered iteration + logging
     top_to_subtree: dict[str, set[int]] = {}
     for tid, tname in id_to_top.items():
