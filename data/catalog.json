@@ -2,7 +2,7 @@
   "version": 2,
   "currency": "EUR",
   "_attribution": "LEGO data: Rebrickable (rebrickable.com) + Brickset (brickset.com). Not affiliated with or endorsed by The LEGO Group.",
-  "_generated": "2026-07-02T04:29:40Z",
+  "_generated": "2026-07-03T06:04:24Z",
   "items": [
     {
       "id": "21041",
@@ -773,6 +773,41 @@
         "EUR": 39.99,
         "USD": 29.99,
         "GBP": 34.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "11512",
+      "category": "LEGO",
+      "name": "Hanging Golden Pothos",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/11512-1/176940.jpg",
+      "themeOrSeries": "Botanicals",
+      "retailPrice": 59.99,
+      "prices": {
+        "EUR": 59.99,
+        "USD": 59.99,
+        "GBP": 54.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "11513",
+      "category": "LEGO",
+      "name": "Dark Flower Arrangement",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/11513-1/176955.jpg",
+      "themeOrSeries": "Botanicals",
+      "retailPrice": 59.99,
+      "prices": {
+        "EUR": 59.99,
+        "GBP": 54.99
       },
       "lifecycleStatus": "AVAILABLE",
       "retirementDate": null,
@@ -2538,8 +2573,8 @@
         "USD": 74.99,
         "GBP": 59.99
       },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-06-29",
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -6130,8 +6165,8 @@
         "USD": 49.99,
         "GBP": 54.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-07-02",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -12146,8 +12181,8 @@
         "USD": 22.99,
         "GBP": 17.99
       },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-06-30",
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -12542,8 +12577,8 @@
         "USD": 9.99,
         "GBP": 8.99
       },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-06-28",
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -12560,8 +12595,8 @@
         "USD": 19.99,
         "GBP": 17.99
       },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-06-27",
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -18169,6 +18204,24 @@
       "ongoing": null
     },
     {
+      "id": "42238",
+      "category": "LEGO",
+      "name": "Ducati Desmo450 MX Factory Motorcycle",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/42238-1/176996.jpg",
+      "themeOrSeries": "Technic",
+      "retailPrice": 49.99,
+      "prices": {
+        "EUR": 49.99,
+        "USD": 49.99,
+        "GBP": 44.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
       "id": "42239",
       "category": "LEGO",
       "name": "Batmobile Tumbler",
@@ -19095,24 +19148,6 @@
       "ongoing": null
     },
     {
-      "id": "60451",
-      "category": "LEGO",
-      "name": "Emergency Ambulance",
-      "imageURL": "https://images.brickset.com/sets/images/60451-1.jpg",
-      "themeOrSeries": "City",
-      "retailPrice": 19.99,
-      "prices": {
-        "EUR": 19.99,
-        "USD": 19.99,
-        "GBP": 17.99
-      },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-06-29",
-      "marketPrice": null,
-      "volumeCount": null,
-      "ongoing": null
-    },
-    {
       "id": "60452",
       "category": "LEGO",
       "name": "Donut Truck",
@@ -19413,6 +19448,24 @@
       "ongoing": null
     },
     {
+      "id": "72036",
+      "category": "LEGO",
+      "name": "Baby Peach & Grand Prix Set",
+      "imageURL": "https://images.brickset.com/sets/images/72036-1.jpg",
+      "themeOrSeries": "Super Mario",
+      "retailPrice": 79.99,
+      "prices": {
+        "EUR": 79.99,
+        "USD": 79.99,
+        "GBP": 69.99
+      },
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-07-02",
+      "marketPrice": null,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
       "id": "72040",
       "category": "LEGO",
       "name": "Captain Toad's Camp",
@@ -19696,6 +19749,24 @@
       },
       "lifecycleStatus": "RETIRED",
       "retirementDate": "2026-02-11",
+      "marketPrice": null,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "854303",
+      "category": "LEGO",
+      "name": "Bright Bluish Green 2x4 Stud Key Chain",
+      "imageURL": "https://images.brickset.com/sets/images/854303-1.jpg",
+      "themeOrSeries": "Gear",
+      "retailPrice": 5.99,
+      "prices": {
+        "EUR": 5.99,
+        "USD": 5.99,
+        "GBP": 4.99
+      },
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-07-02",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -22039,60 +22110,6 @@
       "ongoing": null
     },
     {
-      "id": "42687",
-      "category": "LEGO",
-      "name": "Liann's Family House",
-      "imageURL": "https://images.brickset.com/sets/images/42687-1.jpg",
-      "themeOrSeries": "Friends",
-      "retailPrice": 69.99,
-      "prices": {
-        "EUR": 69.99,
-        "USD": 69.99,
-        "GBP": 59.99
-      },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-06-24",
-      "marketPrice": null,
-      "volumeCount": null,
-      "ongoing": null
-    },
-    {
-      "id": "60511",
-      "category": "LEGO",
-      "name": "Vintage Steam Train",
-      "imageURL": "https://images.brickset.com/sets/images/60511-1.jpg",
-      "themeOrSeries": "City",
-      "retailPrice": 89.99,
-      "prices": {
-        "EUR": 89.99,
-        "USD": 89.99,
-        "GBP": 79.99
-      },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-06-30",
-      "marketPrice": null,
-      "volumeCount": null,
-      "ongoing": null
-    },
-    {
-      "id": "60512",
-      "category": "LEGO",
-      "name": "Mountain Bike Adventure Van",
-      "imageURL": "https://images.brickset.com/sets/images/60512-1.jpg",
-      "themeOrSeries": "City",
-      "retailPrice": 19.99,
-      "prices": {
-        "EUR": 19.99,
-        "USD": 19.99,
-        "GBP": 17.99
-      },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-06-29",
-      "marketPrice": null,
-      "volumeCount": null,
-      "ongoing": null
-    },
-    {
       "id": "66813",
       "category": "LEGO",
       "name": "LEGO Minifigures - Series 28 {Box of 6 random packs}",
@@ -22426,24 +22443,6 @@
       },
       "lifecycleStatus": "RETIRED",
       "retirementDate": "2026-06-26",
-      "marketPrice": null,
-      "volumeCount": null,
-      "ongoing": null
-    },
-    {
-      "id": "5010313",
-      "category": "LEGO",
-      "name": "Masterbrand Creativity Clog",
-      "imageURL": "https://images.brickset.com/sets/images/5010313-1.jpg",
-      "themeOrSeries": "Gear",
-      "retailPrice": 89.99,
-      "prices": {
-        "EUR": 89.99,
-        "USD": 89.99,
-        "GBP": 89.99
-      },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-06-30",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
