@@ -61,16 +61,6 @@ MIN_ITEMS = 5
 
 RB_BASE = "https://rebrickable.com/api/v3/lego"
 
-# Keep slim: only themes worth tracking for collectors.
-# ponytail: names must match Rebrickable's theme list exactly; unresolved names
-# are skipped at runtime (no crash). Corrected to real RB names where they differ.
-TRACKED_THEMES = {
-    "Architecture", "Botanicals", "Icons", "Creator Expert",
-    "Star Wars", "Harry Potter", "Marvel", "DC Comics Super Heroes",
-    "Technic", "Jurassic World", "Speed Champions", "Ninjago",
-    "City", "The Lord of the Rings",
-}
-
 
 def rb_get(path: str, key: str, params: dict | None = None) -> dict:
     p = dict(params or {})
@@ -118,20 +108,17 @@ def _load_themes_raw(key: str) -> list[dict]:
     raise RuntimeError(f"theme list incomplete after retries: {len(themes)}/{expected}")
 
 
-def build_id_to_top_name(tracked: set[str], themes: list[dict]) -> dict[int, str]:
-    """Return {theme_id -> tracked theme name} for every theme whose lineage hits a tracked name.
+def build_id_to_root_name(themes: list[dict]) -> dict[int, str]:
+    """Return {theme_id -> root theme name} for every theme in the list.
 
-    A theme belongs to tracked theme T if T's name is on the theme's ancestor chain
-    (itself or any parent). The NEAREST tracked ancestor wins — so a subtheme like
-    "Ultimate Collector Series" (parent "Star Wars") maps to "Star Wars", and the sets
-    fetched from its id are labeled "Star Wars".
+    Root = the ancestor whose parent_id is None. Each theme id maps to its root's name.
+    Cycle-guarded via a per-walk visited set; unresolvable themes (dangling parent or
+    cycle with no root) are omitted from the result → callers default to "".
 
-    ponytail: walk each theme up to its root once. Robust to duplicate theme names
-    (Rebrickable has four "Star Wars" nodes) and arbitrary nesting depth — no reliance
-    on picking a single "right" id by name. Cycle-guarded via a per-walk visited set.
+    ponytail: same lineage-walk pattern as the old build_id_to_top_name, but always
+    walks to the true root instead of stopping at a tracked name — no allowlist needed.
     """
     by_id: dict[int, dict] = {t["id"]: t for t in themes if t.get("id")}
-    tracked_lower: dict[str, str] = {n.lower(): n for n in tracked}
     result: dict[int, str] = {}
     for t in themes:
         tid = t.get("id")
@@ -140,59 +127,49 @@ def build_id_to_top_name(tracked: set[str], themes: list[dict]) -> dict[int, str
         cur: dict | None = t
         seen: set[int] = set()
         while cur and cur.get("id") not in seen:
-            seen.add(cur.get("id"))
-            name = tracked_lower.get((cur.get("name") or "").lower())
-            if name:
-                result[tid] = name  # nearest tracked ancestor (self first)
+            seen.add(cur["id"])
+            if cur.get("parent_id") is None:
+                result[tid] = cur.get("name", "") or ""
                 break
             cur = by_id.get(cur.get("parent_id"))
+        # ponytail: if cycle or dangling parent, omit — callers default to ""
     return result
 
 
 def fetch_rb_sets(key: str) -> list[dict]:
-    """Fetch sets (all years) for each tracked theme's full subtheme subtree.
+    """Fetch ALL Rebrickable sets (~20 k), labeled by top-level theme name.
 
-    Defensive: a failure on any single theme/page is logged and skipped, never fatal.
-    De-dupes by set_num across subtheme fetches (first-seen wins).
-    Page cap raised to 200 — all-years + subtrees is much larger than before.
+    Paginates /sets/ with no theme_id filter (all themes, all years).
+    ~200 pages × 100 sets at 1 req/s ≈ 3-4 min.
+    Defensive: a failed page is logged and skipped, never fatal.
+    De-dupes by set_num (first-seen wins).
     """
     themes_raw = _load_themes_raw(key)
     print(f"  resolved {len(themes_raw)} Rebrickable themes", flush=True)
-    id_to_top = build_id_to_top_name(TRACKED_THEMES, themes_raw)
-    # Group subtree ids by top-level theme for ordered iteration + logging
-    top_to_subtree: dict[str, set[int]] = {}
-    for tid, tname in id_to_top.items():
-        top_to_subtree.setdefault(tname, set()).add(tid)
+    id_to_root = build_id_to_root_name(themes_raw)
 
     sets_by_id: dict[str, dict] = {}  # de-dupe by set_num; first-seen wins
+    page = 1
+    while page <= 300:  # ponytail: safety cap — ~20k sets / 100 = ~200 pages expected
+        try:
+            data = rb_get("/sets/", key, {"page": page, "page_size": 100})
+        except Exception as e:  # noqa: BLE001
+            print(f"  WARN: /sets/ page {page} failed: {e}", file=sys.stderr)
+            break
+        for s in data.get("results", []):
+            # ponytail: skip pure gear/promotional items that have zero parts
+            # (books, keychains, cardboard displays — not collectible builds)
+            if s.get("num_parts", 1) == 0:
+                continue
+            s["theme_name"] = id_to_root.get(s.get("theme_id"), "")
+            sets_by_id.setdefault(s.get("set_num", ""), s)  # de-dupe; first-seen wins
+        if not data.get("next"):
+            break
+        if page % 20 == 0:
+            print(f"  ...page {page}, {len(sets_by_id)} sets so far", flush=True)
+        page += 1
 
-    for theme_name in sorted(TRACKED_THEMES):
-        subtree_ids = top_to_subtree.get(theme_name)
-        if not subtree_ids:
-            print(f"  skip theme (no id): {theme_name}", file=sys.stderr)
-            continue
-        print(f"  {theme_name}: {len(subtree_ids)} subtheme id(s)", flush=True)
-        for tid in subtree_ids:
-            page = 1
-            while page <= 200:  # ponytail: safety cap; all-years+subtrees can be large
-                try:
-                    data = rb_get("/sets/", key, {
-                        "theme_id": tid,
-                        "page": page,
-                        "page_size": 100,
-                        # min_year removed — all years for maximum coverage
-                    })
-                except Exception as e:  # noqa: BLE001
-                    print(f"  WARN: {theme_name} tid={tid} page {page} failed: {e}",
-                          file=sys.stderr)
-                    break
-                for s in data.get("results", []):
-                    s["theme_name"] = theme_name  # always top-level tracked name
-                    sets_by_id.setdefault(s.get("set_num", ""), s)  # de-dupe
-                if not data.get("next"):
-                    break
-                page += 1
-
+    print(f"  fetched {len(sets_by_id)} sets across {page} pages", flush=True)
     return list(sets_by_id.values())
 
 
