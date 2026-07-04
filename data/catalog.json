@@ -2,7 +2,7 @@
   "version": 2,
   "currency": "EUR",
   "_attribution": "LEGO data: Rebrickable (rebrickable.com) + Brickset (brickset.com). Not affiliated with or endorsed by The LEGO Group.",
-  "_generated": "2026-07-03T21:00:43Z",
+  "_generated": "2026-07-04T06:29:52Z",
   "items": [
     {
       "id": "0003977811",
@@ -14704,8 +14704,8 @@
         "USD": 9.99,
         "GBP": 8.99
       },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-06-14",
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -98236,8 +98236,8 @@
         "USD": 9.99,
         "GBP": 8.99
       },
-      "lifecycleStatus": "RETIRING_SOON",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-07-03",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -176419,7 +176419,7 @@
         "GBP": 59.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-06-24",
+      "retirementDate": "2026-07-02",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -199052,8 +199052,8 @@
         "USD": 89.99,
         "GBP": 79.99
       },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-06-29",
+      "lifecycleStatus": "RETIRING_SOON",
+      "retirementDate": null,
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -256200,24 +256200,6 @@
       "ongoing": null
     },
     {
-      "id": "854303",
-      "category": "LEGO",
-      "name": "Bright Bluish Green 2x4 Stud Key Chain",
-      "imageURL": "https://images.brickset.com/sets/images/854303-1.jpg",
-      "themeOrSeries": "Gear",
-      "retailPrice": 5.99,
-      "prices": {
-        "EUR": 5.99,
-        "USD": 5.99,
-        "GBP": 4.99
-      },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-07-02",
-      "marketPrice": null,
-      "volumeCount": null,
-      "ongoing": null
-    },
-    {
       "id": "854307",
       "category": "LEGO",
       "name": "Mateo's Z-Blob Sword",
@@ -256352,22 +256334,6 @@
       },
       "lifecycleStatus": "RETIRED",
       "retirementDate": "2026-01-18",
-      "marketPrice": null,
-      "volumeCount": null,
-      "ongoing": null
-    },
-    {
-      "id": "5008715",
-      "category": "LEGO",
-      "name": "Brick Lunch Bag \u2013 Light Pink",
-      "imageURL": "https://images.brickset.com/sets/images/5008715-1.jpg",
-      "themeOrSeries": "Gear",
-      "retailPrice": null,
-      "prices": {
-        "USD": 28.0
-      },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-03-31",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -257214,7 +257180,7 @@
       "retailPrice": 7.99,
       "prices": {
         "EUR": 7.99,
-        "USD": 7.99,
+        "USD": 7.49,
         "GBP": 5.99
       },
       "lifecycleStatus": "RETIRED",
@@ -258080,24 +258046,6 @@
       },
       "lifecycleStatus": "RETIRED",
       "retirementDate": "2026-06-03",
-      "marketPrice": null,
-      "volumeCount": null,
-      "ongoing": null
-    },
-    {
-      "id": "854327",
-      "category": "LEGO",
-      "name": "Simba Key Chain",
-      "imageURL": "https://images.brickset.com/sets/images/854327-1.jpg",
-      "themeOrSeries": "Gear",
-      "retailPrice": 5.99,
-      "prices": {
-        "EUR": 5.99,
-        "USD": 5.99,
-        "GBP": 4.99
-      },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-04-10",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
