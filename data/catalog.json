@@ -2,7 +2,7 @@
   "version": 2,
   "currency": "EUR",
   "_attribution": "LEGO data: Rebrickable (rebrickable.com) + Brickset (brickset.com). Not affiliated with or endorsed by The LEGO Group.",
-  "_generated": "2026-07-04T06:29:52Z",
+  "_generated": "2026-07-05T06:54:09Z",
   "items": [
     {
       "id": "0003977811",
@@ -141703,7 +141703,7 @@
         "GBP": 17.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-06-24",
+      "retirementDate": "2026-07-04",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -176419,7 +176419,7 @@
         "GBP": 59.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-07-02",
+      "retirementDate": "2026-07-04",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -199052,8 +199052,8 @@
         "USD": 89.99,
         "GBP": 79.99
       },
-      "lifecycleStatus": "RETIRING_SOON",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-07-04",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -250832,20 +250832,6 @@
       "ongoing": null
     },
     {
-      "id": "LLOYD",
-      "category": "LEGO",
-      "name": "Lloyd",
-      "imageURL": "https://cdn.rebrickable.com/media/sets/lloyd-1/167128.jpg",
-      "themeOrSeries": "Ninjago",
-      "retailPrice": null,
-      "prices": {},
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
-      "marketPrice": null,
-      "volumeCount": null,
-      "ongoing": null
-    },
-    {
       "id": "LLPlane",
       "category": "LEGO",
       "name": "Airplane [Legoland Deutschland]",
@@ -258154,6 +258140,24 @@
       },
       "lifecycleStatus": "RETIRED",
       "retirementDate": "2026-04-28",
+      "marketPrice": null,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "5010226",
+      "category": "LEGO",
+      "name": "Wall Clock MOC (My Own Creation) \u2013 White",
+      "imageURL": "https://images.brickset.com/sets/images/5010226-1.jpg",
+      "themeOrSeries": "Gear",
+      "retailPrice": 59.99,
+      "prices": {
+        "EUR": 59.99,
+        "USD": 59.99,
+        "GBP": 54.99
+      },
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-07-04",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
