@@ -193,6 +193,7 @@ def normalize_rb_set(s: dict) -> dict:
         "lifecycleStatus": "AVAILABLE",        # overridden by Brickset enrichment
         "retirementDate": None,
         "marketPrice": None,
+        "year": s.get("year"),                  # RB release year — drives the app's "Newest" sort
         "volumeCount": None,
         "ongoing": None,
     }
@@ -626,6 +627,7 @@ def merge(rb_sets: list[dict], bs_sets: list[dict]) -> list[dict]:
                 "lifecycleStatus": status,
                 "retirementDate": date,
                 "marketPrice": None,
+                "year": bs.get("year"),  # Brickset release year for RB-absent retiring/retired sets
                 "volumeCount": None,
                 "ongoing": None,
             })
