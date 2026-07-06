@@ -1,0 +1,31 @@
+name: Ingest manga volumes
+
+on:
+  schedule:
+    # Daily at 04:00 UTC (offset from the LEGO ingest at 03:00)
+    - cron: "0 4 * * *"
+  workflow_dispatch: {}
+
+jobs:
+  ingest-manga:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: data
+
+      - name: Run manga ingest (AniList + Wikipedia)
+        run: python3 manga_ingest.py
+
+      - name: Commit updated manga volumes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          mkdir -p data
+          mv manga_volumes.json data/manga_volumes.json
+          git add data/manga_volumes.json
+          git diff --cached --quiet || git commit -m "chore: refresh manga volumes $(date -u +%Y-%m-%d)"
+          git push
