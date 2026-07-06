@@ -2,7 +2,7 @@
   "version": 2,
   "currency": "EUR",
   "_attribution": "LEGO data: Rebrickable (rebrickable.com) + Brickset (brickset.com). Not affiliated with or endorsed by The LEGO Group.",
-  "_generated": "2026-07-03T11:27:50Z",
+  "_generated": "2026-07-05T06:54:09Z",
   "items": [
     {
       "id": "0003977811",
@@ -5108,7 +5108,7 @@
       "themeOrSeries": "Icons",
       "retailPrice": null,
       "prices": {},
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "volumeCount": null,
@@ -5150,7 +5150,7 @@
       "themeOrSeries": "Icons",
       "retailPrice": null,
       "prices": {},
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "volumeCount": null,
@@ -5554,7 +5554,7 @@
         "USD": 99.99,
         "GBP": 89.99
       },
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "volumeCount": null,
@@ -6694,7 +6694,7 @@
         "USD": 19.99,
         "GBP": 17.99
       },
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "volumeCount": null,
@@ -14704,8 +14704,8 @@
         "USD": 9.99,
         "GBP": 8.99
       },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-06-14",
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -58050,7 +58050,7 @@
       "themeOrSeries": "Creator",
       "retailPrice": null,
       "prices": {},
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "volumeCount": null,
@@ -58106,7 +58106,7 @@
       "themeOrSeries": "Creator",
       "retailPrice": null,
       "prices": {},
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "volumeCount": null,
@@ -58148,7 +58148,7 @@
       "themeOrSeries": "Creator",
       "retailPrice": null,
       "prices": {},
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "volumeCount": null,
@@ -58162,7 +58162,7 @@
       "themeOrSeries": "Creator",
       "retailPrice": null,
       "prices": {},
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "volumeCount": null,
@@ -58232,7 +58232,7 @@
       "themeOrSeries": "Creator",
       "retailPrice": null,
       "prices": {},
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "volumeCount": null,
@@ -58332,7 +58332,7 @@
         "USD": 19.99,
         "GBP": 17.99
       },
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "volumeCount": null,
@@ -58888,7 +58888,7 @@
       "themeOrSeries": "LEGO Art",
       "retailPrice": null,
       "prices": {},
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "volumeCount": null,
@@ -96098,7 +96098,7 @@
       "themeOrSeries": "Technic",
       "retailPrice": null,
       "prices": {},
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "volumeCount": null,
@@ -96140,7 +96140,7 @@
       "themeOrSeries": "Technic",
       "retailPrice": null,
       "prices": {},
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "volumeCount": null,
@@ -96732,7 +96732,7 @@
         "USD": 99.99,
         "GBP": 89.99
       },
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "volumeCount": null,
@@ -97966,7 +97966,7 @@
         "USD": 14.99,
         "GBP": 12.99
       },
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "volumeCount": null,
@@ -98056,7 +98056,7 @@
         "USD": 19.99,
         "GBP": 17.99
       },
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "volumeCount": null,
@@ -98164,7 +98164,7 @@
         "USD": 49.99,
         "GBP": 44.99
       },
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "volumeCount": null,
@@ -98236,8 +98236,8 @@
         "USD": 9.99,
         "GBP": 8.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-07-03",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -101368,7 +101368,7 @@
       "themeOrSeries": "Disney",
       "retailPrice": null,
       "prices": {},
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "volumeCount": null,
@@ -101382,7 +101382,7 @@
       "themeOrSeries": "Disney",
       "retailPrice": null,
       "prices": {},
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "volumeCount": null,
@@ -101424,7 +101424,7 @@
       "themeOrSeries": "Disney",
       "retailPrice": null,
       "prices": {},
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "volumeCount": null,
@@ -141462,7 +141462,7 @@
       "themeOrSeries": "City",
       "retailPrice": null,
       "prices": {},
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "volumeCount": null,
@@ -141703,7 +141703,7 @@
         "GBP": 17.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-06-24",
+      "retirementDate": "2026-07-04",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -173282,7 +173282,7 @@
       "themeOrSeries": "Super Mario",
       "retailPrice": null,
       "prices": {},
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "volumeCount": null,
@@ -173874,7 +173874,7 @@
         "USD": 34.99,
         "GBP": 24.99
       },
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "volumeCount": null,
@@ -176419,7 +176419,7 @@
         "GBP": 59.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-06-24",
+      "retirementDate": "2026-07-04",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -176436,7 +176436,7 @@
         "USD": 99.99,
         "GBP": 79.99
       },
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "volumeCount": null,
@@ -177262,7 +177262,7 @@
         "USD": 14.99,
         "GBP": 12.99
       },
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "volumeCount": null,
@@ -177280,7 +177280,7 @@
         "USD": 19.99,
         "GBP": 17.99
       },
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "volumeCount": null,
@@ -177388,7 +177388,7 @@
         "USD": 49.99,
         "GBP": 44.99
       },
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "volumeCount": null,
@@ -177406,7 +177406,7 @@
         "USD": 99.99,
         "GBP": 89.99
       },
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "volumeCount": null,
@@ -177456,7 +177456,7 @@
         "USD": 29.99,
         "GBP": 24.99
       },
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "volumeCount": null,
@@ -177510,7 +177510,7 @@
         "USD": 49.99,
         "GBP": 44.99
       },
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "volumeCount": null,
@@ -185770,7 +185770,7 @@
       "themeOrSeries": "Star Wars",
       "retailPrice": null,
       "prices": {},
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "volumeCount": null,
@@ -188002,7 +188002,7 @@
       "themeOrSeries": "Wicked",
       "retailPrice": null,
       "prices": {},
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "volumeCount": null,
@@ -194284,7 +194284,7 @@
       "themeOrSeries": "Super Heroes Marvel",
       "retailPrice": null,
       "prices": {},
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "volumeCount": null,
@@ -194524,7 +194524,7 @@
         "USD": 34.99,
         "GBP": 24.99
       },
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "volumeCount": null,
@@ -195888,7 +195888,7 @@
       "themeOrSeries": "Harry Potter",
       "retailPrice": null,
       "prices": {},
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "volumeCount": null,
@@ -195944,7 +195944,7 @@
       "themeOrSeries": "Harry Potter",
       "retailPrice": null,
       "prices": {},
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "volumeCount": null,
@@ -196256,7 +196256,7 @@
         "USD": 22.99,
         "GBP": 17.99
       },
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "volumeCount": null,
@@ -197176,7 +197176,7 @@
         "USD": 89.99,
         "GBP": 74.99
       },
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "volumeCount": null,
@@ -197866,7 +197866,7 @@
       "themeOrSeries": "Speed Champions",
       "retailPrice": null,
       "prices": {},
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "volumeCount": null,
@@ -198330,7 +198330,7 @@
         "USD": 27.99,
         "GBP": 19.99
       },
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "volumeCount": null,
@@ -198998,7 +198998,7 @@
         "USD": 29.99,
         "GBP": 24.99
       },
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "volumeCount": null,
@@ -199053,7 +199053,7 @@
         "GBP": 79.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-06-29",
+      "retirementDate": "2026-07-04",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -250832,20 +250832,6 @@
       "ongoing": null
     },
     {
-      "id": "LLOYD",
-      "category": "LEGO",
-      "name": "Lloyd",
-      "imageURL": "https://cdn.rebrickable.com/media/sets/lloyd-1/167128.jpg",
-      "themeOrSeries": "Ninjago",
-      "retailPrice": null,
-      "prices": {},
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
-      "marketPrice": null,
-      "volumeCount": null,
-      "ongoing": null
-    },
-    {
       "id": "LLPlane",
       "category": "LEGO",
       "name": "Airplane [Legoland Deutschland]",
@@ -256200,24 +256186,6 @@
       "ongoing": null
     },
     {
-      "id": "854303",
-      "category": "LEGO",
-      "name": "Bright Bluish Green 2x4 Stud Key Chain",
-      "imageURL": "https://images.brickset.com/sets/images/854303-1.jpg",
-      "themeOrSeries": "Gear",
-      "retailPrice": 5.99,
-      "prices": {
-        "EUR": 5.99,
-        "USD": 5.99,
-        "GBP": 4.99
-      },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-07-02",
-      "marketPrice": null,
-      "volumeCount": null,
-      "ongoing": null
-    },
-    {
       "id": "854307",
       "category": "LEGO",
       "name": "Mateo's Z-Blob Sword",
@@ -256352,22 +256320,6 @@
       },
       "lifecycleStatus": "RETIRED",
       "retirementDate": "2026-01-18",
-      "marketPrice": null,
-      "volumeCount": null,
-      "ongoing": null
-    },
-    {
-      "id": "5008715",
-      "category": "LEGO",
-      "name": "Brick Lunch Bag \u2013 Light Pink",
-      "imageURL": "https://images.brickset.com/sets/images/5008715-1.jpg",
-      "themeOrSeries": "Gear",
-      "retailPrice": null,
-      "prices": {
-        "USD": 28.0
-      },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-03-31",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
@@ -257214,7 +257166,7 @@
       "retailPrice": 7.99,
       "prices": {
         "EUR": 7.99,
-        "USD": 7.99,
+        "USD": 7.49,
         "GBP": 5.99
       },
       "lifecycleStatus": "RETIRED",
@@ -258085,24 +258037,6 @@
       "ongoing": null
     },
     {
-      "id": "854327",
-      "category": "LEGO",
-      "name": "Simba Key Chain",
-      "imageURL": "https://images.brickset.com/sets/images/854327-1.jpg",
-      "themeOrSeries": "Gear",
-      "retailPrice": 5.99,
-      "prices": {
-        "EUR": 5.99,
-        "USD": 5.99,
-        "GBP": 4.99
-      },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-04-10",
-      "marketPrice": null,
-      "volumeCount": null,
-      "ongoing": null
-    },
-    {
       "id": "910064",
       "category": "LEGO",
       "name": "Dustmark Keep",
@@ -258206,6 +258140,24 @@
       },
       "lifecycleStatus": "RETIRED",
       "retirementDate": "2026-04-28",
+      "marketPrice": null,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "5010226",
+      "category": "LEGO",
+      "name": "Wall Clock MOC (My Own Creation) \u2013 White",
+      "imageURL": "https://images.brickset.com/sets/images/5010226-1.jpg",
+      "themeOrSeries": "Gear",
+      "retailPrice": 59.99,
+      "prices": {
+        "EUR": 59.99,
+        "USD": 59.99,
+        "GBP": 54.99
+      },
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-07-04",
       "marketPrice": null,
       "volumeCount": null,
       "ongoing": null
