@@ -14,7 +14,17 @@ from ingest import (
     load_overrides, apply_overrides, FIXTURES,
     load_retiring_cache, save_retiring_cache, cache_is_fresh,
     resolve_lego_retiring_soon, build_status, CACHE_MAX_AGE_DAYS,
+    is_set_not_piece, MIN_PARTS,
 )
+
+# --- is_set_not_piece (set vs single-element piece/gear filter) ---
+assert MIN_PARTS == 3
+assert not is_set_not_piece(0)     # gear / zero-part promo
+assert not is_set_not_piece(1)     # single printed brick
+assert not is_set_not_piece(2)     # two-part promo — still a "piece", not a set
+assert is_set_not_piece(3)         # boundary: smallest real set kept
+assert is_set_not_piece(9036)      # Colosseum-scale
+assert not is_set_not_piece(None)  # missing count (Brickset gear) → excluded
 
 # --- infer_retired (age-based retirement for Brickset-unclassified sets) ---
 NOW = 2026

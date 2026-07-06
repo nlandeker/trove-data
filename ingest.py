@@ -56,6 +56,19 @@ STATUS_PATH = HERE / "status.json"
 CACHE_MAX_AGE_DAYS = 21  # older than this, the last-known-good cache is not trusted
 VERSION = 2  # bump when schema changes
 
+# Minimum part count for an item to count as a "set" rather than a single-element
+# "piece"/gear (a printed tile promo, a lone brick giveaway). > 2 keeps every real
+# small set (polybags, 20-40 piece sets) while dropping single-element pseudo-sets.
+MIN_PARTS = 3
+
+
+def is_set_not_piece(part_count) -> bool:
+    """True when this is a real multi-part set, not a single-element piece/gear.
+
+    Missing/None counts (common for Brickset gear rows) are treated as 0 → excluded.
+    """
+    return (part_count or 0) >= MIN_PARTS
+
 # Refuse to overwrite the published catalog with a near-empty result (a bad run
 # must never wipe good data). ponytail: simple floor, not a diff-ratio check.
 MIN_ITEMS = 5
@@ -162,9 +175,9 @@ def fetch_rb_sets(key: str) -> list[dict]:
             print(f"  WARN: /sets/ page {page} failed: {e}", file=sys.stderr)
             break
         for s in data.get("results", []):
-            # ponytail: skip pure gear/promotional items that have zero parts
-            # (books, keychains, cardboard displays — not collectible builds)
-            if s.get("num_parts", 1) == 0:
+            # Skip single-element pseudo-sets + gear (books, keychains, promo bricks)
+            # — a collection app tracks sets, not individual pieces.
+            if not is_set_not_piece(s.get("num_parts")):
                 continue
             s["theme_name"] = id_to_root.get(s.get("theme_id"), "")
             sets_by_id.setdefault(s.get("set_num", ""), s)  # de-dupe; first-seen wins
@@ -615,6 +628,10 @@ def merge(rb_sets: list[dict], bs_sets: list[dict]) -> list[dict]:
             continue
         status, date = bs_lifecycle(bs)
         if status in ("RETIRING_SOON", "RETIRED"):
+            # Same set-not-piece guard as the RB path — keeps gear/non-builds out of
+            # the Brickset-only fallback branch. Brickset gives `pieces` (extendedData).
+            if not is_set_not_piece(bs.get("pieces")):
+                continue
             prices = _bs_prices(bs)
             items.append({
                 "id": num,
