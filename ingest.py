@@ -168,12 +168,16 @@ def fetch_rb_sets(key: str) -> list[dict]:
 
     sets_by_id: dict[str, dict] = {}  # de-dupe by set_num; first-seen wins
     page = 1
+    completed = False  # True only when we reach the natural end of pagination
     while page <= 300:  # ponytail: safety cap — ~20k sets / 100 = ~200 pages expected
         try:
             data = rb_get("/sets/", key, {"page": page, "page_size": 100})
         except Exception as e:  # noqa: BLE001
-            print(f"  WARN: /sets/ page {page} failed: {e}", file=sys.stderr)
-            break
+            # Do NOT `break` and publish a partial catalog — a mid-fetch 429 would
+            # gut the catalog and silently overwrite the good one. Abort instead.
+            raise RuntimeError(
+                f"RB /sets/ fetch aborted at page {page} ({len(sets_by_id)} sets so far): {e}"
+            ) from e
         for s in data.get("results", []):
             # Skip single-element pseudo-sets + gear (books, keychains, promo bricks)
             # — a collection app tracks sets, not individual pieces.
@@ -182,10 +186,19 @@ def fetch_rb_sets(key: str) -> list[dict]:
             s["theme_name"] = id_to_root.get(s.get("theme_id"), "")
             sets_by_id.setdefault(s.get("set_num", ""), s)  # de-dupe; first-seen wins
         if not data.get("next"):
+            completed = True
             break
         if page % 20 == 0:
             print(f"  ...page {page}, {len(sets_by_id)} sets so far", flush=True)
         page += 1
+
+    # Guard: a truncated fetch (hit the page cap without reaching the end) must not
+    # overwrite the last-good catalog. Better to fail the run and keep yesterday's.
+    if not completed:
+        raise RuntimeError(
+            f"RB /sets/ fetch never reached the end (stopped at page {page}, "
+            f"{len(sets_by_id)} sets) — refusing to publish a truncated catalog"
+        )
 
     print(f"  fetched {len(sets_by_id)} sets across {page} pages", flush=True)
     return list(sets_by_id.values())
