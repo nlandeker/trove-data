@@ -1,0 +1,2412 @@
+{
+  "version": 1,
+  "_generated": "2026-07-06T09:17:01Z",
+  "items": [
+    {
+      "id": "anilist-105778",
+      "name": "Chainsaw Man",
+      "volumeCount": 24,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-105398",
+      "name": "Solo Leveling",
+      "volumeCount": 15,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-101517",
+      "name": "Jujutsu Kaisen",
+      "volumeCount": 30,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30002",
+      "name": "Berserk",
+      "volumeCount": 43,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-30013",
+      "name": "One Piece",
+      "volumeCount": 114,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-53390",
+      "name": "Attack on Titan",
+      "volumeCount": 34,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-87216",
+      "name": "Demon Slayer: Kimetsu no Yaiba",
+      "volumeCount": 23,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-63327",
+      "name": "Tokyo Ghoul",
+      "volumeCount": 14,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-34632",
+      "name": "Goodnight Punpun",
+      "volumeCount": 13,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85486",
+      "name": "My Hero Academia",
+      "volumeCount": 42,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-74347",
+      "name": "One-Punch Man",
+      "volumeCount": 37,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-30656",
+      "name": "Vagabond",
+      "volumeCount": 37,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-108556",
+      "name": "SPY x FAMILY",
+      "volumeCount": 17,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-30642",
+      "name": "Vinland Saga",
+      "volumeCount": 29,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-87423",
+      "name": "The Promised Neverland",
+      "volumeCount": 20,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-119257",
+      "name": "Omniscient Reader",
+      "volumeCount": 3,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-72451",
+      "name": "Horimiya",
+      "volumeCount": 17,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-106130",
+      "name": "Blue Lock",
+      "volumeCount": 39,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-30012",
+      "name": "Bleach",
+      "volumeCount": 74,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-86635",
+      "name": "Kaguya-sama: Love is War",
+      "volumeCount": 28,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-102988",
+      "name": "Tokyo Revengers",
+      "volumeCount": 31,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-132029",
+      "name": "Dandadan",
+      "volumeCount": 24,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-30026",
+      "name": "Hunter x Hunter",
+      "volumeCount": 39,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-97852",
+      "name": "Komi Can't Communicate",
+      "volumeCount": 37,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-86123",
+      "name": "Black Clover",
+      "volumeCount": 38,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-117195",
+      "name": "[Oshi no Ko]",
+      "volumeCount": 16,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30001",
+      "name": "Monster",
+      "volumeCount": 18,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30003",
+      "name": "20th Century Boys",
+      "volumeCount": 22,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-120760",
+      "name": "Kaiju No.8",
+      "volumeCount": 16,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-31706",
+      "name": "JoJo's Bizarre Adventure: Part 7–Steel Ball Run",
+      "volumeCount": 24,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-87170",
+      "name": "Fire Punch",
+      "volumeCount": 8,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85611",
+      "name": "Tokyo Ghoul:re",
+      "volumeCount": 16,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-65243",
+      "name": "Haikyu!!",
+      "volumeCount": 45,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85143",
+      "name": "Tower of God",
+      "volumeCount": 20,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-30021",
+      "name": "Death Note",
+      "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30011",
+      "name": "Naruto",
+      "volumeCount": 72,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-101583",
+      "name": "My Dress-Up Darling",
+      "volumeCount": 15,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-100994",
+      "name": "Hell’s Paradise: Jigokuraku",
+      "volumeCount": 13,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85135",
+      "name": "A Silent Voice",
+      "volumeCount": 7,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-98416",
+      "name": "Dr. STONE",
+      "volumeCount": 27,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-125828",
+      "name": "Sakamoto Days",
+      "volumeCount": 27,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-31133",
+      "name": "Dorohedoro",
+      "volumeCount": 23,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30436",
+      "name": "Uzumaki: Spiral into Horror",
+      "volumeCount": 3,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-97553",
+      "name": "Three Days of Happiness",
+      "volumeCount": 3,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-146983",
+      "name": "Goodbye, Eri",
+      "volumeCount": 1,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-74489",
+      "name": "Land of the Lustrous",
+      "volumeCount": 13,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30025",
+      "name": "Fullmetal Alchemist",
+      "volumeCount": 27,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-98263",
+      "name": "Witch Hat Atelier",
+      "volumeCount": 16,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-107237",
+      "name": "Blue Period",
+      "volumeCount": 19,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-86964",
+      "name": "Bastard",
+      "volumeCount": 5,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-140475",
+      "name": "The Fragrant Flower Blooms With Dignity",
+      "volumeCount": 23,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-100664",
+      "name": "Don't Toy With Me, Miss Nagatoro",
+      "volumeCount": 20,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-46765",
+      "name": "Kingdom",
+      "volumeCount": 79,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-30051",
+      "name": "Slam Dunk",
+      "volumeCount": 31,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-33009",
+      "name": "JoJo's Bizarre Adventure Part 6: Stone Ocean",
+      "volumeCount": 17,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-54705",
+      "name": "The Flowers of Evil",
+      "volumeCount": 11,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-98842",
+      "name": "Toilet-Bound Hanako-kun",
+      "volumeCount": 25,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-105469",
+      "name": "Jujutsu Kaisen 0",
+      "volumeCount": 1,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30936",
+      "name": "Homunculus",
+      "volumeCount": 15,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-37375",
+      "name": "The Climber",
+      "volumeCount": 17,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-100230",
+      "name": "The Quintessential Quintuplets",
+      "volumeCount": 14,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30564",
+      "name": "Gantz",
+      "volumeCount": 37,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-101233",
+      "name": "The Way of the Househusband",
+      "volumeCount": 17,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-30908",
+      "name": "Soul Eater",
+      "volumeCount": 25,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-107098",
+      "name": "Record of Ragnarok",
+      "volumeCount": 27,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-87395",
+      "name": "Grand Blue Dreaming",
+      "volumeCount": 26,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-169355",
+      "name": "Kagurabachi",
+      "volumeCount": 11,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-86310",
+      "name": "Fire Force",
+      "volumeCount": 34,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-86218",
+      "name": "Bloom Into You",
+      "volumeCount": 8,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30583",
+      "name": "Claymore",
+      "volumeCount": 27,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-98397",
+      "name": "Blood on the Tracks",
+      "volumeCount": 17,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-111233",
+      "name": "Call of the Night",
+      "volumeCount": 20,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-86717",
+      "name": "Wotakoi: Love is Hard for Otaku",
+      "volumeCount": 11,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-144946",
+      "name": "Gachiakuta",
+      "volumeCount": 18,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-30149",
+      "name": "BLAME!",
+      "volumeCount": 10,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-100568",
+      "name": "The Horizon",
+      "volumeCount": 3,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-136807",
+      "name": "Look Back",
+      "volumeCount": 1,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30104",
+      "name": "Yotsuba&!",
+      "volumeCount": 16,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-79865",
+      "name": "Ajin: Demi-Human",
+      "volumeCount": 17,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-54692",
+      "name": "Noragami: Stray God",
+      "volumeCount": 27,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-99943",
+      "name": "Rent-A-Girlfriend",
+      "volumeCount": 46,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-55515",
+      "name": "JoJo no Kimyou na Bouken: JoJolion",
+      "volumeCount": 27,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-54294",
+      "name": "Ao Haru Ride",
+      "volumeCount": 13,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-114960",
+      "name": "Mashle: Magic and Muscles",
+      "volumeCount": 18,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-116186",
+      "name": "Boy's Abyss",
+      "volumeCount": 18,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30028",
+      "name": "Nana",
+      "volumeCount": 21,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-86551",
+      "name": "Made in Abyss",
+      "volumeCount": 14,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-30598",
+      "name": "Fairy Tail",
+      "volumeCount": 63,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-33031",
+      "name": "Pandora Hearts",
+      "volumeCount": 24,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-61499",
+      "name": "Nisekoi: False Love",
+      "volumeCount": 25,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30336",
+      "name": "GTO: Great Teacher Onizuka",
+      "volumeCount": 25,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-100954",
+      "name": "Sweet Home",
+      "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-74485",
+      "name": "The Seven Deadly Sins",
+      "volumeCount": 41,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85849",
+      "name": "ReLIFE",
+      "volumeCount": 15,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-86082",
+      "name": "Delicious in Dungeon",
+      "volumeCount": 14,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-69883",
+      "name": "Assassination Classroom",
+      "volumeCount": 21,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85141",
+      "name": "The God of High School",
+      "volumeCount": 4,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-132182",
+      "name": "Blue Box",
+      "volumeCount": 26,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-106064",
+      "name": "Chained Soldier",
+      "volumeCount": 21,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-51525",
+      "name": "Yona of the Dawn",
+      "volumeCount": 48,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-33731",
+      "name": "Solanin",
+      "volumeCount": 2,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30042",
+      "name": "Dragon Ball",
+      "volumeCount": 42,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30745",
+      "name": "Pluto",
+      "volumeCount": 8,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-33986",
+      "name": "Deadman Wonderland",
+      "volumeCount": 13,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-86559",
+      "name": "Golden Kamuy",
+      "volumeCount": 31,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-97830",
+      "name": "To Your Eternity",
+      "volumeCount": 25,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-44790",
+      "name": "Magi: The Labyrinth of Magic",
+      "volumeCount": 37,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30657",
+      "name": "Real",
+      "volumeCount": 17,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-87178",
+      "name": "Boruto: Naruto Next Generations",
+      "volumeCount": 20,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85412",
+      "name": "Girls' Last Tour",
+      "volumeCount": 6,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-149544",
+      "name": "The Guy She Was Interested In Wasn't a Guy at All",
+      "volumeCount": 4,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-105393",
+      "name": "A Returner's Magic Should Be Special",
+      "volumeCount": 6,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85189",
+      "name": "Mob Psycho 100",
+      "volumeCount": 16,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-38967",
+      "name": "Onani Master Kurosawa",
+      "volumeCount": 4,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-98587",
+      "name": "BEASTARS",
+      "volumeCount": 22,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-126693",
+      "name": "Choujin X",
+      "volumeCount": 16,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-75757",
+      "name": "Food Wars!: Shokugeki no Soma",
+      "volumeCount": 36,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-55132",
+      "name": "Akame ga KILL!",
+      "volumeCount": 15,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-31517",
+      "name": "JoJo's Bizarre Adventure Part 1: Phantom Blood",
+      "volumeCount": 5,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85564",
+      "name": "Mushoku Tensei: Jobless Reincarnation",
+      "volumeCount": 25,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-30664",
+      "name": "Akira",
+      "volumeCount": 6,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-106758",
+      "name": "The Eminence in Shadow",
+      "volumeCount": 7,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-86300",
+      "name": "Tomo-chan is a Girl!",
+      "volumeCount": 8,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85307",
+      "name": "Bungo Stray Dogs",
+      "volumeCount": 28,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-85215",
+      "name": "All You Need Is Kill",
+      "volumeCount": 2,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-86770",
+      "name": "The Girl From the Other Side: Siúil, a Rún",
+      "volumeCount": 11,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-99022",
+      "name": "The Apothecary Diaries",
+      "volumeCount": 16,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-105097",
+      "name": "Mieruko-chan",
+      "volumeCount": 14,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-98328",
+      "name": "Jagaaan",
+      "volumeCount": 14,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-86848",
+      "name": "Lookism",
+      "volumeCount": 20,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-39711",
+      "name": "Bakuman。",
+      "volumeCount": 20,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-73661",
+      "name": "Seraph of the End: Vampire Reign",
+      "volumeCount": 37,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-119174",
+      "name": "The Boxer",
+      "volumeCount": 13,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-144957",
+      "name": "The World After the Fall",
+      "volumeCount": 3,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-85802",
+      "name": "Domestic Girlfriend",
+      "volumeCount": 28,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-150378",
+      "name": "Gokurakugai",
+      "volumeCount": 6,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-43492",
+      "name": "Blue Exorcist",
+      "volumeCount": 34,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-38848",
+      "name": "Sun-Ken Rock",
+      "volumeCount": 25,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-86136",
+      "name": "Happiness",
+      "volumeCount": 10,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30024",
+      "name": "D.Gray-man",
+      "volumeCount": 29,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-86099",
+      "name": "Wind Breaker",
+      "volumeCount": 26,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-44440",
+      "name": "I Am a Hero",
+      "volumeCount": 22,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-112981",
+      "name": "Kubo Won't Let Me Be Invisible",
+      "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30912",
+      "name": "Tomie",
+      "volumeCount": 1,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-94970",
+      "name": "Classroom of the Elite",
+      "volumeCount": 14,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85911",
+      "name": "Tomodachi Game",
+      "volumeCount": 26,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-101177",
+      "name": "Fly Me to the Moon",
+      "volumeCount": 36,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-85316",
+      "name": "Dead Dead Demon's Dededede Destruction",
+      "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-63031",
+      "name": "Alice in Borderland",
+      "volumeCount": 18,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-87347",
+      "name": "Given",
+      "volumeCount": 9,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-118408",
+      "name": "Villains Are Destined to Die",
+      "volumeCount": 8,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-138603",
+      "name": "The Summer Hikaru Died",
+      "volumeCount": 9,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-98334",
+      "name": "Blue Flag",
+      "volumeCount": 8,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-107282",
+      "name": "Shikimori's Not Just a Cutie",
+      "volumeCount": 20,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-147149",
+      "name": "Smoking Behind the Supermarket with You",
+      "volumeCount": 8,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-38586",
+      "name": "THE BREAKER",
+      "volumeCount": 10,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-33008",
+      "name": "JoJo's Bizarre Adventure Part 5: Golden Wind",
+      "volumeCount": 17,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-107521",
+      "name": "Who Made Me a Princess",
+      "volumeCount": 9,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-65573",
+      "name": "orange",
+      "volumeCount": 7,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-41054",
+      "name": "Billy Bat",
+      "volumeCount": 20,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-33866",
+      "name": "Black Butler",
+      "volumeCount": 35,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-30698",
+      "name": "Neon Genesis Evangelion",
+      "volumeCount": 14,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-114416",
+      "name": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You",
+      "volumeCount": 25,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-85470",
+      "name": "Mushoku Tensei: Jobless Reincarnation",
+      "volumeCount": 26,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-55297",
+      "name": "Prison School",
+      "volumeCount": 28,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-109501",
+      "name": "My Love Story with Yamada-kun at Lv999",
+      "volumeCount": 10,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-87208",
+      "name": "Our Dreams at Dusk: Shimanami Tasogare",
+      "volumeCount": 4,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-31630",
+      "name": "JoJo's Bizarre Adventure Part 2: Battle Tendency",
+      "volumeCount": 7,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-33378",
+      "name": "Kimi ni Todoke: From Me to You",
+      "volumeCount": 30,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30743",
+      "name": "21st Century Boys",
+      "volumeCount": 2,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-87459",
+      "name": "My Lesbian Experience With Loneliness",
+      "volumeCount": 1,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-32921",
+      "name": "Maid-sama!",
+      "volumeCount": 18,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-99324",
+      "name": "Welcome to Demon School! Iruma-kun",
+      "volumeCount": 49,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-30004",
+      "name": "Yokohama Kaidashi Kikou",
+      "volumeCount": 14,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-33006",
+      "name": "JoJo's Bizarre Adventure Part 4: Diamond is Unbreakable",
+      "volumeCount": 18,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-111189",
+      "name": "A Sign of Affection",
+      "volumeCount": 14,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-105011",
+      "name": "More Than a Married Couple, but Not Lovers.",
+      "volumeCount": 13,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-86568",
+      "name": "The Case Study of Vanitas",
+      "volumeCount": 11,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-85442",
+      "name": "The Rising of the Shield Hero",
+      "volumeCount": 22,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-30872",
+      "name": "JoJo's Bizarre Adventure Part 3: Stardust Crusaders",
+      "volumeCount": 16,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-110462",
+      "name": "Tomb Raider King",
+      "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30007",
+      "name": "Hajime no Ippo: Fighting Spirit!",
+      "volumeCount": 145,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-101557",
+      "name": "The Dangers in My Heart",
+      "volumeCount": 14,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-30102",
+      "name": "Fruits Basket",
+      "volumeCount": 23,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-59983",
+      "name": "Noblesse",
+      "volumeCount": 25,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85165",
+      "name": "Innocent",
+      "volumeCount": 9,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-86508",
+      "name": "Dragon Ball Super",
+      "volumeCount": 42,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-47465",
+      "name": "Memories of Emanon",
+      "volumeCount": 1,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-98361",
+      "name": "Three Days of Happiness",
+      "volumeCount": 1,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-98235",
+      "name": "We Never Learn",
+      "volumeCount": 21,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-31224",
+      "name": "March Comes in Like a Lion",
+      "volumeCount": 18,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-65003",
+      "name": "Yamada-kun and the Seven Witches",
+      "volumeCount": 28,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-150440",
+      "name": "RuriDragon",
+      "volumeCount": 5,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-113501",
+      "name": "Please Go Home, Miss Akutsu!",
+      "volumeCount": 11,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-31649",
+      "name": "LIAR GAME",
+      "volumeCount": 19,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-76716",
+      "name": "Masamune-kun’s Revenge",
+      "volumeCount": 10,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30145",
+      "name": "BECK",
+      "volumeCount": 34,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-109285",
+      "name": "Skip and Loafer",
+      "volumeCount": 13,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-30401",
+      "name": "Parasyte",
+      "volumeCount": 10,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-80145",
+      "name": "Citrus",
+      "volumeCount": 10,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-39982",
+      "name": "Usogui",
+      "volumeCount": 49,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30658",
+      "name": "Blade of the Immortal",
+      "volumeCount": 30,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-33285",
+      "name": "Holyland",
+      "volumeCount": 18,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-112579",
+      "name": "My Broken Mariko",
+      "volumeCount": 1,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-110473",
+      "name": "Insomniacs After School",
+      "volumeCount": 14,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-179445",
+      "name": "Solo Leveling: Ragnarok",
+      "volumeCount": 15,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-115122",
+      "name": "Death Note: a-Kira",
+      "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30044",
+      "name": "Gin Tama",
+      "volumeCount": 77,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-66267",
+      "name": "Inside Mari",
+      "volumeCount": 9,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-43702",
+      "name": "My Little Monster",
+      "volumeCount": 13,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-87321",
+      "name": "Goblin Slayer",
+      "volumeCount": 16,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-106867",
+      "name": "My Dearest Self With Malice Aforethought",
+      "volumeCount": 11,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-41734",
+      "name": "Watashitachi no Shiawase na Jikan",
+      "volumeCount": 1,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30768",
+      "name": "Battle Angel Alita",
+      "volumeCount": 9,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85533",
+      "name": "Teasing Master Takagi-san",
+      "volumeCount": 20,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-142568",
+      "name": "Takopi's Original Sin",
+      "volumeCount": 2,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-94490",
+      "name": "The Fable",
+      "volumeCount": 22,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-100805",
+      "name": "Here U Are",
+      "volumeCount": 8,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30756",
+      "name": "Banana Fish",
+      "volumeCount": 19,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-104660",
+      "name": "Zom 100: Bucket List of the Dead",
+      "volumeCount": 22,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-41514",
+      "name": "A Bride's Story",
+      "volumeCount": 15,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-86952",
+      "name": "So I'm a Spider, So What?",
+      "volumeCount": 16,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-30030",
+      "name": "Ouran High School Host Club",
+      "volumeCount": 18,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-69325",
+      "name": "Erased",
+      "volumeCount": 9,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-101315",
+      "name": "Anjo the Mischievous Gal",
+      "volumeCount": 17,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-114791",
+      "name": "Undead Unluck",
+      "volumeCount": 27,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30418",
+      "name": "Mushishi",
+      "volumeCount": 10,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-107987",
+      "name": "Whisper Me a Love Song",
+      "volumeCount": 12,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-31303",
+      "name": "Ashita no Joe: Fighting for Tomorrow",
+      "volumeCount": 20,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85435",
+      "name": "The Ancient Magus' Bride",
+      "volumeCount": 24,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-100557",
+      "name": "One Room of Happiness",
+      "volumeCount": 11,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-104973",
+      "name": "The Reason Why Raeliana Ended Up at the Duke's Mansion",
+      "volumeCount": 9,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-121991",
+      "name": "Viral Hit",
+      "volumeCount": 10,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-107559",
+      "name": "Please Put Them On, Takamine-san",
+      "volumeCount": 11,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-30047",
+      "name": "Reborn!",
+      "volumeCount": 42,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85134",
+      "name": "The Empty Box and Zeroth Maria",
+      "volumeCount": 7,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-100991",
+      "name": "ACT-AGE",
+      "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-86265",
+      "name": "Kengan Ashura",
+      "volumeCount": 27,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-180752",
+      "name": "Ichi the Witch",
+      "volumeCount": 9,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-30267",
+      "name": "HELLSING",
+      "volumeCount": 10,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-105263",
+      "name": "Dai Dark",
+      "volumeCount": 9,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-30053",
+      "name": "Yu Yu Hakusho",
+      "volumeCount": 19,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-136331",
+      "name": "The Return of the 8th Class Mage",
+      "volumeCount": 5,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-86279",
+      "name": "Boarding School Juliet",
+      "volumeCount": 16,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-105332",
+      "name": "Sweat and Soap",
+      "volumeCount": 11,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-105577",
+      "name": "Giji Harem",
+      "volumeCount": 6,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-101942",
+      "name": "Heavenly Delusion",
+      "volumeCount": 13,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-85395",
+      "name": "Cheeky Brat",
+      "volumeCount": 23,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85226",
+      "name": "Inuyashiki",
+      "volumeCount": 10,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-59211",
+      "name": "Monthly Girls' Nozaki-kun",
+      "volumeCount": 17,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-30022",
+      "name": "Rurouni Kenshin",
+      "volumeCount": 28,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-31474",
+      "name": "Devilman",
+      "volumeCount": 5,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30481",
+      "name": "Planetes",
+      "volumeCount": 4,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30909",
+      "name": "Gyo",
+      "volumeCount": 2,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-134369",
+      "name": "Medaka Kuroiwa is Impervious to My Charms",
+      "volumeCount": 24,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-105641",
+      "name": "The Girl I Like Forgot Her Glasses",
+      "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-37519",
+      "name": "Kami nomi zo Shiru Sekai",
+      "volumeCount": 26,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-115000",
+      "name": "Unholy Blood",
+      "volumeCount": 8,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-80217",
+      "name": "the gods lie.",
+      "volumeCount": 1,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-86526",
+      "name": "Platinum End",
+      "volumeCount": 14,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-74929",
+      "name": "Scum's Wish",
+      "volumeCount": 8,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-56736",
+      "name": "House of the Sun",
+      "volumeCount": 13,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-60315",
+      "name": "Last Game",
+      "volumeCount": 11,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-111403",
+      "name": "Hokkaido Gals Are Super Adorable!",
+      "volumeCount": 14,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-144866",
+      "name": "Akane-banashi",
+      "volumeCount": 22,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-107279",
+      "name": "Aoashi",
+      "volumeCount": 40,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-105791",
+      "name": "Higehiro: After Being Rejected, I Shaved and Took In a High School Runaway",
+      "volumeCount": 13,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-43949",
+      "name": "Medaka Box",
+      "volumeCount": 22,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85388",
+      "name": "High-Rise Invasion",
+      "volumeCount": 21,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-101724",
+      "name": "Uzaki-chan Wants to Hang Out!",
+      "volumeCount": 14,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-75143",
+      "name": "Kono Oto Tomare!",
+      "volumeCount": 33,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-111149",
+      "name": "Mission: Yozakura Family",
+      "volumeCount": 29,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-117620",
+      "name": "The Summer You Were There",
+      "volumeCount": 6,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-40010",
+      "name": "Beelzebub",
+      "volumeCount": 28,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-66413",
+      "name": "Hinamatsuri",
+      "volumeCount": 19,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-38157",
+      "name": "Kamisama Kiss",
+      "volumeCount": 25,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30010",
+      "name": "xxxHOLiC",
+      "volumeCount": 19,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-114383",
+      "name": "A Couple of Cuckoos",
+      "volumeCount": 33,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-102989",
+      "name": "Summertime Rendering",
+      "volumeCount": 13,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30731",
+      "name": "Eden: It's an Endless World!",
+      "volumeCount": 18,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85247",
+      "name": "Twin Star Exorcists",
+      "volumeCount": 35,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-104063",
+      "name": "Shadows House",
+      "volumeCount": 21,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-33438",
+      "name": "PSYЯEN",
+      "volumeCount": 16,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-57231",
+      "name": "Daytime Shooting Star",
+      "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-141261",
+      "name": "Ayashimon",
+      "volumeCount": 3,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-43245",
+      "name": "Chihayafuru",
+      "volumeCount": 50,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30584",
+      "name": "Future Diary",
+      "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-126135",
+      "name": "Bibliomania",
+      "volumeCount": 1,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30894",
+      "name": "Rosario+Vampire",
+      "volumeCount": 10,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-52651",
+      "name": "THE BREAKER - NEW WAVES",
+      "volumeCount": 20,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-99609",
+      "name": "I Want to Eat Your Pancreas",
+      "volumeCount": 2,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30043",
+      "name": "Eyeshield 21",
+      "volumeCount": 37,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-67707",
+      "name": "Your Lie in April",
+      "volumeCount": 11,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-104503",
+      "name": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs",
+      "volumeCount": 13,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-116266",
+      "name": "Girlfriend, Girlfriend",
+      "volumeCount": 16,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-98544",
+      "name": "Moriarty the Patriot",
+      "volumeCount": 22,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-30029",
+      "name": "Paradise Kiss",
+      "volumeCount": 5,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-114027",
+      "name": "Boy Meets Maria",
+      "volumeCount": 1,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-31101",
+      "name": "Akumetsu",
+      "volumeCount": 18,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-87225",
+      "name": "Tsukimichi: Moonlit Fantasy",
+      "volumeCount": 20,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-120502",
+      "name": "In the Clear Moonlit Dusk",
+      "volumeCount": 10,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-86607",
+      "name": "Gleipnir",
+      "volumeCount": 14,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-152404",
+      "name": "Alya Sometimes Hides Her Feelings in Russian",
+      "volumeCount": 11,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-97842",
+      "name": "My Hero Academia: Vigilantes",
+      "volumeCount": 15,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-101311",
+      "name": "Bakemonogatari",
+      "volumeCount": 22,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-198372",
+      "name": "Jujutsu Kaisen Modulo",
+      "volumeCount": 3,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-50593",
+      "name": "Btooom!",
+      "volumeCount": 27,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-48597",
+      "name": "Sankarea: Undying Love",
+      "volumeCount": 11,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-101434",
+      "name": "How to Treat a Lady Knight Right",
+      "volumeCount": 7,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-65719",
+      "name": "Like a Butterfly",
+      "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-113488",
+      "name": "Weak Hero",
+      "volumeCount": 19,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-122063",
+      "name": "Shangri-La Frontier",
+      "volumeCount": 26,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-85235",
+      "name": "School-Live!",
+      "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-60079",
+      "name": "The Sound of Magic: Annarasumanara",
+      "volumeCount": 3,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-66213",
+      "name": "Monster Musume",
+      "volumeCount": 21,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-78881",
+      "name": "Darwin's Game",
+      "volumeCount": 30,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-135083",
+      "name": "WIND BREAKER",
+      "volumeCount": 26,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-86481",
+      "name": "Tsuredure Children",
+      "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-108105",
+      "name": "When Will Ayumu Make His Move?",
+      "volumeCount": 17,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30651",
+      "name": "Nausicaä of the Valley of the Wind",
+      "volumeCount": 7,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-100937",
+      "name": "DARLING in the FRANXX",
+      "volumeCount": 8,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-107120",
+      "name": "Chillin’ in Another World with Level 2 Super Cheat Powers",
+      "volumeCount": 21,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-40552",
+      "name": "Lucifer and the Biscuit Hammer",
+      "volumeCount": 10,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-125624",
+      "name": "Even If You Slit My Mouth",
+      "volumeCount": 11,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-176740",
+      "name": "Centuria",
+      "volumeCount": 9,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-104241",
+      "name": "How Do We Relationship?",
+      "volumeCount": 14,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-58361",
+      "name": "HIDEOUT",
+      "volumeCount": 1,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-70171",
+      "name": "My Youth Romantic Comedy Is Wrong, As I Expected",
+      "volumeCount": 18,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-113076",
+      "name": "Sometimes Even Reality Is a Lie!",
+      "volumeCount": 8,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85616",
+      "name": "Seaside Stranger: Umibe no Étranger",
+      "volumeCount": 1,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-110605",
+      "name": "Leviathan",
+      "volumeCount": 9,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85495",
+      "name": "Re:Monster",
+      "volumeCount": 9,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-34571",
+      "name": "Snow White with the Red Hair",
+      "volumeCount": 27,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-113055",
+      "name": "The Remarried Empress",
+      "volumeCount": 9,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30933",
+      "name": "Elfen Lied",
+      "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-98112",
+      "name": "Gal Gohan",
+      "volumeCount": 10,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-103111",
+      "name": "My Senpai is Annoying",
+      "volumeCount": 13,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30735",
+      "name": "Black Lagoon",
+      "volumeCount": 13,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-78151",
+      "name": "World Trigger",
+      "volumeCount": 29,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-86549",
+      "name": "Go For It, Nakamura!",
+      "volumeCount": 1,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-101625",
+      "name": "Berserk of Gluttony",
+      "volumeCount": 8,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-112544",
+      "name": "Kowloon Generic Romance",
+      "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-97337",
+      "name": "your name.",
+      "volumeCount": 3,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-106726",
+      "name": "Shimeji Simulation",
+      "volumeCount": 5,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-101860",
+      "name": "EDENS ZERO",
+      "volumeCount": 33,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-68071",
+      "name": "Spirit Circle",
+      "volumeCount": 6,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-147997",
+      "name": "You and I Are Polar Opposites",
+      "volumeCount": 8,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-111258",
+      "name": "Bocchi the Rock!",
+      "volumeCount": 8,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-153880",
+      "name": "The Art of Reincarnation",
+      "volumeCount": 12,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-30074",
+      "name": "Air Gear",
+      "volumeCount": 37,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-112621",
+      "name": "I Can't Say No to the Lonely Girl",
+      "volumeCount": 6,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-121565",
+      "name": "Seasons of Blossom",
+      "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-103255",
+      "name": "Fairy Tail: 100 Years Quest",
+      "volumeCount": 23,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-58533",
+      "name": "No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!",
+      "volumeCount": 28,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-106454",
+      "name": "Sensei wa Koi wo Oshierarenai",
+      "volumeCount": 7,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-44893",
+      "name": "Bakemonogatari: Monster Tale",
+      "volumeCount": 2,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30050",
+      "name": "Shaman King",
+      "volumeCount": 32,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-109728",
+      "name": "The Ice Guy and the Cool Girl",
+      "volumeCount": 11,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-35293",
+      "name": "Doubt",
+      "volumeCount": 4,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30106",
+      "name": "Cardcaptor Sakura",
+      "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-31373",
+      "name": "Nijigahara Holograph",
+      "volumeCount": 1,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-99549",
+      "name": "Karakai Jouzu no (Moto) Takagi-san",
+      "volumeCount": 23,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-54903",
+      "name": "GANGSTA.",
+      "volumeCount": 8,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-86303",
+      "name": "Miss Kobayashi's Dragon Maid",
+      "volumeCount": 19,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-30142",
+      "name": "Battle Royale",
+      "volumeCount": 15,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-87234",
+      "name": "The Elder Sister-Like One",
+      "volumeCount": 6,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-30463",
+      "name": "Welcome to the N.H.K.",
+      "volumeCount": 8,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-141479",
+      "name": "The Legendary Spearman Returns",
+      "volumeCount": 20,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-31149",
+      "name": "Fist of the North Star",
+      "volumeCount": 27,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-100207",
+      "name": "The Great Jahy Will Not Be Defeated!",
+      "volumeCount": 12,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-30671",
+      "name": "To Love Ru",
+      "volumeCount": 18,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-143031",
+      "name": "I Want to End This Love Game",
+      "volumeCount": 9,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-30085",
+      "name": "Azumanga Daioh",
+      "volumeCount": 4,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-68105",
+      "name": "Kase-san and...",
+      "volumeCount": 5,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85139",
+      "name": "My Monster Secret: Actually, I Am…",
+      "volumeCount": 22,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30092",
+      "name": "Sailor Moon",
+      "volumeCount": 18,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-39115",
+      "name": "Spice & Wolf",
+      "volumeCount": 24,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-159142",
+      "name": "Firefly Wedding",
+      "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-120440",
+      "name": "Positively Yours",
+      "volumeCount": 8,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-98466",
+      "name": "Kemono Jihen",
+      "volumeCount": 24,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-86720",
+      "name": "Helck",
+      "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-35255",
+      "name": "Dengeki Daisy",
+      "volumeCount": 16,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-87213",
+      "name": "Yuuna and the Haunted Hot Springs",
+      "volumeCount": 24,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30904",
+      "name": "Lone Wolf and Cub",
+      "volumeCount": 28,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-106434",
+      "name": "Hitomi-chan is Shy With Strangers",
+      "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85887",
+      "name": "Ookami Shounen wa Kyou mo Uso wo Kasaneru",
+      "volumeCount": 5,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85566",
+      "name": "Love & Lies",
+      "volumeCount": 13,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-31131",
+      "name": "Freesia",
+      "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-107518",
+      "name": "Heavenly Demon Reborn!",
+      "volumeCount": 10,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-107540",
+      "name": "Loner Life in Another World",
+      "volumeCount": 18,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-110140",
+      "name": "It Takes Two Tomorrow, Too",
+      "volumeCount": 5,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-127564",
+      "name": "Go! Go! Loser Ranger!",
+      "volumeCount": 22,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-85978",
+      "name": "The New Gate",
+      "volumeCount": 23,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-171729",
+      "name": "Love Bullet",
+      "volumeCount": 2,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-30031",
+      "name": "Love★Com",
+      "volumeCount": 17,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30081",
+      "name": "Aria",
+      "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-98686",
+      "name": "Aharen-san is Indecipherable",
+      "volumeCount": 17,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30009",
+      "name": "Tsubasa RESERVoir CHRoNiCLE",
+      "volumeCount": 28,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-118695",
+      "name": "I’m in Love with the Villainess",
+      "volumeCount": 5,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-86355",
+      "name": "That Time I Got Reincarnated as a Slime",
+      "volumeCount": 23,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-110785",
+      "name": "2.5 Dimensional Seduction",
+      "volumeCount": 25,
+      "ongoing": false
+    }
+  ]
+}
