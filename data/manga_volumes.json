@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-07-06T09:17:01Z",
+  "_generated": "2026-07-07T07:33:22Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -153,12 +153,6 @@
       "ongoing": false
     },
     {
-      "id": "anilist-117195",
-      "name": "[Oshi no Ko]",
-      "volumeCount": 16,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30001",
       "name": "Monster",
       "volumeCount": 18,
@@ -168,6 +162,12 @@
       "id": "anilist-30003",
       "name": "20th Century Boys",
       "volumeCount": 22,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-117195",
+      "name": "[Oshi no Ko]",
+      "volumeCount": 16,
       "ongoing": false
     },
     {
@@ -651,6 +651,12 @@
       "ongoing": true
     },
     {
+      "id": "anilist-149544",
+      "name": "The Guy She Was Interested In Wasn't a Guy at All",
+      "volumeCount": 4,
+      "ongoing": true
+    },
+    {
       "id": "anilist-87178",
       "name": "Boruto: Naruto Next Generations",
       "volumeCount": 20,
@@ -661,12 +667,6 @@
       "name": "Girls' Last Tour",
       "volumeCount": 6,
       "ongoing": false
-    },
-    {
-      "id": "anilist-149544",
-      "name": "The Guy She Was Interested In Wasn't a Guy at All",
-      "volumeCount": 4,
-      "ongoing": true
     },
     {
       "id": "anilist-105393",
@@ -715,12 +715,6 @@
       "name": "JoJo's Bizarre Adventure Part 1: Phantom Blood",
       "volumeCount": 5,
       "ongoing": false
-    },
-    {
-      "id": "anilist-85564",
-      "name": "Mushoku Tensei: Jobless Reincarnation",
-      "volumeCount": 25,
-      "ongoing": true
     },
     {
       "id": "anilist-30664",
@@ -775,12 +769,6 @@
       "name": "Jagaaan",
       "volumeCount": 14,
       "ongoing": false
-    },
-    {
-      "id": "anilist-86848",
-      "name": "Lookism",
-      "volumeCount": 20,
-      "ongoing": true
     },
     {
       "id": "anilist-39711",
@@ -999,9 +987,9 @@
       "ongoing": true
     },
     {
-      "id": "anilist-87208",
-      "name": "Our Dreams at Dusk: Shimanami Tasogare",
-      "volumeCount": 4,
+      "id": "anilist-33378",
+      "name": "Kimi ni Todoke: From Me to You",
+      "volumeCount": 30,
       "ongoing": false
     },
     {
@@ -1011,9 +999,9 @@
       "ongoing": false
     },
     {
-      "id": "anilist-33378",
-      "name": "Kimi ni Todoke: From Me to You",
-      "volumeCount": 30,
+      "id": "anilist-87208",
+      "name": "Our Dreams at Dusk: Shimanami Tasogare",
+      "volumeCount": 4,
       "ongoing": false
     },
     {
@@ -1035,16 +1023,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-99324",
-      "name": "Welcome to Demon School! Iruma-kun",
-      "volumeCount": 49,
-      "ongoing": true
-    },
-    {
       "id": "anilist-30004",
       "name": "Yokohama Kaidashi Kikou",
       "volumeCount": 14,
       "ongoing": false
+    },
+    {
+      "id": "anilist-99324",
+      "name": "Welcome to Demon School! Iruma-kun",
+      "volumeCount": 49,
+      "ongoing": true
     },
     {
       "id": "anilist-33006",
@@ -1107,15 +1095,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-59983",
-      "name": "Noblesse",
-      "volumeCount": 25,
-      "ongoing": false
-    },
-    {
       "id": "anilist-85165",
       "name": "Innocent",
       "volumeCount": 9,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-59983",
+      "name": "Noblesse",
+      "volumeCount": 25,
       "ongoing": false
     },
     {
@@ -1227,27 +1215,27 @@
       "ongoing": false
     },
     {
-      "id": "anilist-110473",
-      "name": "Insomniacs After School",
-      "volumeCount": 14,
-      "ongoing": false
-    },
-    {
       "id": "anilist-179445",
       "name": "Solo Leveling: Ragnarok",
       "volumeCount": 15,
       "ongoing": true
     },
     {
-      "id": "anilist-115122",
-      "name": "Death Note: a-Kira",
-      "volumeCount": 12,
+      "id": "anilist-110473",
+      "name": "Insomniacs After School",
+      "volumeCount": 14,
       "ongoing": false
     },
     {
       "id": "anilist-30044",
       "name": "Gin Tama",
       "volumeCount": 77,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-115122",
+      "name": "Death Note: a-Kira",
+      "volumeCount": 12,
       "ongoing": false
     },
     {
@@ -1317,15 +1305,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-104660",
-      "name": "Zom 100: Bucket List of the Dead",
-      "volumeCount": 22,
-      "ongoing": true
-    },
-    {
       "id": "anilist-41514",
       "name": "A Bride's Story",
       "volumeCount": 15,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-104660",
+      "name": "Zom 100: Bucket List of the Dead",
+      "volumeCount": 22,
       "ongoing": true
     },
     {
@@ -1443,16 +1431,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-105263",
-      "name": "Dai Dark",
-      "volumeCount": 9,
-      "ongoing": true
-    },
-    {
       "id": "anilist-30053",
       "name": "Yu Yu Hakusho",
       "volumeCount": 19,
       "ongoing": false
+    },
+    {
+      "id": "anilist-105263",
+      "name": "Dai Dark",
+      "volumeCount": 9,
+      "ongoing": true
     },
     {
       "id": "anilist-136331",
@@ -1653,15 +1641,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-38157",
-      "name": "Kamisama Kiss",
-      "volumeCount": 25,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30010",
       "name": "xxxHOLiC",
       "volumeCount": 19,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-38157",
+      "name": "Kamisama Kiss",
+      "volumeCount": 25,
       "ongoing": false
     },
     {
@@ -1809,16 +1797,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-86607",
-      "name": "Gleipnir",
-      "volumeCount": 14,
-      "ongoing": false
-    },
-    {
       "id": "anilist-152404",
       "name": "Alya Sometimes Hides Her Feelings in Russian",
       "volumeCount": 11,
       "ongoing": true
+    },
+    {
+      "id": "anilist-86607",
+      "name": "Gleipnir",
+      "volumeCount": 14,
+      "ongoing": false
     },
     {
       "id": "anilist-97842",
@@ -1893,16 +1881,22 @@
       "ongoing": true
     },
     {
+      "id": "anilist-135083",
+      "name": "WIND BREAKER",
+      "volumeCount": 26,
+      "ongoing": true
+    },
+    {
       "id": "anilist-78881",
       "name": "Darwin's Game",
       "volumeCount": 30,
       "ongoing": false
     },
     {
-      "id": "anilist-135083",
-      "name": "WIND BREAKER",
-      "volumeCount": 26,
-      "ongoing": true
+      "id": "anilist-30651",
+      "name": "Nausicaä of the Valley of the Wind",
+      "volumeCount": 7,
+      "ongoing": false
     },
     {
       "id": "anilist-86481",
@@ -1914,12 +1908,6 @@
       "id": "anilist-108105",
       "name": "When Will Ayumu Make His Move?",
       "volumeCount": 17,
-      "ongoing": false
-    },
-    {
-      "id": "anilist-30651",
-      "name": "Nausicaä of the Valley of the Wind",
-      "volumeCount": 7,
       "ongoing": false
     },
     {
@@ -2001,16 +1989,22 @@
       "ongoing": true
     },
     {
+      "id": "anilist-30933",
+      "name": "Elfen Lied",
+      "volumeCount": 12,
+      "ongoing": false
+    },
+    {
       "id": "anilist-113055",
       "name": "The Remarried Empress",
       "volumeCount": 9,
       "ongoing": false
     },
     {
-      "id": "anilist-30933",
-      "name": "Elfen Lied",
-      "volumeCount": 12,
-      "ongoing": false
+      "id": "anilist-30735",
+      "name": "Black Lagoon",
+      "volumeCount": 13,
+      "ongoing": true
     },
     {
       "id": "anilist-98112",
@@ -2025,15 +2019,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30735",
-      "name": "Black Lagoon",
-      "volumeCount": 13,
-      "ongoing": true
-    },
-    {
       "id": "anilist-78151",
       "name": "World Trigger",
       "volumeCount": 29,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-98370",
+      "name": "Sasaki and Miyano",
+      "volumeCount": 11,
       "ongoing": true
     },
     {
@@ -2103,15 +2097,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-112621",
-      "name": "I Can't Say No to the Lonely Girl",
-      "volumeCount": 6,
-      "ongoing": false
-    },
-    {
       "id": "anilist-121565",
       "name": "Seasons of Blossom",
       "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-112621",
+      "name": "I Can't Say No to the Lonely Girl",
+      "volumeCount": 6,
       "ongoing": false
     },
     {
@@ -2181,16 +2175,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-86303",
-      "name": "Miss Kobayashi's Dragon Maid",
-      "volumeCount": 19,
-      "ongoing": true
-    },
-    {
       "id": "anilist-30142",
       "name": "Battle Royale",
       "volumeCount": 15,
       "ongoing": false
+    },
+    {
+      "id": "anilist-86303",
+      "name": "Miss Kobayashi's Dragon Maid",
+      "volumeCount": 19,
+      "ongoing": true
     },
     {
       "id": "anilist-87234",
@@ -2217,9 +2211,9 @@
       "ongoing": false
     },
     {
-      "id": "anilist-100207",
-      "name": "The Great Jahy Will Not Be Defeated!",
-      "volumeCount": 12,
+      "id": "anilist-143031",
+      "name": "I Want to End This Love Game",
+      "volumeCount": 9,
       "ongoing": true
     },
     {
@@ -2229,9 +2223,9 @@
       "ongoing": false
     },
     {
-      "id": "anilist-143031",
-      "name": "I Want to End This Love Game",
-      "volumeCount": 9,
+      "id": "anilist-100207",
+      "name": "The Great Jahy Will Not Be Defeated!",
+      "volumeCount": 12,
       "ongoing": true
     },
     {
@@ -2355,12 +2349,6 @@
       "ongoing": true
     },
     {
-      "id": "anilist-85978",
-      "name": "The New Gate",
-      "volumeCount": 23,
-      "ongoing": true
-    },
-    {
       "id": "anilist-171729",
       "name": "Love Bullet",
       "volumeCount": 2,
@@ -2379,15 +2367,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-98686",
-      "name": "Aharen-san is Indecipherable",
-      "volumeCount": 17,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30009",
       "name": "Tsubasa RESERVoir CHRoNiCLE",
       "volumeCount": 28,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-98686",
+      "name": "Aharen-san is Indecipherable",
+      "volumeCount": 17,
       "ongoing": false
     },
     {
