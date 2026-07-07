@@ -2,7 +2,7 @@
   "version": 2,
   "currency": "EUR",
   "_attribution": "LEGO data: Rebrickable (rebrickable.com) + Brickset (brickset.com). Not affiliated with or endorsed by The LEGO Group.",
-  "_generated": "2026-07-06T07:33:27Z",
+  "_generated": "2026-07-07T06:56:47Z",
   "items": [
     {
       "id": "001",
@@ -60217,7 +60217,7 @@
         "GBP": 12.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-06-08",
+      "retirementDate": "2026-07-06",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -101352,8 +101352,8 @@
         "USD": 449.99,
         "GBP": 399.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-07-06",
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -102261,8 +102261,8 @@
         "USD": 14.99,
         "GBP": 12.99
       },
-      "lifecycleStatus": "RETIRING_SOON",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-07-06",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -105929,7 +105929,7 @@
       "themeOrSeries": "Disney",
       "retailPrice": null,
       "prices": {},
-      "lifecycleStatus": "RETIRING_SOON",
+      "lifecycleStatus": "AVAILABLE",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2024,
@@ -146698,8 +146698,8 @@
         "USD": 74.99,
         "GBP": 59.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-07-06",
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
