@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-07-07T07:33:22Z",
+  "_generated": "2026-07-08T06:25:16Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -297,16 +297,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-86964",
-      "name": "Bastard",
-      "volumeCount": 5,
-      "ongoing": false
-    },
-    {
       "id": "anilist-140475",
       "name": "The Fragrant Flower Blooms With Dignity",
       "volumeCount": 23,
       "ongoing": true
+    },
+    {
+      "id": "anilist-86964",
+      "name": "Bastard",
+      "volumeCount": 5,
+      "ongoing": false
     },
     {
       "id": "anilist-100664",
@@ -657,15 +657,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-87178",
-      "name": "Boruto: Naruto Next Generations",
-      "volumeCount": 20,
-      "ongoing": false
-    },
-    {
       "id": "anilist-85412",
       "name": "Girls' Last Tour",
       "volumeCount": 6,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-87178",
+      "name": "Boruto: Naruto Next Generations",
+      "volumeCount": 20,
       "ongoing": false
     },
     {
@@ -735,16 +735,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85307",
-      "name": "Bungo Stray Dogs",
-      "volumeCount": 28,
-      "ongoing": true
-    },
-    {
       "id": "anilist-85215",
       "name": "All You Need Is Kill",
       "volumeCount": 2,
       "ongoing": false
+    },
+    {
+      "id": "anilist-85307",
+      "name": "Bungo Stray Dogs",
+      "volumeCount": 28,
+      "ongoing": true
     },
     {
       "id": "anilist-86770",
@@ -1815,15 +1815,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-101311",
-      "name": "Bakemonogatari",
-      "volumeCount": 22,
-      "ongoing": false
-    },
-    {
       "id": "anilist-198372",
       "name": "Jujutsu Kaisen Modulo",
       "volumeCount": 3,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-101311",
+      "name": "Bakemonogatari",
+      "volumeCount": 22,
       "ongoing": false
     },
     {
@@ -1929,16 +1929,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-125624",
-      "name": "Even If You Slit My Mouth",
-      "volumeCount": 11,
-      "ongoing": false
-    },
-    {
       "id": "anilist-176740",
       "name": "Centuria",
       "volumeCount": 9,
       "ongoing": true
+    },
+    {
+      "id": "anilist-125624",
+      "name": "Even If You Slit My Mouth",
+      "volumeCount": 11,
+      "ongoing": false
     },
     {
       "id": "anilist-104241",
@@ -1965,15 +1965,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85616",
-      "name": "Seaside Stranger: Umibe no Étranger",
-      "volumeCount": 1,
-      "ongoing": false
-    },
-    {
       "id": "anilist-110605",
       "name": "Leviathan",
       "volumeCount": 9,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85616",
+      "name": "Seaside Stranger: Umibe no Étranger",
+      "volumeCount": 1,
       "ongoing": false
     },
     {
@@ -1983,16 +1983,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-34571",
-      "name": "Snow White with the Red Hair",
-      "volumeCount": 27,
-      "ongoing": true
-    },
-    {
       "id": "anilist-30933",
       "name": "Elfen Lied",
       "volumeCount": 12,
       "ongoing": false
+    },
+    {
+      "id": "anilist-34571",
+      "name": "Snow White with the Red Hair",
+      "volumeCount": 27,
+      "ongoing": true
     },
     {
       "id": "anilist-113055",
@@ -2289,15 +2289,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-87213",
-      "name": "Yuuna and the Haunted Hot Springs",
-      "volumeCount": 24,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30904",
       "name": "Lone Wolf and Cub",
       "volumeCount": 28,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-87213",
+      "name": "Yuuna and the Haunted Hot Springs",
+      "volumeCount": 24,
       "ongoing": false
     },
     {
@@ -2379,16 +2379,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-118695",
-      "name": "I’m in Love with the Villainess",
-      "volumeCount": 5,
-      "ongoing": true
-    },
-    {
       "id": "anilist-86355",
       "name": "That Time I Got Reincarnated as a Slime",
       "volumeCount": 23,
       "ongoing": false
+    },
+    {
+      "id": "anilist-118695",
+      "name": "I’m in Love with the Villainess",
+      "volumeCount": 5,
+      "ongoing": true
     },
     {
       "id": "anilist-110785",
