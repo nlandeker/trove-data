@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-07-08T06:25:16Z",
+  "_generated": "2026-07-09T07:38:38Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -639,6 +639,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-149544",
+      "name": "The Guy She Was Interested In Wasn't a Guy at All",
+      "volumeCount": 4,
+      "ongoing": true
+    },
+    {
       "id": "anilist-44790",
       "name": "Magi: The Labyrinth of Magic",
       "volumeCount": 37,
@@ -648,12 +654,6 @@
       "id": "anilist-30657",
       "name": "Real",
       "volumeCount": 17,
-      "ongoing": true
-    },
-    {
-      "id": "anilist-149544",
-      "name": "The Guy She Was Interested In Wasn't a Guy at All",
-      "volumeCount": 4,
       "ongoing": true
     },
     {
@@ -715,6 +715,12 @@
       "name": "JoJo's Bizarre Adventure Part 1: Phantom Blood",
       "volumeCount": 5,
       "ongoing": false
+    },
+    {
+      "id": "anilist-85564",
+      "name": "Mushoku Tensei: Jobless Reincarnation",
+      "volumeCount": 25,
+      "ongoing": true
     },
     {
       "id": "anilist-30664",
@@ -885,16 +891,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-87347",
-      "name": "Given",
-      "volumeCount": 9,
-      "ongoing": false
-    },
-    {
       "id": "anilist-118408",
       "name": "Villains Are Destined to Die",
       "volumeCount": 8,
       "ongoing": true
+    },
+    {
+      "id": "anilist-87347",
+      "name": "Given",
+      "volumeCount": 9,
+      "ongoing": false
     },
     {
       "id": "anilist-138603",
@@ -1023,16 +1029,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30004",
-      "name": "Yokohama Kaidashi Kikou",
-      "volumeCount": 14,
-      "ongoing": false
-    },
-    {
       "id": "anilist-99324",
       "name": "Welcome to Demon School! Iruma-kun",
       "volumeCount": 49,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30004",
+      "name": "Yokohama Kaidashi Kikou",
+      "volumeCount": 14,
+      "ongoing": false
     },
     {
       "id": "anilist-33006",
@@ -1275,15 +1281,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85533",
-      "name": "Teasing Master Takagi-san",
-      "volumeCount": 20,
-      "ongoing": false
-    },
-    {
       "id": "anilist-142568",
       "name": "Takopi's Original Sin",
       "volumeCount": 2,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85533",
+      "name": "Teasing Master Takagi-san",
+      "volumeCount": 20,
       "ongoing": false
     },
     {
@@ -1329,16 +1335,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-69325",
-      "name": "Erased",
-      "volumeCount": 9,
-      "ongoing": false
-    },
-    {
       "id": "anilist-101315",
       "name": "Anjo the Mischievous Gal",
       "volumeCount": 17,
       "ongoing": true
+    },
+    {
+      "id": "anilist-69325",
+      "name": "Erased",
+      "volumeCount": 9,
+      "ongoing": false
     },
     {
       "id": "anilist-114791",
@@ -1413,16 +1419,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86265",
-      "name": "Kengan Ashura",
-      "volumeCount": 27,
-      "ongoing": false
-    },
-    {
       "id": "anilist-180752",
       "name": "Ichi the Witch",
       "volumeCount": 9,
       "ongoing": true
+    },
+    {
+      "id": "anilist-86265",
+      "name": "Kengan Ashura",
+      "volumeCount": 27,
+      "ongoing": false
     },
     {
       "id": "anilist-30267",
@@ -1743,15 +1749,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-67707",
-      "name": "Your Lie in April",
-      "volumeCount": 11,
-      "ongoing": false
-    },
-    {
       "id": "anilist-104503",
       "name": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs",
       "volumeCount": 13,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-67707",
+      "name": "Your Lie in April",
+      "volumeCount": 11,
       "ongoing": false
     },
     {
@@ -1803,6 +1809,12 @@
       "ongoing": true
     },
     {
+      "id": "anilist-198372",
+      "name": "Jujutsu Kaisen Modulo",
+      "volumeCount": 3,
+      "ongoing": false
+    },
+    {
       "id": "anilist-86607",
       "name": "Gleipnir",
       "volumeCount": 14,
@@ -1812,12 +1824,6 @@
       "id": "anilist-97842",
       "name": "My Hero Academia: Vigilantes",
       "volumeCount": 15,
-      "ongoing": false
-    },
-    {
-      "id": "anilist-198372",
-      "name": "Jujutsu Kaisen Modulo",
-      "volumeCount": 3,
       "ongoing": false
     },
     {
@@ -1989,16 +1995,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-34571",
-      "name": "Snow White with the Red Hair",
-      "volumeCount": 27,
-      "ongoing": true
-    },
-    {
       "id": "anilist-113055",
       "name": "The Remarried Empress",
       "volumeCount": 9,
       "ongoing": false
+    },
+    {
+      "id": "anilist-34571",
+      "name": "Snow White with the Red Hair",
+      "volumeCount": 27,
+      "ongoing": true
     },
     {
       "id": "anilist-30735",
@@ -2022,12 +2028,6 @@
       "id": "anilist-78151",
       "name": "World Trigger",
       "volumeCount": 29,
-      "ongoing": true
-    },
-    {
-      "id": "anilist-98370",
-      "name": "Sasaki and Miyano",
-      "volumeCount": 11,
       "ongoing": true
     },
     {
@@ -2121,15 +2121,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-106454",
-      "name": "Sensei wa Koi wo Oshierarenai",
-      "volumeCount": 7,
-      "ongoing": false
-    },
-    {
       "id": "anilist-44893",
       "name": "Bakemonogatari: Monster Tale",
       "volumeCount": 2,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-106454",
+      "name": "Sensei wa Koi wo Oshierarenai",
+      "volumeCount": 7,
       "ongoing": false
     },
     {
@@ -2199,6 +2199,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-143031",
+      "name": "I Want to End This Love Game",
+      "volumeCount": 9,
+      "ongoing": true
+    },
+    {
       "id": "anilist-141479",
       "name": "The Legendary Spearman Returns",
       "volumeCount": 20,
@@ -2209,12 +2215,6 @@
       "name": "Fist of the North Star",
       "volumeCount": 27,
       "ongoing": false
-    },
-    {
-      "id": "anilist-143031",
-      "name": "I Want to End This Love Game",
-      "volumeCount": 9,
-      "ongoing": true
     },
     {
       "id": "anilist-30671",
@@ -2253,16 +2253,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-39115",
-      "name": "Spice & Wolf",
-      "volumeCount": 24,
-      "ongoing": true
-    },
-    {
       "id": "anilist-159142",
       "name": "Firefly Wedding",
       "volumeCount": 12,
       "ongoing": false
+    },
+    {
+      "id": "anilist-39115",
+      "name": "Spice & Wolf",
+      "volumeCount": 24,
+      "ongoing": true
     },
     {
       "id": "anilist-120440",
@@ -2343,15 +2343,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-127564",
-      "name": "Go! Go! Loser Ranger!",
-      "volumeCount": 22,
-      "ongoing": true
-    },
-    {
       "id": "anilist-171729",
       "name": "Love Bullet",
       "volumeCount": 2,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-127564",
+      "name": "Go! Go! Loser Ranger!",
+      "volumeCount": 22,
       "ongoing": true
     },
     {
