@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-07-09T07:38:38Z",
+  "_generated": "2026-07-10T07:30:38Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -261,15 +261,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-97553",
-      "name": "Three Days of Happiness",
-      "volumeCount": 3,
-      "ongoing": false
-    },
-    {
       "id": "anilist-146983",
       "name": "Goodbye, Eri",
       "volumeCount": 1,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-97553",
+      "name": "Three Days of Happiness",
+      "volumeCount": 3,
       "ongoing": false
     },
     {
@@ -435,16 +435,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86717",
-      "name": "Wotakoi: Love is Hard for Otaku",
-      "volumeCount": 11,
-      "ongoing": false
-    },
-    {
       "id": "anilist-144946",
       "name": "Gachiakuta",
       "volumeCount": 18,
       "ongoing": true
+    },
+    {
+      "id": "anilist-86717",
+      "name": "Wotakoi: Love is Hard for Otaku",
+      "volumeCount": 11,
+      "ongoing": false
     },
     {
       "id": "anilist-30149",
@@ -587,7 +587,7 @@
     {
       "id": "anilist-132182",
       "name": "Blue Box",
-      "volumeCount": 26,
+      "volumeCount": 28,
       "ongoing": true
     },
     {
@@ -801,16 +801,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-85802",
-      "name": "Domestic Girlfriend",
-      "volumeCount": 28,
-      "ongoing": false
-    },
-    {
       "id": "anilist-150378",
       "name": "Gokurakugai",
       "volumeCount": 6,
       "ongoing": true
+    },
+    {
+      "id": "anilist-85802",
+      "name": "Domestic Girlfriend",
+      "volumeCount": 28,
+      "ongoing": false
     },
     {
       "id": "anilist-43492",
@@ -1569,6 +1569,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-144866",
+      "name": "Akane-banashi",
+      "volumeCount": 22,
+      "ongoing": true
+    },
+    {
       "id": "anilist-60315",
       "name": "Last Game",
       "volumeCount": 11,
@@ -1579,12 +1585,6 @@
       "name": "Hokkaido Gals Are Super Adorable!",
       "volumeCount": 14,
       "ongoing": false
-    },
-    {
-      "id": "anilist-144866",
-      "name": "Akane-banashi",
-      "volumeCount": 22,
-      "ongoing": true
     },
     {
       "id": "anilist-107279",
@@ -1617,6 +1617,12 @@
       "ongoing": true
     },
     {
+      "id": "anilist-117620",
+      "name": "The Summer You Were There",
+      "volumeCount": 6,
+      "ongoing": false
+    },
+    {
       "id": "anilist-75143",
       "name": "Kono Oto Tomare!",
       "volumeCount": 33,
@@ -1626,12 +1632,6 @@
       "id": "anilist-111149",
       "name": "Mission: Yozakura Family",
       "volumeCount": 29,
-      "ongoing": false
-    },
-    {
-      "id": "anilist-117620",
-      "name": "The Summer You Were There",
-      "volumeCount": 6,
       "ongoing": false
     },
     {
@@ -2031,6 +2031,12 @@
       "ongoing": true
     },
     {
+      "id": "anilist-98370",
+      "name": "Sasaki and Miyano",
+      "volumeCount": 11,
+      "ongoing": true
+    },
+    {
       "id": "anilist-86549",
       "name": "Go For It, Nakamura!",
       "volumeCount": 1,
@@ -2241,6 +2247,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-159142",
+      "name": "Firefly Wedding",
+      "volumeCount": 12,
+      "ongoing": false
+    },
+    {
       "id": "anilist-85139",
       "name": "My Monster Secret: Actually, I Am…",
       "volumeCount": 22,
@@ -2250,12 +2262,6 @@
       "id": "anilist-30092",
       "name": "Sailor Moon",
       "volumeCount": 18,
-      "ongoing": false
-    },
-    {
-      "id": "anilist-159142",
-      "name": "Firefly Wedding",
-      "volumeCount": 12,
       "ongoing": false
     },
     {
@@ -2337,16 +2343,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-110140",
-      "name": "It Takes Two Tomorrow, Too",
-      "volumeCount": 5,
-      "ongoing": false
-    },
-    {
       "id": "anilist-171729",
       "name": "Love Bullet",
       "volumeCount": 2,
       "ongoing": true
+    },
+    {
+      "id": "anilist-110140",
+      "name": "It Takes Two Tomorrow, Too",
+      "volumeCount": 5,
+      "ongoing": false
     },
     {
       "id": "anilist-127564",
@@ -2373,6 +2379,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-118695",
+      "name": "I’m in Love with the Villainess",
+      "volumeCount": 5,
+      "ongoing": true
+    },
+    {
       "id": "anilist-98686",
       "name": "Aharen-san is Indecipherable",
       "volumeCount": 17,
@@ -2383,12 +2395,6 @@
       "name": "That Time I Got Reincarnated as a Slime",
       "volumeCount": 23,
       "ongoing": false
-    },
-    {
-      "id": "anilist-118695",
-      "name": "I’m in Love with the Villainess",
-      "volumeCount": 5,
-      "ongoing": true
     },
     {
       "id": "anilist-110785",
