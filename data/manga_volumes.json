@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-07-10T07:30:38Z",
+  "_generated": "2026-07-11T06:10:19Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -279,16 +279,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30025",
-      "name": "Fullmetal Alchemist",
-      "volumeCount": 27,
-      "ongoing": false
-    },
-    {
       "id": "anilist-98263",
       "name": "Witch Hat Atelier",
       "volumeCount": 16,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30025",
+      "name": "Fullmetal Alchemist",
+      "volumeCount": 27,
+      "ongoing": false
     },
     {
       "id": "anilist-107237",
@@ -375,16 +375,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-101233",
-      "name": "The Way of the Househusband",
-      "volumeCount": 17,
-      "ongoing": true
-    },
-    {
       "id": "anilist-30908",
       "name": "Soul Eater",
       "volumeCount": 25,
       "ongoing": false
+    },
+    {
+      "id": "anilist-101233",
+      "name": "The Way of the Househusband",
+      "volumeCount": 17,
+      "ongoing": true
     },
     {
       "id": "anilist-107098",
@@ -717,12 +717,6 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85564",
-      "name": "Mushoku Tensei: Jobless Reincarnation",
-      "volumeCount": 25,
-      "ongoing": true
-    },
-    {
       "id": "anilist-30664",
       "name": "Akira",
       "volumeCount": 6,
@@ -894,12 +888,6 @@
       "id": "anilist-118408",
       "name": "Villains Are Destined to Die",
       "volumeCount": 8,
-      "ongoing": true
-    },
-    {
-      "id": "anilist-87347",
-      "name": "Given",
-      "volumeCount": 9,
       "ongoing": false
     },
     {
@@ -907,6 +895,12 @@
       "name": "The Summer Hikaru Died",
       "volumeCount": 9,
       "ongoing": true
+    },
+    {
+      "id": "anilist-87347",
+      "name": "Given",
+      "volumeCount": 9,
+      "ongoing": false
     },
     {
       "id": "anilist-98334",
@@ -933,15 +927,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-33008",
-      "name": "JoJo's Bizarre Adventure Part 5: Golden Wind",
-      "volumeCount": 17,
-      "ongoing": false
-    },
-    {
       "id": "anilist-107521",
       "name": "Who Made Me a Princess",
       "volumeCount": 9,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-33008",
+      "name": "JoJo's Bizarre Adventure Part 5: Golden Wind",
+      "volumeCount": 17,
       "ongoing": false
     },
     {
@@ -999,15 +993,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-31630",
-      "name": "JoJo's Bizarre Adventure Part 2: Battle Tendency",
-      "volumeCount": 7,
-      "ongoing": false
-    },
-    {
       "id": "anilist-87208",
       "name": "Our Dreams at Dusk: Shimanami Tasogare",
       "volumeCount": 4,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-31630",
+      "name": "JoJo's Bizarre Adventure Part 2: Battle Tendency",
+      "volumeCount": 7,
       "ongoing": false
     },
     {
@@ -1335,16 +1329,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-101315",
-      "name": "Anjo the Mischievous Gal",
-      "volumeCount": 17,
-      "ongoing": true
-    },
-    {
       "id": "anilist-69325",
       "name": "Erased",
       "volumeCount": 9,
       "ongoing": false
+    },
+    {
+      "id": "anilist-101315",
+      "name": "Anjo the Mischievous Gal",
+      "volumeCount": 17,
+      "ongoing": true
     },
     {
       "id": "anilist-114791",
@@ -1521,16 +1515,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-134369",
-      "name": "Medaka Kuroiwa is Impervious to My Charms",
-      "volumeCount": 24,
-      "ongoing": true
-    },
-    {
       "id": "anilist-105641",
       "name": "The Girl I Like Forgot Her Glasses",
       "volumeCount": 12,
       "ongoing": false
+    },
+    {
+      "id": "anilist-134369",
+      "name": "Medaka Kuroiwa is Impervious to My Charms",
+      "volumeCount": 24,
+      "ongoing": true
     },
     {
       "id": "anilist-37519",
@@ -1575,15 +1569,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-60315",
-      "name": "Last Game",
-      "volumeCount": 11,
-      "ongoing": false
-    },
-    {
       "id": "anilist-111403",
       "name": "Hokkaido Gals Are Super Adorable!",
       "volumeCount": 14,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-60315",
+      "name": "Last Game",
+      "volumeCount": 11,
       "ongoing": false
     },
     {
@@ -1941,15 +1935,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-125624",
-      "name": "Even If You Slit My Mouth",
-      "volumeCount": 11,
-      "ongoing": false
-    },
-    {
       "id": "anilist-104241",
       "name": "How Do We Relationship?",
       "volumeCount": 14,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-125624",
+      "name": "Even If You Slit My Mouth",
+      "volumeCount": 11,
       "ongoing": false
     },
     {
@@ -1989,15 +1983,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-30933",
-      "name": "Elfen Lied",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-113055",
       "name": "The Remarried Empress",
       "volumeCount": 9,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30933",
+      "name": "Elfen Lied",
+      "volumeCount": 12,
       "ongoing": false
     },
     {
@@ -2151,15 +2145,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-35293",
-      "name": "Doubt",
-      "volumeCount": 4,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30106",
       "name": "Cardcaptor Sakura",
       "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-35293",
+      "name": "Doubt",
+      "volumeCount": 4,
       "ongoing": false
     },
     {
@@ -2193,16 +2187,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-87234",
-      "name": "The Elder Sister-Like One",
-      "volumeCount": 6,
-      "ongoing": true
-    },
-    {
       "id": "anilist-30463",
       "name": "Welcome to the N.H.K.",
       "volumeCount": 8,
       "ongoing": false
+    },
+    {
+      "id": "anilist-87234",
+      "name": "The Elder Sister-Like One",
+      "volumeCount": 6,
+      "ongoing": true
     },
     {
       "id": "anilist-143031",
@@ -2247,9 +2241,9 @@
       "ongoing": false
     },
     {
-      "id": "anilist-159142",
-      "name": "Firefly Wedding",
-      "volumeCount": 12,
+      "id": "anilist-30092",
+      "name": "Sailor Moon",
+      "volumeCount": 18,
       "ongoing": false
     },
     {
@@ -2259,9 +2253,9 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30092",
-      "name": "Sailor Moon",
-      "volumeCount": 18,
+      "id": "anilist-159142",
+      "name": "Firefly Wedding",
+      "volumeCount": 12,
       "ongoing": false
     },
     {
@@ -2379,6 +2373,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-86355",
+      "name": "That Time I Got Reincarnated as a Slime",
+      "volumeCount": 23,
+      "ongoing": false
+    },
+    {
       "id": "anilist-118695",
       "name": "I’m in Love with the Villainess",
       "volumeCount": 5,
@@ -2388,12 +2388,6 @@
       "id": "anilist-98686",
       "name": "Aharen-san is Indecipherable",
       "volumeCount": 17,
-      "ongoing": false
-    },
-    {
-      "id": "anilist-86355",
-      "name": "That Time I Got Reincarnated as a Slime",
-      "volumeCount": 23,
       "ongoing": false
     },
     {
