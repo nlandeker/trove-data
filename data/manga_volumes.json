@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-07-11T06:10:19Z",
+  "_generated": "2026-07-12T06:30:07Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -153,15 +153,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30001",
-      "name": "Monster",
-      "volumeCount": 18,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30003",
       "name": "20th Century Boys",
       "volumeCount": 22,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30001",
+      "name": "Monster",
+      "volumeCount": 18,
       "ongoing": false
     },
     {
@@ -879,15 +879,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-63031",
-      "name": "Alice in Borderland",
-      "volumeCount": 18,
-      "ongoing": false
-    },
-    {
       "id": "anilist-118408",
       "name": "Villains Are Destined to Die",
       "volumeCount": 8,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-63031",
+      "name": "Alice in Borderland",
+      "volumeCount": 18,
       "ongoing": false
     },
     {
@@ -1269,15 +1269,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30768",
-      "name": "Battle Angel Alita",
-      "volumeCount": 9,
-      "ongoing": false
-    },
-    {
       "id": "anilist-142568",
       "name": "Takopi's Original Sin",
       "volumeCount": 2,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30768",
+      "name": "Battle Angel Alita",
+      "volumeCount": 9,
       "ongoing": false
     },
     {
@@ -1515,16 +1515,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-105641",
-      "name": "The Girl I Like Forgot Her Glasses",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-134369",
       "name": "Medaka Kuroiwa is Impervious to My Charms",
       "volumeCount": 24,
       "ongoing": true
+    },
+    {
+      "id": "anilist-105641",
+      "name": "The Girl I Like Forgot Her Glasses",
+      "volumeCount": 12,
+      "ongoing": false
     },
     {
       "id": "anilist-37519",
@@ -1557,12 +1557,6 @@
       "ongoing": false
     },
     {
-      "id": "anilist-56736",
-      "name": "House of the Sun",
-      "volumeCount": 13,
-      "ongoing": false
-    },
-    {
       "id": "anilist-144866",
       "name": "Akane-banashi",
       "volumeCount": 22,
@@ -1572,6 +1566,12 @@
       "id": "anilist-111403",
       "name": "Hokkaido Gals Are Super Adorable!",
       "volumeCount": 14,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-56736",
+      "name": "House of the Sun",
+      "volumeCount": 13,
       "ongoing": false
     },
     {
@@ -1797,16 +1797,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-152404",
-      "name": "Alya Sometimes Hides Her Feelings in Russian",
-      "volumeCount": 11,
-      "ongoing": true
-    },
-    {
       "id": "anilist-198372",
       "name": "Jujutsu Kaisen Modulo",
       "volumeCount": 3,
       "ongoing": false
+    },
+    {
+      "id": "anilist-152404",
+      "name": "Alya Sometimes Hides Her Feelings in Russian",
+      "volumeCount": 11,
+      "ongoing": true
     },
     {
       "id": "anilist-86607",
@@ -1923,16 +1923,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-40552",
-      "name": "Lucifer and the Biscuit Hammer",
-      "volumeCount": 10,
-      "ongoing": false
-    },
-    {
       "id": "anilist-176740",
       "name": "Centuria",
       "volumeCount": 9,
       "ongoing": true
+    },
+    {
+      "id": "anilist-40552",
+      "name": "Lucifer and the Biscuit Hammer",
+      "volumeCount": 10,
+      "ongoing": false
     },
     {
       "id": "anilist-104241",
@@ -1989,16 +1989,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30933",
-      "name": "Elfen Lied",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-34571",
       "name": "Snow White with the Red Hair",
       "volumeCount": 27,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30933",
+      "name": "Elfen Lied",
+      "volumeCount": 12,
+      "ongoing": false
     },
     {
       "id": "anilist-30735",
@@ -2193,15 +2193,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-87234",
-      "name": "The Elder Sister-Like One",
-      "volumeCount": 6,
-      "ongoing": true
-    },
-    {
       "id": "anilist-143031",
       "name": "I Want to End This Love Game",
       "volumeCount": 9,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-87234",
+      "name": "The Elder Sister-Like One",
+      "volumeCount": 6,
       "ongoing": true
     },
     {
@@ -2241,9 +2241,9 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30092",
-      "name": "Sailor Moon",
-      "volumeCount": 18,
+      "id": "anilist-159142",
+      "name": "Firefly Wedding",
+      "volumeCount": 12,
       "ongoing": false
     },
     {
@@ -2253,9 +2253,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-159142",
-      "name": "Firefly Wedding",
-      "volumeCount": 12,
+      "id": "anilist-30092",
+      "name": "Sailor Moon",
+      "volumeCount": 18,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-120440",
+      "name": "Positively Yours",
+      "volumeCount": 8,
       "ongoing": false
     },
     {
@@ -2263,12 +2269,6 @@
       "name": "Spice & Wolf",
       "volumeCount": 24,
       "ongoing": true
-    },
-    {
-      "id": "anilist-120440",
-      "name": "Positively Yours",
-      "volumeCount": 8,
-      "ongoing": false
     },
     {
       "id": "anilist-98466",
