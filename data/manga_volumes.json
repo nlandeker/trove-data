@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-07-12T06:30:07Z",
+  "_generated": "2026-07-13T06:49:15Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -588,7 +588,7 @@
       "id": "anilist-132182",
       "name": "Blue Box",
       "volumeCount": 28,
-      "ongoing": true
+      "ongoing": false
     },
     {
       "id": "anilist-106064",
@@ -735,16 +735,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85215",
-      "name": "All You Need Is Kill",
-      "volumeCount": 2,
-      "ongoing": false
-    },
-    {
       "id": "anilist-85307",
       "name": "Bungo Stray Dogs",
       "volumeCount": 28,
       "ongoing": true
+    },
+    {
+      "id": "anilist-85215",
+      "name": "All You Need Is Kill",
+      "volumeCount": 2,
+      "ongoing": false
     },
     {
       "id": "anilist-86770",
@@ -993,15 +993,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-87208",
-      "name": "Our Dreams at Dusk: Shimanami Tasogare",
-      "volumeCount": 4,
-      "ongoing": false
-    },
-    {
       "id": "anilist-31630",
       "name": "JoJo's Bizarre Adventure Part 2: Battle Tendency",
       "volumeCount": 7,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-87208",
+      "name": "Our Dreams at Dusk: Shimanami Tasogare",
+      "volumeCount": 4,
       "ongoing": false
     },
     {
@@ -1059,16 +1059,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-85442",
-      "name": "The Rising of the Shield Hero",
-      "volumeCount": 22,
-      "ongoing": true
-    },
-    {
       "id": "anilist-30872",
       "name": "JoJo's Bizarre Adventure Part 3: Stardust Crusaders",
       "volumeCount": 16,
       "ongoing": false
+    },
+    {
+      "id": "anilist-85442",
+      "name": "The Rising of the Shield Hero",
+      "volumeCount": 22,
+      "ongoing": true
     },
     {
       "id": "anilist-110462",
@@ -1185,15 +1185,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-80145",
-      "name": "Citrus",
-      "volumeCount": 10,
-      "ongoing": false
-    },
-    {
       "id": "anilist-39982",
       "name": "Usogui",
       "volumeCount": 49,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-80145",
+      "name": "Citrus",
+      "volumeCount": 10,
       "ongoing": false
     },
     {
@@ -1431,16 +1431,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30053",
-      "name": "Yu Yu Hakusho",
-      "volumeCount": 19,
-      "ongoing": false
-    },
-    {
       "id": "anilist-105263",
       "name": "Dai Dark",
       "volumeCount": 9,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30053",
+      "name": "Yu Yu Hakusho",
+      "volumeCount": 19,
+      "ongoing": false
     },
     {
       "id": "anilist-136331",
@@ -1515,16 +1515,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-134369",
-      "name": "Medaka Kuroiwa is Impervious to My Charms",
-      "volumeCount": 24,
-      "ongoing": true
-    },
-    {
       "id": "anilist-105641",
       "name": "The Girl I Like Forgot Her Glasses",
       "volumeCount": 12,
       "ongoing": false
+    },
+    {
+      "id": "anilist-134369",
+      "name": "Medaka Kuroiwa is Impervious to My Charms",
+      "volumeCount": 24,
+      "ongoing": true
     },
     {
       "id": "anilist-37519",
@@ -1791,12 +1791,6 @@
       "ongoing": true
     },
     {
-      "id": "anilist-120502",
-      "name": "In the Clear Moonlit Dusk",
-      "volumeCount": 10,
-      "ongoing": true
-    },
-    {
       "id": "anilist-198372",
       "name": "Jujutsu Kaisen Modulo",
       "volumeCount": 3,
@@ -1806,6 +1800,12 @@
       "id": "anilist-152404",
       "name": "Alya Sometimes Hides Her Feelings in Russian",
       "volumeCount": 11,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-120502",
+      "name": "In the Clear Moonlit Dusk",
+      "volumeCount": 10,
       "ongoing": true
     },
     {
@@ -2061,15 +2061,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-101860",
-      "name": "EDENS ZERO",
-      "volumeCount": 33,
-      "ongoing": false
-    },
-    {
       "id": "anilist-68071",
       "name": "Spirit Circle",
       "volumeCount": 6,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-101860",
+      "name": "EDENS ZERO",
+      "volumeCount": 33,
       "ongoing": false
     },
     {
@@ -2187,16 +2187,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-30463",
-      "name": "Welcome to the N.H.K.",
-      "volumeCount": 8,
-      "ongoing": false
-    },
-    {
       "id": "anilist-143031",
       "name": "I Want to End This Love Game",
       "volumeCount": 9,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30463",
+      "name": "Welcome to the N.H.K.",
+      "volumeCount": 8,
+      "ongoing": false
     },
     {
       "id": "anilist-87234",
@@ -2247,15 +2247,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85139",
-      "name": "My Monster Secret: Actually, I Am…",
-      "volumeCount": 22,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30092",
       "name": "Sailor Moon",
       "volumeCount": 18,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85139",
+      "name": "My Monster Secret: Actually, I Am…",
+      "volumeCount": 22,
       "ongoing": false
     },
     {
@@ -2313,15 +2313,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85566",
-      "name": "Love & Lies",
-      "volumeCount": 13,
-      "ongoing": false
-    },
-    {
       "id": "anilist-31131",
       "name": "Freesia",
       "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85566",
+      "name": "Love & Lies",
+      "volumeCount": 13,
       "ongoing": false
     },
     {
@@ -2331,15 +2331,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-107540",
-      "name": "Loner Life in Another World",
-      "volumeCount": 18,
-      "ongoing": true
-    },
-    {
       "id": "anilist-171729",
       "name": "Love Bullet",
       "volumeCount": 2,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-107540",
+      "name": "Loner Life in Another World",
+      "volumeCount": 18,
       "ongoing": true
     },
     {
