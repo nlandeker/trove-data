@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-07-13T06:49:15Z",
+  "_generated": "2026-07-14T06:07:22Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -717,6 +717,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-85564",
+      "name": "Mushoku Tensei: Jobless Reincarnation",
+      "volumeCount": 25,
+      "ongoing": true
+    },
+    {
       "id": "anilist-30664",
       "name": "Akira",
       "volumeCount": 6,
@@ -762,6 +768,12 @@
       "id": "anilist-105097",
       "name": "Mieruko-chan",
       "volumeCount": 14,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-86848",
+      "name": "Lookism",
+      "volumeCount": 20,
       "ongoing": true
     },
     {
@@ -963,21 +975,9 @@
       "ongoing": false
     },
     {
-      "id": "anilist-114416",
-      "name": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You",
-      "volumeCount": 25,
-      "ongoing": true
-    },
-    {
       "id": "anilist-85470",
       "name": "Mushoku Tensei: Jobless Reincarnation",
       "volumeCount": 26,
-      "ongoing": false
-    },
-    {
-      "id": "anilist-55297",
-      "name": "Prison School",
-      "volumeCount": 28,
       "ongoing": false
     },
     {
@@ -987,21 +987,27 @@
       "ongoing": true
     },
     {
+      "id": "anilist-55297",
+      "name": "Prison School",
+      "volumeCount": 28,
+      "ongoing": false
+    },
+    {
       "id": "anilist-33378",
       "name": "Kimi ni Todoke: From Me to You",
       "volumeCount": 30,
       "ongoing": false
     },
     {
-      "id": "anilist-31630",
-      "name": "JoJo's Bizarre Adventure Part 2: Battle Tendency",
-      "volumeCount": 7,
-      "ongoing": false
-    },
-    {
       "id": "anilist-87208",
       "name": "Our Dreams at Dusk: Shimanami Tasogare",
       "volumeCount": 4,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-31630",
+      "name": "JoJo's Bizarre Adventure Part 2: Battle Tendency",
+      "volumeCount": 7,
       "ongoing": false
     },
     {
@@ -1329,16 +1335,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-69325",
-      "name": "Erased",
-      "volumeCount": 9,
-      "ongoing": false
-    },
-    {
       "id": "anilist-101315",
       "name": "Anjo the Mischievous Gal",
       "volumeCount": 17,
       "ongoing": true
+    },
+    {
+      "id": "anilist-69325",
+      "name": "Erased",
+      "volumeCount": 9,
+      "ongoing": false
     },
     {
       "id": "anilist-114791",
@@ -1515,16 +1521,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-105641",
-      "name": "The Girl I Like Forgot Her Glasses",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-134369",
       "name": "Medaka Kuroiwa is Impervious to My Charms",
       "volumeCount": 24,
       "ongoing": true
+    },
+    {
+      "id": "anilist-105641",
+      "name": "The Girl I Like Forgot Her Glasses",
+      "volumeCount": 12,
+      "ongoing": false
     },
     {
       "id": "anilist-37519",
@@ -1641,15 +1647,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30010",
-      "name": "xxxHOLiC",
-      "volumeCount": 19,
-      "ongoing": false
-    },
-    {
       "id": "anilist-38157",
       "name": "Kamisama Kiss",
       "volumeCount": 25,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30010",
+      "name": "xxxHOLiC",
+      "volumeCount": 19,
       "ongoing": false
     },
     {
@@ -1809,6 +1815,12 @@
       "ongoing": true
     },
     {
+      "id": "anilist-85155",
+      "name": "The Gamer",
+      "volumeCount": 8,
+      "ongoing": false
+    },
+    {
       "id": "anilist-86607",
       "name": "Gleipnir",
       "volumeCount": 14,
@@ -1959,15 +1971,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-113076",
-      "name": "Sometimes Even Reality Is a Lie!",
-      "volumeCount": 8,
-      "ongoing": false
-    },
-    {
       "id": "anilist-110605",
       "name": "Leviathan",
       "volumeCount": 9,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-113076",
+      "name": "Sometimes Even Reality Is a Lie!",
+      "volumeCount": 8,
       "ongoing": false
     },
     {
@@ -2061,15 +2073,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-68071",
-      "name": "Spirit Circle",
-      "volumeCount": 6,
-      "ongoing": false
-    },
-    {
       "id": "anilist-101860",
       "name": "EDENS ZERO",
       "volumeCount": 33,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-68071",
+      "name": "Spirit Circle",
+      "volumeCount": 6,
       "ongoing": false
     },
     {
@@ -2160,6 +2172,12 @@
       "id": "anilist-31373",
       "name": "Nijigahara Holograph",
       "volumeCount": 1,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-107720",
+      "name": "Her Summon",
+      "volumeCount": 6,
       "ongoing": false
     },
     {
@@ -2361,21 +2379,27 @@
       "ongoing": false
     },
     {
+      "id": "anilist-85978",
+      "name": "The New Gate",
+      "volumeCount": 23,
+      "ongoing": true
+    },
+    {
       "id": "anilist-30081",
       "name": "Aria",
       "volumeCount": 12,
       "ongoing": false
     },
     {
-      "id": "anilist-30009",
-      "name": "Tsubasa RESERVoir CHRoNiCLE",
-      "volumeCount": 28,
-      "ongoing": false
-    },
-    {
       "id": "anilist-86355",
       "name": "That Time I Got Reincarnated as a Slime",
       "volumeCount": 23,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30009",
+      "name": "Tsubasa RESERVoir CHRoNiCLE",
+      "volumeCount": 28,
       "ongoing": false
     },
     {
