@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-07-14T06:07:22Z",
+  "_generated": "2026-07-15T06:11:09Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -771,12 +771,6 @@
       "ongoing": true
     },
     {
-      "id": "anilist-86848",
-      "name": "Lookism",
-      "volumeCount": 20,
-      "ongoing": true
-    },
-    {
       "id": "anilist-98328",
       "name": "Jagaaan",
       "volumeCount": 14,
@@ -1065,6 +1059,12 @@
       "ongoing": true
     },
     {
+      "id": "anilist-110462",
+      "name": "Tomb Raider King",
+      "volumeCount": 12,
+      "ongoing": false
+    },
+    {
       "id": "anilist-30872",
       "name": "JoJo's Bizarre Adventure Part 3: Stardust Crusaders",
       "volumeCount": 16,
@@ -1075,12 +1075,6 @@
       "name": "The Rising of the Shield Hero",
       "volumeCount": 22,
       "ongoing": true
-    },
-    {
-      "id": "anilist-110462",
-      "name": "Tomb Raider King",
-      "volumeCount": 12,
-      "ongoing": false
     },
     {
       "id": "anilist-30007",
@@ -1257,16 +1251,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-87321",
-      "name": "Goblin Slayer",
-      "volumeCount": 16,
-      "ongoing": true
-    },
-    {
       "id": "anilist-106867",
       "name": "My Dearest Self With Malice Aforethought",
       "volumeCount": 11,
       "ongoing": false
+    },
+    {
+      "id": "anilist-87321",
+      "name": "Goblin Slayer",
+      "volumeCount": 16,
+      "ongoing": true
     },
     {
       "id": "anilist-41734",
@@ -1701,15 +1695,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-141261",
-      "name": "Ayashimon",
-      "volumeCount": 3,
-      "ongoing": false
-    },
-    {
       "id": "anilist-43245",
       "name": "Chihayafuru",
       "volumeCount": 50,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-141261",
+      "name": "Ayashimon",
+      "volumeCount": 3,
       "ongoing": false
     },
     {
@@ -1743,15 +1737,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30043",
-      "name": "Eyeshield 21",
-      "volumeCount": 37,
-      "ongoing": false
-    },
-    {
       "id": "anilist-104503",
       "name": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs",
       "volumeCount": 13,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30043",
+      "name": "Eyeshield 21",
+      "volumeCount": 37,
       "ongoing": false
     },
     {
@@ -1941,15 +1935,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-40552",
-      "name": "Lucifer and the Biscuit Hammer",
-      "volumeCount": 10,
-      "ongoing": false
-    },
-    {
       "id": "anilist-104241",
       "name": "How Do We Relationship?",
       "volumeCount": 14,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-40552",
+      "name": "Lucifer and the Biscuit Hammer",
+      "volumeCount": 10,
       "ongoing": false
     },
     {
@@ -2103,15 +2097,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-30074",
-      "name": "Air Gear",
-      "volumeCount": 37,
-      "ongoing": false
-    },
-    {
       "id": "anilist-121565",
       "name": "Seasons of Blossom",
       "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30074",
+      "name": "Air Gear",
+      "volumeCount": 37,
       "ongoing": false
     },
     {
@@ -2133,15 +2127,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-44893",
-      "name": "Bakemonogatari: Monster Tale",
-      "volumeCount": 2,
-      "ongoing": false
-    },
-    {
       "id": "anilist-106454",
       "name": "Sensei wa Koi wo Oshierarenai",
       "volumeCount": 7,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-44893",
+      "name": "Bakemonogatari: Monster Tale",
+      "volumeCount": 2,
       "ongoing": false
     },
     {
@@ -2175,12 +2169,6 @@
       "ongoing": false
     },
     {
-      "id": "anilist-107720",
-      "name": "Her Summon",
-      "volumeCount": 6,
-      "ongoing": false
-    },
-    {
       "id": "anilist-99549",
       "name": "Karakai Jouzu no (Moto) Takagi-san",
       "volumeCount": 23,
@@ -2199,15 +2187,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86303",
-      "name": "Miss Kobayashi's Dragon Maid",
-      "volumeCount": 19,
-      "ongoing": true
-    },
-    {
       "id": "anilist-143031",
       "name": "I Want to End This Love Game",
       "volumeCount": 9,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-86303",
+      "name": "Miss Kobayashi's Dragon Maid",
+      "volumeCount": 19,
       "ongoing": true
     },
     {
@@ -2271,15 +2259,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85139",
-      "name": "My Monster Secret: Actually, I Am…",
-      "volumeCount": 22,
-      "ongoing": false
-    },
-    {
       "id": "anilist-120440",
       "name": "Positively Yours",
       "volumeCount": 8,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85139",
+      "name": "My Monster Secret: Actually, I Am…",
+      "volumeCount": 22,
       "ongoing": false
     },
     {
@@ -2289,16 +2277,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-98466",
-      "name": "Kemono Jihen",
-      "volumeCount": 24,
-      "ongoing": true
-    },
-    {
       "id": "anilist-86720",
       "name": "Helck",
       "volumeCount": 12,
       "ongoing": false
+    },
+    {
+      "id": "anilist-98466",
+      "name": "Kemono Jihen",
+      "volumeCount": 24,
+      "ongoing": true
     },
     {
       "id": "anilist-35255",
@@ -2379,12 +2367,6 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85978",
-      "name": "The New Gate",
-      "volumeCount": 23,
-      "ongoing": true
-    },
-    {
       "id": "anilist-30081",
       "name": "Aria",
       "volumeCount": 12,
@@ -2397,16 +2379,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30009",
-      "name": "Tsubasa RESERVoir CHRoNiCLE",
-      "volumeCount": 28,
-      "ongoing": false
-    },
-    {
       "id": "anilist-118695",
       "name": "I’m in Love with the Villainess",
       "volumeCount": 5,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30009",
+      "name": "Tsubasa RESERVoir CHRoNiCLE",
+      "volumeCount": 28,
+      "ongoing": false
     },
     {
       "id": "anilist-98686",
