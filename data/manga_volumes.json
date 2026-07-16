@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-07-15T06:11:09Z",
+  "_generated": "2026-07-16T06:14:14Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -393,15 +393,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-87395",
-      "name": "Grand Blue Dreaming",
-      "volumeCount": 26,
-      "ongoing": true
-    },
-    {
       "id": "anilist-169355",
       "name": "Kagurabachi",
       "volumeCount": 11,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-87395",
+      "name": "Grand Blue Dreaming",
+      "volumeCount": 26,
       "ongoing": true
     },
     {
@@ -437,7 +437,7 @@
     {
       "id": "anilist-144946",
       "name": "Gachiakuta",
-      "volumeCount": 18,
+      "volumeCount": 19,
       "ongoing": true
     },
     {
@@ -717,12 +717,6 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85564",
-      "name": "Mushoku Tensei: Jobless Reincarnation",
-      "volumeCount": 25,
-      "ongoing": true
-    },
-    {
       "id": "anilist-30664",
       "name": "Akira",
       "volumeCount": 6,
@@ -741,16 +735,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85307",
-      "name": "Bungo Stray Dogs",
-      "volumeCount": 28,
-      "ongoing": true
-    },
-    {
       "id": "anilist-85215",
       "name": "All You Need Is Kill",
       "volumeCount": 2,
       "ongoing": false
+    },
+    {
+      "id": "anilist-85307",
+      "name": "Bungo Stray Dogs",
+      "volumeCount": 28,
+      "ongoing": true
     },
     {
       "id": "anilist-86770",
@@ -879,16 +873,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-85316",
-      "name": "Dead Dead Demon's Dededede Destruction",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-118408",
       "name": "Villains Are Destined to Die",
       "volumeCount": 8,
       "ongoing": true
+    },
+    {
+      "id": "anilist-85316",
+      "name": "Dead Dead Demon's Dededede Destruction",
+      "volumeCount": 12,
+      "ongoing": false
     },
     {
       "id": "anilist-63031",
@@ -909,15 +903,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-98334",
-      "name": "Blue Flag",
-      "volumeCount": 8,
-      "ongoing": false
-    },
-    {
       "id": "anilist-107282",
       "name": "Shikimori's Not Just a Cutie",
       "volumeCount": 20,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-98334",
+      "name": "Blue Flag",
+      "volumeCount": 8,
       "ongoing": false
     },
     {
@@ -1203,15 +1197,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-33285",
-      "name": "Holyland",
-      "volumeCount": 18,
-      "ongoing": false
-    },
-    {
       "id": "anilist-112579",
       "name": "My Broken Mariko",
       "volumeCount": 1,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-33285",
+      "name": "Holyland",
+      "volumeCount": 18,
       "ongoing": false
     },
     {
@@ -1329,16 +1323,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-101315",
-      "name": "Anjo the Mischievous Gal",
-      "volumeCount": 17,
-      "ongoing": true
-    },
-    {
       "id": "anilist-69325",
       "name": "Erased",
       "volumeCount": 9,
       "ongoing": false
+    },
+    {
+      "id": "anilist-101315",
+      "name": "Anjo the Mischievous Gal",
+      "volumeCount": 17,
+      "ongoing": true
     },
     {
       "id": "anilist-114791",
@@ -1407,16 +1401,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-100991",
-      "name": "ACT-AGE",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-180752",
       "name": "Ichi the Witch",
       "volumeCount": 9,
       "ongoing": true
+    },
+    {
+      "id": "anilist-100991",
+      "name": "ACT-AGE",
+      "volumeCount": 12,
+      "ongoing": false
     },
     {
       "id": "anilist-86265",
@@ -1515,16 +1509,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-134369",
-      "name": "Medaka Kuroiwa is Impervious to My Charms",
-      "volumeCount": 24,
-      "ongoing": true
-    },
-    {
       "id": "anilist-105641",
       "name": "The Girl I Like Forgot Her Glasses",
       "volumeCount": 12,
       "ongoing": false
+    },
+    {
+      "id": "anilist-134369",
+      "name": "Medaka Kuroiwa is Impervious to My Charms",
+      "volumeCount": 24,
+      "ongoing": true
     },
     {
       "id": "anilist-37519",
@@ -1761,16 +1755,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-98544",
-      "name": "Moriarty the Patriot",
-      "volumeCount": 22,
-      "ongoing": true
-    },
-    {
       "id": "anilist-30029",
       "name": "Paradise Kiss",
       "volumeCount": 5,
       "ongoing": false
+    },
+    {
+      "id": "anilist-98544",
+      "name": "Moriarty the Patriot",
+      "volumeCount": 22,
+      "ongoing": true
     },
     {
       "id": "anilist-114027",
@@ -1865,7 +1859,7 @@
     {
       "id": "anilist-122063",
       "name": "Shangri-La Frontier",
-      "volumeCount": 26,
+      "volumeCount": 27,
       "ongoing": true
     },
     {
@@ -2055,15 +2049,21 @@
       "ongoing": false
     },
     {
+      "id": "anilist-106726",
+      "name": "Shimeji Simulation",
+      "volumeCount": 5,
+      "ongoing": false
+    },
+    {
       "id": "anilist-97337",
       "name": "your name.",
       "volumeCount": 3,
       "ongoing": false
     },
     {
-      "id": "anilist-106726",
-      "name": "Shimeji Simulation",
-      "volumeCount": 5,
+      "id": "anilist-147997",
+      "name": "You and I Are Polar Opposites",
+      "volumeCount": 8,
       "ongoing": false
     },
     {
@@ -2076,12 +2076,6 @@
       "id": "anilist-68071",
       "name": "Spirit Circle",
       "volumeCount": 6,
-      "ongoing": false
-    },
-    {
-      "id": "anilist-147997",
-      "name": "You and I Are Polar Opposites",
-      "volumeCount": 8,
       "ongoing": false
     },
     {
@@ -2115,15 +2109,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-103255",
-      "name": "Fairy Tail: 100 Years Quest",
-      "volumeCount": 23,
-      "ongoing": true
-    },
-    {
       "id": "anilist-58533",
       "name": "No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!",
       "volumeCount": 28,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-103255",
+      "name": "Fairy Tail: 100 Years Quest",
+      "volumeCount": 23,
       "ongoing": true
     },
     {
@@ -2313,15 +2307,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85887",
-      "name": "Ookami Shounen wa Kyou mo Uso wo Kasaneru",
-      "volumeCount": 5,
-      "ongoing": false
-    },
-    {
       "id": "anilist-31131",
       "name": "Freesia",
       "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85887",
+      "name": "Ookami Shounen wa Kyou mo Uso wo Kasaneru",
+      "volumeCount": 5,
       "ongoing": false
     },
     {
