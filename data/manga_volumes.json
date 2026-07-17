@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-07-16T06:14:14Z",
+  "_generated": "2026-07-17T06:12:54Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -291,15 +291,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-107237",
-      "name": "Blue Period",
-      "volumeCount": 19,
-      "ongoing": true
-    },
-    {
       "id": "anilist-140475",
       "name": "The Fragrant Flower Blooms With Dignity",
       "volumeCount": 23,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-107237",
+      "name": "Blue Period",
+      "volumeCount": 19,
       "ongoing": true
     },
     {
@@ -389,7 +389,7 @@
     {
       "id": "anilist-107098",
       "name": "Record of Ragnarok",
-      "volumeCount": 27,
+      "volumeCount": 28,
       "ongoing": true
     },
     {
@@ -921,15 +921,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-38586",
-      "name": "THE BREAKER",
-      "volumeCount": 10,
-      "ongoing": false
-    },
-    {
       "id": "anilist-107521",
       "name": "Who Made Me a Princess",
       "volumeCount": 9,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-38586",
+      "name": "THE BREAKER",
+      "volumeCount": 10,
       "ongoing": false
     },
     {
@@ -987,15 +987,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-87208",
-      "name": "Our Dreams at Dusk: Shimanami Tasogare",
-      "volumeCount": 4,
-      "ongoing": false
-    },
-    {
       "id": "anilist-31630",
       "name": "JoJo's Bizarre Adventure Part 2: Battle Tendency",
       "volumeCount": 7,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-87208",
+      "name": "Our Dreams at Dusk: Shimanami Tasogare",
+      "volumeCount": 4,
       "ongoing": false
     },
     {
@@ -1071,15 +1071,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-30007",
-      "name": "Hajime no Ippo: Fighting Spirit!",
-      "volumeCount": 145,
-      "ongoing": true
-    },
-    {
       "id": "anilist-101557",
       "name": "The Dangers in My Heart",
       "volumeCount": 14,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-30007",
+      "name": "Hajime no Ippo: Fighting Spirit!",
+      "volumeCount": 145,
       "ongoing": true
     },
     {
@@ -1257,15 +1257,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-41734",
-      "name": "Watashitachi no Shiawase na Jikan",
-      "volumeCount": 1,
-      "ongoing": false
-    },
-    {
       "id": "anilist-142568",
       "name": "Takopi's Original Sin",
       "volumeCount": 2,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-41734",
+      "name": "Watashitachi no Shiawase na Jikan",
+      "volumeCount": 1,
       "ongoing": false
     },
     {
@@ -1323,16 +1323,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-69325",
-      "name": "Erased",
-      "volumeCount": 9,
-      "ongoing": false
-    },
-    {
       "id": "anilist-101315",
       "name": "Anjo the Mischievous Gal",
       "volumeCount": 17,
       "ongoing": true
+    },
+    {
+      "id": "anilist-69325",
+      "name": "Erased",
+      "volumeCount": 9,
+      "ongoing": false
     },
     {
       "id": "anilist-114791",
@@ -1365,15 +1365,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-100557",
-      "name": "One Room of Happiness",
-      "volumeCount": 11,
-      "ongoing": false
-    },
-    {
       "id": "anilist-104973",
       "name": "The Reason Why Raeliana Ended Up at the Duke's Mansion",
       "volumeCount": 9,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-100557",
+      "name": "One Room of Happiness",
+      "volumeCount": 11,
       "ongoing": false
     },
     {
@@ -1395,16 +1395,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85134",
-      "name": "The Empty Box and Zeroth Maria",
-      "volumeCount": 7,
-      "ongoing": false
-    },
-    {
       "id": "anilist-180752",
       "name": "Ichi the Witch",
       "volumeCount": 9,
       "ongoing": true
+    },
+    {
+      "id": "anilist-85134",
+      "name": "The Empty Box and Zeroth Maria",
+      "volumeCount": 7,
+      "ongoing": false
     },
     {
       "id": "anilist-100991",
@@ -1539,15 +1539,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86526",
-      "name": "Platinum End",
-      "volumeCount": 14,
-      "ongoing": false
-    },
-    {
       "id": "anilist-74929",
       "name": "Scum's Wish",
       "volumeCount": 8,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-86526",
+      "name": "Platinum End",
+      "volumeCount": 14,
       "ongoing": false
     },
     {
@@ -1673,7 +1673,7 @@
     {
       "id": "anilist-104063",
       "name": "Shadows House",
-      "volumeCount": 21,
+      "volumeCount": 22,
       "ongoing": true
     },
     {
@@ -1851,16 +1851,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-113488",
-      "name": "Weak Hero",
-      "volumeCount": 19,
-      "ongoing": false
-    },
-    {
       "id": "anilist-122063",
       "name": "Shangri-La Frontier",
       "volumeCount": 27,
       "ongoing": true
+    },
+    {
+      "id": "anilist-113488",
+      "name": "Weak Hero",
+      "volumeCount": 19,
+      "ongoing": false
     },
     {
       "id": "anilist-85235",
@@ -2097,15 +2097,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30074",
-      "name": "Air Gear",
-      "volumeCount": 37,
-      "ongoing": false
-    },
-    {
       "id": "anilist-112621",
       "name": "I Can't Say No to the Lonely Girl",
       "volumeCount": 6,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30074",
+      "name": "Air Gear",
+      "volumeCount": 37,
       "ongoing": false
     },
     {
@@ -2175,16 +2175,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-30142",
-      "name": "Battle Royale",
-      "volumeCount": 15,
-      "ongoing": false
-    },
-    {
       "id": "anilist-143031",
       "name": "I Want to End This Love Game",
       "volumeCount": 9,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30142",
+      "name": "Battle Royale",
+      "volumeCount": 15,
+      "ongoing": false
     },
     {
       "id": "anilist-86303",
@@ -2247,15 +2247,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30092",
-      "name": "Sailor Moon",
-      "volumeCount": 18,
-      "ongoing": false
-    },
-    {
       "id": "anilist-120440",
       "name": "Positively Yours",
       "volumeCount": 8,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30092",
+      "name": "Sailor Moon",
+      "volumeCount": 18,
       "ongoing": false
     },
     {
@@ -2325,16 +2325,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-107518",
-      "name": "Heavenly Demon Reborn!",
-      "volumeCount": 10,
-      "ongoing": false
-    },
-    {
       "id": "anilist-171729",
       "name": "Love Bullet",
       "volumeCount": 2,
       "ongoing": true
+    },
+    {
+      "id": "anilist-107518",
+      "name": "Heavenly Demon Reborn!",
+      "volumeCount": 10,
+      "ongoing": false
     },
     {
       "id": "anilist-107540",
