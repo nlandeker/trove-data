@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-07-17T06:12:54Z",
+  "_generated": "2026-07-18T06:01:08Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -429,16 +429,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-111233",
-      "name": "Call of the Night",
-      "volumeCount": 20,
-      "ongoing": false
-    },
-    {
       "id": "anilist-144946",
       "name": "Gachiakuta",
       "volumeCount": 19,
       "ongoing": true
+    },
+    {
+      "id": "anilist-111233",
+      "name": "Call of the Night",
+      "volumeCount": 20,
+      "ongoing": false
     },
     {
       "id": "anilist-86717",
@@ -791,7 +791,7 @@
     {
       "id": "anilist-144957",
       "name": "The World After the Fall",
-      "volumeCount": 3,
+      "volumeCount": 9,
       "ongoing": true
     },
     {
@@ -855,27 +855,27 @@
       "ongoing": false
     },
     {
-      "id": "anilist-94970",
-      "name": "Classroom of the Elite",
-      "volumeCount": 14,
-      "ongoing": false
-    },
-    {
       "id": "anilist-85911",
       "name": "Tomodachi Game",
       "volumeCount": 26,
       "ongoing": false
     },
     {
-      "id": "anilist-101177",
-      "name": "Fly Me to the Moon",
-      "volumeCount": 36,
-      "ongoing": true
+      "id": "anilist-94970",
+      "name": "Classroom of the Elite",
+      "volumeCount": 14,
+      "ongoing": false
     },
     {
       "id": "anilist-118408",
       "name": "Villains Are Destined to Die",
       "volumeCount": 8,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-101177",
+      "name": "Fly Me to the Moon",
+      "volumeCount": 36,
       "ongoing": true
     },
     {
@@ -903,6 +903,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-147149",
+      "name": "Smoking Behind the Supermarket with You",
+      "volumeCount": 8,
+      "ongoing": true
+    },
+    {
       "id": "anilist-107282",
       "name": "Shikimori's Not Just a Cutie",
       "volumeCount": 20,
@@ -913,12 +919,6 @@
       "name": "Blue Flag",
       "volumeCount": 8,
       "ongoing": false
-    },
-    {
-      "id": "anilist-147149",
-      "name": "Smoking Behind the Supermarket with You",
-      "volumeCount": 8,
-      "ongoing": true
     },
     {
       "id": "anilist-107521",
@@ -961,6 +961,12 @@
       "name": "Neon Genesis Evangelion",
       "volumeCount": 14,
       "ongoing": false
+    },
+    {
+      "id": "anilist-114416",
+      "name": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You",
+      "volumeCount": 26,
+      "ongoing": true
     },
     {
       "id": "anilist-85470",
@@ -1035,15 +1041,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-111189",
-      "name": "A Sign of Affection",
-      "volumeCount": 14,
-      "ongoing": true
-    },
-    {
       "id": "anilist-105011",
       "name": "More Than a Married Couple, but Not Lovers.",
       "volumeCount": 13,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-111189",
+      "name": "A Sign of Affection",
+      "volumeCount": 14,
       "ongoing": true
     },
     {
@@ -1551,16 +1557,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-144866",
-      "name": "Akane-banashi",
-      "volumeCount": 22,
-      "ongoing": true
-    },
-    {
       "id": "anilist-111403",
       "name": "Hokkaido Gals Are Super Adorable!",
       "volumeCount": 14,
       "ongoing": false
+    },
+    {
+      "id": "anilist-144866",
+      "name": "Akane-banashi",
+      "volumeCount": 22,
+      "ongoing": true
     },
     {
       "id": "anilist-56736",
@@ -1569,15 +1575,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-60315",
-      "name": "Last Game",
-      "volumeCount": 11,
-      "ongoing": false
-    },
-    {
       "id": "anilist-107279",
       "name": "Aoashi",
       "volumeCount": 40,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-60315",
+      "name": "Last Game",
+      "volumeCount": 11,
       "ongoing": false
     },
     {
@@ -1629,15 +1635,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-66413",
-      "name": "Hinamatsuri",
-      "volumeCount": 19,
-      "ongoing": false
-    },
-    {
       "id": "anilist-38157",
       "name": "Kamisama Kiss",
       "volumeCount": 25,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-66413",
+      "name": "Hinamatsuri",
+      "volumeCount": 19,
       "ongoing": false
     },
     {
@@ -1801,12 +1807,6 @@
       "name": "In the Clear Moonlit Dusk",
       "volumeCount": 10,
       "ongoing": true
-    },
-    {
-      "id": "anilist-85155",
-      "name": "The Gamer",
-      "volumeCount": 8,
-      "ongoing": false
     },
     {
       "id": "anilist-86607",
@@ -1989,16 +1989,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-34571",
-      "name": "Snow White with the Red Hair",
-      "volumeCount": 27,
-      "ongoing": true
-    },
-    {
       "id": "anilist-30933",
       "name": "Elfen Lied",
       "volumeCount": 12,
       "ongoing": false
+    },
+    {
+      "id": "anilist-34571",
+      "name": "Snow White with the Red Hair",
+      "volumeCount": 27,
+      "ongoing": true
     },
     {
       "id": "anilist-30735",
@@ -2169,15 +2169,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-54903",
-      "name": "GANGSTA.",
-      "volumeCount": 8,
-      "ongoing": true
-    },
-    {
       "id": "anilist-143031",
       "name": "I Want to End This Love Game",
       "volumeCount": 9,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-54903",
+      "name": "GANGSTA.",
+      "volumeCount": 8,
       "ongoing": true
     },
     {
