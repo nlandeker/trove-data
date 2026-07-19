@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-07-18T06:01:08Z",
+  "_generated": "2026-07-19T06:26:48Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -29,7 +29,7 @@
     {
       "id": "anilist-30013",
       "name": "One Piece",
-      "volumeCount": 114,
+      "volumeCount": 115,
       "ongoing": true
     },
     {
@@ -345,15 +345,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-105469",
-      "name": "Jujutsu Kaisen 0",
-      "volumeCount": 1,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30936",
       "name": "Homunculus",
       "volumeCount": 15,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-105469",
+      "name": "Jujutsu Kaisen 0",
+      "volumeCount": 1,
       "ongoing": false
     },
     {
@@ -675,15 +675,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85189",
-      "name": "Mob Psycho 100",
-      "volumeCount": 16,
-      "ongoing": false
-    },
-    {
       "id": "anilist-38967",
       "name": "Onani Master Kurosawa",
       "volumeCount": 4,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85189",
+      "name": "Mob Psycho 100",
+      "volumeCount": 16,
       "ongoing": false
     },
     {
@@ -791,7 +791,7 @@
     {
       "id": "anilist-144957",
       "name": "The World After the Fall",
-      "volumeCount": 9,
+      "volumeCount": 3,
       "ongoing": true
     },
     {
@@ -885,16 +885,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-63031",
-      "name": "Alice in Borderland",
-      "volumeCount": 18,
-      "ongoing": false
-    },
-    {
       "id": "anilist-138603",
       "name": "The Summer Hikaru Died",
       "volumeCount": 9,
       "ongoing": true
+    },
+    {
+      "id": "anilist-63031",
+      "name": "Alice in Borderland",
+      "volumeCount": 18,
+      "ongoing": false
     },
     {
       "id": "anilist-87347",
@@ -963,12 +963,6 @@
       "ongoing": false
     },
     {
-      "id": "anilist-114416",
-      "name": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You",
-      "volumeCount": 26,
-      "ongoing": true
-    },
-    {
       "id": "anilist-85470",
       "name": "Mushoku Tensei: Jobless Reincarnation",
       "volumeCount": 26,
@@ -993,15 +987,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-31630",
-      "name": "JoJo's Bizarre Adventure Part 2: Battle Tendency",
-      "volumeCount": 7,
-      "ongoing": false
-    },
-    {
       "id": "anilist-87208",
       "name": "Our Dreams at Dusk: Shimanami Tasogare",
       "volumeCount": 4,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-31630",
+      "name": "JoJo's Bizarre Adventure Part 2: Battle Tendency",
+      "volumeCount": 7,
       "ongoing": false
     },
     {
@@ -1209,16 +1203,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-33285",
-      "name": "Holyland",
-      "volumeCount": 18,
-      "ongoing": false
-    },
-    {
       "id": "anilist-179445",
       "name": "Solo Leveling: Ragnarok",
       "volumeCount": 15,
       "ongoing": true
+    },
+    {
+      "id": "anilist-33285",
+      "name": "Holyland",
+      "volumeCount": 18,
+      "ongoing": false
     },
     {
       "id": "anilist-110473",
@@ -1569,15 +1563,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-56736",
-      "name": "House of the Sun",
-      "volumeCount": 13,
-      "ongoing": false
-    },
-    {
       "id": "anilist-107279",
       "name": "Aoashi",
       "volumeCount": 40,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-56736",
+      "name": "House of the Sun",
+      "volumeCount": 13,
       "ongoing": false
     },
     {
@@ -1635,15 +1629,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-38157",
-      "name": "Kamisama Kiss",
-      "volumeCount": 25,
-      "ongoing": false
-    },
-    {
       "id": "anilist-66413",
       "name": "Hinamatsuri",
       "volumeCount": 19,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-38157",
+      "name": "Kamisama Kiss",
+      "volumeCount": 25,
       "ongoing": false
     },
     {
@@ -1785,16 +1779,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-87225",
-      "name": "Tsukimichi: Moonlit Fantasy",
-      "volumeCount": 20,
-      "ongoing": true
-    },
-    {
       "id": "anilist-198372",
       "name": "Jujutsu Kaisen Modulo",
       "volumeCount": 3,
       "ongoing": false
+    },
+    {
+      "id": "anilist-87225",
+      "name": "Tsukimichi: Moonlit Fantasy",
+      "volumeCount": 20,
+      "ongoing": true
     },
     {
       "id": "anilist-152404",
@@ -1807,6 +1801,12 @@
       "name": "In the Clear Moonlit Dusk",
       "volumeCount": 10,
       "ongoing": true
+    },
+    {
+      "id": "anilist-85155",
+      "name": "The Gamer",
+      "volumeCount": 8,
+      "ongoing": false
     },
     {
       "id": "anilist-86607",
@@ -2223,16 +2223,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-100207",
-      "name": "The Great Jahy Will Not Be Defeated!",
-      "volumeCount": 12,
-      "ongoing": true
-    },
-    {
       "id": "anilist-30085",
       "name": "Azumanga Daioh",
       "volumeCount": 4,
       "ongoing": false
+    },
+    {
+      "id": "anilist-100207",
+      "name": "The Great Jahy Will Not Be Defeated!",
+      "volumeCount": 12,
+      "ongoing": true
     },
     {
       "id": "anilist-68105",
