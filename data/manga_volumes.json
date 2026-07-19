@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-07-19T06:26:48Z",
+  "_generated": "2026-07-19T17:49:09Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -645,16 +645,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-44790",
-      "name": "Magi: The Labyrinth of Magic",
-      "volumeCount": 37,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30657",
       "name": "Real",
       "volumeCount": 17,
       "ongoing": true
+    },
+    {
+      "id": "anilist-44790",
+      "name": "Magi: The Labyrinth of Magic",
+      "volumeCount": 37,
+      "ongoing": false
     },
     {
       "id": "anilist-85412",
@@ -954,6 +954,12 @@
       "id": "anilist-33866",
       "name": "Black Butler",
       "volumeCount": 35,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-114416",
+      "name": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You",
+      "volumeCount": 26,
       "ongoing": true
     },
     {
@@ -1443,15 +1449,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86279",
-      "name": "Boarding School Juliet",
-      "volumeCount": 16,
-      "ongoing": false
-    },
-    {
       "id": "anilist-105332",
       "name": "Sweat and Soap",
       "volumeCount": 11,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-86279",
+      "name": "Boarding School Juliet",
+      "volumeCount": 16,
       "ongoing": false
     },
     {
@@ -1599,16 +1605,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-101724",
-      "name": "Uzaki-chan Wants to Hang Out!",
-      "volumeCount": 14,
-      "ongoing": true
-    },
-    {
       "id": "anilist-117620",
       "name": "The Summer You Were There",
       "volumeCount": 6,
       "ongoing": false
+    },
+    {
+      "id": "anilist-101724",
+      "name": "Uzaki-chan Wants to Hang Out!",
+      "volumeCount": 14,
+      "ongoing": true
     },
     {
       "id": "anilist-75143",
@@ -1803,12 +1809,6 @@
       "ongoing": true
     },
     {
-      "id": "anilist-85155",
-      "name": "The Gamer",
-      "volumeCount": 8,
-      "ongoing": false
-    },
-    {
       "id": "anilist-86607",
       "name": "Gleipnir",
       "volumeCount": 14,
@@ -1953,21 +1953,21 @@
       "ongoing": false
     },
     {
-      "id": "anilist-70171",
-      "name": "My Youth Romantic Comedy Is Wrong, As I Expected",
-      "volumeCount": 18,
-      "ongoing": false
-    },
-    {
       "id": "anilist-110605",
       "name": "Leviathan",
       "volumeCount": 9,
       "ongoing": false
     },
     {
+      "id": "anilist-70171",
+      "name": "My Youth Romantic Comedy Is Wrong, As I Expected",
+      "volumeCount": 18,
+      "ongoing": false
+    },
+    {
       "id": "anilist-113076",
       "name": "Sometimes Even Reality Is a Lie!",
-      "volumeCount": 8,
+      "volumeCount": 9,
       "ongoing": false
     },
     {
@@ -1977,16 +1977,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85495",
-      "name": "Re:Monster",
-      "volumeCount": 9,
-      "ongoing": true
-    },
-    {
       "id": "anilist-113055",
       "name": "The Remarried Empress",
       "volumeCount": 9,
       "ongoing": false
+    },
+    {
+      "id": "anilist-85495",
+      "name": "Re:Monster",
+      "volumeCount": 9,
+      "ongoing": true
     },
     {
       "id": "anilist-30933",
@@ -2067,15 +2067,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-101860",
-      "name": "EDENS ZERO",
-      "volumeCount": 33,
-      "ongoing": false
-    },
-    {
       "id": "anilist-68071",
       "name": "Spirit Circle",
       "volumeCount": 6,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-101860",
+      "name": "EDENS ZERO",
+      "volumeCount": 33,
       "ongoing": false
     },
     {
@@ -2235,15 +2235,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-68105",
-      "name": "Kase-san and...",
-      "volumeCount": 5,
-      "ongoing": false
-    },
-    {
       "id": "anilist-159142",
       "name": "Firefly Wedding",
       "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-68105",
+      "name": "Kase-san and...",
+      "volumeCount": 5,
       "ongoing": false
     },
     {
