@@ -87,7 +87,7 @@ assert r_solo[7] == "Duplo", "solo root maps to itself"
 
 lego_html = (FIXTURES / "lego_retiring_soon.html").read_text()
 nums = parse_lego_retiring_html(lego_html)
-assert nums == {"10316", "99999999"}, f"parser extracted wrong set numbers: {nums}"
+assert nums == {"10316", "99999999", "10302"}, f"parser extracted wrong set numbers: {nums}"
 
 sample_items = [
     {"id": "10316", "lifecycleStatus": "AVAILABLE", "retirementDate": None},
