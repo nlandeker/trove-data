@@ -352,14 +352,18 @@ def parse_lego_retiring_html(html: str) -> set[str]:
     """Extract LEGO set numbers from a lego.com last-chance-to-buy category page.
 
     Product listing data isn't in visible HTML — it's Next.js/Apollo cache state
-    embedded as `<script id="__NEXT_DATA__">…</script>`. Every product-listing query
-    on the page shows up as a top-level `ProductQueryResult:<uuid>` key (nested facet/
-    filter sub-keys contain a "." and are skipped) whose `results` list holds entries
-    like `{"id": "SingleVariantProduct:10316", ...}`; the set number is the suffix
-    after the last colon.
+    embedded as `<script id="__NEXT_DATA__">…</script>`. Two known cache shapes
+    (nested sub-keys contain a "." and are skipped in both):
+    - pre-2026-07: top-level `ProductQueryResult:<uuid>` keys whose `results` list
+      holds refs like `{"id": "SingleVariantProduct:10316", ...}`.
+    - 2026-07 rebuild: top-level `ProductListingPage:<hash>` keys whose `tiles` list
+      holds refs like `{"id": "ProductTile:10316", ...}` (non-product tiles such as
+      `DiscoverTile:blt…` have non-numeric suffixes and drop out).
+    Either way the set number is the suffix after the last colon.
 
-    ponytail: this scrapes an undocumented internal cache shape, verified against a
-    real fetch on 2026-07-03 (70 sets, 4 pages). It WILL break silently the day LEGO
+    ponytail: this scrapes an undocumented internal cache shape, verified against
+    real fetches on 2026-07-03 (ProductQueryResult, 70 sets) and 2026-07-19
+    (ProductListingPage, 70 sets). It WILL break silently again the day LEGO
     reshuffles their Next.js build or Apollo schema — that's why callers treat a
     zero-result parse as failure, and overrides/retiring.json exists as the manual
     fallback (see load_overrides below).
@@ -373,9 +377,15 @@ def parse_lego_retiring_html(html: str) -> set[str]:
         return set()
     nums: set[str] = set()
     for key, val in apollo.items():
-        if not key.startswith("ProductQueryResult:") or "." in key:
+        if "." in key:
             continue
-        for ref in (val or {}).get("results", []):
+        if key.startswith("ProductQueryResult:"):
+            refs = (val or {}).get("results", [])
+        elif key.startswith("ProductListingPage:"):
+            refs = (val or {}).get("tiles", [])
+        else:
+            continue
+        for ref in refs:
             num = str(ref.get("id", "")).rsplit(":", 1)[-1]
             if num.isdigit():
                 nums.add(num)
