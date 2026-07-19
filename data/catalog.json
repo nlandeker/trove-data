@@ -2,7 +2,7 @@
   "version": 2,
   "currency": "EUR",
   "_attribution": "LEGO data: Rebrickable (rebrickable.com) + Brickset (brickset.com). Not affiliated with or endorsed by The LEGO Group.",
-  "_generated": "2026-07-18T05:37:44Z",
+  "_generated": "2026-07-19T06:11:00Z",
   "items": [
     {
       "id": "001",
@@ -5751,7 +5751,7 @@
         "GBP": 89.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-07-15",
+      "retirementDate": "2026-07-18",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -7057,8 +7057,8 @@
         "USD": 19.99,
         "GBP": 17.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-07-18",
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -14648,8 +14648,8 @@
         "USD": 24.99,
         "GBP": 17.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-07-18",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -17652,6 +17652,21 @@
       "retirementDate": null,
       "marketPrice": null,
       "year": 2000,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "12009",
+      "category": "LEGO",
+      "name": "Ninjago: Destiny's Bounty Adventures",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/12009-1/176500.jpg",
+      "themeOrSeries": "Gear",
+      "retailPrice": null,
+      "prices": {},
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
       "volumeCount": null,
       "ongoing": null
     },
@@ -61310,8 +61325,8 @@
         "USD": 19.99,
         "GBP": 17.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-07-18",
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -102705,8 +102720,8 @@
         "USD": 9.99,
         "GBP": 8.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-07-18",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -125698,6 +125713,21 @@
       "ongoing": null
     },
     {
+      "id": "5010388",
+      "category": "LEGO",
+      "name": "Play Box",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/5010388-1/177739.jpg",
+      "themeOrSeries": "Other",
+      "retailPrice": null,
+      "prices": {},
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
       "id": "5012",
       "category": "LEGO",
       "name": "Soccer Player with Goal",
@@ -146295,8 +146325,8 @@
         "USD": 9.99,
         "GBP": 7.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-07-18",
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -238632,6 +238662,21 @@
       "ongoing": null
     },
     {
+      "id": "951386",
+      "category": "LEGO",
+      "name": "Zane",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/951386-1/177748.jpg",
+      "themeOrSeries": "Ninjago",
+      "retailPrice": null,
+      "prices": {},
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
       "id": "951394",
       "category": "LEGO",
       "name": "Spider-Man with Web",
@@ -238666,6 +238711,21 @@
       "category": "LEGO",
       "name": "Republic Gunship",
       "imageURL": "https://cdn.rebrickable.com/media/sets/951405-1/175421.jpg",
+      "themeOrSeries": "Star Wars",
+      "retailPrice": null,
+      "prices": {},
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "951408",
+      "category": "LEGO",
+      "name": "Death Trooper",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/951408-1/177747.jpg",
       "themeOrSeries": "Star Wars",
       "retailPrice": null,
       "prices": {},
@@ -252413,21 +252473,6 @@
       "retirementDate": null,
       "marketPrice": null,
       "year": 2021,
-      "volumeCount": null,
-      "ongoing": null
-    },
-    {
-      "id": "DOTGM30102EN",
-      "category": "LEGO",
-      "name": "Ninjago: Destiny's Bounty Adventures",
-      "imageURL": "https://cdn.rebrickable.com/media/sets/dotgm30102en-1/176500.jpg",
-      "themeOrSeries": "Gear",
-      "retailPrice": null,
-      "prices": {},
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
-      "marketPrice": null,
-      "year": 2026,
       "volumeCount": null,
       "ongoing": null
     },
