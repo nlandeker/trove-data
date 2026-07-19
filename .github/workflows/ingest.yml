@@ -18,6 +18,14 @@ jobs:
           ref: data
           # ponytail: check out the data branch directly; no need for a separate fetch step
 
+      # Code lives on main; the data branch only persists outputs. Overlay main's
+      # code every run so fixes on main take effect without a manual merge — the
+      # checkout stages these files, so the commit below also syncs them to data.
+      - name: Sync ingest code from main
+        run: |
+          git fetch origin main --depth=1
+          git checkout origin/main -- ingest.py manga_ingest.py test_ingest.py test_manga_ingest.py fixtures overrides
+
       - name: Run ingest pipeline
         env:
           REBRICKABLE_API_KEY: ${{ secrets.REBRICKABLE_API_KEY }}
