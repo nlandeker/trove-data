@@ -2,7 +2,7 @@
   "version": 2,
   "currency": "EUR",
   "_attribution": "LEGO data: Rebrickable (rebrickable.com) + Brickset (brickset.com). Not affiliated with or endorsed by The LEGO Group.",
-  "_generated": "2026-07-19T17:39:18Z",
+  "_generated": "2026-07-20T06:30:07Z",
   "items": [
     {
       "id": "001",
@@ -106630,8 +106630,8 @@
         "USD": 19.99,
         "GBP": 17.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-07-19",
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -180497,8 +180497,8 @@
         "USD": 99.99,
         "GBP": 89.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-07-19",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -204537,8 +204537,8 @@
         "USD": 9.99,
         "GBP": 8.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-07-19",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -204613,8 +204613,8 @@
         "USD": 89.99,
         "GBP": 79.99
       },
-      "lifecycleStatus": "RETIRING_SOON",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-07-19",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
