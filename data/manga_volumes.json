@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-07-20T06:42:40Z",
+  "_generated": "2026-07-21T06:25:44Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -597,15 +597,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-51525",
-      "name": "Yona of the Dawn",
-      "volumeCount": 48,
-      "ongoing": false
-    },
-    {
       "id": "anilist-33731",
       "name": "Solanin",
       "volumeCount": 2,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-51525",
+      "name": "Yona of the Dawn",
+      "volumeCount": 48,
       "ongoing": false
     },
     {
@@ -1053,16 +1053,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-86568",
-      "name": "The Case Study of Vanitas",
-      "volumeCount": 11,
-      "ongoing": true
-    },
-    {
       "id": "anilist-110462",
       "name": "Tomb Raider King",
       "volumeCount": 12,
       "ongoing": false
+    },
+    {
+      "id": "anilist-86568",
+      "name": "The Case Study of Vanitas",
+      "volumeCount": 11,
+      "ongoing": true
     },
     {
       "id": "anilist-30872",
@@ -1767,27 +1767,27 @@
       "ongoing": false
     },
     {
-      "id": "anilist-98544",
-      "name": "Moriarty the Patriot",
-      "volumeCount": 22,
-      "ongoing": true
-    },
-    {
       "id": "anilist-114027",
       "name": "Boy Meets Maria",
       "volumeCount": 1,
       "ongoing": false
     },
     {
-      "id": "anilist-31101",
-      "name": "Akumetsu",
-      "volumeCount": 18,
-      "ongoing": false
+      "id": "anilist-98544",
+      "name": "Moriarty the Patriot",
+      "volumeCount": 22,
+      "ongoing": true
     },
     {
       "id": "anilist-198372",
       "name": "Jujutsu Kaisen Modulo",
       "volumeCount": 3,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-31101",
+      "name": "Akumetsu",
+      "volumeCount": 18,
       "ongoing": false
     },
     {
@@ -1845,16 +1845,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-65719",
-      "name": "Like a Butterfly",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-122063",
       "name": "Shangri-La Frontier",
       "volumeCount": 27,
       "ongoing": true
+    },
+    {
+      "id": "anilist-65719",
+      "name": "Like a Butterfly",
+      "volumeCount": 12,
+      "ongoing": false
     },
     {
       "id": "anilist-113488",
@@ -1917,15 +1917,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-107120",
-      "name": "Chillin’ in Another World with Level 2 Super Cheat Powers",
-      "volumeCount": 21,
-      "ongoing": true
-    },
-    {
       "id": "anilist-176740",
       "name": "Centuria",
       "volumeCount": 9,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-107120",
+      "name": "Chillin’ in Another World with Level 2 Super Cheat Powers",
+      "volumeCount": 21,
       "ongoing": true
     },
     {
@@ -1959,15 +1959,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-70171",
-      "name": "My Youth Romantic Comedy Is Wrong, As I Expected",
-      "volumeCount": 18,
-      "ongoing": false
-    },
-    {
       "id": "anilist-113076",
       "name": "Sometimes Even Reality Is a Lie!",
       "volumeCount": 9,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-70171",
+      "name": "My Youth Romantic Comedy Is Wrong, As I Expected",
+      "volumeCount": 18,
       "ongoing": false
     },
     {
@@ -2067,15 +2067,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-68071",
-      "name": "Spirit Circle",
-      "volumeCount": 6,
-      "ongoing": false
-    },
-    {
       "id": "anilist-101860",
       "name": "EDENS ZERO",
       "volumeCount": 33,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-68071",
+      "name": "Spirit Circle",
+      "volumeCount": 6,
       "ongoing": false
     },
     {
@@ -2127,15 +2127,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-44893",
-      "name": "Bakemonogatari: Monster Tale",
-      "volumeCount": 2,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30050",
       "name": "Shaman King",
       "volumeCount": 32,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-44893",
+      "name": "Bakemonogatari: Monster Tale",
+      "volumeCount": 2,
       "ongoing": false
     },
     {
@@ -2148,6 +2148,12 @@
       "id": "anilist-30106",
       "name": "Cardcaptor Sakura",
       "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-107720",
+      "name": "Her Summon",
+      "volumeCount": 14,
       "ongoing": false
     },
     {
@@ -2319,16 +2325,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85566",
-      "name": "Love & Lies",
-      "volumeCount": 13,
-      "ongoing": false
-    },
-    {
       "id": "anilist-171729",
       "name": "Love Bullet",
       "volumeCount": 2,
       "ongoing": true
+    },
+    {
+      "id": "anilist-85566",
+      "name": "Love & Lies",
+      "volumeCount": 13,
+      "ongoing": false
     },
     {
       "id": "anilist-107518",
