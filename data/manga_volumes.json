@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-07-21T06:25:44Z",
+  "_generated": "2026-07-22T06:25:22Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -579,15 +579,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85141",
-      "name": "The God of High School",
-      "volumeCount": 4,
-      "ongoing": false
-    },
-    {
       "id": "anilist-132182",
       "name": "Blue Box",
       "volumeCount": 28,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85141",
+      "name": "The God of High School",
+      "volumeCount": 4,
       "ongoing": false
     },
     {
@@ -897,16 +897,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-87347",
-      "name": "Given",
-      "volumeCount": 9,
-      "ongoing": false
-    },
-    {
       "id": "anilist-147149",
       "name": "Smoking Behind the Supermarket with You",
       "volumeCount": 8,
       "ongoing": true
+    },
+    {
+      "id": "anilist-87347",
+      "name": "Given",
+      "volumeCount": 9,
+      "ongoing": false
     },
     {
       "id": "anilist-107282",
@@ -1017,16 +1017,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-32921",
-      "name": "Maid-sama!",
-      "volumeCount": 18,
-      "ongoing": false
-    },
-    {
       "id": "anilist-99324",
       "name": "Welcome to Demon School! Iruma-kun",
       "volumeCount": 49,
       "ongoing": true
+    },
+    {
+      "id": "anilist-32921",
+      "name": "Maid-sama!",
+      "volumeCount": 18,
+      "ongoing": false
     },
     {
       "id": "anilist-30004",
@@ -1065,16 +1065,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-30872",
-      "name": "JoJo's Bizarre Adventure Part 3: Stardust Crusaders",
-      "volumeCount": 16,
-      "ongoing": false
-    },
-    {
       "id": "anilist-85442",
       "name": "The Rising of the Shield Hero",
       "volumeCount": 22,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30872",
+      "name": "JoJo's Bizarre Adventure Part 3: Stardust Crusaders",
+      "volumeCount": 16,
+      "ongoing": false
     },
     {
       "id": "anilist-101557",
@@ -1395,16 +1395,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-30047",
-      "name": "Reborn!",
-      "volumeCount": 42,
-      "ongoing": false
-    },
-    {
       "id": "anilist-180752",
       "name": "Ichi the Witch",
       "volumeCount": 9,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30047",
+      "name": "Reborn!",
+      "volumeCount": 42,
+      "ongoing": false
     },
     {
       "id": "anilist-85134",
@@ -1557,16 +1557,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-111403",
-      "name": "Hokkaido Gals Are Super Adorable!",
-      "volumeCount": 14,
-      "ongoing": false
-    },
-    {
       "id": "anilist-144866",
       "name": "Akane-banashi",
       "volumeCount": 22,
       "ongoing": true
+    },
+    {
+      "id": "anilist-111403",
+      "name": "Hokkaido Gals Are Super Adorable!",
+      "volumeCount": 14,
+      "ongoing": false
     },
     {
       "id": "anilist-107279",
@@ -1905,6 +1905,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-176740",
+      "name": "Centuria",
+      "volumeCount": 9,
+      "ongoing": true
+    },
+    {
       "id": "anilist-108105",
       "name": "When Will Ayumu Make His Move?",
       "volumeCount": 17,
@@ -1915,12 +1921,6 @@
       "name": "DARLING in the FRANXX",
       "volumeCount": 8,
       "ongoing": false
-    },
-    {
-      "id": "anilist-176740",
-      "name": "Centuria",
-      "volumeCount": 9,
-      "ongoing": true
     },
     {
       "id": "anilist-107120",
@@ -1947,15 +1947,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-58361",
-      "name": "HIDEOUT",
-      "volumeCount": 1,
-      "ongoing": false
-    },
-    {
       "id": "anilist-110605",
       "name": "Leviathan",
       "volumeCount": 9,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-58361",
+      "name": "HIDEOUT",
+      "volumeCount": 1,
       "ongoing": false
     },
     {
@@ -2151,12 +2151,6 @@
       "ongoing": false
     },
     {
-      "id": "anilist-107720",
-      "name": "Her Summon",
-      "volumeCount": 14,
-      "ongoing": false
-    },
-    {
       "id": "anilist-35293",
       "name": "Doubt",
       "volumeCount": 4,
@@ -2319,16 +2313,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85887",
-      "name": "Ookami Shounen wa Kyou mo Uso wo Kasaneru",
-      "volumeCount": 5,
-      "ongoing": false
-    },
-    {
       "id": "anilist-171729",
       "name": "Love Bullet",
       "volumeCount": 2,
       "ongoing": true
+    },
+    {
+      "id": "anilist-85887",
+      "name": "Ookami Shounen wa Kyou mo Uso wo Kasaneru",
+      "volumeCount": 5,
+      "ongoing": false
     },
     {
       "id": "anilist-85566",
