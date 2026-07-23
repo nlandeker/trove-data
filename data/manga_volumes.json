@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-07-22T06:25:22Z",
+  "_generated": "2026-07-23T06:27:04Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -423,16 +423,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-98397",
-      "name": "Blood on the Tracks",
-      "volumeCount": 17,
-      "ongoing": false
-    },
-    {
       "id": "anilist-144946",
       "name": "Gachiakuta",
       "volumeCount": 19,
       "ongoing": true
+    },
+    {
+      "id": "anilist-98397",
+      "name": "Blood on the Tracks",
+      "volumeCount": 17,
+      "ongoing": false
     },
     {
       "id": "anilist-111233",
@@ -597,15 +597,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-33731",
-      "name": "Solanin",
-      "volumeCount": 2,
-      "ongoing": false
-    },
-    {
       "id": "anilist-51525",
       "name": "Yona of the Dawn",
       "volumeCount": 48,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-33731",
+      "name": "Solanin",
+      "volumeCount": 2,
       "ongoing": false
     },
     {
@@ -715,6 +715,12 @@
       "name": "JoJo's Bizarre Adventure Part 1: Phantom Blood",
       "volumeCount": 5,
       "ongoing": false
+    },
+    {
+      "id": "anilist-85564",
+      "name": "Mushoku Tensei: Jobless Reincarnation",
+      "volumeCount": 25,
+      "ongoing": true
     },
     {
       "id": "anilist-30664",
@@ -1065,16 +1071,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-85442",
-      "name": "The Rising of the Shield Hero",
-      "volumeCount": 22,
-      "ongoing": true
-    },
-    {
       "id": "anilist-30872",
       "name": "JoJo's Bizarre Adventure Part 3: Stardust Crusaders",
       "volumeCount": 16,
       "ongoing": false
+    },
+    {
+      "id": "anilist-85442",
+      "name": "The Rising of the Shield Hero",
+      "volumeCount": 22,
+      "ongoing": true
     },
     {
       "id": "anilist-101557",
@@ -1203,16 +1209,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-112579",
-      "name": "My Broken Mariko",
-      "volumeCount": 1,
-      "ongoing": false
-    },
-    {
       "id": "anilist-179445",
       "name": "Solo Leveling: Ragnarok",
       "volumeCount": 15,
       "ongoing": true
+    },
+    {
+      "id": "anilist-112579",
+      "name": "My Broken Mariko",
+      "volumeCount": 1,
+      "ongoing": false
     },
     {
       "id": "anilist-33285",
@@ -1245,15 +1251,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-43702",
-      "name": "My Little Monster",
-      "volumeCount": 13,
-      "ongoing": false
-    },
-    {
       "id": "anilist-106867",
       "name": "My Dearest Self With Malice Aforethought",
       "volumeCount": 11,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-43702",
+      "name": "My Little Monster",
+      "volumeCount": 13,
       "ongoing": false
     },
     {
@@ -1545,15 +1551,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-74929",
-      "name": "Scum's Wish",
-      "volumeCount": 8,
-      "ongoing": false
-    },
-    {
       "id": "anilist-86526",
       "name": "Platinum End",
       "volumeCount": 14,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-74929",
+      "name": "Scum's Wish",
+      "volumeCount": 8,
       "ongoing": false
     },
     {
@@ -1839,16 +1845,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-101434",
-      "name": "How to Treat a Lady Knight Right",
-      "volumeCount": 7,
-      "ongoing": false
-    },
-    {
       "id": "anilist-122063",
       "name": "Shangri-La Frontier",
       "volumeCount": 27,
       "ongoing": true
+    },
+    {
+      "id": "anilist-101434",
+      "name": "How to Treat a Lady Knight Right",
+      "volumeCount": 7,
+      "ongoing": false
     },
     {
       "id": "anilist-65719",
@@ -1875,15 +1881,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-66213",
-      "name": "Monster Musume",
-      "volumeCount": 21,
-      "ongoing": true
-    },
-    {
       "id": "anilist-135083",
       "name": "WIND BREAKER",
       "volumeCount": 26,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-66213",
+      "name": "Monster Musume",
+      "volumeCount": 21,
       "ongoing": true
     },
     {
@@ -1899,16 +1905,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86481",
-      "name": "Tsuredure Children",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-176740",
       "name": "Centuria",
       "volumeCount": 9,
       "ongoing": true
+    },
+    {
+      "id": "anilist-86481",
+      "name": "Tsuredure Children",
+      "volumeCount": 12,
+      "ongoing": false
     },
     {
       "id": "anilist-108105",
@@ -1953,15 +1959,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-58361",
-      "name": "HIDEOUT",
-      "volumeCount": 1,
-      "ongoing": false
-    },
-    {
       "id": "anilist-113076",
       "name": "Sometimes Even Reality Is a Lie!",
       "volumeCount": 9,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-58361",
+      "name": "HIDEOUT",
+      "volumeCount": 1,
       "ongoing": false
     },
     {
@@ -2037,16 +2043,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-101625",
-      "name": "Berserk of Gluttony",
-      "volumeCount": 8,
-      "ongoing": true
-    },
-    {
       "id": "anilist-112544",
       "name": "Kowloon Generic Romance",
       "volumeCount": 12,
       "ongoing": false
+    },
+    {
+      "id": "anilist-101625",
+      "name": "Berserk of Gluttony",
+      "volumeCount": 8,
+      "ongoing": true
     },
     {
       "id": "anilist-106726",
@@ -2055,15 +2061,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-97337",
-      "name": "your name.",
-      "volumeCount": 3,
-      "ongoing": false
-    },
-    {
       "id": "anilist-147997",
       "name": "You and I Are Polar Opposites",
       "volumeCount": 8,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-97337",
+      "name": "your name.",
+      "volumeCount": 3,
       "ongoing": false
     },
     {
@@ -2359,6 +2365,12 @@
       "name": "Love★Com",
       "volumeCount": 17,
       "ongoing": false
+    },
+    {
+      "id": "anilist-85978",
+      "name": "The New Gate",
+      "volumeCount": 23,
+      "ongoing": true
     },
     {
       "id": "anilist-30081",
