@@ -2,7 +2,7 @@
   "version": 2,
   "currency": "EUR",
   "_attribution": "LEGO data: Rebrickable (rebrickable.com) + Brickset (brickset.com). Not affiliated with or endorsed by The LEGO Group.",
-  "_generated": "2026-07-23T06:13:32Z",
+  "_generated": "2026-07-24T05:59:57Z",
   "items": [
     {
       "id": "001",
@@ -6890,8 +6890,8 @@
         "USD": 19.99,
         "GBP": 17.99
       },
-      "lifecycleStatus": "RETIRING_SOON",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-07-23",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -14705,8 +14705,8 @@
         "USD": 29.99,
         "GBP": 24.99
       },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-07-15",
+      "lifecycleStatus": "RETIRING_SOON",
+      "retirementDate": null,
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -16582,8 +16582,8 @@
         "USD": 14.99,
         "GBP": 12.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-07-23",
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -102906,8 +102906,8 @@
         "USD": 9.99,
         "GBP": 8.99
       },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-07-20",
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -145953,8 +145953,8 @@
         "USD": 19.99,
         "GBP": 17.99
       },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-07-12",
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -146864,8 +146864,8 @@
         "USD": 19.99,
         "GBP": 17.99
       },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-07-07",
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -180721,8 +180721,8 @@
         "USD": 119.99,
         "GBP": 109.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-07-23",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -181040,8 +181040,8 @@
         "USD": 19.99,
         "GBP": 17.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-07-23",
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -181694,7 +181694,7 @@
         "GBP": 44.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-07-22",
+      "retirementDate": "2026-07-23",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -261998,6 +261998,23 @@
       },
       "lifecycleStatus": "RETIRED",
       "retirementDate": "2026-02-17",
+      "marketPrice": null,
+      "year": 2025,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "5009386",
+      "category": "LEGO",
+      "name": "Mandalorian Warriors",
+      "imageURL": "https://images.brickset.com/sets/images/5009386-1.jpg",
+      "themeOrSeries": "Books",
+      "retailPrice": null,
+      "prices": {
+        "USD": 8.99
+      },
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-07-23",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
