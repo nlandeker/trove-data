@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-07-24T06:22:27Z",
+  "_generated": "2026-07-25T06:13:26Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -715,6 +715,12 @@
       "name": "JoJo's Bizarre Adventure Part 1: Phantom Blood",
       "volumeCount": 5,
       "ongoing": false
+    },
+    {
+      "id": "anilist-85564",
+      "name": "Mushoku Tensei: Jobless Reincarnation",
+      "volumeCount": 25,
+      "ongoing": true
     },
     {
       "id": "anilist-30664",
@@ -1545,26 +1551,14 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86526",
-      "name": "Platinum End",
-      "volumeCount": 14,
-      "ongoing": false
-    },
-    {
       "id": "anilist-74929",
       "name": "Scum's Wish",
       "volumeCount": 8,
       "ongoing": false
     },
     {
-      "id": "anilist-144866",
-      "name": "Akane-banashi",
-      "volumeCount": 22,
-      "ongoing": true
-    },
-    {
-      "id": "anilist-111403",
-      "name": "Hokkaido Gals Are Super Adorable!",
+      "id": "anilist-86526",
+      "name": "Platinum End",
       "volumeCount": 14,
       "ongoing": false
     },
@@ -1573,6 +1567,18 @@
       "name": "Aoashi",
       "volumeCount": 40,
       "ongoing": false
+    },
+    {
+      "id": "anilist-111403",
+      "name": "Hokkaido Gals Are Super Adorable!",
+      "volumeCount": 14,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-144866",
+      "name": "Akane-banashi",
+      "volumeCount": 22,
+      "ongoing": true
     },
     {
       "id": "anilist-60315",
@@ -1599,15 +1605,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85388",
-      "name": "High-Rise Invasion",
-      "volumeCount": 21,
-      "ongoing": false
-    },
-    {
       "id": "anilist-117620",
       "name": "The Summer You Were There",
       "volumeCount": 6,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85388",
+      "name": "High-Rise Invasion",
+      "volumeCount": 21,
       "ongoing": false
     },
     {
@@ -1635,6 +1641,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-38157",
+      "name": "Kamisama Kiss",
+      "volumeCount": 25,
+      "ongoing": false
+    },
+    {
       "id": "anilist-66413",
       "name": "Hinamatsuri",
       "volumeCount": 19,
@@ -1644,12 +1656,6 @@
       "id": "anilist-30010",
       "name": "xxxHOLiC",
       "volumeCount": 19,
-      "ongoing": false
-    },
-    {
-      "id": "anilist-38157",
-      "name": "Kamisama Kiss",
-      "volumeCount": 25,
       "ongoing": false
     },
     {
@@ -1755,15 +1761,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-116266",
-      "name": "Girlfriend, Girlfriend",
-      "volumeCount": 16,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30029",
       "name": "Paradise Kiss",
       "volumeCount": 5,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-116266",
+      "name": "Girlfriend, Girlfriend",
+      "volumeCount": 16,
       "ongoing": false
     },
     {
@@ -1893,16 +1899,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30651",
-      "name": "Nausicaä of the Valley of the Wind",
-      "volumeCount": 7,
-      "ongoing": false
-    },
-    {
       "id": "anilist-176740",
       "name": "Centuria",
       "volumeCount": 9,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30651",
+      "name": "Nausicaä of the Valley of the Wind",
+      "volumeCount": 7,
+      "ongoing": false
     },
     {
       "id": "anilist-86481",
@@ -1911,15 +1917,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-108105",
-      "name": "When Will Ayumu Make His Move?",
-      "volumeCount": 17,
-      "ongoing": false
-    },
-    {
       "id": "anilist-100937",
       "name": "DARLING in the FRANXX",
       "volumeCount": 8,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-108105",
+      "name": "When Will Ayumu Make His Move?",
+      "volumeCount": 17,
       "ongoing": false
     },
     {
@@ -1953,15 +1959,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-58361",
-      "name": "HIDEOUT",
-      "volumeCount": 1,
-      "ongoing": false
-    },
-    {
       "id": "anilist-113076",
       "name": "Sometimes Even Reality Is a Lie!",
       "volumeCount": 9,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-58361",
+      "name": "HIDEOUT",
+      "volumeCount": 1,
       "ongoing": false
     },
     {
@@ -2013,16 +2019,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-98112",
-      "name": "Gal Gohan",
-      "volumeCount": 10,
-      "ongoing": false
-    },
-    {
       "id": "anilist-78151",
       "name": "World Trigger",
       "volumeCount": 29,
       "ongoing": true
+    },
+    {
+      "id": "anilist-98112",
+      "name": "Gal Gohan",
+      "volumeCount": 10,
+      "ongoing": false
     },
     {
       "id": "anilist-98370",
@@ -2127,15 +2133,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30050",
-      "name": "Shaman King",
-      "volumeCount": 32,
-      "ongoing": false
-    },
-    {
       "id": "anilist-44893",
       "name": "Bakemonogatari: Monster Tale",
       "volumeCount": 2,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30050",
+      "name": "Shaman King",
+      "volumeCount": 32,
       "ongoing": false
     },
     {
@@ -2163,16 +2169,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-99549",
-      "name": "Karakai Jouzu no (Moto) Takagi-san",
-      "volumeCount": 23,
-      "ongoing": false
-    },
-    {
       "id": "anilist-143031",
       "name": "I Want to End This Love Game",
       "volumeCount": 9,
       "ongoing": true
+    },
+    {
+      "id": "anilist-99549",
+      "name": "Karakai Jouzu no (Moto) Takagi-san",
+      "volumeCount": 23,
+      "ongoing": false
     },
     {
       "id": "anilist-54903",
@@ -2199,15 +2205,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-87234",
-      "name": "The Elder Sister-Like One",
-      "volumeCount": 6,
-      "ongoing": true
-    },
-    {
       "id": "anilist-141479",
       "name": "The Legendary Spearman Returns",
       "volumeCount": 20,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-87234",
+      "name": "The Elder Sister-Like One",
+      "volumeCount": 6,
       "ongoing": true
     },
     {
@@ -2223,6 +2229,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-159142",
+      "name": "Firefly Wedding",
+      "volumeCount": 12,
+      "ongoing": false
+    },
+    {
       "id": "anilist-30085",
       "name": "Azumanga Daioh",
       "volumeCount": 4,
@@ -2233,12 +2245,6 @@
       "name": "The Great Jahy Will Not Be Defeated!",
       "volumeCount": 12,
       "ongoing": true
-    },
-    {
-      "id": "anilist-159142",
-      "name": "Firefly Wedding",
-      "volumeCount": 12,
-      "ongoing": false
     },
     {
       "id": "anilist-68105",
@@ -2307,16 +2313,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-31131",
-      "name": "Freesia",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-171729",
       "name": "Love Bullet",
       "volumeCount": 2,
       "ongoing": true
+    },
+    {
+      "id": "anilist-31131",
+      "name": "Freesia",
+      "volumeCount": 12,
+      "ongoing": false
     },
     {
       "id": "anilist-85887",
@@ -2325,15 +2331,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85566",
-      "name": "Love & Lies",
-      "volumeCount": 13,
-      "ongoing": false
-    },
-    {
       "id": "anilist-107518",
       "name": "Heavenly Demon Reborn!",
       "volumeCount": 10,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85566",
+      "name": "Love & Lies",
+      "volumeCount": 13,
       "ongoing": false
     },
     {
@@ -2349,16 +2355,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-127564",
-      "name": "Go! Go! Loser Ranger!",
-      "volumeCount": 22,
-      "ongoing": true
-    },
-    {
       "id": "anilist-30031",
       "name": "Love★Com",
       "volumeCount": 17,
       "ongoing": false
+    },
+    {
+      "id": "anilist-127564",
+      "name": "Go! Go! Loser Ranger!",
+      "volumeCount": 22,
+      "ongoing": true
     },
     {
       "id": "anilist-30081",
