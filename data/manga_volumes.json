@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-07-25T06:13:26Z",
+  "_generated": "2026-07-26T06:32:31Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -651,15 +651,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-44790",
-      "name": "Magi: The Labyrinth of Magic",
-      "volumeCount": 37,
-      "ongoing": false
-    },
-    {
       "id": "anilist-85412",
       "name": "Girls' Last Tour",
       "volumeCount": 6,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-44790",
+      "name": "Magi: The Labyrinth of Magic",
+      "volumeCount": 37,
       "ongoing": false
     },
     {
@@ -687,16 +687,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-98587",
-      "name": "BEASTARS",
-      "volumeCount": 22,
-      "ongoing": false
-    },
-    {
       "id": "anilist-126693",
       "name": "Choujin X",
       "volumeCount": 16,
       "ongoing": true
+    },
+    {
+      "id": "anilist-98587",
+      "name": "BEASTARS",
+      "volumeCount": 22,
+      "ongoing": false
     },
     {
       "id": "anilist-75757",
@@ -715,12 +715,6 @@
       "name": "JoJo's Bizarre Adventure Part 1: Phantom Blood",
       "volumeCount": 5,
       "ongoing": false
-    },
-    {
-      "id": "anilist-85564",
-      "name": "Mushoku Tensei: Jobless Reincarnation",
-      "volumeCount": 25,
-      "ongoing": true
     },
     {
       "id": "anilist-30664",
@@ -797,7 +791,7 @@
     {
       "id": "anilist-144957",
       "name": "The World After the Fall",
-      "volumeCount": 9,
+      "volumeCount": 3,
       "ongoing": true
     },
     {
@@ -999,15 +993,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-87208",
-      "name": "Our Dreams at Dusk: Shimanami Tasogare",
-      "volumeCount": 4,
-      "ongoing": false
-    },
-    {
       "id": "anilist-31630",
       "name": "JoJo's Bizarre Adventure Part 2: Battle Tendency",
       "volumeCount": 7,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-87208",
+      "name": "Our Dreams at Dusk: Shimanami Tasogare",
+      "volumeCount": 4,
       "ongoing": false
     },
     {
@@ -1569,16 +1563,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-111403",
-      "name": "Hokkaido Gals Are Super Adorable!",
-      "volumeCount": 14,
-      "ongoing": false
-    },
-    {
       "id": "anilist-144866",
       "name": "Akane-banashi",
       "volumeCount": 22,
       "ongoing": true
+    },
+    {
+      "id": "anilist-111403",
+      "name": "Hokkaido Gals Are Super Adorable!",
+      "volumeCount": 14,
+      "ongoing": false
     },
     {
       "id": "anilist-60315",
@@ -1647,14 +1641,14 @@
       "ongoing": false
     },
     {
-      "id": "anilist-66413",
-      "name": "Hinamatsuri",
+      "id": "anilist-30010",
+      "name": "xxxHOLiC",
       "volumeCount": 19,
       "ongoing": false
     },
     {
-      "id": "anilist-30010",
-      "name": "xxxHOLiC",
+      "id": "anilist-66413",
+      "name": "Hinamatsuri",
       "volumeCount": 19,
       "ongoing": false
     },
@@ -1779,16 +1773,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-98544",
-      "name": "Moriarty the Patriot",
-      "volumeCount": 22,
-      "ongoing": true
-    },
-    {
       "id": "anilist-198372",
       "name": "Jujutsu Kaisen Modulo",
       "volumeCount": 3,
       "ongoing": false
+    },
+    {
+      "id": "anilist-98544",
+      "name": "Moriarty the Patriot",
+      "volumeCount": 22,
+      "ongoing": true
     },
     {
       "id": "anilist-31101",
@@ -2001,15 +1995,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-34571",
-      "name": "Snow White with the Red Hair",
-      "volumeCount": 27,
-      "ongoing": true
-    },
-    {
       "id": "anilist-30735",
       "name": "Black Lagoon",
       "volumeCount": 13,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-34571",
+      "name": "Snow White with the Red Hair",
+      "volumeCount": 27,
       "ongoing": true
     },
     {
@@ -2049,16 +2043,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-101625",
-      "name": "Berserk of Gluttony",
-      "volumeCount": 8,
-      "ongoing": true
-    },
-    {
       "id": "anilist-106726",
       "name": "Shimeji Simulation",
       "volumeCount": 5,
       "ongoing": false
+    },
+    {
+      "id": "anilist-101625",
+      "name": "Berserk of Gluttony",
+      "volumeCount": 8,
+      "ongoing": true
     },
     {
       "id": "anilist-147997",
@@ -2085,15 +2079,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-111258",
-      "name": "Bocchi the Rock!",
-      "volumeCount": 8,
-      "ongoing": true
-    },
-    {
       "id": "anilist-153880",
       "name": "The Art of Reincarnation",
       "volumeCount": 12,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-111258",
+      "name": "Bocchi the Rock!",
+      "volumeCount": 8,
       "ongoing": true
     },
     {
@@ -2115,15 +2109,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-58533",
-      "name": "No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!",
-      "volumeCount": 28,
-      "ongoing": true
-    },
-    {
       "id": "anilist-103255",
       "name": "Fairy Tail: 100 Years Quest",
       "volumeCount": 23,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-58533",
+      "name": "No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!",
+      "volumeCount": 28,
       "ongoing": true
     },
     {
@@ -2133,15 +2127,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-44893",
-      "name": "Bakemonogatari: Monster Tale",
-      "volumeCount": 2,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30050",
       "name": "Shaman King",
       "volumeCount": 32,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-44893",
+      "name": "Bakemonogatari: Monster Tale",
+      "volumeCount": 2,
       "ongoing": false
     },
     {
@@ -2307,16 +2301,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-106434",
-      "name": "Hitomi-chan is Shy With Strangers",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-171729",
       "name": "Love Bullet",
       "volumeCount": 2,
       "ongoing": true
+    },
+    {
+      "id": "anilist-106434",
+      "name": "Hitomi-chan is Shy With Strangers",
+      "volumeCount": 12,
+      "ongoing": false
     },
     {
       "id": "anilist-31131",
@@ -2391,16 +2385,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-98686",
-      "name": "Aharen-san is Indecipherable",
-      "volumeCount": 17,
-      "ongoing": false
-    },
-    {
       "id": "anilist-125116",
       "name": "Wistoria: Wand and Sword",
       "volumeCount": 15,
       "ongoing": true
+    },
+    {
+      "id": "anilist-98686",
+      "name": "Aharen-san is Indecipherable",
+      "volumeCount": 17,
+      "ongoing": false
     }
   ]
 }
