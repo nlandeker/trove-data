@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-07-26T06:32:31Z",
+  "_generated": "2026-07-27T06:58:38Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -339,16 +339,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-98842",
-      "name": "Toilet-Bound Hanako-kun",
-      "volumeCount": 25,
-      "ongoing": true
-    },
-    {
       "id": "anilist-30936",
       "name": "Homunculus",
       "volumeCount": 15,
       "ongoing": false
+    },
+    {
+      "id": "anilist-98842",
+      "name": "Toilet-Bound Hanako-kun",
+      "volumeCount": 25,
+      "ongoing": true
     },
     {
       "id": "anilist-105469",
@@ -441,15 +441,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86717",
-      "name": "Wotakoi: Love is Hard for Otaku",
-      "volumeCount": 11,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30149",
       "name": "BLAME!",
       "volumeCount": 10,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-86717",
+      "name": "Wotakoi: Love is Hard for Otaku",
+      "volumeCount": 11,
       "ongoing": false
     },
     {
@@ -573,15 +573,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-69883",
-      "name": "Assassination Classroom",
-      "volumeCount": 21,
-      "ongoing": false
-    },
-    {
       "id": "anilist-132182",
       "name": "Blue Box",
       "volumeCount": 28,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-69883",
+      "name": "Assassination Classroom",
+      "volumeCount": 21,
       "ongoing": false
     },
     {
@@ -715,6 +715,12 @@
       "name": "JoJo's Bizarre Adventure Part 1: Phantom Blood",
       "volumeCount": 5,
       "ongoing": false
+    },
+    {
+      "id": "anilist-85564",
+      "name": "Mushoku Tensei: Jobless Reincarnation",
+      "volumeCount": 25,
+      "ongoing": true
     },
     {
       "id": "anilist-30664",
@@ -879,14 +885,20 @@
       "ongoing": true
     },
     {
+      "id": "anilist-138603",
+      "name": "The Summer Hikaru Died",
+      "volumeCount": 9,
+      "ongoing": true
+    },
+    {
       "id": "anilist-85316",
       "name": "Dead Dead Demon's Dededede Destruction",
       "volumeCount": 12,
       "ongoing": false
     },
     {
-      "id": "anilist-138603",
-      "name": "The Summer Hikaru Died",
+      "id": "anilist-147149",
+      "name": "Smoking Behind the Supermarket with You",
       "volumeCount": 9,
       "ongoing": true
     },
@@ -895,12 +907,6 @@
       "name": "Alice in Borderland",
       "volumeCount": 18,
       "ongoing": false
-    },
-    {
-      "id": "anilist-147149",
-      "name": "Smoking Behind the Supermarket with You",
-      "volumeCount": 9,
-      "ongoing": true
     },
     {
       "id": "anilist-87347",
@@ -1551,15 +1557,21 @@
       "ongoing": false
     },
     {
+      "id": "anilist-107279",
+      "name": "Aoashi",
+      "volumeCount": 40,
+      "ongoing": false
+    },
+    {
       "id": "anilist-86526",
       "name": "Platinum End",
       "volumeCount": 14,
       "ongoing": false
     },
     {
-      "id": "anilist-107279",
-      "name": "Aoashi",
-      "volumeCount": 40,
+      "id": "anilist-111403",
+      "name": "Hokkaido Gals Are Super Adorable!",
+      "volumeCount": 14,
       "ongoing": false
     },
     {
@@ -1567,12 +1579,6 @@
       "name": "Akane-banashi",
       "volumeCount": 22,
       "ongoing": true
-    },
-    {
-      "id": "anilist-111403",
-      "name": "Hokkaido Gals Are Super Adorable!",
-      "volumeCount": 14,
-      "ongoing": false
     },
     {
       "id": "anilist-60315",
@@ -1767,15 +1773,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-114027",
-      "name": "Boy Meets Maria",
-      "volumeCount": 1,
-      "ongoing": false
-    },
-    {
       "id": "anilist-198372",
       "name": "Jujutsu Kaisen Modulo",
       "volumeCount": 3,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-114027",
+      "name": "Boy Meets Maria",
+      "volumeCount": 1,
       "ongoing": false
     },
     {
@@ -1911,6 +1917,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-104241",
+      "name": "How Do We Relationship?",
+      "volumeCount": 14,
+      "ongoing": false
+    },
+    {
       "id": "anilist-100937",
       "name": "DARLING in the FRANXX",
       "volumeCount": 8,
@@ -1923,27 +1935,21 @@
       "ongoing": false
     },
     {
-      "id": "anilist-104241",
-      "name": "How Do We Relationship?",
-      "volumeCount": 14,
-      "ongoing": false
-    },
-    {
       "id": "anilist-107120",
       "name": "Chillin’ in Another World with Level 2 Super Cheat Powers",
       "volumeCount": 21,
       "ongoing": true
     },
     {
-      "id": "anilist-40552",
-      "name": "Lucifer and the Biscuit Hammer",
-      "volumeCount": 10,
-      "ongoing": false
-    },
-    {
       "id": "anilist-125624",
       "name": "Even If You Slit My Mouth",
       "volumeCount": 11,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-40552",
+      "name": "Lucifer and the Biscuit Hammer",
+      "volumeCount": 10,
       "ongoing": false
     },
     {
@@ -2037,9 +2043,9 @@
       "ongoing": false
     },
     {
-      "id": "anilist-112544",
-      "name": "Kowloon Generic Romance",
-      "volumeCount": 12,
+      "id": "anilist-147997",
+      "name": "You and I Are Polar Opposites",
+      "volumeCount": 8,
       "ongoing": false
     },
     {
@@ -2049,16 +2055,16 @@
       "ongoing": false
     },
     {
+      "id": "anilist-112544",
+      "name": "Kowloon Generic Romance",
+      "volumeCount": 12,
+      "ongoing": false
+    },
+    {
       "id": "anilist-101625",
       "name": "Berserk of Gluttony",
       "volumeCount": 8,
       "ongoing": true
-    },
-    {
-      "id": "anilist-147997",
-      "name": "You and I Are Polar Opposites",
-      "volumeCount": 8,
-      "ongoing": false
     },
     {
       "id": "anilist-97337",
@@ -2295,21 +2301,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-87213",
-      "name": "Yuuna and the Haunted Hot Springs",
-      "volumeCount": 24,
-      "ongoing": false
-    },
-    {
       "id": "anilist-171729",
       "name": "Love Bullet",
       "volumeCount": 2,
       "ongoing": true
     },
     {
-      "id": "anilist-106434",
-      "name": "Hitomi-chan is Shy With Strangers",
-      "volumeCount": 12,
+      "id": "anilist-87213",
+      "name": "Yuuna and the Haunted Hot Springs",
+      "volumeCount": 24,
       "ongoing": false
     },
     {
@@ -2319,15 +2319,21 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85887",
-      "name": "Ookami Shounen wa Kyou mo Uso wo Kasaneru",
-      "volumeCount": 5,
+      "id": "anilist-106434",
+      "name": "Hitomi-chan is Shy With Strangers",
+      "volumeCount": 12,
       "ongoing": false
     },
     {
       "id": "anilist-107518",
       "name": "Heavenly Demon Reborn!",
       "volumeCount": 10,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85887",
+      "name": "Ookami Shounen wa Kyou mo Uso wo Kasaneru",
+      "volumeCount": 5,
       "ongoing": false
     },
     {
@@ -2358,6 +2364,12 @@
       "id": "anilist-127564",
       "name": "Go! Go! Loser Ranger!",
       "volumeCount": 22,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-85978",
+      "name": "The New Gate",
+      "volumeCount": 23,
       "ongoing": true
     },
     {
