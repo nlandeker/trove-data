@@ -2,7 +2,7 @@
   "version": 2,
   "currency": "EUR",
   "_attribution": "LEGO data: Rebrickable (rebrickable.com) + Brickset (brickset.com). Not affiliated with or endorsed by The LEGO Group.",
-  "_generated": "2026-07-27T06:43:41Z",
+  "_generated": "2026-07-28T05:57:50Z",
   "items": [
     {
       "id": "001",
@@ -14987,8 +14987,8 @@
         "USD": 19.99,
         "GBP": 17.99
       },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-07-26",
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -181561,7 +181561,7 @@
         "GBP": 12.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-07-16",
+      "retirementDate": "2026-07-23",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -199533,7 +199533,7 @@
       "themeOrSeries": "Super Heroes Marvel",
       "retailPrice": null,
       "prices": {},
-      "lifecycleStatus": "RETIRING_SOON",
+      "lifecycleStatus": "AVAILABLE",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2024,
@@ -199769,7 +199769,7 @@
         "GBP": 44.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-06-06",
+      "retirementDate": "2026-07-27",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -200269,8 +200269,8 @@
         "USD": 14.99,
         "GBP": 12.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-07-27",
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -204221,8 +204221,8 @@
         "USD": 44.99,
         "GBP": 39.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-07-27",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -204556,8 +204556,8 @@
         "USD": 29.99,
         "GBP": 24.99
       },
-      "lifecycleStatus": "RETIRING_SOON",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-07-27",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
