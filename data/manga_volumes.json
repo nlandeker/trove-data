@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-07-27T06:58:38Z",
+  "_generated": "2026-07-28T06:22:29Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -327,15 +327,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-33009",
-      "name": "JoJo's Bizarre Adventure Part 6: Stone Ocean",
-      "volumeCount": 17,
-      "ongoing": false
-    },
-    {
       "id": "anilist-54705",
       "name": "The Flowers of Evil",
       "volumeCount": 11,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-33009",
+      "name": "JoJo's Bizarre Adventure Part 6: Stone Ocean",
+      "volumeCount": 17,
       "ongoing": false
     },
     {
@@ -735,15 +735,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-86300",
-      "name": "Tomo-chan is a Girl!",
-      "volumeCount": 8,
-      "ongoing": false
-    },
-    {
       "id": "anilist-85215",
       "name": "All You Need Is Kill",
       "volumeCount": 2,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-86300",
+      "name": "Tomo-chan is a Girl!",
+      "volumeCount": 8,
       "ongoing": false
     },
     {
@@ -891,16 +891,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-85316",
-      "name": "Dead Dead Demon's Dededede Destruction",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-147149",
       "name": "Smoking Behind the Supermarket with You",
       "volumeCount": 9,
       "ongoing": true
+    },
+    {
+      "id": "anilist-85316",
+      "name": "Dead Dead Demon's Dededede Destruction",
+      "volumeCount": 12,
+      "ongoing": false
     },
     {
       "id": "anilist-63031",
@@ -1551,21 +1551,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-74929",
-      "name": "Scum's Wish",
-      "volumeCount": 8,
-      "ongoing": false
-    },
-    {
       "id": "anilist-107279",
       "name": "Aoashi",
       "volumeCount": 40,
       "ongoing": false
     },
     {
-      "id": "anilist-86526",
-      "name": "Platinum End",
-      "volumeCount": 14,
+      "id": "anilist-74929",
+      "name": "Scum's Wish",
+      "volumeCount": 8,
       "ongoing": false
     },
     {
@@ -1579,6 +1573,12 @@
       "name": "Akane-banashi",
       "volumeCount": 22,
       "ongoing": true
+    },
+    {
+      "id": "anilist-86526",
+      "name": "Platinum End",
+      "volumeCount": 14,
+      "ongoing": false
     },
     {
       "id": "anilist-60315",
@@ -1731,15 +1731,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-52651",
-      "name": "THE BREAKER - NEW WAVES",
-      "volumeCount": 20,
-      "ongoing": false
-    },
-    {
       "id": "anilist-99609",
       "name": "I Want to Eat Your Pancreas",
       "volumeCount": 2,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-52651",
+      "name": "THE BREAKER - NEW WAVES",
+      "volumeCount": 20,
       "ongoing": false
     },
     {
@@ -1761,6 +1761,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-198372",
+      "name": "Jujutsu Kaisen Modulo",
+      "volumeCount": 3,
+      "ongoing": false
+    },
+    {
       "id": "anilist-30029",
       "name": "Paradise Kiss",
       "volumeCount": 5,
@@ -1770,12 +1776,6 @@
       "id": "anilist-116266",
       "name": "Girlfriend, Girlfriend",
       "volumeCount": 16,
-      "ongoing": false
-    },
-    {
-      "id": "anilist-198372",
-      "name": "Jujutsu Kaisen Modulo",
-      "volumeCount": 3,
       "ongoing": false
     },
     {
@@ -1893,16 +1893,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-78881",
-      "name": "Darwin's Game",
-      "volumeCount": 30,
-      "ongoing": false
-    },
-    {
       "id": "anilist-176740",
       "name": "Centuria",
       "volumeCount": 9,
       "ongoing": true
+    },
+    {
+      "id": "anilist-78881",
+      "name": "Darwin's Game",
+      "volumeCount": 30,
+      "ongoing": false
     },
     {
       "id": "anilist-30651",
@@ -2025,16 +2025,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-98112",
-      "name": "Gal Gohan",
-      "volumeCount": 10,
-      "ongoing": false
-    },
-    {
       "id": "anilist-98370",
       "name": "Sasaki and Miyano",
       "volumeCount": 11,
       "ongoing": true
+    },
+    {
+      "id": "anilist-98112",
+      "name": "Gal Gohan",
+      "volumeCount": 10,
+      "ongoing": false
     },
     {
       "id": "anilist-86549",
@@ -2157,6 +2157,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-143031",
+      "name": "I Want to End This Love Game",
+      "volumeCount": 9,
+      "ongoing": true
+    },
+    {
       "id": "anilist-35293",
       "name": "Doubt",
       "volumeCount": 4,
@@ -2167,12 +2173,6 @@
       "name": "Nijigahara Holograph",
       "volumeCount": 1,
       "ongoing": false
-    },
-    {
-      "id": "anilist-143031",
-      "name": "I Want to End This Love Game",
-      "volumeCount": 9,
-      "ongoing": true
     },
     {
       "id": "anilist-99549",
@@ -2367,21 +2367,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-85978",
-      "name": "The New Gate",
+      "id": "anilist-86355",
+      "name": "That Time I Got Reincarnated as a Slime",
       "volumeCount": 23,
-      "ongoing": true
+      "ongoing": false
     },
     {
       "id": "anilist-30081",
       "name": "Aria",
       "volumeCount": 12,
-      "ongoing": false
-    },
-    {
-      "id": "anilist-86355",
-      "name": "That Time I Got Reincarnated as a Slime",
-      "volumeCount": 23,
       "ongoing": false
     },
     {
@@ -2391,16 +2385,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-30009",
-      "name": "Tsubasa RESERVoir CHRoNiCLE",
-      "volumeCount": 28,
-      "ongoing": false
-    },
-    {
       "id": "anilist-125116",
       "name": "Wistoria: Wand and Sword",
       "volumeCount": 15,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30009",
+      "name": "Tsubasa RESERVoir CHRoNiCLE",
+      "volumeCount": 28,
+      "ongoing": false
     },
     {
       "id": "anilist-98686",
