@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-07-28T06:22:29Z",
+  "_generated": "2026-07-29T06:28:20Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -99,16 +99,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-72451",
-      "name": "Horimiya",
-      "volumeCount": 17,
-      "ongoing": false
-    },
-    {
       "id": "anilist-106130",
       "name": "Blue Lock",
       "volumeCount": 39,
       "ongoing": true
+    },
+    {
+      "id": "anilist-72451",
+      "name": "Horimiya",
+      "volumeCount": 17,
+      "ongoing": false
     },
     {
       "id": "anilist-30012",
@@ -387,15 +387,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-107098",
-      "name": "Record of Ragnarok",
-      "volumeCount": 28,
-      "ongoing": true
-    },
-    {
       "id": "anilist-169355",
       "name": "Kagurabachi",
       "volumeCount": 11,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-107098",
+      "name": "Record of Ragnarok",
+      "volumeCount": 28,
       "ongoing": true
     },
     {
@@ -723,16 +723,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-30664",
-      "name": "Akira",
-      "volumeCount": 6,
-      "ongoing": false
-    },
-    {
       "id": "anilist-106758",
       "name": "The Eminence in Shadow",
       "volumeCount": 7,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30664",
+      "name": "Akira",
+      "volumeCount": 6,
+      "ongoing": false
     },
     {
       "id": "anilist-85215",
@@ -885,14 +885,14 @@
       "ongoing": true
     },
     {
-      "id": "anilist-138603",
-      "name": "The Summer Hikaru Died",
+      "id": "anilist-147149",
+      "name": "Smoking Behind the Supermarket with You",
       "volumeCount": 9,
       "ongoing": true
     },
     {
-      "id": "anilist-147149",
-      "name": "Smoking Behind the Supermarket with You",
+      "id": "anilist-138603",
+      "name": "The Summer Hikaru Died",
       "volumeCount": 9,
       "ongoing": true
     },
@@ -1203,9 +1203,9 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30658",
-      "name": "Blade of the Immortal",
-      "volumeCount": 30,
+      "id": "anilist-112579",
+      "name": "My Broken Mariko",
+      "volumeCount": 1,
       "ongoing": false
     },
     {
@@ -1215,9 +1215,9 @@
       "ongoing": true
     },
     {
-      "id": "anilist-112579",
-      "name": "My Broken Mariko",
-      "volumeCount": 1,
+      "id": "anilist-30658",
+      "name": "Blade of the Immortal",
+      "volumeCount": 30,
       "ongoing": false
     },
     {
@@ -1515,15 +1515,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30909",
-      "name": "Gyo",
-      "volumeCount": 2,
-      "ongoing": false
-    },
-    {
       "id": "anilist-105641",
       "name": "The Girl I Like Forgot Her Glasses",
       "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30909",
+      "name": "Gyo",
+      "volumeCount": 2,
       "ongoing": false
     },
     {
@@ -1569,16 +1569,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-144866",
-      "name": "Akane-banashi",
-      "volumeCount": 22,
-      "ongoing": true
-    },
-    {
       "id": "anilist-86526",
       "name": "Platinum End",
       "volumeCount": 14,
       "ongoing": false
+    },
+    {
+      "id": "anilist-144866",
+      "name": "Akane-banashi",
+      "volumeCount": 22,
+      "ongoing": true
     },
     {
       "id": "anilist-60315",
@@ -2037,15 +2037,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86549",
-      "name": "Go For It, Nakamura!",
-      "volumeCount": 1,
-      "ongoing": false
-    },
-    {
       "id": "anilist-147997",
       "name": "You and I Are Polar Opposites",
       "volumeCount": 8,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-86549",
+      "name": "Go For It, Nakamura!",
+      "volumeCount": 1,
       "ongoing": false
     },
     {
@@ -2223,15 +2223,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30671",
-      "name": "To Love Ru",
-      "volumeCount": 18,
-      "ongoing": false
-    },
-    {
       "id": "anilist-159142",
       "name": "Firefly Wedding",
       "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30671",
+      "name": "To Love Ru",
+      "volumeCount": 18,
       "ongoing": false
     },
     {
@@ -2295,16 +2295,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30904",
-      "name": "Lone Wolf and Cub",
-      "volumeCount": 28,
-      "ongoing": false
-    },
-    {
       "id": "anilist-171729",
       "name": "Love Bullet",
       "volumeCount": 2,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30904",
+      "name": "Lone Wolf and Cub",
+      "volumeCount": 28,
+      "ongoing": false
     },
     {
       "id": "anilist-87213",
