@@ -2,7 +2,7 @@
   "version": 2,
   "currency": "EUR",
   "_attribution": "LEGO data: Rebrickable (rebrickable.com) + Brickset (brickset.com). Not affiliated with or endorsed by The LEGO Group.",
-  "_generated": "2026-07-28T05:57:50Z",
+  "_generated": "2026-07-29T06:05:04Z",
   "items": [
     {
       "id": "001",
@@ -60398,8 +60398,8 @@
         "USD": 129.99,
         "GBP": 109.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-07-28",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -101469,8 +101469,8 @@
         "USD": 129.99,
         "GBP": 109.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-07-28",
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -160912,6 +160912,21 @@
       "ongoing": null
     },
     {
+      "id": "6644882",
+      "category": "LEGO",
+      "name": "Human Human Fruit",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/6644882-1/178671.jpg",
+      "themeOrSeries": "One Piece",
+      "retailPrice": null,
+      "prices": {},
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
       "id": "6645",
       "category": "LEGO",
       "name": "Street Sweeper",
@@ -161508,6 +161523,21 @@
       "retirementDate": null,
       "marketPrice": null,
       "year": 1991,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "6669168",
+      "category": "LEGO",
+      "name": "Sports Car",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/6669168-1/178009.jpg",
+      "themeOrSeries": "LEGO Brand Store",
+      "retailPrice": null,
+      "prices": {},
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
       "volumeCount": null,
       "ongoing": null
     },
@@ -181561,7 +181591,7 @@
         "GBP": 12.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-07-23",
+      "retirementDate": "2026-07-28",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -213622,6 +213652,21 @@
       "category": "LEGO",
       "name": "Speed Chasing",
       "imageURL": "https://cdn.rebrickable.com/media/sets/8152-1/124233.jpg",
+      "themeOrSeries": "Racers",
+      "retailPrice": null,
+      "prices": {},
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2008,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "8153",
+      "category": "LEGO",
+      "name": "Ferrari F1 Truck 1:55",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/8153-1/124120.jpg",
       "themeOrSeries": "Racers",
       "retailPrice": null,
       "prices": {},
@@ -254408,6 +254453,21 @@
       "retirementDate": null,
       "marketPrice": null,
       "year": 2007,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "FY7690",
+      "category": "LEGO",
+      "name": "adidas Ultraboost DNA x LEGO - Men's Shoes",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/fy7690-1/178885.jpg",
+      "themeOrSeries": "Gear",
+      "retailPrice": null,
+      "prices": {},
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2021,
       "volumeCount": null,
       "ongoing": null
     },
