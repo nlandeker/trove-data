@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-07-29T06:28:20Z",
+  "_generated": "2026-07-30T06:23:01Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -645,16 +645,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-30657",
-      "name": "Real",
-      "volumeCount": 17,
-      "ongoing": true
-    },
-    {
       "id": "anilist-85412",
       "name": "Girls' Last Tour",
       "volumeCount": 6,
       "ongoing": false
+    },
+    {
+      "id": "anilist-30657",
+      "name": "Real",
+      "volumeCount": 17,
+      "ongoing": true
     },
     {
       "id": "anilist-44790",
@@ -771,6 +771,12 @@
       "ongoing": true
     },
     {
+      "id": "anilist-86848",
+      "name": "Lookism",
+      "volumeCount": 20,
+      "ongoing": true
+    },
+    {
       "id": "anilist-98328",
       "name": "Jagaaan",
       "volumeCount": 14,
@@ -879,15 +885,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-101177",
-      "name": "Fly Me to the Moon",
-      "volumeCount": 36,
-      "ongoing": true
-    },
-    {
       "id": "anilist-147149",
       "name": "Smoking Behind the Supermarket with You",
       "volumeCount": 9,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-101177",
+      "name": "Fly Me to the Moon",
+      "volumeCount": 36,
       "ongoing": true
     },
     {
@@ -1275,15 +1281,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-41734",
-      "name": "Watashitachi no Shiawase na Jikan",
-      "volumeCount": 1,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30768",
       "name": "Battle Angel Alita",
       "volumeCount": 9,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-41734",
+      "name": "Watashitachi no Shiawase na Jikan",
+      "volumeCount": 1,
       "ongoing": false
     },
     {
@@ -1557,12 +1563,6 @@
       "ongoing": false
     },
     {
-      "id": "anilist-74929",
-      "name": "Scum's Wish",
-      "volumeCount": 8,
-      "ongoing": false
-    },
-    {
       "id": "anilist-111403",
       "name": "Hokkaido Gals Are Super Adorable!",
       "volumeCount": 14,
@@ -1572,6 +1572,12 @@
       "id": "anilist-86526",
       "name": "Platinum End",
       "volumeCount": 14,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-74929",
+      "name": "Scum's Wish",
+      "volumeCount": 8,
       "ongoing": false
     },
     {
@@ -1737,15 +1743,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-52651",
-      "name": "THE BREAKER - NEW WAVES",
-      "volumeCount": 20,
-      "ongoing": false
-    },
-    {
       "id": "anilist-104503",
       "name": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs",
       "volumeCount": 13,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-52651",
+      "name": "THE BREAKER - NEW WAVES",
+      "volumeCount": 20,
       "ongoing": false
     },
     {
@@ -1875,16 +1881,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-60079",
-      "name": "The Sound of Magic: Annarasumanara",
-      "volumeCount": 3,
-      "ongoing": false
-    },
-    {
       "id": "anilist-135083",
       "name": "WIND BREAKER",
       "volumeCount": 26,
       "ongoing": true
+    },
+    {
+      "id": "anilist-60079",
+      "name": "The Sound of Magic: Annarasumanara",
+      "volumeCount": 3,
+      "ongoing": false
     },
     {
       "id": "anilist-66213",
@@ -1923,6 +1929,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-107120",
+      "name": "Chillin’ in Another World with Level 2 Super Cheat Powers",
+      "volumeCount": 21,
+      "ongoing": true
+    },
+    {
       "id": "anilist-100937",
       "name": "DARLING in the FRANXX",
       "volumeCount": 8,
@@ -1933,12 +1945,6 @@
       "name": "When Will Ayumu Make His Move?",
       "volumeCount": 17,
       "ongoing": false
-    },
-    {
-      "id": "anilist-107120",
-      "name": "Chillin’ in Another World with Level 2 Super Cheat Powers",
-      "volumeCount": 21,
-      "ongoing": true
     },
     {
       "id": "anilist-125624",
@@ -2055,16 +2061,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-112544",
-      "name": "Kowloon Generic Romance",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-101625",
       "name": "Berserk of Gluttony",
       "volumeCount": 8,
       "ongoing": true
+    },
+    {
+      "id": "anilist-112544",
+      "name": "Kowloon Generic Romance",
+      "volumeCount": 12,
+      "ongoing": false
     },
     {
       "id": "anilist-97337",
@@ -2199,16 +2205,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-30463",
-      "name": "Welcome to the N.H.K.",
-      "volumeCount": 8,
-      "ongoing": false
-    },
-    {
       "id": "anilist-141479",
       "name": "The Legendary Spearman Returns",
       "volumeCount": 20,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30463",
+      "name": "Welcome to the N.H.K.",
+      "volumeCount": 8,
+      "ongoing": false
     },
     {
       "id": "anilist-87234",
@@ -2223,15 +2229,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-159142",
-      "name": "Firefly Wedding",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30671",
       "name": "To Love Ru",
       "volumeCount": 18,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-159142",
+      "name": "Firefly Wedding",
+      "volumeCount": 12,
       "ongoing": false
     },
     {
@@ -2379,15 +2385,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-118695",
-      "name": "I’m in Love with the Villainess",
-      "volumeCount": 5,
-      "ongoing": true
-    },
-    {
       "id": "anilist-125116",
       "name": "Wistoria: Wand and Sword",
       "volumeCount": 15,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-118695",
+      "name": "I’m in Love with the Villainess",
+      "volumeCount": 5,
       "ongoing": true
     },
     {
