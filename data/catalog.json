@@ -2,7 +2,7 @@
   "version": 2,
   "currency": "EUR",
   "_attribution": "LEGO data: Rebrickable (rebrickable.com) + Brickset (brickset.com). Not affiliated with or endorsed by The LEGO Group.",
-  "_generated": "2026-07-30T05:54:18Z",
+  "_generated": "2026-07-31T06:26:25Z",
   "items": [
     {
       "id": "001",
@@ -22669,7 +22669,7 @@
       "id": "1515",
       "category": "LEGO",
       "name": "Classic Pen",
-      "imageURL": "https://cdn.rebrickable.com/media/sets/1515-2/84190.jpg",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/1515-2/179076.jpg",
       "themeOrSeries": "Gear",
       "retailPrice": null,
       "prices": {},
@@ -30586,6 +30586,21 @@
       "ongoing": null
     },
     {
+      "id": "2027",
+      "category": "LEGO",
+      "name": "Alpha Pen Pack",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/2027-1/179075.jpg",
+      "themeOrSeries": "Gear",
+      "retailPrice": null,
+      "prices": {},
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2000,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
       "id": "2028",
       "category": "LEGO",
       "name": "Classic Pen Pack",
@@ -37206,8 +37221,8 @@
         "USD": 14.99,
         "GBP": 12.99
       },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-07-24",
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -48107,6 +48122,21 @@
       "retirementDate": null,
       "marketPrice": null,
       "year": 1998,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "2DI00237",
+      "category": "LEGO",
+      "name": "Minecraft Trading Cards Series 3: On Fire - Starter-Pack (Polish Version)",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/2di00237-1/178773.jpg",
+      "themeOrSeries": "Gear",
+      "retailPrice": null,
+      "prices": {},
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
       "volumeCount": null,
       "ongoing": null
     },
@@ -103017,7 +103047,7 @@
         "GBP": 17.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-07-11",
+      "retirementDate": "2026-07-29",
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -104486,7 +104516,7 @@
         "GBP": 19.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-07-22",
+      "retirementDate": "2026-07-30",
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -145710,8 +145740,8 @@
         "USD": 19.99,
         "GBP": 17.99
       },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-07-18",
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -181723,8 +181753,8 @@
         "USD": 49.99,
         "GBP": 44.99
       },
-      "lifecycleStatus": "RETIRING_SOON",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-07-30",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -200261,8 +200291,8 @@
         "USD": 9.99,
         "GBP": 8.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-07-30",
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -238707,21 +238737,6 @@
       "ongoing": null
     },
     {
-      "id": "951394",
-      "category": "LEGO",
-      "name": "Spider-Man with Web",
-      "imageURL": "https://cdn.rebrickable.com/media/sets/951394-1/176130.jpg",
-      "themeOrSeries": "Super Heroes Marvel",
-      "retailPrice": null,
-      "prices": {},
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
-      "marketPrice": null,
-      "year": 2026,
-      "volumeCount": null,
-      "ongoing": null
-    },
-    {
       "id": "951399",
       "category": "LEGO",
       "name": "Anti-Venom",
@@ -252492,6 +252507,21 @@
       "ongoing": null
     },
     {
+      "id": "DISABLED",
+      "category": "LEGO",
+      "name": "Spider-Man with Web",
+      "imageURL": "",
+      "themeOrSeries": "Super Heroes Marvel",
+      "retailPrice": null,
+      "prices": {},
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
       "id": "DISNEYTOWN",
       "category": "LEGO",
       "name": "The LEGO Store (Disneytown)",
@@ -255751,6 +255781,21 @@
       "category": "LEGO",
       "name": "Spider-Man with Spider-Crawler",
       "imageURL": "https://cdn.rebrickable.com/media/sets/l0002283-1/171255.jpg",
+      "themeOrSeries": "Super Heroes Marvel",
+      "retailPrice": null,
+      "prices": {},
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "L0002285",
+      "category": "LEGO",
+      "name": "Spider-Man",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/l0002285-1/176130.jpg",
       "themeOrSeries": "Super Heroes Marvel",
       "retailPrice": null,
       "prices": {},
@@ -262062,6 +262107,25 @@
       "retirementDate": "2026-07-23",
       "marketPrice": null,
       "year": 2025,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "76345",
+      "category": "LEGO",
+      "name": "Doctor Doom Bust",
+      "imageURL": "https://images.brickset.com/sets/images/76345-1.jpg",
+      "themeOrSeries": "Marvel Super Heroes",
+      "retailPrice": 49.99,
+      "prices": {
+        "EUR": 49.99,
+        "USD": 49.99,
+        "GBP": 44.99
+      },
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-07-30",
+      "marketPrice": null,
+      "year": 2026,
       "volumeCount": null,
       "ongoing": null
     },
