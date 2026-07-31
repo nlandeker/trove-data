@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-07-30T06:23:01Z",
+  "_generated": "2026-07-31T06:40:11Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -645,16 +645,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-85412",
-      "name": "Girls' Last Tour",
-      "volumeCount": 6,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30657",
       "name": "Real",
       "volumeCount": 17,
       "ongoing": true
+    },
+    {
+      "id": "anilist-85412",
+      "name": "Girls' Last Tour",
+      "volumeCount": 6,
+      "ongoing": false
     },
     {
       "id": "anilist-44790",
@@ -717,12 +717,6 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85564",
-      "name": "Mushoku Tensei: Jobless Reincarnation",
-      "volumeCount": 25,
-      "ongoing": true
-    },
-    {
       "id": "anilist-106758",
       "name": "The Eminence in Shadow",
       "volumeCount": 7,
@@ -761,19 +755,13 @@
     {
       "id": "anilist-99022",
       "name": "The Apothecary Diaries",
-      "volumeCount": 17,
+      "volumeCount": 16,
       "ongoing": true
     },
     {
       "id": "anilist-105097",
       "name": "Mieruko-chan",
       "volumeCount": 14,
-      "ongoing": true
-    },
-    {
-      "id": "anilist-86848",
-      "name": "Lookism",
-      "volumeCount": 20,
       "ongoing": true
     },
     {
@@ -803,7 +791,7 @@
     {
       "id": "anilist-144957",
       "name": "The World After the Fall",
-      "volumeCount": 3,
+      "volumeCount": 9,
       "ongoing": true
     },
     {
@@ -1023,16 +1011,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-87459",
-      "name": "My Lesbian Experience With Loneliness",
-      "volumeCount": 1,
-      "ongoing": false
-    },
-    {
       "id": "anilist-99324",
       "name": "Welcome to Demon School! Iruma-kun",
       "volumeCount": 49,
       "ongoing": true
+    },
+    {
+      "id": "anilist-87459",
+      "name": "My Lesbian Experience With Loneliness",
+      "volumeCount": 1,
+      "ongoing": false
     },
     {
       "id": "anilist-32921",
@@ -1059,16 +1047,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-111189",
-      "name": "A Sign of Affection",
-      "volumeCount": 14,
-      "ongoing": true
-    },
-    {
       "id": "anilist-110462",
       "name": "Tomb Raider King",
       "volumeCount": 12,
       "ongoing": false
+    },
+    {
+      "id": "anilist-111189",
+      "name": "A Sign of Affection",
+      "volumeCount": 14,
+      "ongoing": true
     },
     {
       "id": "anilist-86568",
@@ -1737,15 +1725,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-99609",
-      "name": "I Want to Eat Your Pancreas",
-      "volumeCount": 2,
-      "ongoing": false
-    },
-    {
       "id": "anilist-104503",
       "name": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs",
       "volumeCount": 13,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-99609",
+      "name": "I Want to Eat Your Pancreas",
+      "volumeCount": 2,
       "ongoing": false
     },
     {
@@ -1797,10 +1785,10 @@
       "ongoing": true
     },
     {
-      "id": "anilist-31101",
-      "name": "Akumetsu",
-      "volumeCount": 18,
-      "ongoing": false
+      "id": "anilist-152404",
+      "name": "Alya Sometimes Hides Her Feelings in Russian",
+      "volumeCount": 11,
+      "ongoing": true
     },
     {
       "id": "anilist-87225",
@@ -1809,10 +1797,10 @@
       "ongoing": true
     },
     {
-      "id": "anilist-152404",
-      "name": "Alya Sometimes Hides Her Feelings in Russian",
-      "volumeCount": 11,
-      "ongoing": true
+      "id": "anilist-31101",
+      "name": "Akumetsu",
+      "volumeCount": 18,
+      "ongoing": false
     },
     {
       "id": "anilist-120502",
@@ -1863,15 +1851,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-65719",
-      "name": "Like a Butterfly",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-113488",
       "name": "Weak Hero",
       "volumeCount": 19,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-65719",
+      "name": "Like a Butterfly",
+      "volumeCount": 12,
       "ongoing": false
     },
     {
@@ -1917,15 +1905,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86481",
-      "name": "Tsuredure Children",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-104241",
       "name": "How Do We Relationship?",
       "volumeCount": 14,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-86481",
+      "name": "Tsuredure Children",
+      "volumeCount": 12,
       "ongoing": false
     },
     {
@@ -1953,15 +1941,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-40552",
-      "name": "Lucifer and the Biscuit Hammer",
-      "volumeCount": 10,
-      "ongoing": false
-    },
-    {
       "id": "anilist-110605",
       "name": "Leviathan",
       "volumeCount": 9,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-40552",
+      "name": "Lucifer and the Biscuit Hammer",
+      "volumeCount": 10,
       "ongoing": false
     },
     {
@@ -2157,16 +2145,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-30106",
-      "name": "Cardcaptor Sakura",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-143031",
       "name": "I Want to End This Love Game",
       "volumeCount": 9,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30106",
+      "name": "Cardcaptor Sakura",
+      "volumeCount": 12,
+      "ongoing": false
     },
     {
       "id": "anilist-35293",
@@ -2199,12 +2187,6 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86303",
-      "name": "Miss Kobayashi's Dragon Maid",
-      "volumeCount": 19,
-      "ongoing": true
-    },
-    {
       "id": "anilist-141479",
       "name": "The Legendary Spearman Returns",
       "volumeCount": 20,
@@ -2215,6 +2197,12 @@
       "name": "Welcome to the N.H.K.",
       "volumeCount": 8,
       "ongoing": false
+    },
+    {
+      "id": "anilist-86303",
+      "name": "Miss Kobayashi's Dragon Maid",
+      "volumeCount": 19,
+      "ongoing": true
     },
     {
       "id": "anilist-87234",
@@ -2229,15 +2217,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30671",
-      "name": "To Love Ru",
-      "volumeCount": 18,
-      "ongoing": false
-    },
-    {
       "id": "anilist-159142",
       "name": "Firefly Wedding",
       "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30671",
+      "name": "To Love Ru",
+      "volumeCount": 18,
       "ongoing": false
     },
     {
@@ -2295,16 +2283,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-35255",
-      "name": "Dengeki Daisy",
-      "volumeCount": 16,
-      "ongoing": false
-    },
-    {
       "id": "anilist-171729",
       "name": "Love Bullet",
       "volumeCount": 2,
       "ongoing": true
+    },
+    {
+      "id": "anilist-35255",
+      "name": "Dengeki Daisy",
+      "volumeCount": 16,
+      "ongoing": false
     },
     {
       "id": "anilist-30904",
@@ -2313,15 +2301,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-87213",
-      "name": "Yuuna and the Haunted Hot Springs",
-      "volumeCount": 24,
-      "ongoing": false
-    },
-    {
       "id": "anilist-31131",
       "name": "Freesia",
       "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-87213",
+      "name": "Yuuna and the Haunted Hot Springs",
+      "volumeCount": 24,
       "ongoing": false
     },
     {
@@ -2373,6 +2361,12 @@
       "ongoing": true
     },
     {
+      "id": "anilist-125116",
+      "name": "Wistoria: Wand and Sword",
+      "volumeCount": 15,
+      "ongoing": true
+    },
+    {
       "id": "anilist-86355",
       "name": "That Time I Got Reincarnated as a Slime",
       "volumeCount": 23,
@@ -2383,12 +2377,6 @@
       "name": "Aria",
       "volumeCount": 12,
       "ongoing": false
-    },
-    {
-      "id": "anilist-125116",
-      "name": "Wistoria: Wand and Sword",
-      "volumeCount": 15,
-      "ongoing": true
     },
     {
       "id": "anilist-118695",
