@@ -2,7 +2,7 @@
   "version": 2,
   "currency": "EUR",
   "_attribution": "LEGO data: Rebrickable (rebrickable.com) + Brickset (brickset.com). Not affiliated with or endorsed by The LEGO Group.",
-  "_generated": "2026-07-31T06:26:25Z",
+  "_generated": "2026-08-01T06:09:38Z",
   "items": [
     {
       "id": "001",
@@ -14987,8 +14987,8 @@
         "USD": 19.99,
         "GBP": 17.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-07-31",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -60118,7 +60118,7 @@
       "themeOrSeries": "Creator",
       "retailPrice": null,
       "prices": {},
-      "lifecycleStatus": "RETIRING_SOON",
+      "lifecycleStatus": "AVAILABLE",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2024,
@@ -60133,7 +60133,7 @@
       "themeOrSeries": "Creator",
       "retailPrice": null,
       "prices": {},
-      "lifecycleStatus": "RETIRING_SOON",
+      "lifecycleStatus": "AVAILABLE",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2024,
@@ -145740,8 +145740,8 @@
         "USD": 19.99,
         "GBP": 17.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-07-31",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -180519,8 +180519,8 @@
         "USD": 69.99,
         "GBP": 64.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-07-31",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -181772,8 +181772,8 @@
         "USD": 99.99,
         "GBP": 89.99
       },
-      "lifecycleStatus": "RETIRING_SOON",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-07-31",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -199756,8 +199756,8 @@
         "USD": 14.99,
         "GBP": 12.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-07-31",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -200273,7 +200273,7 @@
         "GBP": 19.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-07-25",
+      "retirementDate": "2026-07-31",
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -204673,8 +204673,8 @@
         "USD": 89.99,
         "GBP": 79.99
       },
-      "lifecycleStatus": "RETIRING_SOON",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-07-31",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -262107,25 +262107,6 @@
       "retirementDate": "2026-07-23",
       "marketPrice": null,
       "year": 2025,
-      "volumeCount": null,
-      "ongoing": null
-    },
-    {
-      "id": "76345",
-      "category": "LEGO",
-      "name": "Doctor Doom Bust",
-      "imageURL": "https://images.brickset.com/sets/images/76345-1.jpg",
-      "themeOrSeries": "Marvel Super Heroes",
-      "retailPrice": 49.99,
-      "prices": {
-        "EUR": 49.99,
-        "USD": 49.99,
-        "GBP": 44.99
-      },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-07-30",
-      "marketPrice": null,
-      "year": 2026,
       "volumeCount": null,
       "ongoing": null
     },
