@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-07-31T06:40:11Z",
+  "_generated": "2026-08-01T06:23:33Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -645,16 +645,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-30657",
-      "name": "Real",
-      "volumeCount": 17,
-      "ongoing": true
-    },
-    {
       "id": "anilist-85412",
       "name": "Girls' Last Tour",
       "volumeCount": 6,
       "ongoing": false
+    },
+    {
+      "id": "anilist-30657",
+      "name": "Real",
+      "volumeCount": 17,
+      "ongoing": true
     },
     {
       "id": "anilist-44790",
@@ -1437,15 +1437,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-30053",
-      "name": "Yu Yu Hakusho",
-      "volumeCount": 19,
-      "ongoing": false
-    },
-    {
       "id": "anilist-136331",
       "name": "The Return of the 8th Class Mage",
       "volumeCount": 5,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30053",
+      "name": "Yu Yu Hakusho",
+      "volumeCount": 19,
       "ongoing": false
     },
     {
@@ -1557,10 +1557,10 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86526",
-      "name": "Platinum End",
-      "volumeCount": 14,
-      "ongoing": false
+      "id": "anilist-144866",
+      "name": "Akane-banashi",
+      "volumeCount": 22,
+      "ongoing": true
     },
     {
       "id": "anilist-74929",
@@ -1569,10 +1569,10 @@
       "ongoing": false
     },
     {
-      "id": "anilist-144866",
-      "name": "Akane-banashi",
-      "volumeCount": 22,
-      "ongoing": true
+      "id": "anilist-86526",
+      "name": "Platinum End",
+      "volumeCount": 14,
+      "ongoing": false
     },
     {
       "id": "anilist-60315",
@@ -1593,15 +1593,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-43949",
-      "name": "Medaka Box",
-      "volumeCount": 22,
-      "ongoing": false
-    },
-    {
       "id": "anilist-117620",
       "name": "The Summer You Were There",
       "volumeCount": 6,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-43949",
+      "name": "Medaka Box",
+      "volumeCount": 22,
       "ongoing": false
     },
     {
@@ -1707,15 +1707,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30584",
-      "name": "Future Diary",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-126135",
       "name": "Bibliomania",
       "volumeCount": 1,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30584",
+      "name": "Future Diary",
+      "volumeCount": 12,
       "ongoing": false
     },
     {
@@ -1767,15 +1767,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-116266",
-      "name": "Girlfriend, Girlfriend",
-      "volumeCount": 16,
-      "ongoing": false
-    },
-    {
       "id": "anilist-114027",
       "name": "Boy Meets Maria",
       "volumeCount": 1,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-116266",
+      "name": "Girlfriend, Girlfriend",
+      "volumeCount": 16,
       "ongoing": false
     },
     {
@@ -1935,15 +1935,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-125624",
-      "name": "Even If You Slit My Mouth",
-      "volumeCount": 11,
-      "ongoing": false
-    },
-    {
       "id": "anilist-110605",
       "name": "Leviathan",
       "volumeCount": 9,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-125624",
+      "name": "Even If You Slit My Mouth",
+      "volumeCount": 11,
       "ongoing": false
     },
     {
@@ -1989,16 +1989,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-30933",
-      "name": "Elfen Lied",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30735",
       "name": "Black Lagoon",
       "volumeCount": 13,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30933",
+      "name": "Elfen Lied",
+      "volumeCount": 12,
+      "ongoing": false
     },
     {
       "id": "anilist-34571",
@@ -2073,16 +2073,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-68071",
-      "name": "Spirit Circle",
-      "volumeCount": 6,
-      "ongoing": false
-    },
-    {
       "id": "anilist-153880",
       "name": "The Art of Reincarnation",
       "volumeCount": 12,
       "ongoing": true
+    },
+    {
+      "id": "anilist-68071",
+      "name": "Spirit Circle",
+      "volumeCount": 6,
+      "ongoing": false
     },
     {
       "id": "anilist-111258",
@@ -2115,16 +2115,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-58533",
-      "name": "No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!",
-      "volumeCount": 28,
-      "ongoing": true
-    },
-    {
       "id": "anilist-106454",
       "name": "Sensei wa Koi wo Oshierarenai",
       "volumeCount": 7,
       "ongoing": false
+    },
+    {
+      "id": "anilist-58533",
+      "name": "No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!",
+      "volumeCount": 28,
+      "ongoing": true
     },
     {
       "id": "anilist-30050",
@@ -2157,15 +2157,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-35293",
-      "name": "Doubt",
-      "volumeCount": 4,
-      "ongoing": false
-    },
-    {
       "id": "anilist-31373",
       "name": "Nijigahara Holograph",
       "volumeCount": 1,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-35293",
+      "name": "Doubt",
+      "volumeCount": 4,
       "ongoing": false
     },
     {
@@ -2241,15 +2241,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-68105",
-      "name": "Kase-san and...",
-      "volumeCount": 5,
-      "ongoing": false
-    },
-    {
       "id": "anilist-120440",
       "name": "Positively Yours",
       "volumeCount": 8,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-68105",
+      "name": "Kase-san and...",
+      "volumeCount": 5,
       "ongoing": false
     },
     {
@@ -2265,16 +2265,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-39115",
-      "name": "Spice & Wolf",
-      "volumeCount": 24,
-      "ongoing": true
-    },
-    {
       "id": "anilist-86720",
       "name": "Helck",
       "volumeCount": 12,
       "ongoing": false
+    },
+    {
+      "id": "anilist-39115",
+      "name": "Spice & Wolf",
+      "volumeCount": 24,
+      "ongoing": true
     },
     {
       "id": "anilist-98466",
@@ -2361,6 +2361,12 @@
       "ongoing": true
     },
     {
+      "id": "anilist-85978",
+      "name": "The New Gate",
+      "volumeCount": 23,
+      "ongoing": true
+    },
+    {
       "id": "anilist-125116",
       "name": "Wistoria: Wand and Sword",
       "volumeCount": 15,
@@ -2373,16 +2379,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30081",
-      "name": "Aria",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-118695",
       "name": "I’m in Love with the Villainess",
       "volumeCount": 5,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30081",
+      "name": "Aria",
+      "volumeCount": 12,
+      "ongoing": false
     },
     {
       "id": "anilist-30009",
@@ -2391,9 +2397,9 @@
       "ongoing": false
     },
     {
-      "id": "anilist-98686",
-      "name": "Aharen-san is Indecipherable",
-      "volumeCount": 17,
+      "id": "anilist-110785",
+      "name": "2.5 Dimensional Seduction",
+      "volumeCount": 25,
       "ongoing": false
     }
   ]
