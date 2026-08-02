@@ -2,7 +2,7 @@
   "version": 2,
   "currency": "EUR",
   "_attribution": "LEGO data: Rebrickable (rebrickable.com) + Brickset (brickset.com). Not affiliated with or endorsed by The LEGO Group.",
-  "_generated": "2026-08-01T06:09:38Z",
+  "_generated": "2026-08-02T06:15:05Z",
   "items": [
     {
       "id": "001",
@@ -15403,6 +15403,44 @@
       "ongoing": null
     },
     {
+      "id": "11212",
+      "category": "LEGO",
+      "name": "Kitty Fairy's Garden House",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/11212-1/171793.jpg",
+      "themeOrSeries": "Gabby's Dollhouse",
+      "retailPrice": 14.99,
+      "prices": {
+        "EUR": 14.99,
+        "USD": 14.99,
+        "GBP": 12.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "11214",
+      "category": "LEGO",
+      "name": "Fairy Roller Coaster and Tea Party",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/11214-1/171787.jpg",
+      "themeOrSeries": "Gabby's Dollhouse",
+      "retailPrice": 34.99,
+      "prices": {
+        "EUR": 34.99,
+        "USD": 34.99,
+        "GBP": 29.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
       "id": "11215",
       "category": "LEGO",
       "name": "Gabby's Brick-Built Cat Friends",
@@ -16329,6 +16367,44 @@
       "ongoing": null
     },
     {
+      "id": "11381",
+      "category": "LEGO",
+      "name": "Jaguar E-type",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/11381-1/177508.jpg",
+      "themeOrSeries": "Icons",
+      "retailPrice": 139.99,
+      "prices": {
+        "EUR": 139.99,
+        "USD": 139.99,
+        "GBP": 129.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "11382",
+      "category": "LEGO",
+      "name": "Hubble Space Telescope",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/11382-1/177427.jpg",
+      "themeOrSeries": "Icons",
+      "retailPrice": 129.99,
+      "prices": {
+        "EUR": 129.99,
+        "USD": 139.99,
+        "GBP": 119.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
       "id": "11384",
       "category": "LEGO",
       "name": "Golden Retriever Puppy",
@@ -16571,6 +16647,25 @@
       "ongoing": null
     },
     {
+      "id": "11507",
+      "category": "LEGO",
+      "name": "Olivia Rodrigo\u2019s Flower Bouquet",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/11507-1/176881.jpg",
+      "themeOrSeries": "Editions",
+      "retailPrice": 44.99,
+      "prices": {
+        "EUR": 44.99,
+        "USD": 49.99,
+        "GBP": 39.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
       "id": "11508",
       "category": "LEGO",
       "name": "Daisies",
@@ -16653,6 +16748,44 @@
         "EUR": 39.99,
         "USD": 29.99,
         "GBP": 34.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "11512",
+      "category": "LEGO",
+      "name": "Hanging Golden Pothos",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/11512-1/176940.jpg",
+      "themeOrSeries": "Botanicals",
+      "retailPrice": 59.99,
+      "prices": {
+        "EUR": 59.99,
+        "USD": 59.99,
+        "GBP": 54.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "11513",
+      "category": "LEGO",
+      "name": "Dark Flower Arrangement",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/11513-1/176955.jpg",
+      "themeOrSeries": "Botanicals",
+      "retailPrice": 59.99,
+      "prices": {
+        "EUR": 59.99,
+        "USD": 59.99,
+        "GBP": 54.99
       },
       "lifecycleStatus": "AVAILABLE",
       "retirementDate": null,
@@ -32357,6 +32490,25 @@
       "ongoing": null
     },
     {
+      "id": "21067",
+      "category": "LEGO",
+      "name": "Tower Bridge",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/21067-1/177825.jpg",
+      "themeOrSeries": "Architecture",
+      "retailPrice": 299.99,
+      "prices": {
+        "EUR": 299.99,
+        "USD": 349.99,
+        "GBP": 269.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
       "id": "21068",
       "category": "LEGO",
       "name": "Shanghai",
@@ -36662,6 +36814,44 @@
       "ongoing": null
     },
     {
+      "id": "21369",
+      "category": "LEGO",
+      "name": "The X-Files",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/21369-1/178135.jpg",
+      "themeOrSeries": "LEGO Ideas and CUUSOO",
+      "retailPrice": 199.99,
+      "prices": {
+        "EUR": 199.99,
+        "USD": 199.99,
+        "GBP": 179.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "21370",
+      "category": "LEGO",
+      "name": "E.T. the Extra-Terrestrial",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/21370-1/177091.jpg",
+      "themeOrSeries": "LEGO Ideas and CUUSOO",
+      "retailPrice": 129.99,
+      "prices": {
+        "EUR": 129.99,
+        "USD": 139.99,
+        "GBP": 119.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
       "id": "2137",
       "category": "LEGO",
       "name": "Swamp Boat",
@@ -36673,6 +36863,25 @@
       "retirementDate": null,
       "marketPrice": null,
       "year": 1997,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "21372",
+      "category": "LEGO",
+      "name": "La Catrina",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/21372-1/177583.jpg",
+      "themeOrSeries": "LEGO Ideas and CUUSOO",
+      "retailPrice": 119.99,
+      "prices": {
+        "EUR": 119.99,
+        "USD": 139.99,
+        "GBP": 109.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
       "volumeCount": null,
       "ongoing": null
     },
@@ -37191,6 +37400,25 @@
       "ongoing": null
     },
     {
+      "id": "21582",
+      "category": "LEGO",
+      "name": "Chicken Jockey",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/21582-1/173469.jpg",
+      "themeOrSeries": "Minecraft",
+      "retailPrice": 29.99,
+      "prices": {
+        "EUR": 29.99,
+        "USD": 29.99,
+        "GBP": 24.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
       "id": "21583",
       "category": "LEGO",
       "name": "Steve's Taiga Adventure",
@@ -37354,6 +37582,25 @@
       "retirementDate": null,
       "marketPrice": null,
       "year": 2006,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "21591",
+      "category": "LEGO",
+      "name": "The Twisted Warden Battle",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/21591-1/174682.jpg",
+      "themeOrSeries": "Minecraft",
+      "retailPrice": 49.99,
+      "prices": {
+        "EUR": 49.99,
+        "USD": 59.99,
+        "GBP": 44.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
       "volumeCount": null,
       "ongoing": null
     },
@@ -39861,6 +40108,21 @@
       "ongoing": null
     },
     {
+      "id": "2384",
+      "category": "LEGO",
+      "name": "Farm bucket",
+      "imageURL": "",
+      "themeOrSeries": "Duplo",
+      "retailPrice": null,
+      "prices": {},
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 1992,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
       "id": "2386",
       "category": "LEGO",
       "name": "Circus Bucket",
@@ -41079,7 +41341,7 @@
       "id": "2451",
       "category": "LEGO",
       "name": "Police Squad",
-      "imageURL": "",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/2451-1/179091.jpg",
       "themeOrSeries": "Duplo",
       "retailPrice": null,
       "prices": {},
@@ -57186,6 +57448,21 @@
       "ongoing": null
     },
     {
+      "id": "30729",
+      "category": "LEGO",
+      "name": "Premier Ball",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/30729-1/175232.jpg",
+      "themeOrSeries": "Pok\u00e9mon",
+      "retailPrice": null,
+      "prices": {},
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
       "id": "307-2-DBASE",
       "category": "LEGO",
       "name": "Database Set for 307-2",
@@ -57197,6 +57474,21 @@
       "retirementDate": null,
       "marketPrice": null,
       "year": 1958,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "30730",
+      "category": "LEGO",
+      "name": "Trainer Supplies",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/30730-1/175234.jpg",
+      "themeOrSeries": "Pok\u00e9mon",
+      "retailPrice": null,
+      "prices": {},
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
       "volumeCount": null,
       "ongoing": null
     },
@@ -61043,6 +61335,25 @@
       "ongoing": null
     },
     {
+      "id": "31221",
+      "category": "LEGO",
+      "name": "Gustav Klimt \u2013 The Kiss",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/31221-1/177705.jpg",
+      "themeOrSeries": "LEGO Art",
+      "retailPrice": 299.99,
+      "prices": {
+        "EUR": 299.99,
+        "USD": 299.99,
+        "GBP": 269.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
       "id": "3123",
       "category": "LEGO",
       "name": "Emma's Chill-Out Kitchen",
@@ -61631,6 +61942,25 @@
         "EUR": 49.99,
         "USD": 49.99,
         "GBP": 44.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "31394",
+      "category": "LEGO",
+      "name": "Cute Animals: Red Panda",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/31394-1/177043.jpg",
+      "themeOrSeries": "Creator",
+      "retailPrice": 29.99,
+      "prices": {
+        "EUR": 29.99,
+        "USD": 29.99,
+        "GBP": 24.99
       },
       "lifecycleStatus": "AVAILABLE",
       "retirementDate": null,
@@ -85305,6 +85635,44 @@
       "ongoing": null
     },
     {
+      "id": "40872",
+      "category": "LEGO",
+      "name": "Halloween Pumpkin Lantern",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/40872-1/176971.jpg",
+      "themeOrSeries": "Seasonal",
+      "retailPrice": 29.99,
+      "prices": {
+        "EUR": 29.99,
+        "USD": 29.99,
+        "GBP": 24.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "40873",
+      "category": "LEGO",
+      "name": "Colorful Lantern",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/40873-1/177060.jpg",
+      "themeOrSeries": "Seasonal",
+      "retailPrice": 19.99,
+      "prices": {
+        "EUR": 19.99,
+        "USD": 19.99,
+        "GBP": 17.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
       "id": "40878",
       "category": "LEGO",
       "name": "Teenage Mutant Ninja Turtles Figures",
@@ -85377,6 +85745,25 @@
       "ongoing": null
     },
     {
+      "id": "40883",
+      "category": "LEGO",
+      "name": "Halloween Skull Candle",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/40883-1/176985.jpg",
+      "themeOrSeries": "Seasonal",
+      "retailPrice": 19.99,
+      "prices": {
+        "EUR": 19.99,
+        "USD": 19.99,
+        "GBP": 17.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
       "id": "40884",
       "category": "LEGO",
       "name": "Drift & Raven Figures",
@@ -85416,6 +85803,21 @@
       "name": "Penguins in Love",
       "imageURL": "https://cdn.rebrickable.com/media/sets/40886-1/167383.jpg",
       "themeOrSeries": "Seasonal",
+      "retailPrice": null,
+      "prices": {},
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "40887",
+      "category": "LEGO",
+      "name": "Ditto as Squirtle: Movie Night",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/40887-1/175248.jpg",
+      "themeOrSeries": "Pok\u00e9mon",
       "retailPrice": null,
       "prices": {},
       "lifecycleStatus": "AVAILABLE",
@@ -85506,6 +85908,21 @@
       "name": "Koenigsegg Sadair's Spear Steering Wheel",
       "imageURL": "https://cdn.rebrickable.com/media/sets/40894-1/175999.jpg",
       "themeOrSeries": "Technic",
+      "retailPrice": null,
+      "prices": {},
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "40896",
+      "category": "LEGO",
+      "name": "The X-Files: Scully's Lab",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/40896-1/178128.jpg",
+      "themeOrSeries": "LEGO Ideas and CUUSOO",
       "retailPrice": null,
       "prices": {},
       "lifecycleStatus": "AVAILABLE",
@@ -101150,8 +101567,8 @@
         "USD": 9.99,
         "GBP": 8.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-08-01",
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -101426,6 +101843,116 @@
         "EUR": 449.99,
         "USD": 449.99,
         "GBP": 399.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "42233",
+      "category": "LEGO",
+      "name": "Road Roller",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/42233-1/173429.jpg",
+      "themeOrSeries": "Technic",
+      "retailPrice": null,
+      "prices": {},
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "42234",
+      "category": "LEGO",
+      "name": "Dodge Viper GTS-R Sports Car",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/42234-1/171812.jpg",
+      "themeOrSeries": "Technic",
+      "retailPrice": 64.99,
+      "prices": {
+        "EUR": 64.99,
+        "USD": 64.99,
+        "GBP": 59.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "42235",
+      "category": "LEGO",
+      "name": "Ferrari 488 PISTA Car",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/42235-1/171820.jpg",
+      "themeOrSeries": "Technic",
+      "retailPrice": 64.99,
+      "prices": {
+        "EUR": 64.99,
+        "USD": 64.99,
+        "GBP": 59.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "42236",
+      "category": "LEGO",
+      "name": "Custom Garage Ford Mustang GT Car",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/42236-1/171588.jpg",
+      "themeOrSeries": "Technic",
+      "retailPrice": 89.99,
+      "prices": {
+        "EUR": 89.99,
+        "USD": 99.99,
+        "GBP": 79.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "42238",
+      "category": "LEGO",
+      "name": "Ducati Desmo450 MX Factory Motorcycle",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/42238-1/176996.jpg",
+      "themeOrSeries": "Technic",
+      "retailPrice": 49.99,
+      "prices": {
+        "EUR": 49.99,
+        "USD": 49.99,
+        "GBP": 44.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "42239",
+      "category": "LEGO",
+      "name": "Batmobile Tumbler",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/42239-1/171827.jpg",
+      "themeOrSeries": "Technic",
+      "retailPrice": 189.99,
+      "prices": {
+        "EUR": 189.99,
+        "USD": 189.99,
+        "GBP": 169.99
       },
       "lifecycleStatus": "AVAILABLE",
       "retirementDate": null,
@@ -104495,6 +105022,82 @@
         "EUR": 29.99,
         "USD": 29.99,
         "GBP": 24.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "43028",
+      "category": "LEGO",
+      "name": "Olivia Rodrigo\u2019s Vinyl",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/43028-1/176843.jpg",
+      "themeOrSeries": "Editions",
+      "retailPrice": 29.99,
+      "prices": {
+        "EUR": 29.99,
+        "USD": 34.99,
+        "GBP": 24.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "43029",
+      "category": "LEGO",
+      "name": "Olivia Rodrigo\u2019s Concert Moon",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/43029-1/176853.jpg",
+      "themeOrSeries": "Editions",
+      "retailPrice": 49.99,
+      "prices": {
+        "EUR": 49.99,
+        "USD": 49.99,
+        "GBP": 44.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "43030",
+      "category": "LEGO",
+      "name": "Olivia Rodrigo\u2019s Secret Storage",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/43030-1/176860.jpg",
+      "themeOrSeries": "Editions",
+      "retailPrice": 79.99,
+      "prices": {
+        "EUR": 79.99,
+        "USD": 79.99,
+        "GBP": 69.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "43031",
+      "category": "LEGO",
+      "name": "Olivia Rodrigo\u2019s Dual Guitar",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/43031-1/176869.jpg",
+      "themeOrSeries": "Editions",
+      "retailPrice": 119.99,
+      "prices": {
+        "EUR": 119.99,
+        "USD": 119.99,
+        "GBP": 109.99
       },
       "lifecycleStatus": "AVAILABLE",
       "retirementDate": null,
@@ -125586,11 +126189,11 @@
       "name": "Shelf (All Colors)",
       "imageURL": "https://cdn.rebrickable.com/media/sets/5010106-1/163487.jpg",
       "themeOrSeries": "Gear",
-      "retailPrice": 34.99,
+      "retailPrice": 44.99,
       "prices": {
-        "EUR": 34.99,
+        "EUR": 44.99,
         "USD": 34.99,
-        "GBP": 29.99
+        "GBP": 39.99
       },
       "lifecycleStatus": "AVAILABLE",
       "retirementDate": null,
@@ -181233,8 +181836,8 @@
         "USD": 139.99,
         "GBP": 129.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-08-01",
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -181947,6 +182550,25 @@
       "ongoing": null
     },
     {
+      "id": "72051",
+      "category": "LEGO",
+      "name": "Donkey Kong Arcade",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/72051-1/178346.jpg",
+      "themeOrSeries": "Super Mario",
+      "retailPrice": 169.99,
+      "prices": {
+        "EUR": 169.99,
+        "USD": 199.99,
+        "GBP": 149.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
       "id": "7206",
       "category": "LEGO",
       "name": "Fire Helicopter",
@@ -182082,6 +182704,25 @@
       "ongoing": null
     },
     {
+      "id": "72150",
+      "category": "LEGO",
+      "name": "Munchlax",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/72150-1/177386.jpg",
+      "themeOrSeries": "Pok\u00e9mon",
+      "retailPrice": 69.99,
+      "prices": {
+        "EUR": 69.99,
+        "USD": 69.99,
+        "GBP": 59.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
       "id": "7215",
       "category": "LEGO",
       "name": "Frame and Hairband",
@@ -182154,6 +182795,120 @@
       "ongoing": null
     },
     {
+      "id": "72155",
+      "category": "LEGO",
+      "name": "Berry Bash with Bulbasaur and Bidoof",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/72155-1/175023.jpg",
+      "themeOrSeries": "Pok\u00e9mon",
+      "retailPrice": 19.99,
+      "prices": {
+        "EUR": 19.99,
+        "USD": 19.99,
+        "GBP": 17.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "72156",
+      "category": "LEGO",
+      "name": "Trainer's Buggy Adventure with Squirtle",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/72156-1/175038.jpg",
+      "themeOrSeries": "Pok\u00e9mon",
+      "retailPrice": 29.99,
+      "prices": {
+        "EUR": 29.99,
+        "USD": 29.99,
+        "GBP": 24.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "72157",
+      "category": "LEGO",
+      "name": "Charmander and Geodude's Cavern Clash",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/72157-1/175056.jpg",
+      "themeOrSeries": "Pok\u00e9mon",
+      "retailPrice": 19.99,
+      "prices": {
+        "EUR": 19.99,
+        "USD": 19.99,
+        "GBP": 17.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "72158",
+      "category": "LEGO",
+      "name": "Sprigatito, Fuecoco and Quaxly Battle",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/72158-1/175072.jpg",
+      "themeOrSeries": "Pok\u00e9mon",
+      "retailPrice": 34.99,
+      "prices": {
+        "EUR": 34.99,
+        "USD": 34.99,
+        "GBP": 29.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "72159",
+      "category": "LEGO",
+      "name": "Jigglypuff Concert",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/72159-1/175091.jpg",
+      "themeOrSeries": "Pok\u00e9mon",
+      "retailPrice": 14.99,
+      "prices": {
+        "EUR": 14.99,
+        "USD": 14.99,
+        "GBP": 12.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "72160",
+      "category": "LEGO",
+      "name": "Arcanine",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/72160-1/177371.jpg",
+      "themeOrSeries": "Pok\u00e9mon",
+      "retailPrice": 99.99,
+      "prices": {
+        "EUR": 99.99,
+        "USD": 109.99,
+        "GBP": 89.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
       "id": "7216",
       "category": "LEGO",
       "name": "Gold Good Guy - looking Right (Duracell 8 pack AA) {Turaga Lhikan}",
@@ -182165,6 +182920,158 @@
       "retirementDate": null,
       "marketPrice": null,
       "year": 2006,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "72161",
+      "category": "LEGO",
+      "name": "Drone Search for Mythical Mew",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/72161-1/175105.jpg",
+      "themeOrSeries": "Pok\u00e9mon",
+      "retailPrice": 49.99,
+      "prices": {
+        "EUR": 49.99,
+        "USD": 49.99,
+        "GBP": 44.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "72162",
+      "category": "LEGO",
+      "name": "Eevee and Lapras's Treasure Hunt",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/72162-1/175125.jpg",
+      "themeOrSeries": "Pok\u00e9mon",
+      "retailPrice": 59.99,
+      "prices": {
+        "EUR": 59.99,
+        "USD": 59.99,
+        "GBP": 54.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "72163",
+      "category": "LEGO",
+      "name": "Mewtwo's Lab Break",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/72163-1/175142.jpg",
+      "themeOrSeries": "Pok\u00e9mon",
+      "retailPrice": 69.99,
+      "prices": {
+        "EUR": 69.99,
+        "USD": 69.99,
+        "GBP": 59.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "72164",
+      "category": "LEGO",
+      "name": "Training House with Pikachu",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/72164-1/175161.jpg",
+      "themeOrSeries": "Pok\u00e9mon",
+      "retailPrice": 69.99,
+      "prices": {
+        "EUR": 69.99,
+        "USD": 69.99,
+        "GBP": 59.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "72165",
+      "category": "LEGO",
+      "name": "Umbreon vs. Garchomp Championship Battle",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/72165-1/175184.jpg",
+      "themeOrSeries": "Pok\u00e9mon",
+      "retailPrice": 79.99,
+      "prices": {
+        "EUR": 79.99,
+        "USD": 79.99,
+        "GBP": 69.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "72166",
+      "category": "LEGO",
+      "name": "Cubone and Gengar's Spooky Showdown",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/72166-1/175200.jpg",
+      "themeOrSeries": "Pok\u00e9mon",
+      "retailPrice": 89.99,
+      "prices": {
+        "EUR": 89.99,
+        "USD": 89.99,
+        "GBP": 79.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "72167",
+      "category": "LEGO",
+      "name": "Charizard vs. Jolteon Ultimate Battle",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/72167-1/175002.jpg",
+      "themeOrSeries": "Pok\u00e9mon",
+      "retailPrice": 119.99,
+      "prices": {
+        "EUR": 119.99,
+        "USD": 119.99,
+        "GBP": 109.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "72168",
+      "category": "LEGO",
+      "name": "Rayquaza",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/72168-1/177353.jpg",
+      "themeOrSeries": "Pok\u00e9mon",
+      "retailPrice": 129.99,
+      "prices": {
+        "EUR": 129.99,
+        "USD": 129.99,
+        "GBP": 119.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
       "volumeCount": null,
       "ongoing": null
     },
@@ -182619,6 +183526,25 @@
       "retirementDate": null,
       "marketPrice": null,
       "year": 2005,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "72537",
+      "category": "LEGO",
+      "name": "Derpy Tiger and Sussie Bird",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/72537-1/175782.jpg",
+      "themeOrSeries": "KPop Demon Hunters",
+      "retailPrice": 69.99,
+      "prices": {
+        "EUR": 69.99,
+        "USD": 69.99,
+        "GBP": 59.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
       "volumeCount": null,
       "ongoing": null
     },
@@ -191977,6 +192903,25 @@
       "ongoing": null
     },
     {
+      "id": "75451",
+      "category": "LEGO",
+      "name": "Hutt Palace Sentry Droid Showdown",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/75451-1/171843.jpg",
+      "themeOrSeries": "Star Wars",
+      "retailPrice": 49.99,
+      "prices": {
+        "EUR": 49.99,
+        "USD": 49.99,
+        "GBP": 44.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
       "id": "75452",
       "category": "LEGO",
       "name": "BB-8 Astromech Droid",
@@ -191987,6 +192932,63 @@
         "EUR": 89.99,
         "USD": 89.99,
         "GBP": 79.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "75453",
+      "category": "LEGO",
+      "name": "Offworld Sandcrawler and Mudhorn",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/75453-1/174512.jpg",
+      "themeOrSeries": "Star Wars",
+      "retailPrice": 199.99,
+      "prices": {
+        "EUR": 199.99,
+        "USD": 199.99,
+        "GBP": 179.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "75454",
+      "category": "LEGO",
+      "name": "Imperial Remnant AT-AT with INT-4",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/75454-1/174530.jpg",
+      "themeOrSeries": "Star Wars",
+      "retailPrice": 159.99,
+      "prices": {
+        "EUR": 159.99,
+        "USD": 159.99,
+        "GBP": 139.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "75455",
+      "category": "LEGO",
+      "name": "Boba Fett",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/75455-1/176904.jpg",
+      "themeOrSeries": "Star Wars",
+      "retailPrice": 169.99,
+      "prices": {
+        "EUR": 169.99,
+        "USD": 169.99,
+        "GBP": 149.99
       },
       "lifecycleStatus": "AVAILABLE",
       "retirementDate": null,
@@ -192838,6 +193840,139 @@
       "retirementDate": null,
       "marketPrice": null,
       "year": 2025,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "75641",
+      "category": "LEGO",
+      "name": "Dr. Hiriluk's Hideout",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/75641-1/171281.jpg",
+      "themeOrSeries": "One Piece",
+      "retailPrice": 29.99,
+      "prices": {
+        "EUR": 29.99,
+        "USD": 29.99,
+        "GBP": 24.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "75642",
+      "category": "LEGO",
+      "name": "Showdown with Captain Smoker",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/75642-1/171275.jpg",
+      "themeOrSeries": "One Piece",
+      "retailPrice": 59.99,
+      "prices": {
+        "EUR": 59.99,
+        "USD": 69.99,
+        "GBP": 54.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "75643",
+      "category": "LEGO",
+      "name": "Tony Tony Chopper",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/75643-1/171259.jpg",
+      "themeOrSeries": "One Piece",
+      "retailPrice": 69.99,
+      "prices": {
+        "EUR": 69.99,
+        "USD": 69.99,
+        "GBP": 59.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "75644",
+      "category": "LEGO",
+      "name": "Dorry vs. Brogy \u2013 Giants of Little Garden",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/75644-1/171289.jpg",
+      "themeOrSeries": "One Piece",
+      "retailPrice": 79.99,
+      "prices": {
+        "EUR": 79.99,
+        "USD": 79.99,
+        "GBP": 69.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "75645",
+      "category": "LEGO",
+      "name": "Battle at Drum Castle",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/75645-1/171267.jpg",
+      "themeOrSeries": "One Piece",
+      "retailPrice": 99.99,
+      "prices": {
+        "EUR": 99.99,
+        "USD": 109.99,
+        "GBP": 89.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "75646",
+      "category": "LEGO",
+      "name": "Garp's Marine Battleship",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/75646-1/171296.jpg",
+      "themeOrSeries": "One Piece",
+      "retailPrice": 169.99,
+      "prices": {
+        "EUR": 169.99,
+        "USD": 179.99,
+        "GBP": 149.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "75647",
+      "category": "LEGO",
+      "name": "Gum-Gum Fruit",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/75647-1/169881.jpg",
+      "themeOrSeries": "One Piece",
+      "retailPrice": 69.99,
+      "prices": {
+        "EUR": 69.99,
+        "USD": 69.99,
+        "GBP": 59.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
       "volumeCount": null,
       "ongoing": null
     },
@@ -199757,7 +200892,7 @@
         "GBP": 12.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-07-31",
+      "retirementDate": "2026-08-01",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -199829,7 +200964,7 @@
         "GBP": 44.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-07-27",
+      "retirementDate": "2026-08-01",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -200292,7 +201427,7 @@
         "GBP": 8.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-07-30",
+      "retirementDate": "2026-08-01",
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -200347,6 +201482,25 @@
         "EUR": 29.99,
         "USD": 29.99,
         "GBP": 24.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "76339",
+      "category": "LEGO",
+      "name": "The Fantastic Four H.E.R.B.I.E.",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/76339-1/171736.jpg",
+      "themeOrSeries": "Super Heroes Marvel",
+      "retailPrice": 69.99,
+      "prices": {
+        "EUR": 69.99,
+        "USD": 74.99,
+        "GBP": 59.99
       },
       "lifecycleStatus": "AVAILABLE",
       "retirementDate": null,
@@ -204282,7 +205436,7 @@
         "GBP": 39.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-07-27",
+      "retirementDate": "2026-08-01",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -204700,6 +205854,25 @@
       "ongoing": null
     },
     {
+      "id": "77059",
+      "category": "LEGO",
+      "name": "Timmy & Tommy's Fun Day Out",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/77059-1/171870.jpg",
+      "themeOrSeries": "Animal Crossing",
+      "retailPrice": 59.99,
+      "prices": {
+        "EUR": 59.99,
+        "USD": 59.99,
+        "GBP": 54.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
       "id": "7706",
       "category": "LEGO",
       "name": "Mobile Defense Tank",
@@ -205065,6 +206238,44 @@
         "EUR": 39.99,
         "USD": 39.99,
         "GBP": 34.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "77119",
+      "category": "LEGO",
+      "name": "Tails' Tornado-1",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/77119-1/171878.jpg",
+      "themeOrSeries": "Sonic The Hedgehog",
+      "retailPrice": 29.99,
+      "prices": {
+        "EUR": 29.99,
+        "USD": 29.99,
+        "GBP": 24.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "77120",
+      "category": "LEGO",
+      "name": "Shadow's Mech vs. G.U.N. Trooper",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/77120-1/171885.jpg",
+      "themeOrSeries": "Sonic The Hedgehog",
+      "retailPrice": 49.99,
+      "prices": {
+        "EUR": 49.99,
+        "USD": 49.99,
+        "GBP": 44.99
       },
       "lifecycleStatus": "AVAILABLE",
       "retirementDate": null,
@@ -205784,6 +206995,44 @@
         "EUR": 27.99,
         "USD": 29.99,
         "GBP": 22.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "77263",
+      "category": "LEGO",
+      "name": "BMW M3 (E30)",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/77263-1/174309.jpg",
+      "themeOrSeries": "Speed Champions",
+      "retailPrice": 27.99,
+      "prices": {
+        "EUR": 27.99,
+        "USD": 29.99,
+        "GBP": 22.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "77264",
+      "category": "LEGO",
+      "name": "Jaguar Project 7 & Land Rover Defender",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/77264-1/171890.jpg",
+      "themeOrSeries": "Speed Champions",
+      "retailPrice": 54.99,
+      "prices": {
+        "EUR": 54.99,
+        "USD": 59.99,
+        "GBP": 44.99
       },
       "lifecycleStatus": "AVAILABLE",
       "retirementDate": null,
@@ -206783,6 +208032,44 @@
       "ongoing": null
     },
     {
+      "id": "77977",
+      "category": "LEGO",
+      "name": "Baby Dinosaur: Pteranodon",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/77977-1/171178.jpg",
+      "themeOrSeries": "Jurassic World",
+      "retailPrice": 24.99,
+      "prices": {
+        "EUR": 24.99,
+        "USD": 29.99,
+        "GBP": 19.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "77978",
+      "category": "LEGO",
+      "name": "Young T. rex Transport Truck",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/77978-1/171181.jpg",
+      "themeOrSeries": "Jurassic World",
+      "retailPrice": 29.99,
+      "prices": {
+        "EUR": 29.99,
+        "USD": 29.99,
+        "GBP": 24.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
       "id": "7798",
       "category": "LEGO",
       "name": "Stegosaurus",
@@ -206794,6 +208081,63 @@
       "retirementDate": null,
       "marketPrice": null,
       "year": 2008,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "77981",
+      "category": "LEGO",
+      "name": "Velociraptor, Stegosaurus & Pteranodon Rescue",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/77981-1/171184.jpg",
+      "themeOrSeries": "Jurassic World",
+      "retailPrice": 44.99,
+      "prices": {
+        "EUR": 44.99,
+        "USD": 49.99,
+        "GBP": 39.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "77982",
+      "category": "LEGO",
+      "name": "Spinosaurus Dinosaur Escape",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/77982-1/171187.jpg",
+      "themeOrSeries": "Jurassic World",
+      "retailPrice": 69.99,
+      "prices": {
+        "EUR": 69.99,
+        "USD": 74.99,
+        "GBP": 59.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "77983",
+      "category": "LEGO",
+      "name": "Mosasaurus Dinosaur Boat Attack",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/77983-1/171234.jpg",
+      "themeOrSeries": "Jurassic World",
+      "retailPrice": 99.99,
+      "prices": {
+        "EUR": 99.99,
+        "USD": 99.99,
+        "GBP": 89.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
       "volumeCount": null,
       "ongoing": null
     },
@@ -238707,6 +240051,21 @@
       "ongoing": null
     },
     {
+      "id": "951375",
+      "category": "LEGO",
+      "name": "Nya and Grimfax",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/951375-1/179080.jpg",
+      "themeOrSeries": "Ninjago",
+      "retailPrice": null,
+      "prices": {},
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
       "id": "951385",
       "category": "LEGO",
       "name": "Kai - Draconus Form",
@@ -252533,6 +253892,21 @@
       "retirementDate": null,
       "marketPrice": null,
       "year": 2021,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "DOSSIER",
+      "category": "LEGO",
+      "name": "One Piece Dossier Tiles",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/dossier-1/179142.jpg",
+      "themeOrSeries": "Other",
+      "retailPrice": null,
+      "prices": {},
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
       "volumeCount": null,
       "ongoing": null
     },
