@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-08-01T06:23:33Z",
+  "_generated": "2026-08-02T06:29:47Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -141,15 +141,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-97852",
-      "name": "Komi Can't Communicate",
-      "volumeCount": 37,
-      "ongoing": false
-    },
-    {
       "id": "anilist-86123",
       "name": "Black Clover",
       "volumeCount": 38,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-97852",
+      "name": "Komi Can't Communicate",
+      "volumeCount": 37,
       "ongoing": false
     },
     {
@@ -555,15 +555,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-74485",
-      "name": "The Seven Deadly Sins",
-      "volumeCount": 41,
-      "ongoing": false
-    },
-    {
       "id": "anilist-85849",
       "name": "ReLIFE",
       "volumeCount": 15,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-74485",
+      "name": "The Seven Deadly Sins",
+      "volumeCount": 41,
       "ongoing": false
     },
     {
@@ -699,15 +699,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-75757",
-      "name": "Food Wars!: Shokugeki no Soma",
-      "volumeCount": 36,
-      "ongoing": false
-    },
-    {
       "id": "anilist-55132",
       "name": "Akame ga KILL!",
       "volumeCount": 15,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-75757",
+      "name": "Food Wars!: Shokugeki no Soma",
+      "volumeCount": 36,
       "ongoing": false
     },
     {
@@ -715,6 +715,12 @@
       "name": "JoJo's Bizarre Adventure Part 1: Phantom Blood",
       "volumeCount": 5,
       "ongoing": false
+    },
+    {
+      "id": "anilist-85564",
+      "name": "Mushoku Tensei: Jobless Reincarnation",
+      "volumeCount": 25,
+      "ongoing": true
     },
     {
       "id": "anilist-106758",
@@ -791,7 +797,7 @@
     {
       "id": "anilist-144957",
       "name": "The World After the Fall",
-      "volumeCount": 9,
+      "volumeCount": 3,
       "ongoing": true
     },
     {
@@ -1557,12 +1563,6 @@
       "ongoing": false
     },
     {
-      "id": "anilist-144866",
-      "name": "Akane-banashi",
-      "volumeCount": 22,
-      "ongoing": true
-    },
-    {
       "id": "anilist-74929",
       "name": "Scum's Wish",
       "volumeCount": 8,
@@ -1573,6 +1573,12 @@
       "name": "Platinum End",
       "volumeCount": 14,
       "ongoing": false
+    },
+    {
+      "id": "anilist-144866",
+      "name": "Akane-banashi",
+      "volumeCount": 22,
+      "ongoing": true
     },
     {
       "id": "anilist-60315",
@@ -1605,16 +1611,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85388",
-      "name": "High-Rise Invasion",
-      "volumeCount": 21,
-      "ongoing": false
-    },
-    {
       "id": "anilist-101724",
       "name": "Uzaki-chan Wants to Hang Out!",
       "volumeCount": 14,
       "ongoing": true
+    },
+    {
+      "id": "anilist-85388",
+      "name": "High-Rise Invasion",
+      "volumeCount": 21,
+      "ongoing": false
     },
     {
       "id": "anilist-75143",
@@ -1680,6 +1686,12 @@
       "id": "anilist-104063",
       "name": "Shadows House",
       "volumeCount": 22,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-103082",
+      "name": "Pumpkin Night",
+      "volumeCount": 18,
       "ongoing": true
     },
     {
@@ -1863,16 +1875,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85235",
-      "name": "School-Live!",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-135083",
       "name": "WIND BREAKER",
       "volumeCount": 26,
       "ongoing": true
+    },
+    {
+      "id": "anilist-85235",
+      "name": "School-Live!",
+      "volumeCount": 12,
+      "ongoing": false
     },
     {
       "id": "anilist-60079",
@@ -2007,10 +2019,10 @@
       "ongoing": true
     },
     {
-      "id": "anilist-103111",
-      "name": "My Senpai is Annoying",
-      "volumeCount": 13,
-      "ongoing": false
+      "id": "anilist-98370",
+      "name": "Sasaki and Miyano",
+      "volumeCount": 11,
+      "ongoing": true
     },
     {
       "id": "anilist-78151",
@@ -2019,10 +2031,10 @@
       "ongoing": true
     },
     {
-      "id": "anilist-98370",
-      "name": "Sasaki and Miyano",
-      "volumeCount": 11,
-      "ongoing": true
+      "id": "anilist-103111",
+      "name": "My Senpai is Annoying",
+      "volumeCount": 13,
+      "ongoing": false
     },
     {
       "id": "anilist-98112",
@@ -2067,16 +2079,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-101860",
-      "name": "EDENS ZERO",
-      "volumeCount": 33,
-      "ongoing": false
-    },
-    {
       "id": "anilist-153880",
       "name": "The Art of Reincarnation",
       "volumeCount": 12,
       "ongoing": true
+    },
+    {
+      "id": "anilist-101860",
+      "name": "EDENS ZERO",
+      "volumeCount": 33,
+      "ongoing": false
     },
     {
       "id": "anilist-68071",
@@ -2115,16 +2127,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-106454",
-      "name": "Sensei wa Koi wo Oshierarenai",
-      "volumeCount": 7,
-      "ongoing": false
-    },
-    {
       "id": "anilist-58533",
       "name": "No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!",
       "volumeCount": 28,
       "ongoing": true
+    },
+    {
+      "id": "anilist-106454",
+      "name": "Sensei wa Koi wo Oshierarenai",
+      "volumeCount": 7,
+      "ongoing": false
     },
     {
       "id": "anilist-30050",
@@ -2355,21 +2367,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-127564",
-      "name": "Go! Go! Loser Ranger!",
-      "volumeCount": 22,
-      "ongoing": true
-    },
-    {
-      "id": "anilist-85978",
-      "name": "The New Gate",
-      "volumeCount": 23,
-      "ongoing": true
-    },
-    {
       "id": "anilist-125116",
       "name": "Wistoria: Wand and Sword",
       "volumeCount": 15,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-127564",
+      "name": "Go! Go! Loser Ranger!",
+      "volumeCount": 22,
       "ongoing": true
     },
     {
