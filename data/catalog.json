@@ -2,7 +2,7 @@
   "version": 2,
   "currency": "EUR",
   "_attribution": "LEGO data: Rebrickable (rebrickable.com) + Brickset (brickset.com). Not affiliated with or endorsed by The LEGO Group.",
-  "_generated": "2026-08-02T06:15:05Z",
+  "_generated": "2026-08-03T06:37:38Z",
   "items": [
     {
       "id": "001",
@@ -37449,8 +37449,8 @@
         "USD": 14.99,
         "GBP": 12.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-08-02",
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -40110,7 +40110,7 @@
     {
       "id": "2384",
       "category": "LEGO",
-      "name": "Farm bucket",
+      "name": "Farm Bucket",
       "imageURL": "",
       "themeOrSeries": "Duplo",
       "retailPrice": null,
@@ -106547,7 +106547,7 @@
       "themeOrSeries": "Disney",
       "retailPrice": null,
       "prices": {},
-      "lifecycleStatus": "RETIRING_SOON",
+      "lifecycleStatus": "AVAILABLE",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2024,
@@ -201244,8 +201244,8 @@
         "USD": 59.99,
         "GBP": 54.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-08-02",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -208043,8 +208043,8 @@
         "USD": 29.99,
         "GBP": 19.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-08-02",
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
