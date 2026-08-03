@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-08-02T06:29:47Z",
+  "_generated": "2026-08-03T06:55:31Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -381,15 +381,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-101233",
-      "name": "The Way of the Househusband",
-      "volumeCount": 17,
-      "ongoing": true
-    },
-    {
       "id": "anilist-169355",
       "name": "Kagurabachi",
       "volumeCount": 11,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-101233",
+      "name": "The Way of the Househusband",
+      "volumeCount": 17,
       "ongoing": true
     },
     {
@@ -555,6 +555,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-86082",
+      "name": "Delicious in Dungeon",
+      "volumeCount": 14,
+      "ongoing": false
+    },
+    {
       "id": "anilist-85849",
       "name": "ReLIFE",
       "volumeCount": 15,
@@ -564,12 +570,6 @@
       "id": "anilist-74485",
       "name": "The Seven Deadly Sins",
       "volumeCount": 41,
-      "ongoing": false
-    },
-    {
-      "id": "anilist-86082",
-      "name": "Delicious in Dungeon",
-      "volumeCount": 14,
       "ongoing": false
     },
     {
@@ -633,16 +633,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-97830",
-      "name": "To Your Eternity",
-      "volumeCount": 25,
-      "ongoing": false
-    },
-    {
       "id": "anilist-149544",
       "name": "The Guy She Was Interested In Wasn't a Guy at All",
       "volumeCount": 4,
       "ongoing": true
+    },
+    {
+      "id": "anilist-97830",
+      "name": "To Your Eternity",
+      "volumeCount": 25,
+      "ongoing": false
     },
     {
       "id": "anilist-85412",
@@ -715,12 +715,6 @@
       "name": "JoJo's Bizarre Adventure Part 1: Phantom Blood",
       "volumeCount": 5,
       "ongoing": false
-    },
-    {
-      "id": "anilist-85564",
-      "name": "Mushoku Tensei: Jobless Reincarnation",
-      "volumeCount": 25,
-      "ongoing": true
     },
     {
       "id": "anilist-106758",
@@ -885,15 +879,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-101177",
-      "name": "Fly Me to the Moon",
-      "volumeCount": 36,
-      "ongoing": true
-    },
-    {
       "id": "anilist-138603",
       "name": "The Summer Hikaru Died",
       "volumeCount": 9,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-101177",
+      "name": "Fly Me to the Moon",
+      "volumeCount": 36,
       "ongoing": true
     },
     {
@@ -1143,16 +1137,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-65003",
-      "name": "Yamada-kun and the Seven Witches",
-      "volumeCount": 28,
-      "ongoing": false
-    },
-    {
       "id": "anilist-150440",
       "name": "RuriDragon",
       "volumeCount": 5,
       "ongoing": true
+    },
+    {
+      "id": "anilist-65003",
+      "name": "Yamada-kun and the Seven Witches",
+      "volumeCount": 28,
+      "ongoing": false
     },
     {
       "id": "anilist-113501",
@@ -1437,16 +1431,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-105263",
-      "name": "Dai Dark",
-      "volumeCount": 9,
-      "ongoing": true
-    },
-    {
       "id": "anilist-136331",
       "name": "The Return of the 8th Class Mage",
       "volumeCount": 5,
       "ongoing": false
+    },
+    {
+      "id": "anilist-105263",
+      "name": "Dai Dark",
+      "volumeCount": 9,
+      "ongoing": true
     },
     {
       "id": "anilist-30053",
@@ -1701,15 +1695,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-57231",
-      "name": "Daytime Shooting Star",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-43245",
       "name": "Chihayafuru",
       "volumeCount": 50,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-57231",
+      "name": "Daytime Shooting Star",
+      "volumeCount": 12,
       "ongoing": false
     },
     {
@@ -2001,16 +1995,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-30735",
-      "name": "Black Lagoon",
-      "volumeCount": 13,
-      "ongoing": true
-    },
-    {
       "id": "anilist-30933",
       "name": "Elfen Lied",
       "volumeCount": 12,
       "ongoing": false
+    },
+    {
+      "id": "anilist-30735",
+      "name": "Black Lagoon",
+      "volumeCount": 13,
+      "ongoing": true
     },
     {
       "id": "anilist-34571",
@@ -2019,15 +2013,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-98370",
-      "name": "Sasaki and Miyano",
-      "volumeCount": 11,
-      "ongoing": true
-    },
-    {
       "id": "anilist-78151",
       "name": "World Trigger",
       "volumeCount": 29,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-98370",
+      "name": "Sasaki and Miyano",
+      "volumeCount": 11,
       "ongoing": true
     },
     {
@@ -2127,16 +2121,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-58533",
-      "name": "No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!",
-      "volumeCount": 28,
-      "ongoing": true
-    },
-    {
       "id": "anilist-106454",
       "name": "Sensei wa Koi wo Oshierarenai",
       "volumeCount": 7,
       "ongoing": false
+    },
+    {
+      "id": "anilist-58533",
+      "name": "No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!",
+      "volumeCount": 28,
+      "ongoing": true
     },
     {
       "id": "anilist-30050",
@@ -2169,15 +2163,21 @@
       "ongoing": false
     },
     {
-      "id": "anilist-31373",
-      "name": "Nijigahara Holograph",
-      "volumeCount": 1,
+      "id": "anilist-107720",
+      "name": "Her Summon",
+      "volumeCount": 14,
       "ongoing": false
     },
     {
       "id": "anilist-35293",
       "name": "Doubt",
       "volumeCount": 4,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-31373",
+      "name": "Nijigahara Holograph",
+      "volumeCount": 1,
       "ongoing": false
     },
     {
@@ -2277,27 +2277,27 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86720",
-      "name": "Helck",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-39115",
       "name": "Spice & Wolf",
       "volumeCount": 24,
       "ongoing": true
     },
     {
-      "id": "anilist-98466",
-      "name": "Kemono Jihen",
-      "volumeCount": 24,
-      "ongoing": true
+      "id": "anilist-86720",
+      "name": "Helck",
+      "volumeCount": 12,
+      "ongoing": false
     },
     {
       "id": "anilist-171729",
       "name": "Love Bullet",
       "volumeCount": 2,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-98466",
+      "name": "Kemono Jihen",
+      "volumeCount": 24,
       "ongoing": true
     },
     {
@@ -2376,6 +2376,12 @@
       "id": "anilist-127564",
       "name": "Go! Go! Loser Ranger!",
       "volumeCount": 22,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-85978",
+      "name": "The New Gate",
+      "volumeCount": 23,
       "ongoing": true
     },
     {
