@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-08-03T06:55:31Z",
+  "_generated": "2026-08-04T06:23:32Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -245,7 +245,7 @@
     {
       "id": "anilist-125828",
       "name": "Sakamoto Days",
-      "volumeCount": 27,
+      "volumeCount": 28,
       "ongoing": true
     },
     {
@@ -561,15 +561,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85849",
-      "name": "ReLIFE",
-      "volumeCount": 15,
-      "ongoing": false
-    },
-    {
       "id": "anilist-74485",
       "name": "The Seven Deadly Sins",
       "volumeCount": 41,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85849",
+      "name": "ReLIFE",
+      "volumeCount": 15,
       "ongoing": false
     },
     {
@@ -715,6 +715,12 @@
       "name": "JoJo's Bizarre Adventure Part 1: Phantom Blood",
       "volumeCount": 5,
       "ongoing": false
+    },
+    {
+      "id": "anilist-85564",
+      "name": "Mushoku Tensei: Jobless Reincarnation",
+      "volumeCount": 25,
+      "ongoing": true
     },
     {
       "id": "anilist-106758",
@@ -879,15 +885,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-138603",
-      "name": "The Summer Hikaru Died",
-      "volumeCount": 9,
-      "ongoing": true
-    },
-    {
       "id": "anilist-101177",
       "name": "Fly Me to the Moon",
       "volumeCount": 36,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-138603",
+      "name": "The Summer Hikaru Died",
+      "volumeCount": 9,
       "ongoing": true
     },
     {
@@ -939,27 +945,27 @@
       "ongoing": false
     },
     {
-      "id": "anilist-65573",
-      "name": "orange",
-      "volumeCount": 7,
-      "ongoing": false
-    },
-    {
       "id": "anilist-41054",
       "name": "Billy Bat",
       "volumeCount": 20,
       "ongoing": false
     },
     {
-      "id": "anilist-33866",
-      "name": "Black Butler",
-      "volumeCount": 35,
-      "ongoing": true
+      "id": "anilist-65573",
+      "name": "orange",
+      "volumeCount": 7,
+      "ongoing": false
     },
     {
       "id": "anilist-114416",
       "name": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You",
       "volumeCount": 26,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-33866",
+      "name": "Black Butler",
+      "volumeCount": 35,
       "ongoing": true
     },
     {
@@ -1389,15 +1395,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-107559",
-      "name": "Please Put Them On, Takamine-san",
-      "volumeCount": 11,
-      "ongoing": true
-    },
-    {
       "id": "anilist-180752",
       "name": "Ichi the Witch",
       "volumeCount": 9,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-107559",
+      "name": "Please Put Them On, Takamine-san",
+      "volumeCount": 11,
       "ongoing": true
     },
     {
@@ -1437,16 +1443,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-105263",
-      "name": "Dai Dark",
-      "volumeCount": 9,
-      "ongoing": true
-    },
-    {
       "id": "anilist-30053",
       "name": "Yu Yu Hakusho",
       "volumeCount": 19,
       "ongoing": false
+    },
+    {
+      "id": "anilist-105263",
+      "name": "Dai Dark",
+      "volumeCount": 9,
+      "ongoing": true
     },
     {
       "id": "anilist-105332",
@@ -1557,6 +1563,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-144866",
+      "name": "Akane-banashi",
+      "volumeCount": 23,
+      "ongoing": true
+    },
+    {
       "id": "anilist-74929",
       "name": "Scum's Wish",
       "volumeCount": 8,
@@ -1567,12 +1579,6 @@
       "name": "Platinum End",
       "volumeCount": 14,
       "ongoing": false
-    },
-    {
-      "id": "anilist-144866",
-      "name": "Akane-banashi",
-      "volumeCount": 22,
-      "ongoing": true
     },
     {
       "id": "anilist-60315",
@@ -1635,15 +1641,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-38157",
-      "name": "Kamisama Kiss",
-      "volumeCount": 25,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30010",
       "name": "xxxHOLiC",
       "volumeCount": 19,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-38157",
+      "name": "Kamisama Kiss",
+      "volumeCount": 25,
       "ongoing": false
     },
     {
@@ -1787,7 +1793,7 @@
     {
       "id": "anilist-98544",
       "name": "Moriarty the Patriot",
-      "volumeCount": 22,
+      "volumeCount": 23,
       "ongoing": true
     },
     {
@@ -1833,16 +1839,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-50593",
-      "name": "Btooom!",
-      "volumeCount": 27,
-      "ongoing": false
-    },
-    {
       "id": "anilist-122063",
       "name": "Shangri-La Frontier",
       "volumeCount": 27,
       "ongoing": true
+    },
+    {
+      "id": "anilist-50593",
+      "name": "Btooom!",
+      "volumeCount": 27,
+      "ongoing": false
     },
     {
       "id": "anilist-48597",
@@ -1887,15 +1893,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-66213",
-      "name": "Monster Musume",
-      "volumeCount": 21,
-      "ongoing": true
-    },
-    {
       "id": "anilist-176740",
       "name": "Centuria",
       "volumeCount": 9,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-66213",
+      "name": "Monster Musume",
+      "volumeCount": 21,
       "ongoing": true
     },
     {
@@ -1917,16 +1923,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86481",
-      "name": "Tsuredure Children",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-107120",
       "name": "Chillin’ in Another World with Level 2 Super Cheat Powers",
       "volumeCount": 21,
       "ongoing": true
+    },
+    {
+      "id": "anilist-86481",
+      "name": "Tsuredure Children",
+      "volumeCount": 12,
+      "ongoing": false
     },
     {
       "id": "anilist-100937",
@@ -1995,27 +2001,21 @@
       "ongoing": true
     },
     {
-      "id": "anilist-30933",
-      "name": "Elfen Lied",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30735",
       "name": "Black Lagoon",
       "volumeCount": 13,
       "ongoing": true
     },
     {
+      "id": "anilist-30933",
+      "name": "Elfen Lied",
+      "volumeCount": 12,
+      "ongoing": false
+    },
+    {
       "id": "anilist-34571",
       "name": "Snow White with the Red Hair",
       "volumeCount": 27,
-      "ongoing": true
-    },
-    {
-      "id": "anilist-78151",
-      "name": "World Trigger",
-      "volumeCount": 29,
       "ongoing": true
     },
     {
@@ -2025,21 +2025,27 @@
       "ongoing": true
     },
     {
+      "id": "anilist-78151",
+      "name": "World Trigger",
+      "volumeCount": 29,
+      "ongoing": true
+    },
+    {
       "id": "anilist-103111",
       "name": "My Senpai is Annoying",
       "volumeCount": 13,
       "ongoing": false
     },
     {
-      "id": "anilist-98112",
-      "name": "Gal Gohan",
-      "volumeCount": 10,
-      "ongoing": false
-    },
-    {
       "id": "anilist-147997",
       "name": "You and I Are Polar Opposites",
       "volumeCount": 8,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-98112",
+      "name": "Gal Gohan",
+      "volumeCount": 10,
       "ongoing": false
     },
     {
@@ -2121,16 +2127,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-106454",
-      "name": "Sensei wa Koi wo Oshierarenai",
-      "volumeCount": 7,
-      "ongoing": false
-    },
-    {
       "id": "anilist-58533",
       "name": "No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!",
       "volumeCount": 28,
       "ongoing": true
+    },
+    {
+      "id": "anilist-106454",
+      "name": "Sensei wa Koi wo Oshierarenai",
+      "volumeCount": 7,
+      "ongoing": false
     },
     {
       "id": "anilist-30050",
@@ -2163,21 +2169,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-107720",
-      "name": "Her Summon",
-      "volumeCount": 14,
+      "id": "anilist-31373",
+      "name": "Nijigahara Holograph",
+      "volumeCount": 1,
       "ongoing": false
     },
     {
       "id": "anilist-35293",
       "name": "Doubt",
       "volumeCount": 4,
-      "ongoing": false
-    },
-    {
-      "id": "anilist-31373",
-      "name": "Nijigahara Holograph",
-      "volumeCount": 1,
       "ongoing": false
     },
     {
@@ -2223,15 +2223,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-31149",
-      "name": "Fist of the North Star",
-      "volumeCount": 27,
-      "ongoing": false
-    },
-    {
       "id": "anilist-159142",
       "name": "Firefly Wedding",
       "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-31149",
+      "name": "Fist of the North Star",
+      "volumeCount": 27,
       "ongoing": false
     },
     {
@@ -2277,16 +2277,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-39115",
-      "name": "Spice & Wolf",
-      "volumeCount": 24,
-      "ongoing": true
-    },
-    {
       "id": "anilist-86720",
       "name": "Helck",
       "volumeCount": 12,
       "ongoing": false
+    },
+    {
+      "id": "anilist-39115",
+      "name": "Spice & Wolf",
+      "volumeCount": 24,
+      "ongoing": true
     },
     {
       "id": "anilist-171729",
@@ -2297,7 +2297,7 @@
     {
       "id": "anilist-98466",
       "name": "Kemono Jihen",
-      "volumeCount": 24,
+      "volumeCount": 25,
       "ongoing": true
     },
     {
@@ -2361,27 +2361,21 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30031",
-      "name": "Love★Com",
-      "volumeCount": 17,
-      "ongoing": false
-    },
-    {
       "id": "anilist-125116",
       "name": "Wistoria: Wand and Sword",
       "volumeCount": 15,
       "ongoing": true
     },
     {
+      "id": "anilist-30031",
+      "name": "Love★Com",
+      "volumeCount": 17,
+      "ongoing": false
+    },
+    {
       "id": "anilist-127564",
       "name": "Go! Go! Loser Ranger!",
       "volumeCount": 22,
-      "ongoing": true
-    },
-    {
-      "id": "anilist-85978",
-      "name": "The New Gate",
-      "volumeCount": 23,
       "ongoing": true
     },
     {
