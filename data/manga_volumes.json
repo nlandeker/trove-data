@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-08-04T06:23:32Z",
+  "_generated": "2026-08-05T06:23:21Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -717,12 +717,6 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85564",
-      "name": "Mushoku Tensei: Jobless Reincarnation",
-      "volumeCount": 25,
-      "ongoing": true
-    },
-    {
       "id": "anilist-106758",
       "name": "The Eminence in Shadow",
       "volumeCount": 7,
@@ -885,15 +879,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-101177",
-      "name": "Fly Me to the Moon",
-      "volumeCount": 36,
-      "ongoing": true
-    },
-    {
       "id": "anilist-138603",
       "name": "The Summer Hikaru Died",
       "volumeCount": 9,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-101177",
+      "name": "Fly Me to the Moon",
+      "volumeCount": 36,
       "ongoing": true
     },
     {
@@ -1467,16 +1461,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-105577",
-      "name": "Giji Harem",
-      "volumeCount": 6,
-      "ongoing": false
-    },
-    {
       "id": "anilist-101942",
       "name": "Heavenly Delusion",
       "volumeCount": 13,
       "ongoing": true
+    },
+    {
+      "id": "anilist-105577",
+      "name": "Giji Harem",
+      "volumeCount": 6,
+      "ongoing": false
     },
     {
       "id": "anilist-85395",
@@ -1569,15 +1563,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-74929",
-      "name": "Scum's Wish",
-      "volumeCount": 8,
-      "ongoing": false
-    },
-    {
       "id": "anilist-86526",
       "name": "Platinum End",
       "volumeCount": 14,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-74929",
+      "name": "Scum's Wish",
+      "volumeCount": 8,
       "ongoing": false
     },
     {
@@ -1833,16 +1827,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-101311",
-      "name": "Bakemonogatari",
-      "volumeCount": 22,
-      "ongoing": false
-    },
-    {
       "id": "anilist-122063",
       "name": "Shangri-La Frontier",
       "volumeCount": 27,
       "ongoing": true
+    },
+    {
+      "id": "anilist-101311",
+      "name": "Bakemonogatari",
+      "volumeCount": 22,
+      "ongoing": false
     },
     {
       "id": "anilist-50593",
@@ -1911,15 +1905,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30651",
-      "name": "Nausicaä of the Valley of the Wind",
-      "volumeCount": 7,
-      "ongoing": false
-    },
-    {
       "id": "anilist-104241",
       "name": "How Do We Relationship?",
       "volumeCount": 14,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30651",
+      "name": "Nausicaä of the Valley of the Wind",
+      "volumeCount": 7,
       "ongoing": false
     },
     {
@@ -2001,27 +1995,21 @@
       "ongoing": true
     },
     {
-      "id": "anilist-30735",
-      "name": "Black Lagoon",
-      "volumeCount": 13,
-      "ongoing": true
-    },
-    {
       "id": "anilist-30933",
       "name": "Elfen Lied",
       "volumeCount": 12,
       "ongoing": false
     },
     {
-      "id": "anilist-34571",
-      "name": "Snow White with the Red Hair",
-      "volumeCount": 27,
+      "id": "anilist-30735",
+      "name": "Black Lagoon",
+      "volumeCount": 13,
       "ongoing": true
     },
     {
-      "id": "anilist-98370",
-      "name": "Sasaki and Miyano",
-      "volumeCount": 11,
+      "id": "anilist-34571",
+      "name": "Snow White with the Red Hair",
+      "volumeCount": 27,
       "ongoing": true
     },
     {
@@ -2031,15 +2019,21 @@
       "ongoing": true
     },
     {
-      "id": "anilist-103111",
-      "name": "My Senpai is Annoying",
-      "volumeCount": 13,
-      "ongoing": false
+      "id": "anilist-98370",
+      "name": "Sasaki and Miyano",
+      "volumeCount": 11,
+      "ongoing": true
     },
     {
       "id": "anilist-147997",
       "name": "You and I Are Polar Opposites",
       "volumeCount": 8,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-103111",
+      "name": "My Senpai is Annoying",
+      "volumeCount": 13,
       "ongoing": false
     },
     {
@@ -2085,15 +2079,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-101860",
-      "name": "EDENS ZERO",
-      "volumeCount": 33,
-      "ongoing": false
-    },
-    {
       "id": "anilist-68071",
       "name": "Spirit Circle",
       "volumeCount": 6,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-101860",
+      "name": "EDENS ZERO",
+      "volumeCount": 33,
       "ongoing": false
     },
     {
@@ -2277,6 +2271,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-171729",
+      "name": "Love Bullet",
+      "volumeCount": 2,
+      "ongoing": true
+    },
+    {
       "id": "anilist-86720",
       "name": "Helck",
       "volumeCount": 12,
@@ -2286,12 +2286,6 @@
       "id": "anilist-39115",
       "name": "Spice & Wolf",
       "volumeCount": 24,
-      "ongoing": true
-    },
-    {
-      "id": "anilist-171729",
-      "name": "Love Bullet",
-      "volumeCount": 2,
       "ongoing": true
     },
     {
@@ -2343,16 +2337,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85566",
-      "name": "Love & Lies",
-      "volumeCount": 13,
-      "ongoing": false
-    },
-    {
       "id": "anilist-107540",
       "name": "Loner Life in Another World",
       "volumeCount": 18,
       "ongoing": true
+    },
+    {
+      "id": "anilist-85566",
+      "name": "Love & Lies",
+      "volumeCount": 13,
+      "ongoing": false
     },
     {
       "id": "anilist-110140",
