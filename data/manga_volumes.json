@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-08-05T06:23:21Z",
+  "_generated": "2026-08-06T06:26:10Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -717,6 +717,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-85564",
+      "name": "Mushoku Tensei: Jobless Reincarnation",
+      "volumeCount": 25,
+      "ongoing": true
+    },
+    {
       "id": "anilist-106758",
       "name": "The Eminence in Shadow",
       "volumeCount": 7,
@@ -1113,14 +1119,14 @@
       "ongoing": true
     },
     {
-      "id": "anilist-47465",
-      "name": "Memories of Emanon",
+      "id": "anilist-98361",
+      "name": "Three Days of Happiness",
       "volumeCount": 1,
       "ongoing": false
     },
     {
-      "id": "anilist-98361",
-      "name": "Three Days of Happiness",
+      "id": "anilist-47465",
+      "name": "Memories of Emanon",
       "volumeCount": 1,
       "ongoing": false
     },
@@ -1233,15 +1239,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-115122",
-      "name": "Death Note: a-Kira",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-66267",
       "name": "Inside Mari",
       "volumeCount": 9,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-115122",
+      "name": "Death Note: a-Kira",
+      "volumeCount": 12,
       "ongoing": false
     },
     {
@@ -1539,15 +1545,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-80217",
-      "name": "the gods lie.",
-      "volumeCount": 1,
-      "ongoing": false
-    },
-    {
       "id": "anilist-107279",
       "name": "Aoashi",
       "volumeCount": 40,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-80217",
+      "name": "the gods lie.",
+      "volumeCount": 1,
       "ongoing": false
     },
     {
@@ -1755,15 +1761,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-67707",
-      "name": "Your Lie in April",
-      "volumeCount": 11,
-      "ongoing": false
-    },
-    {
       "id": "anilist-198372",
       "name": "Jujutsu Kaisen Modulo",
       "volumeCount": 3,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-67707",
+      "name": "Your Lie in April",
+      "volumeCount": 11,
       "ongoing": false
     },
     {
@@ -1995,22 +2001,28 @@
       "ongoing": true
     },
     {
-      "id": "anilist-30933",
-      "name": "Elfen Lied",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30735",
       "name": "Black Lagoon",
       "volumeCount": 13,
       "ongoing": true
     },
     {
+      "id": "anilist-30933",
+      "name": "Elfen Lied",
+      "volumeCount": 12,
+      "ongoing": false
+    },
+    {
       "id": "anilist-34571",
       "name": "Snow White with the Red Hair",
       "volumeCount": 27,
       "ongoing": true
+    },
+    {
+      "id": "anilist-147997",
+      "name": "You and I Are Polar Opposites",
+      "volumeCount": 8,
+      "ongoing": false
     },
     {
       "id": "anilist-78151",
@@ -2023,12 +2035,6 @@
       "name": "Sasaki and Miyano",
       "volumeCount": 11,
       "ongoing": true
-    },
-    {
-      "id": "anilist-147997",
-      "name": "You and I Are Polar Opposites",
-      "volumeCount": 8,
-      "ongoing": false
     },
     {
       "id": "anilist-103111",
@@ -2163,15 +2169,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-31373",
-      "name": "Nijigahara Holograph",
-      "volumeCount": 1,
-      "ongoing": false
-    },
-    {
       "id": "anilist-35293",
       "name": "Doubt",
       "volumeCount": 4,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-31373",
+      "name": "Nijigahara Holograph",
+      "volumeCount": 1,
       "ongoing": false
     },
     {
@@ -2211,16 +2217,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-87234",
-      "name": "The Elder Sister-Like One",
-      "volumeCount": 6,
-      "ongoing": true
-    },
-    {
       "id": "anilist-159142",
       "name": "Firefly Wedding",
       "volumeCount": 12,
       "ongoing": false
+    },
+    {
+      "id": "anilist-87234",
+      "name": "The Elder Sister-Like One",
+      "volumeCount": 6,
+      "ongoing": true
     },
     {
       "id": "anilist-31149",
@@ -2291,7 +2297,7 @@
     {
       "id": "anilist-98466",
       "name": "Kemono Jihen",
-      "volumeCount": 25,
+      "volumeCount": 26,
       "ongoing": true
     },
     {
@@ -2370,6 +2376,12 @@
       "id": "anilist-127564",
       "name": "Go! Go! Loser Ranger!",
       "volumeCount": 22,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-85978",
+      "name": "The New Gate",
+      "volumeCount": 23,
       "ongoing": true
     },
     {
