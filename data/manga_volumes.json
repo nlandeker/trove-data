@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-08-06T06:26:10Z",
+  "_generated": "2026-08-07T05:31:10Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -579,15 +579,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-69883",
-      "name": "Assassination Classroom",
-      "volumeCount": 21,
-      "ongoing": false
-    },
-    {
       "id": "anilist-85141",
       "name": "The God of High School",
       "volumeCount": 4,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-69883",
+      "name": "Assassination Classroom",
+      "volumeCount": 21,
       "ongoing": false
     },
     {
@@ -741,16 +741,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86300",
-      "name": "Tomo-chan is a Girl!",
-      "volumeCount": 8,
-      "ongoing": false
-    },
-    {
       "id": "anilist-85307",
       "name": "Bungo Stray Dogs",
       "volumeCount": 28,
       "ongoing": true
+    },
+    {
+      "id": "anilist-86300",
+      "name": "Tomo-chan is a Girl!",
+      "volumeCount": 8,
+      "ongoing": false
     },
     {
       "id": "anilist-86770",
@@ -1119,14 +1119,14 @@
       "ongoing": true
     },
     {
-      "id": "anilist-98361",
-      "name": "Three Days of Happiness",
+      "id": "anilist-47465",
+      "name": "Memories of Emanon",
       "volumeCount": 1,
       "ongoing": false
     },
     {
-      "id": "anilist-47465",
-      "name": "Memories of Emanon",
+      "id": "anilist-98361",
+      "name": "Three Days of Happiness",
       "volumeCount": 1,
       "ongoing": false
     },
@@ -1185,20 +1185,14 @@
       "ongoing": true
     },
     {
-      "id": "anilist-30401",
-      "name": "Parasyte",
-      "volumeCount": 10,
-      "ongoing": false
-    },
-    {
       "id": "anilist-39982",
       "name": "Usogui",
       "volumeCount": 49,
       "ongoing": false
     },
     {
-      "id": "anilist-80145",
-      "name": "Citrus",
+      "id": "anilist-30401",
+      "name": "Parasyte",
       "volumeCount": 10,
       "ongoing": false
     },
@@ -1206,6 +1200,12 @@
       "id": "anilist-112579",
       "name": "My Broken Mariko",
       "volumeCount": 1,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-80145",
+      "name": "Citrus",
+      "volumeCount": 10,
       "ongoing": false
     },
     {
@@ -1263,16 +1263,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-87321",
-      "name": "Goblin Slayer",
-      "volumeCount": 16,
-      "ongoing": true
-    },
-    {
       "id": "anilist-142568",
       "name": "Takopi's Original Sin",
       "volumeCount": 2,
       "ongoing": false
+    },
+    {
+      "id": "anilist-87321",
+      "name": "Goblin Slayer",
+      "volumeCount": 16,
+      "ongoing": true
     },
     {
       "id": "anilist-30768",
@@ -2085,15 +2085,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-68071",
-      "name": "Spirit Circle",
-      "volumeCount": 6,
-      "ongoing": false
-    },
-    {
       "id": "anilist-101860",
       "name": "EDENS ZERO",
       "volumeCount": 33,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-68071",
+      "name": "Spirit Circle",
+      "volumeCount": 6,
       "ongoing": false
     },
     {
@@ -2123,7 +2123,7 @@
     {
       "id": "anilist-103255",
       "name": "Fairy Tail: 100 Years Quest",
-      "volumeCount": 23,
+      "volumeCount": 24,
       "ongoing": true
     },
     {
@@ -2189,7 +2189,7 @@
     {
       "id": "anilist-54903",
       "name": "GANGSTA.",
-      "volumeCount": 8,
+      "volumeCount": 9,
       "ongoing": true
     },
     {
@@ -2291,7 +2291,7 @@
     {
       "id": "anilist-39115",
       "name": "Spice & Wolf",
-      "volumeCount": 24,
+      "volumeCount": 25,
       "ongoing": true
     },
     {
@@ -2355,16 +2355,16 @@
       "ongoing": false
     },
     {
+      "id": "anilist-125116",
+      "name": "Wistoria: Wand and Sword",
+      "volumeCount": 16,
+      "ongoing": true
+    },
+    {
       "id": "anilist-110140",
       "name": "It Takes Two Tomorrow, Too",
       "volumeCount": 5,
       "ongoing": false
-    },
-    {
-      "id": "anilist-125116",
-      "name": "Wistoria: Wand and Sword",
-      "volumeCount": 15,
-      "ongoing": true
     },
     {
       "id": "anilist-30031",
@@ -2376,12 +2376,6 @@
       "id": "anilist-127564",
       "name": "Go! Go! Loser Ranger!",
       "volumeCount": 22,
-      "ongoing": true
-    },
-    {
-      "id": "anilist-85978",
-      "name": "The New Gate",
-      "volumeCount": 23,
       "ongoing": true
     },
     {
