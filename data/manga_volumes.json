@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-08-07T05:31:10Z",
+  "_generated": "2026-08-08T04:50:00Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -579,15 +579,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85141",
-      "name": "The God of High School",
-      "volumeCount": 4,
-      "ongoing": false
-    },
-    {
       "id": "anilist-69883",
       "name": "Assassination Classroom",
       "volumeCount": 21,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85141",
+      "name": "The God of High School",
+      "volumeCount": 4,
       "ongoing": false
     },
     {
@@ -681,16 +681,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85189",
-      "name": "Mob Psycho 100",
-      "volumeCount": 16,
-      "ongoing": false
-    },
-    {
       "id": "anilist-126693",
       "name": "Choujin X",
       "volumeCount": 16,
       "ongoing": true
+    },
+    {
+      "id": "anilist-85189",
+      "name": "Mob Psycho 100",
+      "volumeCount": 16,
+      "ongoing": false
     },
     {
       "id": "anilist-98587",
@@ -715,12 +715,6 @@
       "name": "JoJo's Bizarre Adventure Part 1: Phantom Blood",
       "volumeCount": 5,
       "ongoing": false
-    },
-    {
-      "id": "anilist-85564",
-      "name": "Mushoku Tensei: Jobless Reincarnation",
-      "volumeCount": 25,
-      "ongoing": true
     },
     {
       "id": "anilist-106758",
@@ -2025,15 +2019,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-78151",
-      "name": "World Trigger",
-      "volumeCount": 29,
-      "ongoing": true
-    },
-    {
       "id": "anilist-98370",
       "name": "Sasaki and Miyano",
       "volumeCount": 11,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-78151",
+      "name": "World Trigger",
+      "volumeCount": 29,
       "ongoing": true
     },
     {
@@ -2049,15 +2043,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86549",
-      "name": "Go For It, Nakamura!",
-      "volumeCount": 1,
-      "ongoing": false
-    },
-    {
       "id": "anilist-106726",
       "name": "Shimeji Simulation",
       "volumeCount": 5,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-86549",
+      "name": "Go For It, Nakamura!",
+      "volumeCount": 1,
       "ongoing": false
     },
     {
@@ -2085,15 +2079,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-101860",
-      "name": "EDENS ZERO",
-      "volumeCount": 33,
-      "ongoing": false
-    },
-    {
       "id": "anilist-68071",
       "name": "Spirit Circle",
       "volumeCount": 6,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-101860",
+      "name": "EDENS ZERO",
+      "volumeCount": 33,
       "ongoing": false
     },
     {
@@ -2145,22 +2139,28 @@
       "ongoing": false
     },
     {
-      "id": "anilist-44893",
-      "name": "Bakemonogatari: Monster Tale",
-      "volumeCount": 2,
-      "ongoing": false
-    },
-    {
       "id": "anilist-109728",
       "name": "The Ice Guy and the Cool Girl",
       "volumeCount": 11,
       "ongoing": true
     },
     {
+      "id": "anilist-44893",
+      "name": "Bakemonogatari: Monster Tale",
+      "volumeCount": 2,
+      "ongoing": false
+    },
+    {
       "id": "anilist-143031",
       "name": "I Want to End This Love Game",
       "volumeCount": 9,
       "ongoing": true
+    },
+    {
+      "id": "anilist-107720",
+      "name": "Her Summon",
+      "volumeCount": 14,
+      "ongoing": false
     },
     {
       "id": "anilist-30106",
@@ -2337,16 +2337,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85887",
-      "name": "Ookami Shounen wa Kyou mo Uso wo Kasaneru",
-      "volumeCount": 5,
-      "ongoing": false
-    },
-    {
       "id": "anilist-107540",
       "name": "Loner Life in Another World",
       "volumeCount": 18,
       "ongoing": true
+    },
+    {
+      "id": "anilist-85887",
+      "name": "Ookami Shounen wa Kyou mo Uso wo Kasaneru",
+      "volumeCount": 5,
+      "ongoing": false
     },
     {
       "id": "anilist-85566",
