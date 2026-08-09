@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-08-08T04:50:00Z",
+  "_generated": "2026-08-09T04:59:18Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -213,15 +213,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30011",
-      "name": "Naruto",
-      "volumeCount": 72,
-      "ongoing": false
-    },
-    {
       "id": "anilist-101583",
       "name": "My Dress-Up Darling",
       "volumeCount": 15,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30011",
+      "name": "Naruto",
+      "volumeCount": 72,
       "ongoing": false
     },
     {
@@ -579,15 +579,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-69883",
-      "name": "Assassination Classroom",
-      "volumeCount": 21,
-      "ongoing": false
-    },
-    {
       "id": "anilist-85141",
       "name": "The God of High School",
       "volumeCount": 4,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-69883",
+      "name": "Assassination Classroom",
+      "volumeCount": 21,
       "ongoing": false
     },
     {
@@ -762,6 +762,12 @@
       "id": "anilist-105097",
       "name": "Mieruko-chan",
       "volumeCount": 14,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-86848",
+      "name": "Lookism",
+      "volumeCount": 20,
       "ongoing": true
     },
     {
@@ -1437,16 +1443,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30053",
-      "name": "Yu Yu Hakusho",
-      "volumeCount": 19,
-      "ongoing": false
-    },
-    {
       "id": "anilist-105263",
       "name": "Dai Dark",
       "volumeCount": 9,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30053",
+      "name": "Yu Yu Hakusho",
+      "volumeCount": 19,
+      "ongoing": false
     },
     {
       "id": "anilist-105332",
@@ -1563,15 +1569,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-86526",
-      "name": "Platinum End",
-      "volumeCount": 14,
-      "ongoing": false
-    },
-    {
       "id": "anilist-74929",
       "name": "Scum's Wish",
       "volumeCount": 8,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-86526",
+      "name": "Platinum End",
+      "volumeCount": 14,
       "ongoing": false
     },
     {
@@ -1587,15 +1593,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-105791",
-      "name": "Higehiro: After Being Rejected, I Shaved and Took In a High School Runaway",
-      "volumeCount": 13,
-      "ongoing": false
-    },
-    {
       "id": "anilist-117620",
       "name": "The Summer You Were There",
       "volumeCount": 6,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-105791",
+      "name": "Higehiro: After Being Rejected, I Shaved and Took In a High School Runaway",
+      "volumeCount": 13,
       "ongoing": false
     },
     {
@@ -1821,16 +1827,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-97842",
-      "name": "My Hero Academia: Vigilantes",
-      "volumeCount": 15,
-      "ongoing": false
-    },
-    {
       "id": "anilist-122063",
       "name": "Shangri-La Frontier",
       "volumeCount": 27,
       "ongoing": true
+    },
+    {
+      "id": "anilist-97842",
+      "name": "My Hero Academia: Vigilantes",
+      "volumeCount": 15,
+      "ongoing": false
     },
     {
       "id": "anilist-101311",
@@ -2055,16 +2061,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-101625",
-      "name": "Berserk of Gluttony",
-      "volumeCount": 8,
-      "ongoing": true
-    },
-    {
       "id": "anilist-112544",
       "name": "Kowloon Generic Romance",
       "volumeCount": 12,
       "ongoing": false
+    },
+    {
+      "id": "anilist-101625",
+      "name": "Berserk of Gluttony",
+      "volumeCount": 8,
+      "ongoing": true
     },
     {
       "id": "anilist-97337",
@@ -2169,15 +2175,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-35293",
-      "name": "Doubt",
-      "volumeCount": 4,
-      "ongoing": false
-    },
-    {
       "id": "anilist-31373",
       "name": "Nijigahara Holograph",
       "volumeCount": 1,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-35293",
+      "name": "Doubt",
+      "volumeCount": 4,
       "ongoing": false
     },
     {
@@ -2193,16 +2199,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-30142",
-      "name": "Battle Royale",
-      "volumeCount": 15,
-      "ongoing": false
-    },
-    {
       "id": "anilist-141479",
       "name": "The Legendary Spearman Returns",
       "volumeCount": 20,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30142",
+      "name": "Battle Royale",
+      "volumeCount": 15,
+      "ongoing": false
     },
     {
       "id": "anilist-30463",
@@ -2211,16 +2217,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86303",
-      "name": "Miss Kobayashi's Dragon Maid",
-      "volumeCount": 19,
-      "ongoing": true
-    },
-    {
       "id": "anilist-159142",
       "name": "Firefly Wedding",
       "volumeCount": 12,
       "ongoing": false
+    },
+    {
+      "id": "anilist-86303",
+      "name": "Miss Kobayashi's Dragon Maid",
+      "volumeCount": 19,
+      "ongoing": true
     },
     {
       "id": "anilist-87234",
@@ -2271,16 +2277,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85139",
-      "name": "My Monster Secret: Actually, I Am…",
-      "volumeCount": 22,
-      "ongoing": false
-    },
-    {
       "id": "anilist-171729",
       "name": "Love Bullet",
       "volumeCount": 2,
       "ongoing": true
+    },
+    {
+      "id": "anilist-85139",
+      "name": "My Monster Secret: Actually, I Am…",
+      "volumeCount": 22,
+      "ongoing": false
     },
     {
       "id": "anilist-86720",
@@ -2307,15 +2313,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30904",
-      "name": "Lone Wolf and Cub",
-      "volumeCount": 28,
-      "ongoing": false
-    },
-    {
       "id": "anilist-31131",
       "name": "Freesia",
       "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30904",
+      "name": "Lone Wolf and Cub",
+      "volumeCount": 28,
       "ongoing": false
     },
     {
