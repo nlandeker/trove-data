@@ -2,7 +2,7 @@
   "version": 2,
   "currency": "EUR",
   "_attribution": "LEGO data: Rebrickable (rebrickable.com) + Brickset (brickset.com). Not affiliated with or endorsed by The LEGO Group.",
-  "_generated": "2026-08-08T04:21:40Z",
+  "_generated": "2026-08-09T04:30:05Z",
   "items": [
     {
       "id": "001",
@@ -15104,8 +15104,8 @@
         "USD": 19.99,
         "GBP": 17.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-08-08",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -35345,8 +35345,8 @@
         "USD": 39.99,
         "GBP": 34.99
       },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-08-07",
+      "lifecycleStatus": "RETIRING_SOON",
+      "retirementDate": null,
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -161530,6 +161530,21 @@
       "ongoing": null
     },
     {
+      "id": "6644864 ",
+      "category": "LEGO",
+      "name": "Training Tree",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/6644864 -1/178989.jpg",
+      "themeOrSeries": "Pok\u00e9mon",
+      "retailPrice": null,
+      "prices": {},
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
       "id": "6644870",
       "category": "LEGO",
       "name": "Dragon on Skateboard",
@@ -181498,8 +181513,8 @@
         "USD": 19.99,
         "GBP": 17.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-08-08",
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -192861,8 +192876,8 @@
         "USD": 14.99,
         "GBP": 12.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-08-08",
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -202864,8 +202879,8 @@
         "USD": 59.99,
         "GBP": 54.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-08-08",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -205828,7 +205843,7 @@
         "GBP": 79.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-08-07",
+      "retirementDate": "2026-07-31",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
