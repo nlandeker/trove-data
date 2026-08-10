@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-08-09T04:59:18Z",
+  "_generated": "2026-08-10T05:20:55Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -147,15 +147,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-97852",
-      "name": "Komi Can't Communicate",
-      "volumeCount": 37,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30003",
       "name": "20th Century Boys",
       "volumeCount": 22,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-97852",
+      "name": "Komi Can't Communicate",
+      "volumeCount": 37,
       "ongoing": false
     },
     {
@@ -309,16 +309,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-100664",
-      "name": "Don't Toy With Me, Miss Nagatoro",
-      "volumeCount": 20,
-      "ongoing": false
-    },
-    {
       "id": "anilist-46765",
       "name": "Kingdom",
       "volumeCount": 79,
       "ongoing": true
+    },
+    {
+      "id": "anilist-100664",
+      "name": "Don't Toy With Me, Miss Nagatoro",
+      "volumeCount": 20,
+      "ongoing": false
     },
     {
       "id": "anilist-30051",
@@ -411,15 +411,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86218",
-      "name": "Bloom Into You",
-      "volumeCount": 8,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30583",
       "name": "Claymore",
       "volumeCount": 27,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-86218",
+      "name": "Bloom Into You",
+      "volumeCount": 8,
       "ongoing": false
     },
     {
@@ -561,15 +561,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-74485",
-      "name": "The Seven Deadly Sins",
-      "volumeCount": 41,
-      "ongoing": false
-    },
-    {
       "id": "anilist-85849",
       "name": "ReLIFE",
       "volumeCount": 15,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-74485",
+      "name": "The Seven Deadly Sins",
+      "volumeCount": 41,
       "ongoing": false
     },
     {
@@ -795,12 +795,6 @@
       "ongoing": false
     },
     {
-      "id": "anilist-144957",
-      "name": "The World After the Fall",
-      "volumeCount": 3,
-      "ongoing": true
-    },
-    {
       "id": "anilist-150378",
       "name": "Gokurakugai",
       "volumeCount": 6,
@@ -875,7 +869,7 @@
     {
       "id": "anilist-118408",
       "name": "Villains Are Destined to Die",
-      "volumeCount": 8,
+      "volumeCount": 9,
       "ongoing": true
     },
     {
@@ -1493,7 +1487,7 @@
     {
       "id": "anilist-59211",
       "name": "Monthly Girls' Nozaki-kun",
-      "volumeCount": 17,
+      "volumeCount": 18,
       "ongoing": true
     },
     {
@@ -1551,15 +1545,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-80217",
-      "name": "the gods lie.",
-      "volumeCount": 1,
-      "ongoing": false
-    },
-    {
       "id": "anilist-111403",
       "name": "Hokkaido Gals Are Super Adorable!",
       "volumeCount": 14,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-80217",
+      "name": "the gods lie.",
+      "volumeCount": 1,
       "ongoing": false
     },
     {
@@ -1569,15 +1563,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-74929",
-      "name": "Scum's Wish",
-      "volumeCount": 8,
-      "ongoing": false
-    },
-    {
       "id": "anilist-86526",
       "name": "Platinum End",
       "volumeCount": 14,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-74929",
+      "name": "Scum's Wish",
+      "volumeCount": 8,
       "ongoing": false
     },
     {
@@ -1731,15 +1725,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30894",
-      "name": "Rosario+Vampire",
-      "volumeCount": 10,
-      "ongoing": false
-    },
-    {
       "id": "anilist-104503",
       "name": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs",
       "volumeCount": 13,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30894",
+      "name": "Rosario+Vampire",
+      "volumeCount": 10,
       "ongoing": false
     },
     {
@@ -1809,6 +1803,12 @@
       "ongoing": true
     },
     {
+      "id": "anilist-153432",
+      "name": "The Reaper",
+      "volumeCount": 4,
+      "ongoing": true
+    },
+    {
       "id": "anilist-31101",
       "name": "Akumetsu",
       "volumeCount": 18,
@@ -1824,6 +1824,12 @@
       "id": "anilist-86607",
       "name": "Gleipnir",
       "volumeCount": 14,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85155",
+      "name": "The Gamer",
+      "volumeCount": 8,
       "ongoing": false
     },
     {
@@ -1887,16 +1893,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-60079",
-      "name": "The Sound of Magic: Annarasumanara",
-      "volumeCount": 3,
-      "ongoing": false
-    },
-    {
       "id": "anilist-176740",
       "name": "Centuria",
       "volumeCount": 9,
       "ongoing": true
+    },
+    {
+      "id": "anilist-60079",
+      "name": "The Sound of Magic: Annarasumanara",
+      "volumeCount": 3,
+      "ongoing": false
     },
     {
       "id": "anilist-66213",
@@ -2013,16 +2019,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-34571",
-      "name": "Snow White with the Red Hair",
-      "volumeCount": 27,
-      "ongoing": true
-    },
-    {
       "id": "anilist-147997",
       "name": "You and I Are Polar Opposites",
       "volumeCount": 8,
       "ongoing": false
+    },
+    {
+      "id": "anilist-34571",
+      "name": "Snow White with the Red Hair",
+      "volumeCount": 27,
+      "ongoing": true
     },
     {
       "id": "anilist-98370",
@@ -2139,16 +2145,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30050",
-      "name": "Shaman King",
-      "volumeCount": 32,
-      "ongoing": false
-    },
-    {
       "id": "anilist-109728",
       "name": "The Ice Guy and the Cool Girl",
       "volumeCount": 11,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30050",
+      "name": "Shaman King",
+      "volumeCount": 32,
+      "ongoing": false
     },
     {
       "id": "anilist-44893",
@@ -2297,7 +2303,7 @@
     {
       "id": "anilist-39115",
       "name": "Spice & Wolf",
-      "volumeCount": 25,
+      "volumeCount": 24,
       "ongoing": true
     },
     {
@@ -2385,6 +2391,12 @@
       "ongoing": true
     },
     {
+      "id": "anilist-85978",
+      "name": "The New Gate",
+      "volumeCount": 23,
+      "ongoing": true
+    },
+    {
       "id": "anilist-86355",
       "name": "That Time I Got Reincarnated as a Slime",
       "volumeCount": 23,
@@ -2406,12 +2418,6 @@
       "id": "anilist-30009",
       "name": "Tsubasa RESERVoir CHRoNiCLE",
       "volumeCount": 28,
-      "ongoing": false
-    },
-    {
-      "id": "anilist-110785",
-      "name": "2.5 Dimensional Seduction",
-      "volumeCount": 25,
       "ongoing": false
     }
   ]
