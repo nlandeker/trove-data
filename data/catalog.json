@@ -2,7 +2,7 @@
   "version": 2,
   "currency": "EUR",
   "_attribution": "LEGO data: Rebrickable (rebrickable.com) + Brickset (brickset.com). Not affiliated with or endorsed by The LEGO Group.",
-  "_generated": "2026-08-09T04:30:05Z",
+  "_generated": "2026-08-10T04:50:50Z",
   "items": [
     {
       "id": "001",
@@ -60305,7 +60305,7 @@
       "themeOrSeries": "Creator",
       "retailPrice": null,
       "prices": {},
-      "lifecycleStatus": "RETIRING_SOON",
+      "lifecycleStatus": "AVAILABLE",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2024,
@@ -161530,10 +161530,10 @@
       "ongoing": null
     },
     {
-      "id": "6644864 ",
+      "id": "6644864",
       "category": "LEGO",
       "name": "Training Tree",
-      "imageURL": "https://cdn.rebrickable.com/media/sets/6644864 -1/178989.jpg",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/6644864-1/178989.jpg",
       "themeOrSeries": "Pok\u00e9mon",
       "retailPrice": null,
       "prices": {},
@@ -181456,8 +181456,8 @@
         "USD": 9.99,
         "GBP": 8.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-08-09",
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -200887,8 +200887,8 @@
         "USD": 14.99,
         "GBP": 12.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-08-09",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -200906,8 +200906,8 @@
         "USD": 14.99,
         "GBP": 12.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-08-09",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -246932,6 +246932,21 @@
       "retirementDate": null,
       "marketPrice": null,
       "year": 2016,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "9781645887980",
+      "category": "LEGO",
+      "name": "Ninjago: Dragons Rising: Training Time",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/9781645887980-1/179441.jpg",
+      "themeOrSeries": "Ninjago",
+      "retailPrice": null,
+      "prices": {},
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2025,
       "volumeCount": null,
       "ongoing": null
     },
