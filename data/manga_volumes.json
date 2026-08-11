@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-08-10T05:20:55Z",
+  "_generated": "2026-08-11T05:01:59Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -507,16 +507,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-116186",
-      "name": "Boy's Abyss",
-      "volumeCount": 18,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30028",
       "name": "Nana",
       "volumeCount": 21,
       "ongoing": true
+    },
+    {
+      "id": "anilist-116186",
+      "name": "Boy's Abyss",
+      "volumeCount": 18,
+      "ongoing": false
     },
     {
       "id": "anilist-86551",
@@ -795,6 +795,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-144957",
+      "name": "The World After the Fall",
+      "volumeCount": 9,
+      "ongoing": true
+    },
+    {
       "id": "anilist-150378",
       "name": "Gokurakugai",
       "volumeCount": 6,
@@ -861,16 +867,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-94970",
-      "name": "Classroom of the Elite",
-      "volumeCount": 14,
-      "ongoing": false
-    },
-    {
       "id": "anilist-118408",
       "name": "Villains Are Destined to Die",
       "volumeCount": 9,
       "ongoing": true
+    },
+    {
+      "id": "anilist-94970",
+      "name": "Classroom of the Elite",
+      "volumeCount": 14,
+      "ongoing": false
     },
     {
       "id": "anilist-147149",
@@ -1251,15 +1257,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-43702",
-      "name": "My Little Monster",
-      "volumeCount": 13,
-      "ongoing": false
-    },
-    {
       "id": "anilist-142568",
       "name": "Takopi's Original Sin",
       "volumeCount": 2,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-43702",
+      "name": "My Little Monster",
+      "volumeCount": 13,
       "ongoing": false
     },
     {
@@ -1437,16 +1443,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-105263",
-      "name": "Dai Dark",
-      "volumeCount": 9,
-      "ongoing": true
-    },
-    {
       "id": "anilist-30053",
       "name": "Yu Yu Hakusho",
       "volumeCount": 19,
       "ongoing": false
+    },
+    {
+      "id": "anilist-105263",
+      "name": "Dai Dark",
+      "volumeCount": 9,
+      "ongoing": true
     },
     {
       "id": "anilist-105332",
@@ -1749,15 +1755,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30043",
-      "name": "Eyeshield 21",
-      "volumeCount": 37,
-      "ongoing": false
-    },
-    {
       "id": "anilist-198372",
       "name": "Jujutsu Kaisen Modulo",
       "volumeCount": 3,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30043",
+      "name": "Eyeshield 21",
+      "volumeCount": 37,
       "ongoing": false
     },
     {
@@ -1791,21 +1797,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-152404",
-      "name": "Alya Sometimes Hides Her Feelings in Russian",
-      "volumeCount": 11,
-      "ongoing": true
-    },
-    {
       "id": "anilist-87225",
       "name": "Tsukimichi: Moonlit Fantasy",
       "volumeCount": 20,
       "ongoing": true
     },
     {
-      "id": "anilist-153432",
-      "name": "The Reaper",
-      "volumeCount": 4,
+      "id": "anilist-152404",
+      "name": "Alya Sometimes Hides Her Feelings in Russian",
+      "volumeCount": 11,
       "ongoing": true
     },
     {
@@ -1887,16 +1887,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-85235",
-      "name": "School-Live!",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-176740",
       "name": "Centuria",
       "volumeCount": 9,
       "ongoing": true
+    },
+    {
+      "id": "anilist-85235",
+      "name": "School-Live!",
+      "volumeCount": 12,
+      "ongoing": false
     },
     {
       "id": "anilist-60079",
@@ -2199,15 +2199,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-54903",
-      "name": "GANGSTA.",
-      "volumeCount": 9,
-      "ongoing": true
-    },
-    {
       "id": "anilist-141479",
       "name": "The Legendary Spearman Returns",
       "volumeCount": 20,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-54903",
+      "name": "GANGSTA.",
+      "volumeCount": 9,
       "ongoing": true
     },
     {
@@ -2217,15 +2217,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30463",
-      "name": "Welcome to the N.H.K.",
-      "volumeCount": 8,
-      "ongoing": false
-    },
-    {
       "id": "anilist-159142",
       "name": "Firefly Wedding",
       "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30463",
+      "name": "Welcome to the N.H.K.",
+      "volumeCount": 8,
       "ongoing": false
     },
     {
@@ -2277,16 +2277,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30092",
-      "name": "Sailor Moon",
-      "volumeCount": 18,
-      "ongoing": false
-    },
-    {
       "id": "anilist-171729",
       "name": "Love Bullet",
       "volumeCount": 2,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30092",
+      "name": "Sailor Moon",
+      "volumeCount": 18,
+      "ongoing": false
     },
     {
       "id": "anilist-85139",
@@ -2337,15 +2337,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-106434",
-      "name": "Hitomi-chan is Shy With Strangers",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-107518",
       "name": "Heavenly Demon Reborn!",
       "volumeCount": 10,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-106434",
+      "name": "Hitomi-chan is Shy With Strangers",
+      "volumeCount": 12,
       "ongoing": false
     },
     {
@@ -2388,12 +2388,6 @@
       "id": "anilist-127564",
       "name": "Go! Go! Loser Ranger!",
       "volumeCount": 22,
-      "ongoing": true
-    },
-    {
-      "id": "anilist-85978",
-      "name": "The New Gate",
-      "volumeCount": 23,
       "ongoing": true
     },
     {
