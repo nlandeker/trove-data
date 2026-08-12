@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-08-11T05:01:59Z",
+  "_generated": "2026-08-12T05:27:29Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -375,16 +375,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30908",
-      "name": "Soul Eater",
-      "volumeCount": 25,
-      "ongoing": false
-    },
-    {
       "id": "anilist-169355",
       "name": "Kagurabachi",
       "volumeCount": 11,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30908",
+      "name": "Soul Eater",
+      "volumeCount": 25,
+      "ongoing": false
     },
     {
       "id": "anilist-101233",
@@ -717,6 +717,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-85564",
+      "name": "Mushoku Tensei: Jobless Reincarnation",
+      "volumeCount": 25,
+      "ongoing": true
+    },
+    {
       "id": "anilist-106758",
       "name": "The Eminence in Shadow",
       "volumeCount": 7,
@@ -762,12 +768,6 @@
       "id": "anilist-105097",
       "name": "Mieruko-chan",
       "volumeCount": 14,
-      "ongoing": true
-    },
-    {
-      "id": "anilist-86848",
-      "name": "Lookism",
-      "volumeCount": 20,
       "ongoing": true
     },
     {
@@ -873,16 +873,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-94970",
-      "name": "Classroom of the Elite",
-      "volumeCount": 14,
-      "ongoing": false
-    },
-    {
       "id": "anilist-147149",
       "name": "Smoking Behind the Supermarket with You",
       "volumeCount": 9,
       "ongoing": true
+    },
+    {
+      "id": "anilist-94970",
+      "name": "Classroom of the Elite",
+      "volumeCount": 14,
+      "ongoing": false
     },
     {
       "id": "anilist-138603",
@@ -1821,15 +1821,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-86607",
-      "name": "Gleipnir",
-      "volumeCount": 14,
-      "ongoing": false
-    },
-    {
       "id": "anilist-85155",
       "name": "The Gamer",
       "volumeCount": 8,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-86607",
+      "name": "Gleipnir",
+      "volumeCount": 14,
       "ongoing": false
     },
     {
@@ -2013,15 +2013,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-30933",
-      "name": "Elfen Lied",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-147997",
       "name": "You and I Are Polar Opposites",
       "volumeCount": 8,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30933",
+      "name": "Elfen Lied",
+      "volumeCount": 12,
       "ongoing": false
     },
     {
@@ -2151,6 +2151,12 @@
       "ongoing": true
     },
     {
+      "id": "anilist-143031",
+      "name": "I Want to End This Love Game",
+      "volumeCount": 9,
+      "ongoing": true
+    },
+    {
       "id": "anilist-30050",
       "name": "Shaman King",
       "volumeCount": 32,
@@ -2161,12 +2167,6 @@
       "name": "Bakemonogatari: Monster Tale",
       "volumeCount": 2,
       "ongoing": false
-    },
-    {
-      "id": "anilist-143031",
-      "name": "I Want to End This Love Game",
-      "volumeCount": 9,
-      "ongoing": true
     },
     {
       "id": "anilist-107720",
@@ -2205,12 +2205,6 @@
       "ongoing": true
     },
     {
-      "id": "anilist-54903",
-      "name": "GANGSTA.",
-      "volumeCount": 9,
-      "ongoing": true
-    },
-    {
       "id": "anilist-30142",
       "name": "Battle Royale",
       "volumeCount": 15,
@@ -2221,6 +2215,12 @@
       "name": "Firefly Wedding",
       "volumeCount": 12,
       "ongoing": false
+    },
+    {
+      "id": "anilist-54903",
+      "name": "GANGSTA.",
+      "volumeCount": 9,
+      "ongoing": true
     },
     {
       "id": "anilist-30463",
@@ -2259,16 +2259,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-100207",
-      "name": "The Great Jahy Will Not Be Defeated!",
-      "volumeCount": 12,
-      "ongoing": true
-    },
-    {
       "id": "anilist-120440",
       "name": "Positively Yours",
       "volumeCount": 8,
       "ongoing": false
+    },
+    {
+      "id": "anilist-100207",
+      "name": "The Great Jahy Will Not Be Defeated!",
+      "volumeCount": 12,
+      "ongoing": true
     },
     {
       "id": "anilist-68105",
@@ -2391,6 +2391,12 @@
       "ongoing": true
     },
     {
+      "id": "anilist-85978",
+      "name": "The New Gate",
+      "volumeCount": 23,
+      "ongoing": true
+    },
+    {
       "id": "anilist-86355",
       "name": "That Time I Got Reincarnated as a Slime",
       "volumeCount": 23,
@@ -2409,9 +2415,9 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30009",
-      "name": "Tsubasa RESERVoir CHRoNiCLE",
-      "volumeCount": 28,
+      "id": "anilist-110785",
+      "name": "2.5 Dimensional Seduction",
+      "volumeCount": 25,
       "ongoing": false
     }
   ]
