@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-08-12T05:27:29Z",
+  "_generated": "2026-08-13T05:31:12Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -485,7 +485,7 @@
     {
       "id": "anilist-99943",
       "name": "Rent-A-Girlfriend",
-      "volumeCount": 46,
+      "volumeCount": 47,
       "ongoing": true
     },
     {
@@ -963,16 +963,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-33866",
-      "name": "Black Butler",
-      "volumeCount": 35,
-      "ongoing": true
-    },
-    {
       "id": "anilist-30698",
       "name": "Neon Genesis Evangelion",
       "volumeCount": 14,
       "ongoing": false
+    },
+    {
+      "id": "anilist-33866",
+      "name": "Black Butler",
+      "volumeCount": 35,
+      "ongoing": true
     },
     {
       "id": "anilist-85470",
@@ -1425,15 +1425,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86265",
-      "name": "Kengan Ashura",
-      "volumeCount": 27,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30267",
       "name": "HELLSING",
       "volumeCount": 10,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-86265",
+      "name": "Kengan Ashura",
+      "volumeCount": 27,
       "ongoing": false
     },
     {
@@ -1797,15 +1797,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-87225",
-      "name": "Tsukimichi: Moonlit Fantasy",
-      "volumeCount": 20,
-      "ongoing": true
-    },
-    {
       "id": "anilist-152404",
       "name": "Alya Sometimes Hides Her Feelings in Russian",
       "volumeCount": 11,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-87225",
+      "name": "Tsukimichi: Moonlit Fantasy",
+      "volumeCount": 20,
       "ongoing": true
     },
     {
@@ -1821,15 +1821,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-85155",
-      "name": "The Gamer",
-      "volumeCount": 8,
-      "ongoing": false
-    },
-    {
       "id": "anilist-86607",
       "name": "Gleipnir",
       "volumeCount": 14,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85155",
+      "name": "The Gamer",
+      "volumeCount": 8,
       "ongoing": false
     },
     {
@@ -2007,16 +2007,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-30735",
-      "name": "Black Lagoon",
-      "volumeCount": 13,
-      "ongoing": true
-    },
-    {
       "id": "anilist-147997",
       "name": "You and I Are Polar Opposites",
       "volumeCount": 8,
       "ongoing": false
+    },
+    {
+      "id": "anilist-30735",
+      "name": "Black Lagoon",
+      "volumeCount": 13,
+      "ongoing": true
     },
     {
       "id": "anilist-30933",
@@ -2067,16 +2067,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-112544",
-      "name": "Kowloon Generic Romance",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-101625",
       "name": "Berserk of Gluttony",
       "volumeCount": 8,
       "ongoing": true
+    },
+    {
+      "id": "anilist-112544",
+      "name": "Kowloon Generic Romance",
+      "volumeCount": 12,
+      "ongoing": false
     },
     {
       "id": "anilist-97337",
@@ -2205,15 +2205,21 @@
       "ongoing": true
     },
     {
-      "id": "anilist-30142",
-      "name": "Battle Royale",
-      "volumeCount": 15,
-      "ongoing": false
-    },
-    {
       "id": "anilist-159142",
       "name": "Firefly Wedding",
       "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30463",
+      "name": "Welcome to the N.H.K.",
+      "volumeCount": 8,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30142",
+      "name": "Battle Royale",
+      "volumeCount": 15,
       "ongoing": false
     },
     {
@@ -2221,12 +2227,6 @@
       "name": "GANGSTA.",
       "volumeCount": 9,
       "ongoing": true
-    },
-    {
-      "id": "anilist-30463",
-      "name": "Welcome to the N.H.K.",
-      "volumeCount": 8,
-      "ongoing": false
     },
     {
       "id": "anilist-86303",
@@ -2271,16 +2271,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-68105",
-      "name": "Kase-san and...",
-      "volumeCount": 5,
-      "ongoing": false
-    },
-    {
       "id": "anilist-171729",
       "name": "Love Bullet",
       "volumeCount": 2,
       "ongoing": true
+    },
+    {
+      "id": "anilist-68105",
+      "name": "Kase-san and...",
+      "volumeCount": 5,
+      "ongoing": false
     },
     {
       "id": "anilist-30092",
@@ -2388,12 +2388,6 @@
       "id": "anilist-127564",
       "name": "Go! Go! Loser Ranger!",
       "volumeCount": 22,
-      "ongoing": true
-    },
-    {
-      "id": "anilist-85978",
-      "name": "The New Gate",
-      "volumeCount": 23,
       "ongoing": true
     },
     {
