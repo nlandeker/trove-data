@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-08-13T05:31:12Z",
+  "_generated": "2026-08-14T05:28:54Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -485,7 +485,7 @@
     {
       "id": "anilist-99943",
       "name": "Rent-A-Girlfriend",
-      "volumeCount": 47,
+      "volumeCount": 46,
       "ongoing": true
     },
     {
@@ -795,12 +795,6 @@
       "ongoing": false
     },
     {
-      "id": "anilist-144957",
-      "name": "The World After the Fall",
-      "volumeCount": 9,
-      "ongoing": true
-    },
-    {
       "id": "anilist-150378",
       "name": "Gokurakugai",
       "volumeCount": 6,
@@ -955,12 +949,6 @@
       "name": "orange",
       "volumeCount": 7,
       "ongoing": false
-    },
-    {
-      "id": "anilist-114416",
-      "name": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You",
-      "volumeCount": 26,
-      "ongoing": true
     },
     {
       "id": "anilist-30698",
@@ -1821,6 +1809,12 @@
       "ongoing": true
     },
     {
+      "id": "anilist-122063",
+      "name": "Shangri-La Frontier",
+      "volumeCount": 27,
+      "ongoing": true
+    },
+    {
       "id": "anilist-86607",
       "name": "Gleipnir",
       "volumeCount": 14,
@@ -1831,12 +1825,6 @@
       "name": "The Gamer",
       "volumeCount": 8,
       "ongoing": false
-    },
-    {
-      "id": "anilist-122063",
-      "name": "Shangri-La Frontier",
-      "volumeCount": 27,
-      "ongoing": true
     },
     {
       "id": "anilist-97842",
@@ -1935,27 +1923,27 @@
       "ongoing": true
     },
     {
-      "id": "anilist-86481",
-      "name": "Tsuredure Children",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-100937",
       "name": "DARLING in the FRANXX",
       "volumeCount": 8,
       "ongoing": false
     },
     {
-      "id": "anilist-108105",
-      "name": "When Will Ayumu Make His Move?",
-      "volumeCount": 17,
+      "id": "anilist-86481",
+      "name": "Tsuredure Children",
+      "volumeCount": 12,
       "ongoing": false
     },
     {
       "id": "anilist-110605",
       "name": "Leviathan",
       "volumeCount": 9,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-108105",
+      "name": "When Will Ayumu Make His Move?",
+      "volumeCount": 17,
       "ongoing": false
     },
     {
@@ -1989,15 +1977,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85616",
-      "name": "Seaside Stranger: Umibe no Étranger",
-      "volumeCount": 1,
-      "ongoing": false
-    },
-    {
       "id": "anilist-113055",
       "name": "The Remarried Empress",
       "volumeCount": 9,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85616",
+      "name": "Seaside Stranger: Umibe no Étranger",
+      "volumeCount": 1,
       "ongoing": false
     },
     {
@@ -2031,12 +2019,6 @@
       "ongoing": true
     },
     {
-      "id": "anilist-98370",
-      "name": "Sasaki and Miyano",
-      "volumeCount": 11,
-      "ongoing": true
-    },
-    {
       "id": "anilist-78151",
       "name": "World Trigger",
       "volumeCount": 29,
@@ -2049,15 +2031,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-98112",
-      "name": "Gal Gohan",
-      "volumeCount": 10,
-      "ongoing": false
-    },
-    {
       "id": "anilist-106726",
       "name": "Shimeji Simulation",
       "volumeCount": 5,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-98112",
+      "name": "Gal Gohan",
+      "volumeCount": 10,
       "ongoing": false
     },
     {
@@ -2079,16 +2061,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-97337",
-      "name": "your name.",
-      "volumeCount": 3,
-      "ongoing": false
-    },
-    {
       "id": "anilist-153880",
       "name": "The Art of Reincarnation",
       "volumeCount": 12,
       "ongoing": true
+    },
+    {
+      "id": "anilist-97337",
+      "name": "your name.",
+      "volumeCount": 3,
+      "ongoing": false
     },
     {
       "id": "anilist-68071",
@@ -2133,16 +2115,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-58533",
-      "name": "No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!",
-      "volumeCount": 28,
-      "ongoing": true
-    },
-    {
       "id": "anilist-106454",
       "name": "Sensei wa Koi wo Oshierarenai",
       "volumeCount": 7,
       "ongoing": false
+    },
+    {
+      "id": "anilist-58533",
+      "name": "No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!",
+      "volumeCount": 28,
+      "ongoing": true
     },
     {
       "id": "anilist-109728",
@@ -2181,15 +2163,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-31373",
-      "name": "Nijigahara Holograph",
-      "volumeCount": 1,
-      "ongoing": false
-    },
-    {
       "id": "anilist-35293",
       "name": "Doubt",
       "volumeCount": 4,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-31373",
+      "name": "Nijigahara Holograph",
+      "volumeCount": 1,
       "ongoing": false
     },
     {
@@ -2199,16 +2181,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-141479",
-      "name": "The Legendary Spearman Returns",
-      "volumeCount": 20,
-      "ongoing": true
-    },
-    {
       "id": "anilist-159142",
       "name": "Firefly Wedding",
       "volumeCount": 12,
       "ongoing": false
+    },
+    {
+      "id": "anilist-141479",
+      "name": "The Legendary Spearman Returns",
+      "volumeCount": 20,
+      "ongoing": true
     },
     {
       "id": "anilist-30463",
@@ -2265,15 +2247,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-100207",
-      "name": "The Great Jahy Will Not Be Defeated!",
-      "volumeCount": 12,
-      "ongoing": true
-    },
-    {
       "id": "anilist-171729",
       "name": "Love Bullet",
       "volumeCount": 2,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-100207",
+      "name": "The Great Jahy Will Not Be Defeated!",
+      "volumeCount": 12,
       "ongoing": true
     },
     {
@@ -2361,16 +2343,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85566",
-      "name": "Love & Lies",
-      "volumeCount": 13,
-      "ongoing": false
-    },
-    {
       "id": "anilist-125116",
       "name": "Wistoria: Wand and Sword",
       "volumeCount": 16,
       "ongoing": true
+    },
+    {
+      "id": "anilist-85566",
+      "name": "Love & Lies",
+      "volumeCount": 13,
+      "ongoing": false
     },
     {
       "id": "anilist-110140",
