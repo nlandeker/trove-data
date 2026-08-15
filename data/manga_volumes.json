@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-08-14T05:28:54Z",
+  "_generated": "2026-08-15T04:24:24Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -417,16 +417,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86218",
-      "name": "Bloom Into You",
-      "volumeCount": 8,
-      "ongoing": false
-    },
-    {
       "id": "anilist-144946",
       "name": "Gachiakuta",
       "volumeCount": 19,
       "ongoing": true
+    },
+    {
+      "id": "anilist-86218",
+      "name": "Bloom Into You",
+      "volumeCount": 8,
+      "ongoing": false
     },
     {
       "id": "anilist-98397",
@@ -525,15 +525,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-30598",
-      "name": "Fairy Tail",
-      "volumeCount": 63,
-      "ongoing": false
-    },
-    {
       "id": "anilist-33031",
       "name": "Pandora Hearts",
       "volumeCount": 24,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30598",
+      "name": "Fairy Tail",
+      "volumeCount": 63,
       "ongoing": false
     },
     {
@@ -795,6 +795,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-144957",
+      "name": "The World After the Fall",
+      "volumeCount": 9,
+      "ongoing": true
+    },
+    {
       "id": "anilist-150378",
       "name": "Gokurakugai",
       "volumeCount": 6,
@@ -949,6 +955,12 @@
       "name": "orange",
       "volumeCount": 7,
       "ongoing": false
+    },
+    {
+      "id": "anilist-114416",
+      "name": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You",
+      "volumeCount": 26,
+      "ongoing": true
     },
     {
       "id": "anilist-30698",
@@ -1191,16 +1203,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-80145",
-      "name": "Citrus",
-      "volumeCount": 10,
-      "ongoing": false
-    },
-    {
       "id": "anilist-179445",
       "name": "Solo Leveling: Ragnarok",
       "volumeCount": 15,
       "ongoing": true
+    },
+    {
+      "id": "anilist-80145",
+      "name": "Citrus",
+      "volumeCount": 10,
+      "ongoing": false
     },
     {
       "id": "anilist-30658",
@@ -1613,7 +1625,7 @@
     {
       "id": "anilist-75143",
       "name": "Kono Oto Tomare!",
-      "volumeCount": 33,
+      "volumeCount": 34,
       "ongoing": true
     },
     {
@@ -1737,15 +1749,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-52651",
-      "name": "THE BREAKER - NEW WAVES",
-      "volumeCount": 20,
-      "ongoing": false
-    },
-    {
       "id": "anilist-198372",
       "name": "Jujutsu Kaisen Modulo",
       "volumeCount": 3,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-52651",
+      "name": "THE BREAKER - NEW WAVES",
+      "volumeCount": 20,
       "ongoing": false
     },
     {
@@ -1851,15 +1863,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-101434",
-      "name": "How to Treat a Lady Knight Right",
-      "volumeCount": 7,
-      "ongoing": false
-    },
-    {
       "id": "anilist-113488",
       "name": "Weak Hero",
       "volumeCount": 19,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-101434",
+      "name": "How to Treat a Lady Knight Right",
+      "volumeCount": 7,
       "ongoing": false
     },
     {
@@ -1989,16 +2001,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85495",
-      "name": "Re:Monster",
-      "volumeCount": 9,
-      "ongoing": true
-    },
-    {
       "id": "anilist-147997",
       "name": "You and I Are Polar Opposites",
       "volumeCount": 8,
       "ongoing": false
+    },
+    {
+      "id": "anilist-85495",
+      "name": "Re:Monster",
+      "volumeCount": 9,
+      "ongoing": true
     },
     {
       "id": "anilist-30735",
@@ -2016,6 +2028,12 @@
       "id": "anilist-34571",
       "name": "Snow White with the Red Hair",
       "volumeCount": 27,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-98370",
+      "name": "Sasaki and Miyano",
+      "volumeCount": 11,
       "ongoing": true
     },
     {
@@ -2109,16 +2127,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-103255",
-      "name": "Fairy Tail: 100 Years Quest",
-      "volumeCount": 24,
-      "ongoing": true
-    },
-    {
       "id": "anilist-106454",
       "name": "Sensei wa Koi wo Oshierarenai",
       "volumeCount": 7,
       "ongoing": false
+    },
+    {
+      "id": "anilist-103255",
+      "name": "Fairy Tail: 100 Years Quest",
+      "volumeCount": 24,
+      "ongoing": true
     },
     {
       "id": "anilist-58533",
@@ -2127,15 +2145,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-109728",
-      "name": "The Ice Guy and the Cool Girl",
-      "volumeCount": 11,
-      "ongoing": true
-    },
-    {
       "id": "anilist-143031",
       "name": "I Want to End This Love Game",
       "volumeCount": 9,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-109728",
+      "name": "The Ice Guy and the Cool Girl",
+      "volumeCount": 11,
       "ongoing": true
     },
     {
@@ -2193,15 +2211,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-30463",
-      "name": "Welcome to the N.H.K.",
-      "volumeCount": 8,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30142",
       "name": "Battle Royale",
       "volumeCount": 15,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30463",
+      "name": "Welcome to the N.H.K.",
+      "volumeCount": 8,
       "ongoing": false
     },
     {
@@ -2241,16 +2259,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-120440",
-      "name": "Positively Yours",
-      "volumeCount": 8,
-      "ongoing": false
-    },
-    {
       "id": "anilist-171729",
       "name": "Love Bullet",
       "volumeCount": 2,
       "ongoing": true
+    },
+    {
+      "id": "anilist-120440",
+      "name": "Positively Yours",
+      "volumeCount": 8,
+      "ongoing": false
     },
     {
       "id": "anilist-100207",
@@ -2313,15 +2331,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-87213",
-      "name": "Yuuna and the Haunted Hot Springs",
-      "volumeCount": 24,
-      "ongoing": false
-    },
-    {
       "id": "anilist-107518",
       "name": "Heavenly Demon Reborn!",
       "volumeCount": 10,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-87213",
+      "name": "Yuuna and the Haunted Hot Springs",
+      "volumeCount": 24,
       "ongoing": false
     },
     {
@@ -2337,16 +2355,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-85887",
-      "name": "Ookami Shounen wa Kyou mo Uso wo Kasaneru",
-      "volumeCount": 5,
-      "ongoing": false
-    },
-    {
       "id": "anilist-125116",
       "name": "Wistoria: Wand and Sword",
       "volumeCount": 16,
       "ongoing": true
+    },
+    {
+      "id": "anilist-85887",
+      "name": "Ookami Shounen wa Kyou mo Uso wo Kasaneru",
+      "volumeCount": 5,
+      "ongoing": false
     },
     {
       "id": "anilist-85566",
