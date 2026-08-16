@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-08-15T04:24:24Z",
+  "_generated": "2026-08-16T04:30:00Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -141,15 +141,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-86123",
-      "name": "Black Clover",
-      "volumeCount": 38,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30003",
       "name": "20th Century Boys",
       "volumeCount": 22,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-86123",
+      "name": "Black Clover",
+      "volumeCount": 38,
       "ongoing": false
     },
     {
@@ -411,16 +411,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30583",
-      "name": "Claymore",
-      "volumeCount": 27,
-      "ongoing": false
-    },
-    {
       "id": "anilist-144946",
       "name": "Gachiakuta",
       "volumeCount": 19,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30583",
+      "name": "Claymore",
+      "volumeCount": 27,
+      "ongoing": false
     },
     {
       "id": "anilist-86218",
@@ -867,14 +867,14 @@
       "ongoing": false
     },
     {
-      "id": "anilist-118408",
-      "name": "Villains Are Destined to Die",
+      "id": "anilist-147149",
+      "name": "Smoking Behind the Supermarket with You",
       "volumeCount": 9,
       "ongoing": true
     },
     {
-      "id": "anilist-147149",
-      "name": "Smoking Behind the Supermarket with You",
+      "id": "anilist-118408",
+      "name": "Villains Are Destined to Die",
       "volumeCount": 9,
       "ongoing": true
     },
@@ -1005,15 +1005,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-87208",
-      "name": "Our Dreams at Dusk: Shimanami Tasogare",
-      "volumeCount": 4,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30743",
       "name": "21st Century Boys",
       "volumeCount": 2,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-87208",
+      "name": "Our Dreams at Dusk: Shimanami Tasogare",
+      "volumeCount": 4,
       "ongoing": false
     },
     {
@@ -1797,15 +1797,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-152404",
-      "name": "Alya Sometimes Hides Her Feelings in Russian",
-      "volumeCount": 11,
-      "ongoing": true
-    },
-    {
       "id": "anilist-87225",
       "name": "Tsukimichi: Moonlit Fantasy",
       "volumeCount": 20,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-152404",
+      "name": "Alya Sometimes Hides Her Feelings in Russian",
+      "volumeCount": 11,
       "ongoing": true
     },
     {
@@ -1881,15 +1881,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-135083",
-      "name": "WIND BREAKER",
-      "volumeCount": 26,
-      "ongoing": true
-    },
-    {
       "id": "anilist-176740",
       "name": "Centuria",
       "volumeCount": 9,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-135083",
+      "name": "WIND BREAKER",
+      "volumeCount": 26,
       "ongoing": true
     },
     {
@@ -2181,15 +2181,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-35293",
-      "name": "Doubt",
-      "volumeCount": 4,
-      "ongoing": false
-    },
-    {
       "id": "anilist-31373",
       "name": "Nijigahara Holograph",
       "volumeCount": 1,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-35293",
+      "name": "Doubt",
+      "volumeCount": 4,
       "ongoing": false
     },
     {
@@ -2313,15 +2313,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-35255",
-      "name": "Dengeki Daisy",
-      "volumeCount": 16,
-      "ongoing": false
-    },
-    {
       "id": "anilist-31131",
       "name": "Freesia",
       "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-35255",
+      "name": "Dengeki Daisy",
+      "volumeCount": 16,
       "ongoing": false
     },
     {
@@ -2349,15 +2349,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-107540",
-      "name": "Loner Life in Another World",
-      "volumeCount": 18,
-      "ongoing": true
-    },
-    {
       "id": "anilist-125116",
       "name": "Wistoria: Wand and Sword",
       "volumeCount": 16,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-107540",
+      "name": "Loner Life in Another World",
+      "volumeCount": 18,
       "ongoing": true
     },
     {
