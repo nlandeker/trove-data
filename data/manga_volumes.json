@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-08-16T04:30:00Z",
+  "_generated": "2026-08-17T04:35:43Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -101,7 +101,7 @@
     {
       "id": "anilist-106130",
       "name": "Blue Lock",
-      "volumeCount": 39,
+      "volumeCount": 40,
       "ongoing": true
     },
     {
@@ -153,15 +153,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-97852",
-      "name": "Komi Can't Communicate",
-      "volumeCount": 37,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30001",
       "name": "Monster",
       "volumeCount": 18,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-97852",
+      "name": "Komi Can't Communicate",
+      "volumeCount": 37,
       "ongoing": false
     },
     {
@@ -485,7 +485,7 @@
     {
       "id": "anilist-99943",
       "name": "Rent-A-Girlfriend",
-      "volumeCount": 46,
+      "volumeCount": 47,
       "ongoing": true
     },
     {
@@ -1529,7 +1529,7 @@
     {
       "id": "anilist-134369",
       "name": "Medaka Kuroiwa is Impervious to My Charms",
-      "volumeCount": 24,
+      "volumeCount": 25,
       "ongoing": true
     },
     {
@@ -1713,15 +1713,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-141261",
-      "name": "Ayashimon",
-      "volumeCount": 3,
-      "ongoing": false
-    },
-    {
       "id": "anilist-126135",
       "name": "Bibliomania",
       "volumeCount": 1,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-141261",
+      "name": "Ayashimon",
+      "volumeCount": 3,
       "ongoing": false
     },
     {
@@ -1743,15 +1743,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-99609",
-      "name": "I Want to Eat Your Pancreas",
-      "volumeCount": 2,
-      "ongoing": false
-    },
-    {
       "id": "anilist-198372",
       "name": "Jujutsu Kaisen Modulo",
       "volumeCount": 3,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-99609",
+      "name": "I Want to Eat Your Pancreas",
+      "volumeCount": 2,
       "ongoing": false
     },
     {
@@ -1791,6 +1791,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-152404",
+      "name": "Alya Sometimes Hides Her Feelings in Russian",
+      "volumeCount": 11,
+      "ongoing": true
+    },
+    {
       "id": "anilist-98544",
       "name": "Moriarty the Patriot",
       "volumeCount": 23,
@@ -1800,12 +1806,6 @@
       "id": "anilist-87225",
       "name": "Tsukimichi: Moonlit Fantasy",
       "volumeCount": 20,
-      "ongoing": true
-    },
-    {
-      "id": "anilist-152404",
-      "name": "Alya Sometimes Hides Her Feelings in Russian",
-      "volumeCount": 11,
       "ongoing": true
     },
     {
@@ -1911,15 +1911,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-78881",
-      "name": "Darwin's Game",
-      "volumeCount": 30,
-      "ongoing": false
-    },
-    {
       "id": "anilist-104241",
       "name": "How Do We Relationship?",
       "volumeCount": 14,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-78881",
+      "name": "Darwin's Game",
+      "volumeCount": 30,
       "ongoing": false
     },
     {
@@ -1935,6 +1935,12 @@
       "ongoing": true
     },
     {
+      "id": "anilist-110605",
+      "name": "Leviathan",
+      "volumeCount": 9,
+      "ongoing": false
+    },
+    {
       "id": "anilist-100937",
       "name": "DARLING in the FRANXX",
       "volumeCount": 8,
@@ -1944,12 +1950,6 @@
       "id": "anilist-86481",
       "name": "Tsuredure Children",
       "volumeCount": 12,
-      "ongoing": false
-    },
-    {
-      "id": "anilist-110605",
-      "name": "Leviathan",
-      "volumeCount": 9,
       "ongoing": false
     },
     {
@@ -1995,15 +1995,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85616",
-      "name": "Seaside Stranger: Umibe no Étranger",
-      "volumeCount": 1,
-      "ongoing": false
-    },
-    {
       "id": "anilist-147997",
       "name": "You and I Are Polar Opposites",
       "volumeCount": 8,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85616",
+      "name": "Seaside Stranger: Umibe no Étranger",
+      "volumeCount": 1,
       "ongoing": false
     },
     {
@@ -2385,6 +2385,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-85978",
+      "name": "The New Gate",
+      "volumeCount": 23,
+      "ongoing": true
+    },
+    {
       "id": "anilist-127564",
       "name": "Go! Go! Loser Ranger!",
       "volumeCount": 22,
@@ -2406,12 +2412,6 @@
       "id": "anilist-30081",
       "name": "Aria",
       "volumeCount": 12,
-      "ongoing": false
-    },
-    {
-      "id": "anilist-110785",
-      "name": "2.5 Dimensional Seduction",
-      "volumeCount": 25,
       "ongoing": false
     }
   ]
