@@ -2,7 +2,7 @@
   "version": 2,
   "currency": "EUR",
   "_attribution": "LEGO data: Rebrickable (rebrickable.com) + Brickset (brickset.com). Not affiliated with or endorsed by The LEGO Group.",
-  "_generated": "2026-08-16T04:00:18Z",
+  "_generated": "2026-08-17T04:03:05Z",
   "items": [
     {
       "id": "001",
@@ -18948,6 +18948,21 @@
       "category": "LEGO",
       "name": "Raptor Breakout",
       "imageURL": "https://cdn.rebrickable.com/media/sets/122506-1/174188.jpg",
+      "themeOrSeries": "Jurassic World",
+      "retailPrice": null,
+      "prices": {},
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "122507",
+      "category": "LEGO",
+      "name": "Raptor Feeding",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/122507-1/179758.jpg",
       "themeOrSeries": "Jurassic World",
       "retailPrice": null,
       "prices": {},
@@ -86132,8 +86147,8 @@
         "USD": 12.99,
         "GBP": 10.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-08-16",
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -161560,6 +161575,21 @@
       "ongoing": null
     },
     {
+      "id": "6644842",
+      "category": "LEGO",
+      "name": "Pok\u00e9 Ball Smart Tag Case",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/6644842-1/179667.jpg",
+      "themeOrSeries": "Pok\u00e9mon",
+      "retailPrice": null,
+      "prices": {},
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
       "id": "6644864",
       "category": "LEGO",
       "name": "Training Tree",
@@ -182450,8 +182480,8 @@
         "USD": 99.99,
         "GBP": 89.99
       },
-      "lifecycleStatus": "RETIRING_SOON",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-08-16",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -201338,8 +201368,8 @@
         "USD": 59.99,
         "GBP": 54.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-08-16",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
