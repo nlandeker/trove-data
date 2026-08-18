@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-08-17T04:35:43Z",
+  "_generated": "2026-08-18T04:29:17Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -837,15 +837,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-86099",
-      "name": "Wind Breaker",
-      "volumeCount": 26,
-      "ongoing": false
-    },
-    {
       "id": "anilist-44440",
       "name": "I Am a Hero",
       "volumeCount": 22,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-86099",
+      "name": "Wind Breaker",
+      "volumeCount": 26,
       "ongoing": false
     },
     {
@@ -975,16 +975,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-85470",
-      "name": "Mushoku Tensei: Jobless Reincarnation",
-      "volumeCount": 26,
-      "ongoing": false
-    },
-    {
       "id": "anilist-109501",
       "name": "My Love Story with Yamada-kun at Lv999",
       "volumeCount": 10,
       "ongoing": true
+    },
+    {
+      "id": "anilist-85470",
+      "name": "Mushoku Tensei: Jobless Reincarnation",
+      "volumeCount": 26,
+      "ongoing": false
     },
     {
       "id": "anilist-55297",
@@ -1443,16 +1443,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30053",
-      "name": "Yu Yu Hakusho",
-      "volumeCount": 19,
-      "ongoing": false
-    },
-    {
       "id": "anilist-105263",
       "name": "Dai Dark",
       "volumeCount": 9,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30053",
+      "name": "Yu Yu Hakusho",
+      "volumeCount": 19,
+      "ongoing": false
     },
     {
       "id": "anilist-105332",
@@ -1785,16 +1785,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-116266",
-      "name": "Girlfriend, Girlfriend",
-      "volumeCount": 16,
-      "ongoing": false
-    },
-    {
       "id": "anilist-152404",
       "name": "Alya Sometimes Hides Her Feelings in Russian",
       "volumeCount": 11,
       "ongoing": true
+    },
+    {
+      "id": "anilist-116266",
+      "name": "Girlfriend, Girlfriend",
+      "volumeCount": 16,
+      "ongoing": false
     },
     {
       "id": "anilist-98544",
@@ -1809,10 +1809,10 @@
       "ongoing": true
     },
     {
-      "id": "anilist-31101",
-      "name": "Akumetsu",
-      "volumeCount": 18,
-      "ongoing": false
+      "id": "anilist-153432",
+      "name": "The Reaper",
+      "volumeCount": 4,
+      "ongoing": true
     },
     {
       "id": "anilist-120502",
@@ -1821,21 +1821,27 @@
       "ongoing": true
     },
     {
+      "id": "anilist-31101",
+      "name": "Akumetsu",
+      "volumeCount": 18,
+      "ongoing": false
+    },
+    {
       "id": "anilist-122063",
       "name": "Shangri-La Frontier",
       "volumeCount": 27,
       "ongoing": true
     },
     {
-      "id": "anilist-86607",
-      "name": "Gleipnir",
-      "volumeCount": 14,
-      "ongoing": false
-    },
-    {
       "id": "anilist-85155",
       "name": "The Gamer",
       "volumeCount": 8,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-86607",
+      "name": "Gleipnir",
+      "volumeCount": 14,
       "ongoing": false
     },
     {
@@ -1989,15 +1995,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-113055",
-      "name": "The Remarried Empress",
-      "volumeCount": 9,
-      "ongoing": false
-    },
-    {
       "id": "anilist-147997",
       "name": "You and I Are Polar Opposites",
       "volumeCount": 8,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-113055",
+      "name": "The Remarried Empress",
+      "volumeCount": 9,
       "ongoing": false
     },
     {
@@ -2043,15 +2049,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-103111",
-      "name": "My Senpai is Annoying",
-      "volumeCount": 13,
-      "ongoing": false
-    },
-    {
       "id": "anilist-106726",
       "name": "Shimeji Simulation",
       "volumeCount": 5,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-103111",
+      "name": "My Senpai is Annoying",
+      "volumeCount": 13,
       "ongoing": false
     },
     {
@@ -2097,16 +2103,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-101860",
-      "name": "EDENS ZERO",
-      "volumeCount": 33,
-      "ongoing": false
-    },
-    {
       "id": "anilist-111258",
       "name": "Bocchi the Rock!",
       "volumeCount": 8,
       "ongoing": true
+    },
+    {
+      "id": "anilist-101860",
+      "name": "EDENS ZERO",
+      "volumeCount": 33,
+      "ongoing": false
     },
     {
       "id": "anilist-121565",
@@ -2383,12 +2389,6 @@
       "name": "Love★Com",
       "volumeCount": 17,
       "ongoing": false
-    },
-    {
-      "id": "anilist-85978",
-      "name": "The New Gate",
-      "volumeCount": 23,
-      "ongoing": true
     },
     {
       "id": "anilist-127564",
