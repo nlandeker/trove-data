@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-08-18T04:29:17Z",
+  "_generated": "2026-08-19T04:31:32Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -311,7 +311,7 @@
     {
       "id": "anilist-46765",
       "name": "Kingdom",
-      "volumeCount": 79,
+      "volumeCount": 80,
       "ongoing": true
     },
     {
@@ -405,16 +405,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-86310",
-      "name": "Fire Force",
-      "volumeCount": 34,
-      "ongoing": false
-    },
-    {
       "id": "anilist-144946",
       "name": "Gachiakuta",
       "volumeCount": 19,
       "ongoing": true
+    },
+    {
+      "id": "anilist-86310",
+      "name": "Fire Force",
+      "volumeCount": 34,
+      "ongoing": false
     },
     {
       "id": "anilist-30583",
@@ -793,12 +793,6 @@
       "name": "The Boxer",
       "volumeCount": 13,
       "ongoing": false
-    },
-    {
-      "id": "anilist-144957",
-      "name": "The World After the Fall",
-      "volumeCount": 9,
-      "ongoing": true
     },
     {
       "id": "anilist-150378",
@@ -1319,7 +1313,7 @@
     {
       "id": "anilist-104660",
       "name": "Zom 100: Bucket List of the Dead",
-      "volumeCount": 22,
+      "volumeCount": 23,
       "ongoing": true
     },
     {
@@ -1833,15 +1827,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-85155",
-      "name": "The Gamer",
-      "volumeCount": 8,
-      "ongoing": false
-    },
-    {
       "id": "anilist-86607",
       "name": "Gleipnir",
       "volumeCount": 14,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85155",
+      "name": "The Gamer",
+      "volumeCount": 8,
       "ongoing": false
     },
     {
@@ -2217,15 +2211,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-30142",
-      "name": "Battle Royale",
-      "volumeCount": 15,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30463",
       "name": "Welcome to the N.H.K.",
       "volumeCount": 8,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30142",
+      "name": "Battle Royale",
+      "volumeCount": 15,
       "ongoing": false
     },
     {
@@ -2412,6 +2406,12 @@
       "id": "anilist-30081",
       "name": "Aria",
       "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-110785",
+      "name": "2.5 Dimensional Seduction",
+      "volumeCount": 25,
       "ongoing": false
     }
   ]
