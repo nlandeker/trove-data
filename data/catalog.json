@@ -2,7 +2,7 @@
   "version": 2,
   "currency": "EUR",
   "_attribution": "LEGO data: Rebrickable (rebrickable.com) + Brickset (brickset.com). Not affiliated with or endorsed by The LEGO Group.",
-  "_generated": "2026-08-19T03:58:54Z",
+  "_generated": "2026-08-20T03:59:30Z",
   "items": [
     {
       "id": "001",
@@ -6891,7 +6891,7 @@
         "GBP": 17.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-07-23",
+      "retirementDate": "2026-08-19",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -6948,7 +6948,7 @@
         "GBP": 17.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-08-12",
+      "retirementDate": "2026-08-19",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -14706,7 +14706,7 @@
         "GBP": 24.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-08-06",
+      "retirementDate": "2026-08-19",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -15181,7 +15181,7 @@
         "GBP": 44.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-08-17",
+      "retirementDate": "2026-08-19",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -15199,8 +15199,8 @@
         "USD": 9.99,
         "GBP": 8.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-08-19",
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -15471,8 +15471,8 @@
         "USD": 14.99,
         "GBP": 12.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-08-19",
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -107233,8 +107233,8 @@
         "USD": 19.99,
         "GBP": 17.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-08-19",
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -107404,8 +107404,8 @@
         "USD": 19.99,
         "GBP": 17.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-08-19",
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -178729,8 +178729,8 @@
         "USD": 34.99,
         "GBP": 24.99
       },
-      "lifecycleStatus": "RETIRING_SOON",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-08-19",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -181147,8 +181147,8 @@
         "USD": 9.99,
         "GBP": 8.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-08-19",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -181243,7 +181243,7 @@
         "GBP": 64.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-07-31",
+      "retirementDate": "2026-08-19",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -181599,8 +181599,8 @@
         "USD": 9.99,
         "GBP": 8.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-08-19",
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -182624,8 +182624,8 @@
         "USD": 19.99,
         "GBP": 17.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-08-19",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -192044,7 +192044,7 @@
         "GBP": 39.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-06-16",
+      "retirementDate": "2026-08-19",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -192101,7 +192101,7 @@
         "GBP": 44.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-06-24",
+      "retirementDate": "2026-08-19",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -192981,8 +192981,8 @@
         "USD": 14.99,
         "GBP": 12.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-08-19",
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -201770,8 +201770,8 @@
         "USD": 89.99,
         "GBP": 79.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-08-19",
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -202965,8 +202965,8 @@
         "USD": 22.99,
         "GBP": 17.99
       },
-      "lifecycleStatus": "RETIRING_SOON",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-08-19",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -218399,7 +218399,7 @@
     {
       "id": "8428",
       "category": "LEGO",
-      "name": "Turbo Command Featuring CD-ROM Experience Expander",
+      "name": "Red Hot Machine with CD-ROM",
       "imageURL": "https://cdn.rebrickable.com/media/sets/8428-1/1816.jpg",
       "themeOrSeries": "Technic",
       "retailPrice": null,
@@ -218459,7 +218459,7 @@
     {
       "id": "8432",
       "category": "LEGO",
-      "name": "Supersonic Car",
+      "name": "Red Hot Machine",
       "imageURL": "https://cdn.rebrickable.com/media/sets/8432-1/16902.jpg",
       "themeOrSeries": "Technic",
       "retailPrice": null,
@@ -257005,6 +257005,21 @@
       "category": "LEGO",
       "name": "Construction Worker with Roller",
       "imageURL": "https://cdn.rebrickable.com/media/sets/l0002225-1/177693.jpg",
+      "themeOrSeries": "City",
+      "retailPrice": null,
+      "prices": {},
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "L0002226",
+      "category": "LEGO",
+      "name": "Beach Quad",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/l0002226-1/179882.jpg",
       "themeOrSeries": "City",
       "retailPrice": null,
       "prices": {},
