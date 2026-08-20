@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-08-19T04:31:32Z",
+  "_generated": "2026-08-20T04:30:44Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -663,15 +663,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-87178",
-      "name": "Boruto: Naruto Next Generations",
-      "volumeCount": 20,
-      "ongoing": false
-    },
-    {
       "id": "anilist-105393",
       "name": "A Returner's Magic Should Be Special",
       "volumeCount": 6,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-87178",
+      "name": "Boruto: Naruto Next Generations",
+      "volumeCount": 20,
       "ongoing": false
     },
     {
@@ -753,16 +753,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86770",
-      "name": "The Girl From the Other Side: Siúil, a Rún",
-      "volumeCount": 11,
-      "ongoing": false
-    },
-    {
       "id": "anilist-99022",
       "name": "The Apothecary Diaries",
       "volumeCount": 16,
       "ongoing": true
+    },
+    {
+      "id": "anilist-86770",
+      "name": "The Girl From the Other Side: Siúil, a Rún",
+      "volumeCount": 11,
+      "ongoing": false
     },
     {
       "id": "anilist-105097",
@@ -793,6 +793,12 @@
       "name": "The Boxer",
       "volumeCount": 13,
       "ongoing": false
+    },
+    {
+      "id": "anilist-144957",
+      "name": "The World After the Fall",
+      "volumeCount": 3,
+      "ongoing": true
     },
     {
       "id": "anilist-150378",
@@ -855,16 +861,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85911",
-      "name": "Tomodachi Game",
-      "volumeCount": 26,
-      "ongoing": false
-    },
-    {
       "id": "anilist-147149",
       "name": "Smoking Behind the Supermarket with You",
       "volumeCount": 9,
       "ongoing": true
+    },
+    {
+      "id": "anilist-85911",
+      "name": "Tomodachi Game",
+      "volumeCount": 26,
+      "ongoing": false
     },
     {
       "id": "anilist-118408",
@@ -1109,7 +1115,7 @@
     {
       "id": "anilist-86508",
       "name": "Dragon Ball Super",
-      "volumeCount": 42,
+      "volumeCount": 24,
       "ongoing": true
     },
     {
@@ -1515,16 +1521,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30909",
-      "name": "Gyo",
-      "volumeCount": 2,
-      "ongoing": false
-    },
-    {
       "id": "anilist-134369",
       "name": "Medaka Kuroiwa is Impervious to My Charms",
       "volumeCount": 25,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30909",
+      "name": "Gyo",
+      "volumeCount": 2,
+      "ongoing": false
     },
     {
       "id": "anilist-37519",
@@ -1551,16 +1557,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-80217",
-      "name": "the gods lie.",
-      "volumeCount": 1,
-      "ongoing": false
-    },
-    {
       "id": "anilist-144866",
       "name": "Akane-banashi",
       "volumeCount": 23,
       "ongoing": true
+    },
+    {
+      "id": "anilist-80217",
+      "name": "the gods lie.",
+      "volumeCount": 1,
+      "ongoing": false
     },
     {
       "id": "anilist-86526",
@@ -2127,16 +2133,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-106454",
-      "name": "Sensei wa Koi wo Oshierarenai",
-      "volumeCount": 7,
-      "ongoing": false
-    },
-    {
       "id": "anilist-103255",
       "name": "Fairy Tail: 100 Years Quest",
       "volumeCount": 24,
       "ongoing": true
+    },
+    {
+      "id": "anilist-106454",
+      "name": "Sensei wa Koi wo Oshierarenai",
+      "volumeCount": 7,
+      "ongoing": false
     },
     {
       "id": "anilist-58533",
@@ -2211,15 +2217,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-30463",
-      "name": "Welcome to the N.H.K.",
-      "volumeCount": 8,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30142",
       "name": "Battle Royale",
       "volumeCount": 15,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30463",
+      "name": "Welcome to the N.H.K.",
+      "volumeCount": 8,
       "ongoing": false
     },
     {
@@ -2301,15 +2307,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-39115",
-      "name": "Spice & Wolf",
-      "volumeCount": 24,
-      "ongoing": true
-    },
-    {
       "id": "anilist-98466",
       "name": "Kemono Jihen",
       "volumeCount": 26,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-39115",
+      "name": "Spice & Wolf",
+      "volumeCount": 24,
       "ongoing": true
     },
     {
@@ -2337,6 +2343,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-125116",
+      "name": "Wistoria: Wand and Sword",
+      "volumeCount": 16,
+      "ongoing": true
+    },
+    {
       "id": "anilist-87213",
       "name": "Yuuna and the Haunted Hot Springs",
       "volumeCount": 24,
@@ -2347,12 +2359,6 @@
       "name": "Hitomi-chan is Shy With Strangers",
       "volumeCount": 12,
       "ongoing": false
-    },
-    {
-      "id": "anilist-125116",
-      "name": "Wistoria: Wand and Sword",
-      "volumeCount": 16,
-      "ongoing": true
     },
     {
       "id": "anilist-107540",
@@ -2383,6 +2389,12 @@
       "name": "Love★Com",
       "volumeCount": 17,
       "ongoing": false
+    },
+    {
+      "id": "anilist-85978",
+      "name": "The New Gate",
+      "volumeCount": 23,
+      "ongoing": true
     },
     {
       "id": "anilist-127564",
