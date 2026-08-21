@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-08-20T04:30:44Z",
+  "_generated": "2026-08-21T04:32:26Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -345,16 +345,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-98842",
-      "name": "Toilet-Bound Hanako-kun",
-      "volumeCount": 25,
-      "ongoing": true
-    },
-    {
       "id": "anilist-105469",
       "name": "Jujutsu Kaisen 0",
       "volumeCount": 1,
       "ongoing": false
+    },
+    {
+      "id": "anilist-98842",
+      "name": "Toilet-Bound Hanako-kun",
+      "volumeCount": 25,
+      "ongoing": true
     },
     {
       "id": "anilist-37375",
@@ -363,15 +363,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-100230",
-      "name": "The Quintessential Quintuplets",
-      "volumeCount": 14,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30564",
       "name": "Gantz",
       "volumeCount": 37,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-100230",
+      "name": "The Quintessential Quintuplets",
+      "volumeCount": 14,
       "ongoing": false
     },
     {
@@ -561,15 +561,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85849",
-      "name": "ReLIFE",
-      "volumeCount": 15,
-      "ongoing": false
-    },
-    {
       "id": "anilist-74485",
       "name": "The Seven Deadly Sins",
       "volumeCount": 41,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85849",
+      "name": "ReLIFE",
+      "volumeCount": 15,
       "ongoing": false
     },
     {
@@ -855,14 +855,20 @@
       "ongoing": false
     },
     {
+      "id": "anilist-147149",
+      "name": "Smoking Behind the Supermarket with You",
+      "volumeCount": 9,
+      "ongoing": true
+    },
+    {
       "id": "anilist-30912",
       "name": "Tomie",
       "volumeCount": 1,
       "ongoing": false
     },
     {
-      "id": "anilist-147149",
-      "name": "Smoking Behind the Supermarket with You",
+      "id": "anilist-118408",
+      "name": "Villains Are Destined to Die",
       "volumeCount": 9,
       "ongoing": true
     },
@@ -871,12 +877,6 @@
       "name": "Tomodachi Game",
       "volumeCount": 26,
       "ongoing": false
-    },
-    {
-      "id": "anilist-118408",
-      "name": "Villains Are Destined to Die",
-      "volumeCount": 9,
-      "ongoing": true
     },
     {
       "id": "anilist-94970",
@@ -1077,15 +1077,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85442",
-      "name": "The Rising of the Shield Hero",
-      "volumeCount": 22,
-      "ongoing": true
-    },
-    {
       "id": "anilist-101557",
       "name": "The Dangers in My Heart",
       "volumeCount": 14,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-85442",
+      "name": "The Rising of the Shield Hero",
+      "volumeCount": 22,
       "ongoing": true
     },
     {
@@ -1299,15 +1299,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-100805",
-      "name": "Here U Are",
-      "volumeCount": 8,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30756",
       "name": "Banana Fish",
       "volumeCount": 19,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-100805",
+      "name": "Here U Are",
+      "volumeCount": 8,
       "ongoing": false
     },
     {
@@ -1533,15 +1533,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-37519",
-      "name": "Kami nomi zo Shiru Sekai",
-      "volumeCount": 26,
-      "ongoing": false
-    },
-    {
       "id": "anilist-115000",
       "name": "Unholy Blood",
       "volumeCount": 8,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-37519",
+      "name": "Kami nomi zo Shiru Sekai",
+      "volumeCount": 26,
       "ongoing": false
     },
     {
@@ -1737,15 +1737,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30894",
-      "name": "Rosario+Vampire",
-      "volumeCount": 10,
-      "ongoing": false
-    },
-    {
       "id": "anilist-198372",
       "name": "Jujutsu Kaisen Modulo",
       "volumeCount": 3,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30894",
+      "name": "Rosario+Vampire",
+      "volumeCount": 10,
       "ongoing": false
     },
     {
@@ -1809,15 +1809,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-153432",
-      "name": "The Reaper",
-      "volumeCount": 4,
-      "ongoing": true
-    },
-    {
       "id": "anilist-120502",
       "name": "In the Clear Moonlit Dusk",
       "volumeCount": 10,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-122063",
+      "name": "Shangri-La Frontier",
+      "volumeCount": 27,
       "ongoing": true
     },
     {
@@ -1825,12 +1825,6 @@
       "name": "Akumetsu",
       "volumeCount": 18,
       "ongoing": false
-    },
-    {
-      "id": "anilist-122063",
-      "name": "Shangri-La Frontier",
-      "volumeCount": 27,
-      "ongoing": true
     },
     {
       "id": "anilist-86607",
@@ -2031,15 +2025,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-34571",
-      "name": "Snow White with the Red Hair",
-      "volumeCount": 27,
-      "ongoing": true
-    },
-    {
       "id": "anilist-98370",
       "name": "Sasaki and Miyano",
       "volumeCount": 11,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-34571",
+      "name": "Snow White with the Red Hair",
+      "volumeCount": 27,
       "ongoing": true
     },
     {
@@ -2145,15 +2139,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-58533",
-      "name": "No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!",
-      "volumeCount": 28,
-      "ongoing": true
-    },
-    {
       "id": "anilist-143031",
       "name": "I Want to End This Love Game",
       "volumeCount": 9,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-58533",
+      "name": "No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!",
+      "volumeCount": 28,
       "ongoing": true
     },
     {
@@ -2172,12 +2166,6 @@
       "id": "anilist-44893",
       "name": "Bakemonogatari: Monster Tale",
       "volumeCount": 2,
-      "ongoing": false
-    },
-    {
-      "id": "anilist-107720",
-      "name": "Her Summon",
-      "volumeCount": 14,
       "ongoing": false
     },
     {
@@ -2217,15 +2205,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-30142",
-      "name": "Battle Royale",
-      "volumeCount": 15,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30463",
       "name": "Welcome to the N.H.K.",
       "volumeCount": 8,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30142",
+      "name": "Battle Royale",
+      "volumeCount": 15,
       "ongoing": false
     },
     {
@@ -2389,12 +2377,6 @@
       "name": "Love★Com",
       "volumeCount": 17,
       "ongoing": false
-    },
-    {
-      "id": "anilist-85978",
-      "name": "The New Gate",
-      "volumeCount": 23,
-      "ongoing": true
     },
     {
       "id": "anilist-127564",
