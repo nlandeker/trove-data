@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-08-21T04:32:26Z",
+  "_generated": "2026-08-22T04:27:02Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -561,15 +561,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-74485",
-      "name": "The Seven Deadly Sins",
-      "volumeCount": 41,
-      "ongoing": false
-    },
-    {
       "id": "anilist-85849",
       "name": "ReLIFE",
       "volumeCount": 15,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-74485",
+      "name": "The Seven Deadly Sins",
+      "volumeCount": 41,
       "ongoing": false
     },
     {
@@ -955,12 +955,6 @@
       "name": "orange",
       "volumeCount": 7,
       "ongoing": false
-    },
-    {
-      "id": "anilist-114416",
-      "name": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You",
-      "volumeCount": 26,
-      "ongoing": true
     },
     {
       "id": "anilist-30698",
@@ -2133,16 +2127,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-106454",
-      "name": "Sensei wa Koi wo Oshierarenai",
-      "volumeCount": 7,
-      "ongoing": false
-    },
-    {
       "id": "anilist-143031",
       "name": "I Want to End This Love Game",
       "volumeCount": 9,
       "ongoing": true
+    },
+    {
+      "id": "anilist-106454",
+      "name": "Sensei wa Koi wo Oshierarenai",
+      "volumeCount": 7,
+      "ongoing": false
     },
     {
       "id": "anilist-58533",
@@ -2166,6 +2160,12 @@
       "id": "anilist-44893",
       "name": "Bakemonogatari: Monster Tale",
       "volumeCount": 2,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-107720",
+      "name": "Her Summon",
+      "volumeCount": 14,
       "ongoing": false
     },
     {
@@ -2247,16 +2247,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30085",
-      "name": "Azumanga Daioh",
-      "volumeCount": 4,
-      "ongoing": false
-    },
-    {
       "id": "anilist-171729",
       "name": "Love Bullet",
       "volumeCount": 2,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30085",
+      "name": "Azumanga Daioh",
+      "volumeCount": 4,
+      "ongoing": false
     },
     {
       "id": "anilist-120440",
@@ -2313,15 +2313,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-35255",
-      "name": "Dengeki Daisy",
-      "volumeCount": 16,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30904",
       "name": "Lone Wolf and Cub",
       "volumeCount": 28,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-35255",
+      "name": "Dengeki Daisy",
+      "volumeCount": 16,
       "ongoing": false
     },
     {
@@ -2379,16 +2379,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-127564",
-      "name": "Go! Go! Loser Ranger!",
-      "volumeCount": 22,
-      "ongoing": true
-    },
-    {
       "id": "anilist-86355",
       "name": "That Time I Got Reincarnated as a Slime",
       "volumeCount": 23,
       "ongoing": false
+    },
+    {
+      "id": "anilist-127564",
+      "name": "Go! Go! Loser Ranger!",
+      "volumeCount": 22,
+      "ongoing": true
     },
     {
       "id": "anilist-118695",
