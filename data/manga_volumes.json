@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-08-22T04:27:02Z",
+  "_generated": "2026-08-23T04:31:15Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -561,15 +561,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85849",
-      "name": "ReLIFE",
-      "volumeCount": 15,
-      "ongoing": false
-    },
-    {
       "id": "anilist-74485",
       "name": "The Seven Deadly Sins",
       "volumeCount": 41,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85849",
+      "name": "ReLIFE",
+      "volumeCount": 15,
       "ongoing": false
     },
     {
@@ -627,16 +627,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86559",
-      "name": "Golden Kamuy",
-      "volumeCount": 31,
-      "ongoing": false
-    },
-    {
       "id": "anilist-149544",
       "name": "The Guy She Was Interested In Wasn't a Guy at All",
       "volumeCount": 4,
       "ongoing": true
+    },
+    {
+      "id": "anilist-86559",
+      "name": "Golden Kamuy",
+      "volumeCount": 31,
+      "ongoing": false
     },
     {
       "id": "anilist-97830",
@@ -705,15 +705,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-75757",
-      "name": "Food Wars!: Shokugeki no Soma",
-      "volumeCount": 36,
-      "ongoing": false
-    },
-    {
       "id": "anilist-31517",
       "name": "JoJo's Bizarre Adventure Part 1: Phantom Blood",
       "volumeCount": 5,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-75757",
+      "name": "Food Wars!: Shokugeki no Soma",
+      "volumeCount": 36,
       "ongoing": false
     },
     {
@@ -797,7 +797,7 @@
     {
       "id": "anilist-144957",
       "name": "The World After the Fall",
-      "volumeCount": 3,
+      "volumeCount": 9,
       "ongoing": true
     },
     {
@@ -957,6 +957,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-114416",
+      "name": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You",
+      "volumeCount": 26,
+      "ongoing": true
+    },
+    {
       "id": "anilist-30698",
       "name": "Neon Genesis Evangelion",
       "volumeCount": 14,
@@ -1035,16 +1041,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-33006",
-      "name": "JoJo's Bizarre Adventure Part 4: Diamond is Unbreakable",
-      "volumeCount": 18,
-      "ongoing": false
-    },
-    {
       "id": "anilist-105011",
       "name": "More Than a Married Couple, but Not Lovers.",
       "volumeCount": 13,
       "ongoing": true
+    },
+    {
+      "id": "anilist-33006",
+      "name": "JoJo's Bizarre Adventure Part 4: Diamond is Unbreakable",
+      "volumeCount": 18,
+      "ongoing": false
     },
     {
       "id": "anilist-110462",
@@ -1109,7 +1115,7 @@
     {
       "id": "anilist-86508",
       "name": "Dragon Ball Super",
-      "volumeCount": 24,
+      "volumeCount": 42,
       "ongoing": true
     },
     {
@@ -1515,16 +1521,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-134369",
-      "name": "Medaka Kuroiwa is Impervious to My Charms",
-      "volumeCount": 25,
-      "ongoing": true
-    },
-    {
       "id": "anilist-30909",
       "name": "Gyo",
       "volumeCount": 2,
       "ongoing": false
+    },
+    {
+      "id": "anilist-134369",
+      "name": "Medaka Kuroiwa is Impervious to My Charms",
+      "volumeCount": 25,
+      "ongoing": true
     },
     {
       "id": "anilist-115000",
@@ -1611,16 +1617,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-85388",
-      "name": "High-Rise Invasion",
-      "volumeCount": 21,
-      "ongoing": false
-    },
-    {
       "id": "anilist-75143",
       "name": "Kono Oto Tomare!",
       "volumeCount": 34,
       "ongoing": true
+    },
+    {
+      "id": "anilist-85388",
+      "name": "High-Rise Invasion",
+      "volumeCount": 21,
+      "ongoing": false
     },
     {
       "id": "anilist-111149",
@@ -1803,15 +1809,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-120502",
-      "name": "In the Clear Moonlit Dusk",
-      "volumeCount": 10,
-      "ongoing": true
-    },
-    {
       "id": "anilist-122063",
       "name": "Shangri-La Frontier",
       "volumeCount": 27,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-120502",
+      "name": "In the Clear Moonlit Dusk",
+      "volumeCount": 10,
       "ongoing": true
     },
     {
@@ -2151,21 +2157,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-30050",
-      "name": "Shaman King",
-      "volumeCount": 32,
-      "ongoing": false
-    },
-    {
       "id": "anilist-44893",
       "name": "Bakemonogatari: Monster Tale",
       "volumeCount": 2,
       "ongoing": false
     },
     {
-      "id": "anilist-107720",
-      "name": "Her Summon",
-      "volumeCount": 14,
+      "id": "anilist-30050",
+      "name": "Shaman King",
+      "volumeCount": 32,
       "ongoing": false
     },
     {
@@ -2187,15 +2187,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-99549",
-      "name": "Karakai Jouzu no (Moto) Takagi-san",
-      "volumeCount": 23,
-      "ongoing": false
-    },
-    {
       "id": "anilist-159142",
       "name": "Firefly Wedding",
       "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-99549",
+      "name": "Karakai Jouzu no (Moto) Takagi-san",
+      "volumeCount": 23,
       "ongoing": false
     },
     {
@@ -2265,16 +2265,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-100207",
-      "name": "The Great Jahy Will Not Be Defeated!",
-      "volumeCount": 12,
-      "ongoing": true
-    },
-    {
       "id": "anilist-68105",
       "name": "Kase-san and...",
       "volumeCount": 5,
       "ongoing": false
+    },
+    {
+      "id": "anilist-100207",
+      "name": "The Great Jahy Will Not Be Defeated!",
+      "volumeCount": 12,
+      "ongoing": true
     },
     {
       "id": "anilist-30092",
@@ -2313,15 +2313,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30904",
-      "name": "Lone Wolf and Cub",
-      "volumeCount": 28,
-      "ongoing": false
-    },
-    {
       "id": "anilist-35255",
       "name": "Dengeki Daisy",
       "volumeCount": 16,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30904",
+      "name": "Lone Wolf and Cub",
+      "volumeCount": 28,
       "ongoing": false
     },
     {
@@ -2385,6 +2385,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-85978",
+      "name": "The New Gate",
+      "volumeCount": 23,
+      "ongoing": true
+    },
+    {
       "id": "anilist-127564",
       "name": "Go! Go! Loser Ranger!",
       "volumeCount": 22,
@@ -2400,12 +2406,6 @@
       "id": "anilist-30081",
       "name": "Aria",
       "volumeCount": 12,
-      "ongoing": false
-    },
-    {
-      "id": "anilist-110785",
-      "name": "2.5 Dimensional Seduction",
-      "volumeCount": 25,
       "ongoing": false
     }
   ]
