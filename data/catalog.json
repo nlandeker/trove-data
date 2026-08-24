@@ -2,7 +2,7 @@
   "version": 2,
   "currency": "EUR",
   "_attribution": "LEGO data: Rebrickable (rebrickable.com) + Brickset (brickset.com). Not affiliated with or endorsed by The LEGO Group.",
-  "_generated": "2026-08-23T04:05:43Z",
+  "_generated": "2026-08-24T04:07:58Z",
   "items": [
     {
       "id": "001",
@@ -60585,7 +60585,7 @@
         "GBP": 19.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-08-22",
+      "retirementDate": "2026-08-23",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -126237,6 +126237,21 @@
       "ongoing": null
     },
     {
+      "id": "5010305",
+      "category": "LEGO",
+      "name": "The Mandalorian and Grogu",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/5010305-1/173453.jpg",
+      "themeOrSeries": "Star Wars",
+      "retailPrice": null,
+      "prices": {},
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
       "id": "5010321",
       "category": "LEGO",
       "name": "Minecraft: Visual Dictionary",
@@ -181853,8 +181868,8 @@
         "USD": 19.99,
         "GBP": 17.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-08-23",
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -201133,7 +201148,7 @@
         "GBP": 24.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-07-16",
+      "retirementDate": "2026-08-23",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
