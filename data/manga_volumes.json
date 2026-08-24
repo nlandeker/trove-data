@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-08-23T04:31:15Z",
+  "_generated": "2026-08-24T04:39:45Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -411,15 +411,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-86310",
-      "name": "Fire Force",
-      "volumeCount": 34,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30583",
       "name": "Claymore",
       "volumeCount": 27,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-86310",
+      "name": "Fire Force",
+      "volumeCount": 34,
       "ongoing": false
     },
     {
@@ -561,15 +561,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-74485",
-      "name": "The Seven Deadly Sins",
-      "volumeCount": 41,
-      "ongoing": false
-    },
-    {
       "id": "anilist-85849",
       "name": "ReLIFE",
       "volumeCount": 15,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-74485",
+      "name": "The Seven Deadly Sins",
+      "volumeCount": 41,
       "ongoing": false
     },
     {
@@ -747,16 +747,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-86300",
-      "name": "Tomo-chan is a Girl!",
-      "volumeCount": 8,
-      "ongoing": false
-    },
-    {
       "id": "anilist-99022",
       "name": "The Apothecary Diaries",
       "volumeCount": 16,
       "ongoing": true
+    },
+    {
+      "id": "anilist-86300",
+      "name": "Tomo-chan is a Girl!",
+      "volumeCount": 8,
+      "ongoing": false
     },
     {
       "id": "anilist-86770",
@@ -793,12 +793,6 @@
       "name": "The Boxer",
       "volumeCount": 13,
       "ongoing": false
-    },
-    {
-      "id": "anilist-144957",
-      "name": "The World After the Fall",
-      "volumeCount": 9,
-      "ongoing": true
     },
     {
       "id": "anilist-150378",
@@ -861,16 +855,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-30912",
-      "name": "Tomie",
-      "volumeCount": 1,
-      "ongoing": false
-    },
-    {
       "id": "anilist-118408",
       "name": "Villains Are Destined to Die",
       "volumeCount": 9,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30912",
+      "name": "Tomie",
+      "volumeCount": 1,
+      "ongoing": false
     },
     {
       "id": "anilist-85911",
@@ -1245,15 +1239,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-115122",
-      "name": "Death Note: a-Kira",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-106867",
       "name": "My Dearest Self With Malice Aforethought",
       "volumeCount": 11,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-115122",
+      "name": "Death Note: a-Kira",
+      "volumeCount": 12,
       "ongoing": false
     },
     {
@@ -1521,16 +1515,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30909",
-      "name": "Gyo",
-      "volumeCount": 2,
-      "ongoing": false
-    },
-    {
       "id": "anilist-134369",
       "name": "Medaka Kuroiwa is Impervious to My Charms",
       "volumeCount": 25,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30909",
+      "name": "Gyo",
+      "volumeCount": 2,
+      "ongoing": false
     },
     {
       "id": "anilist-115000",
@@ -1797,15 +1791,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-98544",
-      "name": "Moriarty the Patriot",
-      "volumeCount": 23,
-      "ongoing": true
-    },
-    {
       "id": "anilist-87225",
       "name": "Tsukimichi: Moonlit Fantasy",
       "volumeCount": 20,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-98544",
+      "name": "Moriarty the Patriot",
+      "volumeCount": 23,
       "ongoing": true
     },
     {
@@ -1923,16 +1917,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30651",
-      "name": "Nausicaä of the Valley of the Wind",
-      "volumeCount": 7,
-      "ongoing": false
-    },
-    {
       "id": "anilist-107120",
       "name": "Chillin’ in Another World with Level 2 Super Cheat Powers",
       "volumeCount": 21,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30651",
+      "name": "Nausicaä of the Valley of the Wind",
+      "volumeCount": 7,
+      "ongoing": false
     },
     {
       "id": "anilist-110605",
@@ -2025,21 +2019,9 @@
       "ongoing": false
     },
     {
-      "id": "anilist-98370",
-      "name": "Sasaki and Miyano",
-      "volumeCount": 11,
-      "ongoing": true
-    },
-    {
       "id": "anilist-34571",
       "name": "Snow White with the Red Hair",
       "volumeCount": 27,
-      "ongoing": true
-    },
-    {
-      "id": "anilist-78151",
-      "name": "World Trigger",
-      "volumeCount": 29,
       "ongoing": true
     },
     {
@@ -2047,6 +2029,12 @@
       "name": "Shimeji Simulation",
       "volumeCount": 5,
       "ongoing": false
+    },
+    {
+      "id": "anilist-78151",
+      "name": "World Trigger",
+      "volumeCount": 29,
+      "ongoing": true
     },
     {
       "id": "anilist-103111",
@@ -2073,16 +2061,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-112544",
-      "name": "Kowloon Generic Romance",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-153880",
       "name": "The Art of Reincarnation",
       "volumeCount": 12,
       "ongoing": true
+    },
+    {
+      "id": "anilist-112544",
+      "name": "Kowloon Generic Romance",
+      "volumeCount": 12,
+      "ongoing": false
     },
     {
       "id": "anilist-97337",
@@ -2091,16 +2079,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-68071",
-      "name": "Spirit Circle",
-      "volumeCount": 6,
-      "ongoing": false
-    },
-    {
       "id": "anilist-111258",
       "name": "Bocchi the Rock!",
       "volumeCount": 8,
       "ongoing": true
+    },
+    {
+      "id": "anilist-68071",
+      "name": "Spirit Circle",
+      "volumeCount": 6,
+      "ongoing": false
     },
     {
       "id": "anilist-101860",
@@ -2127,15 +2115,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-103255",
-      "name": "Fairy Tail: 100 Years Quest",
-      "volumeCount": 24,
-      "ongoing": true
-    },
-    {
       "id": "anilist-143031",
       "name": "I Want to End This Love Game",
       "volumeCount": 9,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-103255",
+      "name": "Fairy Tail: 100 Years Quest",
+      "volumeCount": 24,
       "ongoing": true
     },
     {
@@ -2265,16 +2253,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-68105",
-      "name": "Kase-san and...",
-      "volumeCount": 5,
-      "ongoing": false
-    },
-    {
       "id": "anilist-100207",
       "name": "The Great Jahy Will Not Be Defeated!",
       "volumeCount": 12,
       "ongoing": true
+    },
+    {
+      "id": "anilist-68105",
+      "name": "Kase-san and...",
+      "volumeCount": 5,
+      "ongoing": false
     },
     {
       "id": "anilist-30092",
@@ -2385,12 +2373,6 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85978",
-      "name": "The New Gate",
-      "volumeCount": 23,
-      "ongoing": true
-    },
-    {
       "id": "anilist-127564",
       "name": "Go! Go! Loser Ranger!",
       "volumeCount": 22,
@@ -2400,6 +2382,12 @@
       "id": "anilist-118695",
       "name": "I’m in Love with the Villainess",
       "volumeCount": 5,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-169272",
+      "name": "Tune In to the Midnight Heart",
+      "volumeCount": 14,
       "ongoing": true
     },
     {
