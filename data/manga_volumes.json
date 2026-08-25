@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-08-24T04:39:45Z",
+  "_generated": "2026-08-25T04:33:13Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -843,16 +843,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-112981",
-      "name": "Kubo Won't Let Me Be Invisible",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-147149",
       "name": "Smoking Behind the Supermarket with You",
       "volumeCount": 9,
       "ongoing": true
+    },
+    {
+      "id": "anilist-112981",
+      "name": "Kubo Won't Let Me Be Invisible",
+      "volumeCount": 12,
+      "ongoing": false
     },
     {
       "id": "anilist-118408",
@@ -1383,16 +1383,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-121991",
-      "name": "Viral Hit",
-      "volumeCount": 10,
-      "ongoing": false
-    },
-    {
       "id": "anilist-180752",
       "name": "Ichi the Witch",
       "volumeCount": 9,
       "ongoing": true
+    },
+    {
+      "id": "anilist-121991",
+      "name": "Viral Hit",
+      "volumeCount": 10,
+      "ongoing": false
     },
     {
       "id": "anilist-107559",
@@ -1539,15 +1539,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-107279",
-      "name": "Aoashi",
-      "volumeCount": 40,
-      "ongoing": false
-    },
-    {
       "id": "anilist-111403",
       "name": "Hokkaido Gals Are Super Adorable!",
       "volumeCount": 14,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-107279",
+      "name": "Aoashi",
+      "volumeCount": 40,
       "ongoing": false
     },
     {
@@ -1773,16 +1773,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-114027",
-      "name": "Boy Meets Maria",
-      "volumeCount": 1,
-      "ongoing": false
-    },
-    {
       "id": "anilist-152404",
       "name": "Alya Sometimes Hides Her Feelings in Russian",
       "volumeCount": 11,
       "ongoing": true
+    },
+    {
+      "id": "anilist-114027",
+      "name": "Boy Meets Maria",
+      "volumeCount": 1,
+      "ongoing": false
     },
     {
       "id": "anilist-116266",
@@ -1821,15 +1821,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86607",
-      "name": "Gleipnir",
-      "volumeCount": 14,
-      "ongoing": false
-    },
-    {
       "id": "anilist-85155",
       "name": "The Gamer",
       "volumeCount": 8,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-86607",
+      "name": "Gleipnir",
+      "volumeCount": 14,
       "ongoing": false
     },
     {
@@ -1869,16 +1869,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-65719",
-      "name": "Like a Butterfly",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-176740",
       "name": "Centuria",
       "volumeCount": 9,
       "ongoing": true
+    },
+    {
+      "id": "anilist-65719",
+      "name": "Like a Butterfly",
+      "volumeCount": 12,
+      "ongoing": false
     },
     {
       "id": "anilist-135083",
@@ -1917,16 +1917,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-107120",
-      "name": "Chillin’ in Another World with Level 2 Super Cheat Powers",
-      "volumeCount": 21,
-      "ongoing": true
-    },
-    {
       "id": "anilist-30651",
       "name": "Nausicaä of the Valley of the Wind",
       "volumeCount": 7,
       "ongoing": false
+    },
+    {
+      "id": "anilist-107120",
+      "name": "Chillin’ in Another World with Level 2 Super Cheat Powers",
+      "volumeCount": 21,
+      "ongoing": true
     },
     {
       "id": "anilist-110605",
@@ -1995,21 +1995,21 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85616",
-      "name": "Seaside Stranger: Umibe no Étranger",
-      "volumeCount": 1,
-      "ongoing": false
-    },
-    {
       "id": "anilist-85495",
       "name": "Re:Monster",
       "volumeCount": 9,
       "ongoing": true
     },
     {
+      "id": "anilist-85616",
+      "name": "Seaside Stranger: Umibe no Étranger",
+      "volumeCount": 1,
+      "ongoing": false
+    },
+    {
       "id": "anilist-30735",
       "name": "Black Lagoon",
-      "volumeCount": 13,
+      "volumeCount": 14,
       "ongoing": true
     },
     {
@@ -2017,6 +2017,12 @@
       "name": "Elfen Lied",
       "volumeCount": 12,
       "ongoing": false
+    },
+    {
+      "id": "anilist-98370",
+      "name": "Sasaki and Miyano",
+      "volumeCount": 11,
+      "ongoing": true
     },
     {
       "id": "anilist-34571",
@@ -2145,15 +2151,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-44893",
-      "name": "Bakemonogatari: Monster Tale",
-      "volumeCount": 2,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30050",
       "name": "Shaman King",
       "volumeCount": 32,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-44893",
+      "name": "Bakemonogatari: Monster Tale",
+      "volumeCount": 2,
       "ongoing": false
     },
     {
@@ -2301,6 +2307,18 @@
       "ongoing": false
     },
     {
+      "id": "anilist-125116",
+      "name": "Wistoria: Wand and Sword",
+      "volumeCount": 16,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-107518",
+      "name": "Heavenly Demon Reborn!",
+      "volumeCount": 10,
+      "ongoing": false
+    },
+    {
       "id": "anilist-35255",
       "name": "Dengeki Daisy",
       "volumeCount": 16,
@@ -2311,18 +2329,6 @@
       "name": "Lone Wolf and Cub",
       "volumeCount": 28,
       "ongoing": false
-    },
-    {
-      "id": "anilist-107518",
-      "name": "Heavenly Demon Reborn!",
-      "volumeCount": 10,
-      "ongoing": false
-    },
-    {
-      "id": "anilist-125116",
-      "name": "Wistoria: Wand and Sword",
-      "volumeCount": 16,
-      "ongoing": true
     },
     {
       "id": "anilist-87213",
@@ -2373,6 +2379,18 @@
       "ongoing": false
     },
     {
+      "id": "anilist-85978",
+      "name": "The New Gate",
+      "volumeCount": 23,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-169272",
+      "name": "Tune In to the Midnight Heart",
+      "volumeCount": 14,
+      "ongoing": true
+    },
+    {
       "id": "anilist-127564",
       "name": "Go! Go! Loser Ranger!",
       "volumeCount": 22,
@@ -2382,12 +2400,6 @@
       "id": "anilist-118695",
       "name": "I’m in Love with the Villainess",
       "volumeCount": 5,
-      "ongoing": true
-    },
-    {
-      "id": "anilist-169272",
-      "name": "Tune In to the Midnight Heart",
-      "volumeCount": 14,
       "ongoing": true
     },
     {
