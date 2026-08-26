@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-08-25T04:33:13Z",
+  "_generated": "2026-08-26T04:33:42Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -521,7 +521,7 @@
     {
       "id": "anilist-86551",
       "name": "Made in Abyss",
-      "volumeCount": 14,
+      "volumeCount": 15,
       "ongoing": true
     },
     {
@@ -1041,15 +1041,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-33006",
-      "name": "JoJo's Bizarre Adventure Part 4: Diamond is Unbreakable",
-      "volumeCount": 18,
-      "ongoing": false
-    },
-    {
       "id": "anilist-110462",
       "name": "Tomb Raider King",
       "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-33006",
+      "name": "JoJo's Bizarre Adventure Part 4: Diamond is Unbreakable",
+      "volumeCount": 18,
       "ongoing": false
     },
     {
@@ -1377,16 +1377,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-100557",
-      "name": "One Room of Happiness",
-      "volumeCount": 11,
-      "ongoing": false
-    },
-    {
       "id": "anilist-180752",
       "name": "Ichi the Witch",
       "volumeCount": 9,
       "ongoing": true
+    },
+    {
+      "id": "anilist-100557",
+      "name": "One Room of Happiness",
+      "volumeCount": 11,
+      "ongoing": false
     },
     {
       "id": "anilist-121991",
@@ -1701,15 +1701,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-57231",
-      "name": "Daytime Shooting Star",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-126135",
       "name": "Bibliomania",
       "volumeCount": 1,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-57231",
+      "name": "Daytime Shooting Star",
+      "volumeCount": 12,
       "ongoing": false
     },
     {
@@ -1785,16 +1785,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-116266",
-      "name": "Girlfriend, Girlfriend",
-      "volumeCount": 16,
-      "ongoing": false
-    },
-    {
       "id": "anilist-87225",
       "name": "Tsukimichi: Moonlit Fantasy",
       "volumeCount": 20,
       "ongoing": true
+    },
+    {
+      "id": "anilist-116266",
+      "name": "Girlfriend, Girlfriend",
+      "volumeCount": 16,
+      "ongoing": false
     },
     {
       "id": "anilist-98544",
@@ -1821,15 +1821,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85155",
-      "name": "The Gamer",
-      "volumeCount": 8,
-      "ongoing": false
-    },
-    {
       "id": "anilist-86607",
       "name": "Gleipnir",
       "volumeCount": 14,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85155",
+      "name": "The Gamer",
+      "volumeCount": 8,
       "ongoing": false
     },
     {
@@ -1851,15 +1851,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-48597",
-      "name": "Sankarea: Undying Love",
-      "volumeCount": 11,
-      "ongoing": false
-    },
-    {
       "id": "anilist-113488",
       "name": "Weak Hero",
       "volumeCount": 19,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-48597",
+      "name": "Sankarea: Undying Love",
+      "volumeCount": 11,
       "ongoing": false
     },
     {
@@ -1899,21 +1899,27 @@
       "ongoing": false
     },
     {
-      "id": "anilist-66213",
-      "name": "Monster Musume",
-      "volumeCount": 21,
-      "ongoing": true
-    },
-    {
       "id": "anilist-104241",
       "name": "How Do We Relationship?",
       "volumeCount": 14,
       "ongoing": false
     },
     {
+      "id": "anilist-66213",
+      "name": "Monster Musume",
+      "volumeCount": 21,
+      "ongoing": true
+    },
+    {
       "id": "anilist-78881",
       "name": "Darwin's Game",
       "volumeCount": 30,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-110605",
+      "name": "Leviathan",
+      "volumeCount": 9,
       "ongoing": false
     },
     {
@@ -1927,12 +1933,6 @@
       "name": "Chillin’ in Another World with Level 2 Super Cheat Powers",
       "volumeCount": 21,
       "ongoing": true
-    },
-    {
-      "id": "anilist-110605",
-      "name": "Leviathan",
-      "volumeCount": 9,
-      "ongoing": false
     },
     {
       "id": "anilist-100937",
@@ -1977,15 +1977,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-70171",
-      "name": "My Youth Romantic Comedy Is Wrong, As I Expected",
-      "volumeCount": 18,
-      "ongoing": false
-    },
-    {
       "id": "anilist-147997",
       "name": "You and I Are Polar Opposites",
       "volumeCount": 8,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-70171",
+      "name": "My Youth Romantic Comedy Is Wrong, As I Expected",
+      "volumeCount": 18,
       "ongoing": false
     },
     {
@@ -2175,6 +2175,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-107918",
+      "name": "Doctor Elise: The Royal Lady with the Lamp",
+      "volumeCount": 10,
+      "ongoing": false
+    },
+    {
       "id": "anilist-35293",
       "name": "Doubt",
       "volumeCount": 4,
@@ -2235,16 +2241,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30671",
-      "name": "To Love Ru",
-      "volumeCount": 18,
-      "ongoing": false
-    },
-    {
       "id": "anilist-171729",
       "name": "Love Bullet",
       "volumeCount": 2,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30671",
+      "name": "To Love Ru",
+      "volumeCount": 18,
+      "ongoing": false
     },
     {
       "id": "anilist-30085",
@@ -2373,6 +2379,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-169272",
+      "name": "Tune In to the Midnight Heart",
+      "volumeCount": 14,
+      "ongoing": true
+    },
+    {
       "id": "anilist-86355",
       "name": "That Time I Got Reincarnated as a Slime",
       "volumeCount": 23,
@@ -2382,12 +2394,6 @@
       "id": "anilist-85978",
       "name": "The New Gate",
       "volumeCount": 23,
-      "ongoing": true
-    },
-    {
-      "id": "anilist-169272",
-      "name": "Tune In to the Midnight Heart",
-      "volumeCount": 14,
       "ongoing": true
     },
     {
@@ -2403,9 +2409,9 @@
       "ongoing": true
     },
     {
-      "id": "anilist-30081",
-      "name": "Aria",
-      "volumeCount": 12,
+      "id": "anilist-110785",
+      "name": "2.5 Dimensional Seduction",
+      "volumeCount": 25,
       "ongoing": false
     }
   ]
