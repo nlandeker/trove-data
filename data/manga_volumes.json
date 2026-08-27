@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-08-26T04:33:42Z",
+  "_generated": "2026-08-27T14:55:28Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -717,15 +717,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85564",
-      "name": "Mushoku Tensei: Jobless Reincarnation",
-      "volumeCount": 25,
-      "ongoing": true
-    },
-    {
       "id": "anilist-106758",
       "name": "The Eminence in Shadow",
       "volumeCount": 7,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-85564",
+      "name": "Mushoku Tensei: Jobless Reincarnation",
+      "volumeCount": 25,
       "ongoing": true
     },
     {
@@ -831,6 +831,12 @@
       "ongoing": true
     },
     {
+      "id": "anilist-147149",
+      "name": "Smoking Behind the Supermarket with You",
+      "volumeCount": 9,
+      "ongoing": true
+    },
+    {
       "id": "anilist-44440",
       "name": "I Am a Hero",
       "volumeCount": 22,
@@ -843,8 +849,8 @@
       "ongoing": false
     },
     {
-      "id": "anilist-147149",
-      "name": "Smoking Behind the Supermarket with You",
+      "id": "anilist-118408",
+      "name": "Villains Are Destined to Die",
       "volumeCount": 9,
       "ongoing": true
     },
@@ -853,12 +859,6 @@
       "name": "Kubo Won't Let Me Be Invisible",
       "volumeCount": 12,
       "ongoing": false
-    },
-    {
-      "id": "anilist-118408",
-      "name": "Villains Are Destined to Die",
-      "volumeCount": 9,
-      "ongoing": true
     },
     {
       "id": "anilist-30912",
@@ -1767,16 +1767,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30029",
-      "name": "Paradise Kiss",
-      "volumeCount": 5,
-      "ongoing": false
-    },
-    {
       "id": "anilist-152404",
       "name": "Alya Sometimes Hides Her Feelings in Russian",
       "volumeCount": 11,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30029",
+      "name": "Paradise Kiss",
+      "volumeCount": 5,
+      "ongoing": false
     },
     {
       "id": "anilist-114027",
@@ -1833,15 +1833,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-97842",
-      "name": "My Hero Academia: Vigilantes",
-      "volumeCount": 15,
-      "ongoing": false
-    },
-    {
       "id": "anilist-101311",
       "name": "Bakemonogatari",
       "volumeCount": 22,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-97842",
+      "name": "My Hero Academia: Vigilantes",
+      "volumeCount": 15,
       "ongoing": false
     },
     {
@@ -1863,16 +1863,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-101434",
-      "name": "How to Treat a Lady Knight Right",
-      "volumeCount": 7,
-      "ongoing": false
-    },
-    {
       "id": "anilist-176740",
       "name": "Centuria",
       "volumeCount": 9,
       "ongoing": true
+    },
+    {
+      "id": "anilist-101434",
+      "name": "How to Treat a Lady Knight Right",
+      "volumeCount": 7,
+      "ongoing": false
     },
     {
       "id": "anilist-65719",
@@ -1959,15 +1959,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-40552",
-      "name": "Lucifer and the Biscuit Hammer",
-      "volumeCount": 10,
-      "ongoing": false
-    },
-    {
       "id": "anilist-113076",
       "name": "Sometimes Even Reality Is a Lie!",
       "volumeCount": 9,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-40552",
+      "name": "Lucifer and the Biscuit Hammer",
+      "volumeCount": 10,
       "ongoing": false
     },
     {
@@ -2061,15 +2061,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-101625",
-      "name": "Berserk of Gluttony",
-      "volumeCount": 8,
-      "ongoing": true
-    },
-    {
       "id": "anilist-153880",
       "name": "The Art of Reincarnation",
       "volumeCount": 12,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-101625",
+      "name": "Berserk of Gluttony",
+      "volumeCount": 8,
       "ongoing": true
     },
     {
@@ -2181,15 +2181,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-35293",
-      "name": "Doubt",
-      "volumeCount": 4,
-      "ongoing": false
-    },
-    {
       "id": "anilist-159142",
       "name": "Firefly Wedding",
       "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-35293",
+      "name": "Doubt",
+      "volumeCount": 4,
       "ongoing": false
     },
     {
@@ -2307,16 +2307,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-31131",
-      "name": "Freesia",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-125116",
       "name": "Wistoria: Wand and Sword",
       "volumeCount": 16,
       "ongoing": true
+    },
+    {
+      "id": "anilist-31131",
+      "name": "Freesia",
+      "volumeCount": 12,
+      "ongoing": false
     },
     {
       "id": "anilist-107518",
@@ -2373,22 +2373,28 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30031",
-      "name": "Love★Com",
-      "volumeCount": 17,
-      "ongoing": false
-    },
-    {
       "id": "anilist-169272",
       "name": "Tune In to the Midnight Heart",
       "volumeCount": 14,
       "ongoing": true
     },
     {
+      "id": "anilist-30031",
+      "name": "Love★Com",
+      "volumeCount": 17,
+      "ongoing": false
+    },
+    {
       "id": "anilist-86355",
       "name": "That Time I Got Reincarnated as a Slime",
       "volumeCount": 23,
       "ongoing": false
+    },
+    {
+      "id": "anilist-118695",
+      "name": "I’m in Love with the Villainess",
+      "volumeCount": 5,
+      "ongoing": true
     },
     {
       "id": "anilist-85978",
@@ -2400,12 +2406,6 @@
       "id": "anilist-127564",
       "name": "Go! Go! Loser Ranger!",
       "volumeCount": 22,
-      "ongoing": true
-    },
-    {
-      "id": "anilist-118695",
-      "name": "I’m in Love with the Villainess",
-      "volumeCount": 5,
       "ongoing": true
     },
     {
