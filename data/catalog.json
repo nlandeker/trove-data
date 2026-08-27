@@ -2,7 +2,7 @@
   "version": 2,
   "currency": "EUR",
   "_attribution": "LEGO data: Rebrickable (rebrickable.com) + Brickset (brickset.com). Not affiliated with or endorsed by The LEGO Group.",
-  "_generated": "2026-08-26T04:05:38Z",
+  "_generated": "2026-08-27T14:08:49Z",
   "items": [
     {
       "id": "001",
@@ -7281,8 +7281,8 @@
         "USD": 19.99,
         "GBP": 17.99
       },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-08-22",
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -60474,8 +60474,8 @@
         "USD": 12.99,
         "GBP": 10.99
       },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-08-24",
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -84953,8 +84953,8 @@
         "USD": 24.99,
         "GBP": 19.99
       },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-08-24",
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -85173,8 +85173,8 @@
         "USD": 14.99,
         "GBP": 12.99
       },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-08-25",
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -103418,8 +103418,8 @@
         "USD": 9.99,
         "GBP": 8.99
       },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-08-24",
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -103529,7 +103529,7 @@
         "GBP": 17.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-08-20",
+      "retirementDate": "2026-08-26",
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -103699,8 +103699,8 @@
         "USD": 9.99,
         "GBP": 8.99
       },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-08-21",
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -107389,8 +107389,8 @@
         "USD": 19.99,
         "GBP": 17.99
       },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-08-19",
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -124485,7 +124485,7 @@
       "lifecycleStatus": "RETIRED",
       "retirementDate": null,
       "marketPrice": null,
-      "year": 2020,
+      "year": 2019,
       "volumeCount": null,
       "ongoing": null
     },
@@ -146931,8 +146931,8 @@
         "USD": 9.99,
         "GBP": 7.99
       },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-08-24",
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -146969,8 +146969,8 @@
         "USD": 9.99,
         "GBP": 7.99
       },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-08-25",
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -147007,8 +147007,8 @@
         "USD": 9.99,
         "GBP": 8.99
       },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-08-22",
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -181674,8 +181674,8 @@
         "USD": 9.99,
         "GBP": 8.99
       },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-08-25",
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -193056,8 +193056,8 @@
         "USD": 14.99,
         "GBP": 12.99
       },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-08-19",
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -201253,8 +201253,8 @@
         "USD": 59.99,
         "GBP": 54.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-08-26",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -255636,6 +255636,21 @@
       "ongoing": null
     },
     {
+      "id": "FLAMINGMOTORBIKE",
+      "category": "LEGO",
+      "name": "Flaming Motorbike",
+      "imageURL": "",
+      "themeOrSeries": "Promotional",
+      "retailPrice": null,
+      "prices": {},
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2019,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
       "id": "FLATIRON",
       "category": "LEGO",
       "name": "The Lego Store Flatiron District Grand Opening",
@@ -262412,6 +262427,21 @@
       "retirementDate": null,
       "marketPrice": null,
       "year": 2012,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "SUMMERFLAMINGO",
+      "category": "LEGO",
+      "name": "Summer Flamingo",
+      "imageURL": "",
+      "themeOrSeries": "Promotional",
+      "retailPrice": null,
+      "prices": {},
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2019,
       "volumeCount": null,
       "ongoing": null
     },
