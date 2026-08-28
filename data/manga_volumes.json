@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-08-27T14:55:28Z",
+  "_generated": "2026-08-28T15:51:08Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -789,6 +789,12 @@
       "ongoing": true
     },
     {
+      "id": "anilist-144957",
+      "name": "The World After the Fall",
+      "volumeCount": 3,
+      "ongoing": true
+    },
+    {
       "id": "anilist-119174",
       "name": "The Boxer",
       "volumeCount": 13,
@@ -861,15 +867,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30912",
-      "name": "Tomie",
-      "volumeCount": 1,
-      "ongoing": false
-    },
-    {
       "id": "anilist-85911",
       "name": "Tomodachi Game",
       "volumeCount": 26,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30912",
+      "name": "Tomie",
+      "volumeCount": 1,
       "ongoing": false
     },
     {
@@ -1539,15 +1545,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-111403",
-      "name": "Hokkaido Gals Are Super Adorable!",
-      "volumeCount": 14,
-      "ongoing": false
-    },
-    {
       "id": "anilist-107279",
       "name": "Aoashi",
       "volumeCount": 40,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-111403",
+      "name": "Hokkaido Gals Are Super Adorable!",
+      "volumeCount": 14,
       "ongoing": false
     },
     {
@@ -1833,15 +1839,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-101311",
-      "name": "Bakemonogatari",
-      "volumeCount": 22,
-      "ongoing": false
-    },
-    {
       "id": "anilist-97842",
       "name": "My Hero Academia: Vigilantes",
       "volumeCount": 15,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-101311",
+      "name": "Bakemonogatari",
+      "volumeCount": 22,
       "ongoing": false
     },
     {
@@ -1851,15 +1857,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-113488",
-      "name": "Weak Hero",
-      "volumeCount": 19,
-      "ongoing": false
-    },
-    {
       "id": "anilist-48597",
       "name": "Sankarea: Undying Love",
       "volumeCount": 11,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-113488",
+      "name": "Weak Hero",
+      "volumeCount": 19,
       "ongoing": false
     },
     {
@@ -2019,22 +2025,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-98370",
-      "name": "Sasaki and Miyano",
-      "volumeCount": 11,
-      "ongoing": true
+      "id": "anilist-106726",
+      "name": "Shimeji Simulation",
+      "volumeCount": 5,
+      "ongoing": false
     },
     {
       "id": "anilist-34571",
       "name": "Snow White with the Red Hair",
       "volumeCount": 27,
       "ongoing": true
-    },
-    {
-      "id": "anilist-106726",
-      "name": "Shimeji Simulation",
-      "volumeCount": 5,
-      "ongoing": false
     },
     {
       "id": "anilist-78151",
@@ -2049,15 +2049,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-98112",
-      "name": "Gal Gohan",
-      "volumeCount": 10,
-      "ongoing": false
-    },
-    {
       "id": "anilist-86549",
       "name": "Go For It, Nakamura!",
       "volumeCount": 1,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-98112",
+      "name": "Gal Gohan",
+      "volumeCount": 10,
       "ongoing": false
     },
     {
@@ -2175,15 +2175,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-107918",
-      "name": "Doctor Elise: The Royal Lady with the Lamp",
-      "volumeCount": 10,
-      "ongoing": false
-    },
-    {
       "id": "anilist-159142",
       "name": "Firefly Wedding",
       "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-107918",
+      "name": "Doctor Elise: The Royal Lady with the Lamp",
+      "volumeCount": 10,
       "ongoing": false
     },
     {
@@ -2229,6 +2229,12 @@
       "ongoing": true
     },
     {
+      "id": "anilist-171729",
+      "name": "Love Bullet",
+      "volumeCount": 2,
+      "ongoing": true
+    },
+    {
       "id": "anilist-87234",
       "name": "The Elder Sister-Like One",
       "volumeCount": 6,
@@ -2239,12 +2245,6 @@
       "name": "Fist of the North Star",
       "volumeCount": 27,
       "ongoing": false
-    },
-    {
-      "id": "anilist-171729",
-      "name": "Love Bullet",
-      "volumeCount": 2,
-      "ongoing": true
     },
     {
       "id": "anilist-30671",
@@ -2265,16 +2265,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-100207",
-      "name": "The Great Jahy Will Not Be Defeated!",
-      "volumeCount": 12,
-      "ongoing": true
-    },
-    {
       "id": "anilist-68105",
       "name": "Kase-san and...",
       "volumeCount": 5,
       "ongoing": false
+    },
+    {
+      "id": "anilist-100207",
+      "name": "The Great Jahy Will Not Be Defeated!",
+      "volumeCount": 12,
+      "ongoing": true
     },
     {
       "id": "anilist-30092",
@@ -2295,6 +2295,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-125116",
+      "name": "Wistoria: Wand and Sword",
+      "volumeCount": 16,
+      "ongoing": true
+    },
+    {
       "id": "anilist-98466",
       "name": "Kemono Jihen",
       "volumeCount": 26,
@@ -2304,12 +2310,6 @@
       "id": "anilist-39115",
       "name": "Spice & Wolf",
       "volumeCount": 24,
-      "ongoing": true
-    },
-    {
-      "id": "anilist-125116",
-      "name": "Wistoria: Wand and Sword",
-      "volumeCount": 16,
       "ongoing": true
     },
     {
@@ -2394,12 +2394,6 @@
       "id": "anilist-118695",
       "name": "I’m in Love with the Villainess",
       "volumeCount": 5,
-      "ongoing": true
-    },
-    {
-      "id": "anilist-85978",
-      "name": "The New Gate",
-      "volumeCount": 23,
       "ongoing": true
     },
     {
