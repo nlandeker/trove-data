@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-08-28T15:51:08Z",
+  "_generated": "2026-08-29T10:38:59Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -789,12 +789,6 @@
       "ongoing": true
     },
     {
-      "id": "anilist-144957",
-      "name": "The World After the Fall",
-      "volumeCount": 3,
-      "ongoing": true
-    },
-    {
       "id": "anilist-119174",
       "name": "The Boxer",
       "volumeCount": 13,
@@ -831,15 +825,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30024",
-      "name": "D.Gray-man",
-      "volumeCount": 29,
-      "ongoing": true
-    },
-    {
       "id": "anilist-147149",
       "name": "Smoking Behind the Supermarket with You",
       "volumeCount": 9,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-30024",
+      "name": "D.Gray-man",
+      "volumeCount": 29,
       "ongoing": true
     },
     {
@@ -867,15 +861,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85911",
-      "name": "Tomodachi Game",
-      "volumeCount": 26,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30912",
       "name": "Tomie",
       "volumeCount": 1,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85911",
+      "name": "Tomodachi Game",
+      "volumeCount": 26,
       "ongoing": false
     },
     {
@@ -1857,6 +1851,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-176740",
+      "name": "Centuria",
+      "volumeCount": 9,
+      "ongoing": true
+    },
+    {
       "id": "anilist-48597",
       "name": "Sankarea: Undying Love",
       "volumeCount": 11,
@@ -1867,12 +1867,6 @@
       "name": "Weak Hero",
       "volumeCount": 19,
       "ongoing": false
-    },
-    {
-      "id": "anilist-176740",
-      "name": "Centuria",
-      "volumeCount": 9,
-      "ongoing": true
     },
     {
       "id": "anilist-101434",
@@ -1965,15 +1959,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-113076",
-      "name": "Sometimes Even Reality Is a Lie!",
-      "volumeCount": 9,
-      "ongoing": false
-    },
-    {
       "id": "anilist-40552",
       "name": "Lucifer and the Biscuit Hammer",
       "volumeCount": 10,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-113076",
+      "name": "Sometimes Even Reality Is a Lie!",
+      "volumeCount": 9,
       "ongoing": false
     },
     {
@@ -2025,16 +2019,22 @@
       "ongoing": false
     },
     {
-      "id": "anilist-106726",
-      "name": "Shimeji Simulation",
-      "volumeCount": 5,
-      "ongoing": false
+      "id": "anilist-98370",
+      "name": "Sasaki and Miyano",
+      "volumeCount": 11,
+      "ongoing": true
     },
     {
       "id": "anilist-34571",
       "name": "Snow White with the Red Hair",
       "volumeCount": 27,
       "ongoing": true
+    },
+    {
+      "id": "anilist-106726",
+      "name": "Shimeji Simulation",
+      "volumeCount": 5,
+      "ongoing": false
     },
     {
       "id": "anilist-78151",
@@ -2163,6 +2163,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-107720",
+      "name": "Her Summon",
+      "volumeCount": 14,
+      "ongoing": false
+    },
+    {
       "id": "anilist-30106",
       "name": "Cardcaptor Sakura",
       "volumeCount": 12,
@@ -2235,16 +2241,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-87234",
-      "name": "The Elder Sister-Like One",
-      "volumeCount": 6,
-      "ongoing": true
-    },
-    {
       "id": "anilist-31149",
       "name": "Fist of the North Star",
       "volumeCount": 27,
       "ongoing": false
+    },
+    {
+      "id": "anilist-87234",
+      "name": "The Elder Sister-Like One",
+      "volumeCount": 6,
+      "ongoing": true
     },
     {
       "id": "anilist-30671",
@@ -2307,16 +2313,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-39115",
-      "name": "Spice & Wolf",
-      "volumeCount": 24,
-      "ongoing": true
-    },
-    {
       "id": "anilist-31131",
       "name": "Freesia",
       "volumeCount": 12,
       "ongoing": false
+    },
+    {
+      "id": "anilist-39115",
+      "name": "Spice & Wolf",
+      "volumeCount": 24,
+      "ongoing": true
     },
     {
       "id": "anilist-107518",
@@ -2367,16 +2373,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-110140",
-      "name": "It Takes Two Tomorrow, Too",
-      "volumeCount": 5,
-      "ongoing": false
-    },
-    {
       "id": "anilist-169272",
       "name": "Tune In to the Midnight Heart",
       "volumeCount": 14,
       "ongoing": true
+    },
+    {
+      "id": "anilist-110140",
+      "name": "It Takes Two Tomorrow, Too",
+      "volumeCount": 5,
+      "ongoing": false
     },
     {
       "id": "anilist-30031",
@@ -2394,6 +2400,12 @@
       "id": "anilist-118695",
       "name": "I’m in Love with the Villainess",
       "volumeCount": 5,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-85978",
+      "name": "The New Gate",
+      "volumeCount": 23,
       "ongoing": true
     },
     {
