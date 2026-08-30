@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-08-29T10:38:59Z",
+  "_generated": "2026-08-30T09:38:34Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -771,6 +771,12 @@
       "ongoing": true
     },
     {
+      "id": "anilist-86848",
+      "name": "Lookism",
+      "volumeCount": 20,
+      "ongoing": true
+    },
+    {
       "id": "anilist-98328",
       "name": "Jagaaan",
       "volumeCount": 14,
@@ -786,6 +792,12 @@
       "id": "anilist-73661",
       "name": "Seraph of the End: Vampire Reign",
       "volumeCount": 37,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-144957",
+      "name": "The World After the Fall",
+      "volumeCount": 9,
       "ongoing": true
     },
     {
@@ -825,15 +837,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-147149",
-      "name": "Smoking Behind the Supermarket with You",
-      "volumeCount": 9,
-      "ongoing": true
-    },
-    {
       "id": "anilist-30024",
       "name": "D.Gray-man",
       "volumeCount": 29,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-147149",
+      "name": "Smoking Behind the Supermarket with You",
+      "volumeCount": 9,
       "ongoing": true
     },
     {
@@ -843,16 +855,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86099",
-      "name": "Wind Breaker",
-      "volumeCount": 26,
-      "ongoing": false
-    },
-    {
       "id": "anilist-118408",
       "name": "Villains Are Destined to Die",
       "volumeCount": 9,
       "ongoing": true
+    },
+    {
+      "id": "anilist-86099",
+      "name": "Wind Breaker",
+      "volumeCount": 26,
+      "ongoing": false
     },
     {
       "id": "anilist-112981",
@@ -873,16 +885,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-94970",
-      "name": "Classroom of the Elite",
-      "volumeCount": 14,
-      "ongoing": false
-    },
-    {
       "id": "anilist-138603",
       "name": "The Summer Hikaru Died",
       "volumeCount": 9,
       "ongoing": true
+    },
+    {
+      "id": "anilist-94970",
+      "name": "Classroom of the Elite",
+      "volumeCount": 14,
+      "ongoing": false
     },
     {
       "id": "anilist-101177",
@@ -1005,16 +1017,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-87208",
-      "name": "Our Dreams at Dusk: Shimanami Tasogare",
-      "volumeCount": 4,
-      "ongoing": false
-    },
-    {
       "id": "anilist-99324",
       "name": "Welcome to Demon School! Iruma-kun",
       "volumeCount": 49,
       "ongoing": true
+    },
+    {
+      "id": "anilist-87208",
+      "name": "Our Dreams at Dusk: Shimanami Tasogare",
+      "volumeCount": 4,
+      "ongoing": false
     },
     {
       "id": "anilist-87459",
@@ -1857,15 +1869,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-48597",
-      "name": "Sankarea: Undying Love",
-      "volumeCount": 11,
-      "ongoing": false
-    },
-    {
       "id": "anilist-113488",
       "name": "Weak Hero",
       "volumeCount": 19,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-48597",
+      "name": "Sankarea: Undying Love",
+      "volumeCount": 11,
       "ongoing": false
     },
     {
@@ -1893,15 +1905,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-60079",
-      "name": "The Sound of Magic: Annarasumanara",
-      "volumeCount": 3,
-      "ongoing": false
-    },
-    {
       "id": "anilist-104241",
       "name": "How Do We Relationship?",
       "volumeCount": 14,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-60079",
+      "name": "The Sound of Magic: Annarasumanara",
+      "volumeCount": 3,
       "ongoing": false
     },
     {
@@ -1959,15 +1971,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-40552",
-      "name": "Lucifer and the Biscuit Hammer",
-      "volumeCount": 10,
-      "ongoing": false
-    },
-    {
       "id": "anilist-113076",
       "name": "Sometimes Even Reality Is a Lie!",
       "volumeCount": 9,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-40552",
+      "name": "Lucifer and the Biscuit Hammer",
+      "volumeCount": 10,
       "ongoing": false
     },
     {
@@ -2001,16 +2013,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-85616",
-      "name": "Seaside Stranger: Umibe no Étranger",
-      "volumeCount": 1,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30735",
       "name": "Black Lagoon",
       "volumeCount": 14,
       "ongoing": true
+    },
+    {
+      "id": "anilist-85616",
+      "name": "Seaside Stranger: Umibe no Étranger",
+      "volumeCount": 1,
+      "ongoing": false
     },
     {
       "id": "anilist-30933",
@@ -2097,15 +2109,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-101860",
-      "name": "EDENS ZERO",
-      "volumeCount": 33,
-      "ongoing": false
-    },
-    {
       "id": "anilist-121565",
       "name": "Seasons of Blossom",
       "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-101860",
+      "name": "EDENS ZERO",
+      "volumeCount": 33,
       "ongoing": false
     },
     {
@@ -2307,16 +2319,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-98466",
-      "name": "Kemono Jihen",
-      "volumeCount": 26,
-      "ongoing": true
-    },
-    {
       "id": "anilist-31131",
       "name": "Freesia",
       "volumeCount": 12,
       "ongoing": false
+    },
+    {
+      "id": "anilist-98466",
+      "name": "Kemono Jihen",
+      "volumeCount": 26,
+      "ongoing": true
     },
     {
       "id": "anilist-39115",
