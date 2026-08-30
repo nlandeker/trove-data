@@ -2,7 +2,7 @@
   "version": 2,
   "currency": "EUR",
   "_attribution": "LEGO data: Rebrickable (rebrickable.com) + Brickset (brickset.com). Not affiliated with or endorsed by The LEGO Group.",
-  "_generated": "2026-08-29T09:59:45Z",
+  "_generated": "2026-08-30T09:13:56Z",
   "items": [
     {
       "id": "001",
@@ -84915,8 +84915,8 @@
         "USD": 24.99,
         "GBP": 19.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-08-29",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -85888,6 +85888,21 @@
       "ongoing": null
     },
     {
+      "id": "40901",
+      "category": "LEGO",
+      "name": "Ministry Munchies & The Daily Prophet Stands",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/40901-1/179626.jpg",
+      "themeOrSeries": "Harry Potter",
+      "retailPrice": null,
+      "prices": {},
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
       "id": "40902",
       "category": "LEGO",
       "name": "Tribute to Leonardo da Vinci",
@@ -86404,6 +86419,25 @@
       "themeOrSeries": "Promotional",
       "retailPrice": null,
       "prices": {},
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "40975",
+      "category": "LEGO",
+      "name": "Mini Hogwarts Castle",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/40975-1/179064.jpg",
+      "themeOrSeries": "Harry Potter",
+      "retailPrice": 39.99,
+      "prices": {
+        "EUR": 39.99,
+        "USD": 39.99,
+        "GBP": 34.99
+      },
       "lifecycleStatus": "AVAILABLE",
       "retirementDate": null,
       "marketPrice": null,
@@ -101522,8 +101556,8 @@
         "USD": 9.99,
         "GBP": 8.99
       },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-08-24",
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -101670,8 +101704,8 @@
         "USD": 9.99,
         "GBP": 8.99
       },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-08-11",
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -102856,8 +102890,8 @@
         "USD": 19.99,
         "GBP": 17.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-08-29",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -103528,8 +103562,8 @@
         "USD": 19.99,
         "GBP": 17.99
       },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-08-26",
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -103737,8 +103771,8 @@
         "USD": 9.99,
         "GBP": 8.99
       },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-08-25",
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -144423,7 +144457,7 @@
     {
       "id": "60337",
       "category": "LEGO",
-      "name": "Passenger Express Train",
+      "name": "Express Passenger Train",
       "imageURL": "https://cdn.rebrickable.com/media/sets/60337-1/101607.jpg",
       "themeOrSeries": "City",
       "retailPrice": null,
@@ -146721,7 +146755,7 @@
     {
       "id": "60470",
       "category": "LEGO",
-      "name": "Explorers' Arctic Polar Express Train",
+      "name": "Explorer Train",
       "imageURL": "https://cdn.rebrickable.com/media/sets/60470-1/155299.jpg",
       "themeOrSeries": "City",
       "retailPrice": 199.99,
@@ -146950,8 +146984,8 @@
         "USD": 9.99,
         "GBP": 7.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-08-29",
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -182680,8 +182714,8 @@
         "USD": 49.99,
         "GBP": 44.99
       },
-      "lifecycleStatus": "RETIRING_SOON",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-08-29",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -201086,8 +201120,8 @@
         "USD": 14.99,
         "GBP": 12.99
       },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-08-20",
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -201602,8 +201636,8 @@
         "USD": 24.99,
         "GBP": 19.99
       },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-08-19",
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -202983,8 +203017,8 @@
         "USD": 49.99,
         "GBP": 44.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-08-29",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -203059,8 +203093,8 @@
         "USD": 59.99,
         "GBP": 54.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-08-29",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -203521,6 +203555,25 @@
         "EUR": 29.99,
         "USD": 34.99,
         "GBP": 24.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "76476",
+      "category": "LEGO",
+      "name": "The Ministry of Magic \u2013 Collectors' Edition",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/76476-1/179336.jpg",
+      "themeOrSeries": "Harry Potter",
+      "retailPrice": 429.99,
+      "prices": {
+        "EUR": 429.99,
+        "USD": 449.99,
+        "GBP": 389.99
       },
       "lifecycleStatus": "AVAILABLE",
       "retirementDate": null,
@@ -205592,8 +205645,8 @@
         "USD": 19.99,
         "GBP": 17.99
       },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-08-24",
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -227903,8 +227956,8 @@
         "USD": 29.99,
         "GBP": 24.99
       },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-08-28",
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
