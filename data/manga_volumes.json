@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-08-30T09:38:34Z",
+  "_generated": "2026-08-31T10:19:58Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -741,15 +741,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85307",
-      "name": "Bungo Stray Dogs",
-      "volumeCount": 28,
-      "ongoing": true
-    },
-    {
       "id": "anilist-99022",
       "name": "The Apothecary Diaries",
       "volumeCount": 16,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-85307",
+      "name": "Bungo Stray Dogs",
+      "volumeCount": 28,
       "ongoing": true
     },
     {
@@ -771,12 +771,6 @@
       "ongoing": true
     },
     {
-      "id": "anilist-86848",
-      "name": "Lookism",
-      "volumeCount": 20,
-      "ongoing": true
-    },
-    {
       "id": "anilist-98328",
       "name": "Jagaaan",
       "volumeCount": 14,
@@ -792,12 +786,6 @@
       "id": "anilist-73661",
       "name": "Seraph of the End: Vampire Reign",
       "volumeCount": 37,
-      "ongoing": true
-    },
-    {
-      "id": "anilist-144957",
-      "name": "The World After the Fall",
-      "volumeCount": 9,
       "ongoing": true
     },
     {
@@ -837,15 +825,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30024",
-      "name": "D.Gray-man",
-      "volumeCount": 29,
-      "ongoing": true
-    },
-    {
       "id": "anilist-147149",
       "name": "Smoking Behind the Supermarket with You",
       "volumeCount": 9,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-30024",
+      "name": "D.Gray-man",
+      "volumeCount": 29,
       "ongoing": true
     },
     {
@@ -873,15 +861,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30912",
-      "name": "Tomie",
-      "volumeCount": 1,
-      "ongoing": false
-    },
-    {
       "id": "anilist-85911",
       "name": "Tomodachi Game",
       "volumeCount": 26,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30912",
+      "name": "Tomie",
+      "volumeCount": 1,
       "ongoing": false
     },
     {
@@ -1239,15 +1227,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30044",
-      "name": "Gin Tama",
-      "volumeCount": 77,
-      "ongoing": false
-    },
-    {
       "id": "anilist-66267",
       "name": "Inside Mari",
       "volumeCount": 9,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30044",
+      "name": "Gin Tama",
+      "volumeCount": 77,
       "ongoing": false
     },
     {
@@ -1869,15 +1857,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-113488",
-      "name": "Weak Hero",
-      "volumeCount": 19,
-      "ongoing": false
-    },
-    {
       "id": "anilist-48597",
       "name": "Sankarea: Undying Love",
       "volumeCount": 11,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-113488",
+      "name": "Weak Hero",
+      "volumeCount": 19,
       "ongoing": false
     },
     {
@@ -1899,15 +1887,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-85235",
-      "name": "School-Live!",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-104241",
       "name": "How Do We Relationship?",
       "volumeCount": 14,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85235",
+      "name": "School-Live!",
+      "volumeCount": 12,
       "ongoing": false
     },
     {
@@ -2037,16 +2025,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-34571",
-      "name": "Snow White with the Red Hair",
-      "volumeCount": 27,
-      "ongoing": true
-    },
-    {
       "id": "anilist-106726",
       "name": "Shimeji Simulation",
       "volumeCount": 5,
       "ongoing": false
+    },
+    {
+      "id": "anilist-34571",
+      "name": "Snow White with the Red Hair",
+      "volumeCount": 27,
+      "ongoing": true
     },
     {
       "id": "anilist-78151",
@@ -2187,15 +2175,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-31373",
-      "name": "Nijigahara Holograph",
-      "volumeCount": 1,
-      "ongoing": false
-    },
-    {
       "id": "anilist-159142",
       "name": "Firefly Wedding",
       "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-31373",
+      "name": "Nijigahara Holograph",
+      "volumeCount": 1,
       "ongoing": false
     },
     {
@@ -2241,15 +2229,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-86303",
-      "name": "Miss Kobayashi's Dragon Maid",
-      "volumeCount": 19,
-      "ongoing": true
-    },
-    {
       "id": "anilist-171729",
       "name": "Love Bullet",
       "volumeCount": 2,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-86303",
+      "name": "Miss Kobayashi's Dragon Maid",
+      "volumeCount": 19,
       "ongoing": true
     },
     {
