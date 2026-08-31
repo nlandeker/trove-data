@@ -2,7 +2,7 @@
   "version": 2,
   "currency": "EUR",
   "_attribution": "LEGO data: Rebrickable (rebrickable.com) + Brickset (brickset.com). Not affiliated with or endorsed by The LEGO Group.",
-  "_generated": "2026-08-30T09:13:56Z",
+  "_generated": "2026-08-31T09:41:55Z",
   "items": [
     {
       "id": "001",
@@ -37370,8 +37370,8 @@
         "USD": 9.99,
         "GBP": 8.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-08-30",
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -103061,8 +103061,8 @@
         "USD": 49.99,
         "GBP": 44.99
       },
-      "lifecycleStatus": "RETIRING_SOON",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-08-30",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -162344,6 +162344,21 @@
       "ongoing": null
     },
     {
+      "id": "6668941",
+      "category": "LEGO",
+      "name": "Trophy",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/6668941-1/180331.jpg",
+      "themeOrSeries": "Pok\u00e9mon",
+      "retailPrice": null,
+      "prices": {},
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
       "id": "6669",
       "category": "LEGO",
       "name": "Diesel Daredevil",
@@ -201636,8 +201651,8 @@
         "USD": 24.99,
         "GBP": 19.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-08-30",
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -245530,6 +245545,21 @@
       "retirementDate": null,
       "marketPrice": null,
       "year": 2024,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "9780241788080",
+      "category": "LEGO",
+      "name": "DC Comics Batman: Adventures in Gotham City",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/9780241788080-1/163478.jpg",
+      "themeOrSeries": "Books",
+      "retailPrice": null,
+      "prices": {},
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
       "volumeCount": null,
       "ongoing": null
     },
