@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-08-31T10:19:58Z",
+  "_generated": "2026-09-01T09:04:34Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -837,16 +837,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-44440",
-      "name": "I Am a Hero",
-      "volumeCount": 22,
-      "ongoing": false
-    },
-    {
       "id": "anilist-118408",
       "name": "Villains Are Destined to Die",
       "volumeCount": 9,
       "ongoing": true
+    },
+    {
+      "id": "anilist-44440",
+      "name": "I Am a Hero",
+      "volumeCount": 22,
+      "ongoing": false
     },
     {
       "id": "anilist-86099",
@@ -1383,15 +1383,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-100557",
-      "name": "One Room of Happiness",
-      "volumeCount": 11,
-      "ongoing": false
-    },
-    {
       "id": "anilist-121991",
       "name": "Viral Hit",
       "volumeCount": 10,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-100557",
+      "name": "One Room of Happiness",
+      "volumeCount": 11,
       "ongoing": false
     },
     {
@@ -1923,16 +1923,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30651",
-      "name": "Nausicaä of the Valley of the Wind",
-      "volumeCount": 7,
-      "ongoing": false
-    },
-    {
       "id": "anilist-107120",
       "name": "Chillin’ in Another World with Level 2 Super Cheat Powers",
       "volumeCount": 21,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30651",
+      "name": "Nausicaä of the Valley of the Wind",
+      "volumeCount": 7,
+      "ongoing": false
     },
     {
       "id": "anilist-100937",
@@ -1965,6 +1965,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-147997",
+      "name": "You and I Are Polar Opposites",
+      "volumeCount": 8,
+      "ongoing": false
+    },
+    {
       "id": "anilist-40552",
       "name": "Lucifer and the Biscuit Hammer",
       "volumeCount": 10,
@@ -1974,12 +1980,6 @@
       "id": "anilist-58361",
       "name": "HIDEOUT",
       "volumeCount": 1,
-      "ongoing": false
-    },
-    {
-      "id": "anilist-147997",
-      "name": "You and I Are Polar Opposites",
-      "volumeCount": 8,
       "ongoing": false
     },
     {
@@ -2241,16 +2241,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-31149",
-      "name": "Fist of the North Star",
-      "volumeCount": 27,
-      "ongoing": false
-    },
-    {
       "id": "anilist-87234",
       "name": "The Elder Sister-Like One",
       "volumeCount": 6,
       "ongoing": true
+    },
+    {
+      "id": "anilist-31149",
+      "name": "Fist of the North Star",
+      "volumeCount": 27,
+      "ongoing": false
     },
     {
       "id": "anilist-30671",
@@ -2277,16 +2277,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-100207",
-      "name": "The Great Jahy Will Not Be Defeated!",
-      "volumeCount": 12,
-      "ongoing": true
-    },
-    {
       "id": "anilist-30092",
       "name": "Sailor Moon",
       "volumeCount": 18,
       "ongoing": false
+    },
+    {
+      "id": "anilist-100207",
+      "name": "The Great Jahy Will Not Be Defeated!",
+      "volumeCount": 12,
+      "ongoing": true
     },
     {
       "id": "anilist-85139",
@@ -2319,16 +2319,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-39115",
-      "name": "Spice & Wolf",
-      "volumeCount": 24,
-      "ongoing": true
-    },
-    {
       "id": "anilist-107518",
       "name": "Heavenly Demon Reborn!",
       "volumeCount": 10,
       "ongoing": false
+    },
+    {
+      "id": "anilist-39115",
+      "name": "Spice & Wolf",
+      "volumeCount": 24,
+      "ongoing": true
     },
     {
       "id": "anilist-35255",
@@ -2403,22 +2403,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-85978",
-      "name": "The New Gate",
-      "volumeCount": 23,
-      "ongoing": true
+      "id": "anilist-110785",
+      "name": "2.5 Dimensional Seduction",
+      "volumeCount": 25,
+      "ongoing": false
     },
     {
       "id": "anilist-127564",
       "name": "Go! Go! Loser Ranger!",
       "volumeCount": 22,
       "ongoing": true
-    },
-    {
-      "id": "anilist-110785",
-      "name": "2.5 Dimensional Seduction",
-      "volumeCount": 25,
-      "ongoing": false
     }
   ]
 }
