@@ -2,7 +2,7 @@
   "version": 2,
   "currency": "EUR",
   "_attribution": "LEGO data: Rebrickable (rebrickable.com) + Brickset (brickset.com). Not affiliated with or endorsed by The LEGO Group.",
-  "_generated": "2026-09-01T08:34:37Z",
+  "_generated": "2026-09-02T07:55:32Z",
   "items": [
     {
       "id": "001",
@@ -15199,8 +15199,8 @@
         "USD": 9.99,
         "GBP": 8.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-09-01",
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -16360,6 +16360,25 @@
       "ongoing": null
     },
     {
+      "id": "11383",
+      "category": "LEGO",
+      "name": "Mayor Manor",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/11383-1/177489.jpg",
+      "themeOrSeries": "Icons",
+      "retailPrice": 109.99,
+      "prices": {
+        "EUR": 109.99,
+        "USD": 119.99,
+        "GBP": 99.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
       "id": "11384",
       "category": "LEGO",
       "name": "Golden Retriever Puppy",
@@ -16370,6 +16389,44 @@
         "EUR": 139.99,
         "USD": 139.99,
         "GBP": 129.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "11385",
+      "category": "LEGO",
+      "name": "Star Trek: U.S.S. Enterprise NCC-1701 Bridge",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/11385-1/178322.jpg",
+      "themeOrSeries": "Icons",
+      "retailPrice": 179.99,
+      "prices": {
+        "EUR": 179.99,
+        "USD": 199.99,
+        "GBP": 159.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "11386",
+      "category": "LEGO",
+      "name": "SpongeBob SquarePants: Bikini Bottom",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/11386-1/177653.jpg",
+      "themeOrSeries": "Icons",
+      "retailPrice": 209.99,
+      "prices": {
+        "EUR": 209.99,
+        "USD": 219.99,
+        "GBP": 189.99
       },
       "lifecycleStatus": "AVAILABLE",
       "retirementDate": null,
@@ -60440,7 +60497,7 @@
       "themeOrSeries": "Creator",
       "retailPrice": null,
       "prices": {},
-      "lifecycleStatus": "RETIRING_SOON",
+      "lifecycleStatus": "AVAILABLE",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2024,
@@ -61200,7 +61257,7 @@
         "GBP": 54.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-07-08",
+      "retirementDate": "2026-09-01",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -85431,6 +85488,44 @@
       "ongoing": null
     },
     {
+      "id": "40858",
+      "category": "LEGO",
+      "name": "SpongeBob SquarePants Figure",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/40858-1/177645.jpg",
+      "themeOrSeries": "Brickheadz",
+      "retailPrice": 12.99,
+      "prices": {
+        "EUR": 12.99,
+        "USD": 12.99,
+        "GBP": 10.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "40859",
+      "category": "LEGO",
+      "name": "Golden Age Superman and Batman Figures",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/40859-1/179179.jpg",
+      "themeOrSeries": "Brickheadz",
+      "retailPrice": 24.99,
+      "prices": {
+        "EUR": 24.99,
+        "USD": 24.99,
+        "GBP": 22.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
       "id": "40860",
       "category": "LEGO",
       "name": "Toy Story",
@@ -86090,6 +86185,25 @@
       "themeOrSeries": "Star Wars",
       "retailPrice": null,
       "prices": {},
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "40919",
+      "category": "LEGO",
+      "name": "Gremlins Gizmo and Stripe Figures",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/40919-1/179192.jpg",
+      "themeOrSeries": "Brickheadz",
+      "retailPrice": 24.99,
+      "prices": {
+        "EUR": 24.99,
+        "USD": 24.99,
+        "GBP": 19.99
+      },
       "lifecycleStatus": "AVAILABLE",
       "retirementDate": null,
       "marketPrice": null,
@@ -101704,8 +101818,8 @@
         "USD": 9.99,
         "GBP": 8.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-09-01",
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -103904,6 +104018,25 @@
       "ongoing": null
     },
     {
+      "id": "42698",
+      "category": "LEGO",
+      "name": "Friends Advent Calendar 2026",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/42698-1/173461.jpg",
+      "themeOrSeries": "Seasonal",
+      "retailPrice": 26.99,
+      "prices": {
+        "EUR": 26.99,
+        "USD": 34.99,
+        "GBP": 22.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
       "id": "42699",
       "category": "LEGO",
       "name": "Beach House with Seals",
@@ -104982,11 +105115,49 @@
       "ongoing": null
     },
     {
+      "id": "43024",
+      "category": "LEGO",
+      "name": "Ayrton Senna Helmet",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/43024-1/179745.jpg",
+      "themeOrSeries": "Editions",
+      "retailPrice": 89.99,
+      "prices": {
+        "EUR": 89.99,
+        "USD": 89.99,
+        "GBP": 79.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
       "id": "43025",
       "category": "LEGO",
       "name": "Nike Air Max 95 x LEGO Set",
       "imageURL": "https://cdn.rebrickable.com/media/sets/43025-1/170139.jpg",
       "themeOrSeries": "Nike",
+      "retailPrice": 99.99,
+      "prices": {
+        "EUR": 99.99,
+        "USD": 99.99,
+        "GBP": 89.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "43026",
+      "category": "LEGO",
+      "name": "Nike Air Force 1 x LEGO Set",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/43026-1/179636.jpg",
+      "themeOrSeries": "Editions",
       "retailPrice": 99.99,
       "prices": {
         "EUR": 99.99,
@@ -106551,7 +106722,7 @@
       "themeOrSeries": "Disney",
       "retailPrice": null,
       "prices": {},
-      "lifecycleStatus": "RETIRING_SOON",
+      "lifecycleStatus": "AVAILABLE",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2024,
@@ -107488,6 +107659,25 @@
       "ongoing": null
     },
     {
+      "id": "43298",
+      "category": "LEGO",
+      "name": "Disney Princess Advent Calendar 2026",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/43298-1/171835.jpg",
+      "themeOrSeries": "Seasonal",
+      "retailPrice": 34.99,
+      "prices": {
+        "EUR": 34.99,
+        "USD": 44.99,
+        "GBP": 29.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
       "id": "43299",
       "category": "LEGO",
       "name": "Ariel's Royal Wedding Boat",
@@ -107575,8 +107765,8 @@
         "USD": 9.99,
         "GBP": 8.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-09-01",
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -111556,6 +111746,21 @@
       "retirementDate": null,
       "marketPrice": null,
       "year": 2013,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "45520",
+      "category": "LEGO",
+      "name": "Computer Science & AI Kit K-2",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/45520-1/166816.jpg",
+      "themeOrSeries": "Educational and Dacta",
+      "retailPrice": null,
+      "prices": {},
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
       "volumeCount": null,
       "ongoing": null
     },
@@ -147170,8 +147375,8 @@
         "USD": 19.99,
         "GBP": 17.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-09-01",
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -147512,6 +147717,25 @@
       "retirementDate": null,
       "marketPrice": null,
       "year": 1978,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "60510",
+      "category": "LEGO",
+      "name": "City Advent Calendar 2026",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/60510-1/171840.jpg",
+      "themeOrSeries": "Seasonal",
+      "retailPrice": 26.99,
+      "prices": {
+        "EUR": 26.99,
+        "USD": 34.99,
+        "GBP": 22.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
       "volumeCount": null,
       "ongoing": null
     },
@@ -193242,6 +193466,25 @@
       "ongoing": null
     },
     {
+      "id": "75456",
+      "category": "LEGO",
+      "name": "Star Wars Advent Calendar 2026",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/75456-1/171855.jpg",
+      "themeOrSeries": "Seasonal",
+      "retailPrice": 34.99,
+      "prices": {
+        "EUR": 34.99,
+        "USD": 44.99,
+        "GBP": 29.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
       "id": "75458",
       "category": "LEGO",
       "name": "Imperial Remnant AT-RT Driver Helmet",
@@ -201359,8 +201602,8 @@
         "USD": 22.99,
         "GBP": 17.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-09-01",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -201754,6 +201997,25 @@
       "ongoing": null
     },
     {
+      "id": "76340",
+      "category": "LEGO",
+      "name": "Super Heroes Marvel Advent Calendar 2026",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/76340-1/171859.jpg",
+      "themeOrSeries": "Seasonal",
+      "retailPrice": 34.99,
+      "prices": {
+        "EUR": 34.99,
+        "USD": 44.99,
+        "GBP": 29.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
       "id": "7634",
       "category": "LEGO",
       "name": "Tractor",
@@ -201845,6 +202107,25 @@
       "ongoing": null
     },
     {
+      "id": "76345",
+      "category": "LEGO",
+      "name": "Doctor Doom Bust",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/76345-1/178706.jpg",
+      "themeOrSeries": "Super Heroes Marvel",
+      "retailPrice": 49.99,
+      "prices": {
+        "EUR": 49.99,
+        "USD": 49.99,
+        "GBP": 44.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
       "id": "76346",
       "category": "LEGO",
       "name": "Spider-Man Hero Figure",
@@ -201927,6 +202208,25 @@
         "EUR": 369.99,
         "USD": 399.99,
         "GBP": 329.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "76355",
+      "category": "LEGO",
+      "name": "Batman Returns Batmobile",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/76355-1/179801.jpg",
+      "themeOrSeries": "Super Heroes DC",
+      "retailPrice": 209.99,
+      "prices": {
+        "EUR": 209.99,
+        "USD": 229.99,
+        "GBP": 189.99
       },
       "lifecycleStatus": "AVAILABLE",
       "retirementDate": null,
@@ -203218,8 +203518,8 @@
         "USD": 259.99,
         "GBP": 229.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-09-01",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -204105,8 +204405,8 @@
         "USD": 109.99,
         "GBP": 89.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-09-01",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
