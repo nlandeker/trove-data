@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-09-01T09:04:34Z",
+  "_generated": "2026-09-02T08:18:06Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -675,16 +675,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-38967",
-      "name": "Onani Master Kurosawa",
-      "volumeCount": 4,
-      "ongoing": false
-    },
-    {
       "id": "anilist-126693",
       "name": "Choujin X",
       "volumeCount": 16,
       "ongoing": true
+    },
+    {
+      "id": "anilist-38967",
+      "name": "Onani Master Kurosawa",
+      "volumeCount": 4,
+      "ongoing": false
     },
     {
       "id": "anilist-85189",
@@ -786,6 +786,12 @@
       "id": "anilist-73661",
       "name": "Seraph of the End: Vampire Reign",
       "volumeCount": 37,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-144957",
+      "name": "The World After the Fall",
+      "volumeCount": 3,
       "ongoing": true
     },
     {
@@ -891,15 +897,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-85316",
-      "name": "Dead Dead Demon's Dededede Destruction",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-63031",
       "name": "Alice in Borderland",
       "volumeCount": 18,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85316",
+      "name": "Dead Dead Demon's Dededede Destruction",
+      "volumeCount": 12,
       "ongoing": false
     },
     {
@@ -1109,7 +1115,7 @@
     {
       "id": "anilist-86508",
       "name": "Dragon Ball Super",
-      "volumeCount": 42,
+      "volumeCount": 24,
       "ongoing": true
     },
     {
@@ -1347,16 +1353,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30418",
-      "name": "Mushishi",
-      "volumeCount": 10,
-      "ongoing": false
-    },
-    {
       "id": "anilist-107987",
       "name": "Whisper Me a Love Song",
       "volumeCount": 12,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30418",
+      "name": "Mushishi",
+      "volumeCount": 10,
+      "ongoing": false
     },
     {
       "id": "anilist-31303",
@@ -1581,15 +1587,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-56736",
-      "name": "House of the Sun",
-      "volumeCount": 13,
-      "ongoing": false
-    },
-    {
       "id": "anilist-117620",
       "name": "The Summer You Were There",
       "volumeCount": 6,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-56736",
+      "name": "House of the Sun",
+      "volumeCount": 13,
       "ongoing": false
     },
     {
@@ -1827,12 +1833,6 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85155",
-      "name": "The Gamer",
-      "volumeCount": 8,
-      "ongoing": false
-    },
-    {
       "id": "anilist-97842",
       "name": "My Hero Academia: Vigilantes",
       "volumeCount": 15,
@@ -1911,15 +1911,21 @@
       "ongoing": true
     },
     {
+      "id": "anilist-110605",
+      "name": "Leviathan",
+      "volumeCount": 9,
+      "ongoing": false
+    },
+    {
       "id": "anilist-78881",
       "name": "Darwin's Game",
       "volumeCount": 30,
       "ongoing": false
     },
     {
-      "id": "anilist-110605",
-      "name": "Leviathan",
-      "volumeCount": 9,
+      "id": "anilist-30651",
+      "name": "Nausicaä of the Valley of the Wind",
+      "volumeCount": 7,
       "ongoing": false
     },
     {
@@ -1927,12 +1933,6 @@
       "name": "Chillin’ in Another World with Level 2 Super Cheat Powers",
       "volumeCount": 21,
       "ongoing": true
-    },
-    {
-      "id": "anilist-30651",
-      "name": "Nausicaä of the Valley of the Wind",
-      "volumeCount": 7,
-      "ongoing": false
     },
     {
       "id": "anilist-100937",
@@ -1959,15 +1959,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-113076",
-      "name": "Sometimes Even Reality Is a Lie!",
-      "volumeCount": 9,
-      "ongoing": false
-    },
-    {
       "id": "anilist-147997",
       "name": "You and I Are Polar Opposites",
       "volumeCount": 8,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-113076",
+      "name": "Sometimes Even Reality Is a Lie!",
+      "volumeCount": 9,
       "ongoing": false
     },
     {
@@ -2055,16 +2055,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-98112",
-      "name": "Gal Gohan",
-      "volumeCount": 10,
-      "ongoing": false
-    },
-    {
       "id": "anilist-153880",
       "name": "The Art of Reincarnation",
       "volumeCount": 12,
       "ongoing": true
+    },
+    {
+      "id": "anilist-98112",
+      "name": "Gal Gohan",
+      "volumeCount": 10,
+      "ongoing": false
     },
     {
       "id": "anilist-101625",
@@ -2223,15 +2223,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-54903",
-      "name": "GANGSTA.",
-      "volumeCount": 9,
-      "ongoing": true
-    },
-    {
       "id": "anilist-171729",
       "name": "Love Bullet",
       "volumeCount": 2,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-54903",
+      "name": "GANGSTA.",
+      "volumeCount": 9,
       "ongoing": true
     },
     {
@@ -2241,16 +2241,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-87234",
-      "name": "The Elder Sister-Like One",
-      "volumeCount": 6,
-      "ongoing": true
-    },
-    {
       "id": "anilist-31149",
       "name": "Fist of the North Star",
       "volumeCount": 27,
       "ongoing": false
+    },
+    {
+      "id": "anilist-87234",
+      "name": "The Elder Sister-Like One",
+      "volumeCount": 6,
+      "ongoing": true
     },
     {
       "id": "anilist-30671",
@@ -2313,16 +2313,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-98466",
-      "name": "Kemono Jihen",
-      "volumeCount": 26,
-      "ongoing": true
-    },
-    {
       "id": "anilist-107518",
       "name": "Heavenly Demon Reborn!",
       "volumeCount": 10,
       "ongoing": false
+    },
+    {
+      "id": "anilist-98466",
+      "name": "Kemono Jihen",
+      "volumeCount": 26,
+      "ongoing": true
     },
     {
       "id": "anilist-39115",
@@ -2331,15 +2331,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-35255",
-      "name": "Dengeki Daisy",
-      "volumeCount": 16,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30904",
       "name": "Lone Wolf and Cub",
       "volumeCount": 28,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-35255",
+      "name": "Dengeki Daisy",
+      "volumeCount": 16,
       "ongoing": false
     },
     {
@@ -2407,6 +2407,12 @@
       "name": "2.5 Dimensional Seduction",
       "volumeCount": 25,
       "ongoing": false
+    },
+    {
+      "id": "anilist-85978",
+      "name": "The New Gate",
+      "volumeCount": 23,
+      "ongoing": true
     },
     {
       "id": "anilist-127564",
