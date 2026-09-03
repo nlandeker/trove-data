@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-09-02T08:18:06Z",
+  "_generated": "2026-09-03T08:27:20Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -345,6 +345,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-37375",
+      "name": "The Climber",
+      "volumeCount": 17,
+      "ongoing": false
+    },
+    {
       "id": "anilist-105469",
       "name": "Jujutsu Kaisen 0",
       "volumeCount": 1,
@@ -355,12 +361,6 @@
       "name": "Toilet-Bound Hanako-kun",
       "volumeCount": 25,
       "ongoing": true
-    },
-    {
-      "id": "anilist-37375",
-      "name": "The Climber",
-      "volumeCount": 17,
-      "ongoing": false
     },
     {
       "id": "anilist-30564",
@@ -567,15 +567,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-74485",
-      "name": "The Seven Deadly Sins",
-      "volumeCount": 41,
-      "ongoing": false
-    },
-    {
       "id": "anilist-132182",
       "name": "Blue Box",
       "volumeCount": 28,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-74485",
+      "name": "The Seven Deadly Sins",
+      "volumeCount": 41,
       "ongoing": false
     },
     {
@@ -1353,16 +1353,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-107987",
-      "name": "Whisper Me a Love Song",
-      "volumeCount": 12,
-      "ongoing": true
-    },
-    {
       "id": "anilist-30418",
       "name": "Mushishi",
       "volumeCount": 10,
       "ongoing": false
+    },
+    {
+      "id": "anilist-107987",
+      "name": "Whisper Me a Love Song",
+      "volumeCount": 12,
+      "ongoing": true
     },
     {
       "id": "anilist-31303",
@@ -1833,15 +1833,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-97842",
-      "name": "My Hero Academia: Vigilantes",
-      "volumeCount": 15,
-      "ongoing": false
-    },
-    {
       "id": "anilist-101311",
       "name": "Bakemonogatari",
       "volumeCount": 22,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-97842",
+      "name": "My Hero Academia: Vigilantes",
+      "volumeCount": 15,
       "ongoing": false
     },
     {
@@ -1857,15 +1857,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-48597",
-      "name": "Sankarea: Undying Love",
-      "volumeCount": 11,
-      "ongoing": false
-    },
-    {
       "id": "anilist-113488",
       "name": "Weak Hero",
       "volumeCount": 19,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-48597",
+      "name": "Sankarea: Undying Love",
+      "volumeCount": 11,
       "ongoing": false
     },
     {
@@ -1923,16 +1923,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30651",
-      "name": "Nausicaä of the Valley of the Wind",
-      "volumeCount": 7,
-      "ongoing": false
-    },
-    {
       "id": "anilist-107120",
       "name": "Chillin’ in Another World with Level 2 Super Cheat Powers",
       "volumeCount": 21,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30651",
+      "name": "Nausicaä of the Valley of the Wind",
+      "volumeCount": 7,
+      "ongoing": false
     },
     {
       "id": "anilist-100937",
@@ -1971,15 +1971,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-40552",
-      "name": "Lucifer and the Biscuit Hammer",
-      "volumeCount": 10,
-      "ongoing": false
-    },
-    {
       "id": "anilist-58361",
       "name": "HIDEOUT",
       "volumeCount": 1,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-40552",
+      "name": "Lucifer and the Biscuit Hammer",
+      "volumeCount": 10,
       "ongoing": false
     },
     {
@@ -2091,15 +2091,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-68071",
-      "name": "Spirit Circle",
-      "volumeCount": 6,
-      "ongoing": false
-    },
-    {
       "id": "anilist-121565",
       "name": "Seasons of Blossom",
       "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-68071",
+      "name": "Spirit Circle",
+      "volumeCount": 6,
       "ongoing": false
     },
     {
@@ -2217,16 +2217,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30142",
-      "name": "Battle Royale",
-      "volumeCount": 15,
-      "ongoing": false
-    },
-    {
       "id": "anilist-171729",
       "name": "Love Bullet",
       "volumeCount": 2,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30142",
+      "name": "Battle Royale",
+      "volumeCount": 15,
+      "ongoing": false
     },
     {
       "id": "anilist-54903",
@@ -2367,16 +2367,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85566",
-      "name": "Love & Lies",
-      "volumeCount": 13,
-      "ongoing": false
-    },
-    {
       "id": "anilist-169272",
       "name": "Tune In to the Midnight Heart",
       "volumeCount": 14,
       "ongoing": true
+    },
+    {
+      "id": "anilist-85566",
+      "name": "Love & Lies",
+      "volumeCount": 13,
+      "ongoing": false
     },
     {
       "id": "anilist-110140",
