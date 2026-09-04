@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-09-03T08:27:20Z",
+  "_generated": "2026-09-04T08:23:41Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -61,12 +61,6 @@
       "name": "My Hero Academia",
       "volumeCount": 42,
       "ongoing": false
-    },
-    {
-      "id": "anilist-74347",
-      "name": "One-Punch Man",
-      "volumeCount": 37,
-      "ongoing": true
     },
     {
       "id": "anilist-30656",
@@ -131,7 +125,7 @@
     {
       "id": "anilist-132029",
       "name": "Dandadan",
-      "volumeCount": 24,
+      "volumeCount": 25,
       "ongoing": true
     },
     {
@@ -377,7 +371,7 @@
     {
       "id": "anilist-169355",
       "name": "Kagurabachi",
-      "volumeCount": 11,
+      "volumeCount": 12,
       "ongoing": true
     },
     {
@@ -387,15 +381,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-101233",
-      "name": "The Way of the Househusband",
-      "volumeCount": 17,
-      "ongoing": true
-    },
-    {
       "id": "anilist-107098",
       "name": "Record of Ragnarok",
       "volumeCount": 28,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-101233",
+      "name": "The Way of the Househusband",
+      "volumeCount": 17,
       "ongoing": true
     },
     {
@@ -561,15 +555,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85849",
-      "name": "ReLIFE",
-      "volumeCount": 15,
-      "ongoing": false
-    },
-    {
       "id": "anilist-132182",
       "name": "Blue Box",
       "volumeCount": 28,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85849",
+      "name": "ReLIFE",
+      "volumeCount": 15,
       "ongoing": false
     },
     {
@@ -999,15 +993,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-31630",
-      "name": "JoJo's Bizarre Adventure Part 2: Battle Tendency",
-      "volumeCount": 7,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30743",
       "name": "21st Century Boys",
       "volumeCount": 2,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-31630",
+      "name": "JoJo's Bizarre Adventure Part 2: Battle Tendency",
+      "volumeCount": 7,
       "ongoing": false
     },
     {
@@ -1797,6 +1791,12 @@
       "ongoing": true
     },
     {
+      "id": "anilist-153432",
+      "name": "The Reaper",
+      "volumeCount": 4,
+      "ongoing": true
+    },
+    {
       "id": "anilist-116266",
       "name": "Girlfriend, Girlfriend",
       "volumeCount": 16,
@@ -1995,15 +1995,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85495",
-      "name": "Re:Monster",
-      "volumeCount": 9,
-      "ongoing": true
-    },
-    {
       "id": "anilist-30735",
       "name": "Black Lagoon",
       "volumeCount": 14,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-85495",
+      "name": "Re:Monster",
+      "volumeCount": 9,
       "ongoing": true
     },
     {
@@ -2241,16 +2241,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-31149",
-      "name": "Fist of the North Star",
-      "volumeCount": 27,
-      "ongoing": false
-    },
-    {
       "id": "anilist-87234",
       "name": "The Elder Sister-Like One",
       "volumeCount": 6,
       "ongoing": true
+    },
+    {
+      "id": "anilist-31149",
+      "name": "Fist of the North Star",
+      "volumeCount": 27,
+      "ongoing": false
     },
     {
       "id": "anilist-30671",
@@ -2361,16 +2361,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-85887",
-      "name": "Ookami Shounen wa Kyou mo Uso wo Kasaneru",
-      "volumeCount": 5,
-      "ongoing": false
-    },
-    {
       "id": "anilist-169272",
       "name": "Tune In to the Midnight Heart",
       "volumeCount": 14,
       "ongoing": true
+    },
+    {
+      "id": "anilist-85887",
+      "name": "Ookami Shounen wa Kyou mo Uso wo Kasaneru",
+      "volumeCount": 5,
+      "ongoing": false
     },
     {
       "id": "anilist-85566",
