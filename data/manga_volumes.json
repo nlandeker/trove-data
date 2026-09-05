@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-09-04T08:23:41Z",
+  "_generated": "2026-09-05T07:59:25Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -729,16 +729,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85215",
-      "name": "All You Need Is Kill",
-      "volumeCount": 2,
-      "ongoing": false
-    },
-    {
       "id": "anilist-99022",
       "name": "The Apothecary Diaries",
       "volumeCount": 16,
       "ongoing": true
+    },
+    {
+      "id": "anilist-85215",
+      "name": "All You Need Is Kill",
+      "volumeCount": 2,
+      "ongoing": false
     },
     {
       "id": "anilist-85307",
@@ -747,15 +747,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-86300",
-      "name": "Tomo-chan is a Girl!",
-      "volumeCount": 8,
-      "ongoing": false
-    },
-    {
       "id": "anilist-86770",
       "name": "The Girl From the Other Side: Siúil, a Rún",
       "volumeCount": 11,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-86300",
+      "name": "Tomo-chan is a Girl!",
+      "volumeCount": 8,
       "ongoing": false
     },
     {
@@ -1173,16 +1173,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-109285",
-      "name": "Skip and Loafer",
-      "volumeCount": 13,
-      "ongoing": true
-    },
-    {
       "id": "anilist-39982",
       "name": "Usogui",
       "volumeCount": 49,
       "ongoing": false
+    },
+    {
+      "id": "anilist-109285",
+      "name": "Skip and Loafer",
+      "volumeCount": 13,
+      "ongoing": true
     },
     {
       "id": "anilist-30401",
@@ -1425,15 +1425,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86265",
-      "name": "Kengan Ashura",
-      "volumeCount": 27,
-      "ongoing": false
-    },
-    {
       "id": "anilist-136331",
       "name": "The Return of the 8th Class Mage",
       "volumeCount": 5,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-86265",
+      "name": "Kengan Ashura",
+      "volumeCount": 27,
       "ongoing": false
     },
     {
@@ -1575,15 +1575,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-60315",
-      "name": "Last Game",
-      "volumeCount": 11,
-      "ongoing": false
-    },
-    {
       "id": "anilist-117620",
       "name": "The Summer You Were There",
       "volumeCount": 6,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-60315",
+      "name": "Last Game",
+      "volumeCount": 11,
       "ongoing": false
     },
     {
@@ -1713,15 +1713,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-141261",
-      "name": "Ayashimon",
-      "volumeCount": 3,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30584",
       "name": "Future Diary",
       "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-141261",
+      "name": "Ayashimon",
+      "volumeCount": 3,
       "ongoing": false
     },
     {
@@ -1791,18 +1791,6 @@
       "ongoing": true
     },
     {
-      "id": "anilist-153432",
-      "name": "The Reaper",
-      "volumeCount": 4,
-      "ongoing": true
-    },
-    {
-      "id": "anilist-116266",
-      "name": "Girlfriend, Girlfriend",
-      "volumeCount": 16,
-      "ongoing": false
-    },
-    {
       "id": "anilist-98544",
       "name": "Moriarty the Patriot",
       "volumeCount": 23,
@@ -1813,6 +1801,12 @@
       "name": "Shangri-La Frontier",
       "volumeCount": 27,
       "ongoing": true
+    },
+    {
+      "id": "anilist-116266",
+      "name": "Girlfriend, Girlfriend",
+      "volumeCount": 16,
+      "ongoing": false
     },
     {
       "id": "anilist-120502",
@@ -1857,15 +1851,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-113488",
-      "name": "Weak Hero",
-      "volumeCount": 19,
-      "ongoing": false
-    },
-    {
       "id": "anilist-48597",
       "name": "Sankarea: Undying Love",
       "volumeCount": 11,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-113488",
+      "name": "Weak Hero",
+      "volumeCount": 19,
       "ongoing": false
     },
     {
@@ -1995,15 +1989,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30735",
-      "name": "Black Lagoon",
-      "volumeCount": 14,
-      "ongoing": true
-    },
-    {
       "id": "anilist-85495",
       "name": "Re:Monster",
       "volumeCount": 9,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-30735",
+      "name": "Black Lagoon",
+      "volumeCount": 14,
       "ongoing": true
     },
     {
@@ -2199,16 +2193,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-99549",
-      "name": "Karakai Jouzu no (Moto) Takagi-san",
-      "volumeCount": 23,
-      "ongoing": false
-    },
-    {
       "id": "anilist-141479",
       "name": "The Legendary Spearman Returns",
       "volumeCount": 20,
       "ongoing": true
+    },
+    {
+      "id": "anilist-99549",
+      "name": "Karakai Jouzu no (Moto) Takagi-san",
+      "volumeCount": 23,
+      "ongoing": false
     },
     {
       "id": "anilist-30463",
@@ -2295,16 +2289,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86720",
-      "name": "Helck",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-125116",
       "name": "Wistoria: Wand and Sword",
       "volumeCount": 16,
       "ongoing": true
+    },
+    {
+      "id": "anilist-86720",
+      "name": "Helck",
+      "volumeCount": 12,
+      "ongoing": false
     },
     {
       "id": "anilist-31131",
