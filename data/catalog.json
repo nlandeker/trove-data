@@ -2,7 +2,7 @@
   "version": 2,
   "currency": "EUR",
   "_attribution": "LEGO data: Rebrickable (rebrickable.com) + Brickset (brickset.com). Not affiliated with or endorsed by The LEGO Group.",
-  "_generated": "2026-09-04T07:57:13Z",
+  "_generated": "2026-09-05T07:41:05Z",
   "items": [
     {
       "id": "001",
@@ -6647,8 +6647,8 @@
         "USD": 9.99,
         "GBP": 8.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-09-04",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -17797,21 +17797,6 @@
       "retirementDate": null,
       "marketPrice": null,
       "year": 2000,
-      "volumeCount": null,
-      "ongoing": null
-    },
-    {
-      "id": "12009",
-      "category": "LEGO",
-      "name": "Ninjago: Destiny's Bounty Adventures",
-      "imageURL": "https://cdn.rebrickable.com/media/sets/12009-1/176500.jpg",
-      "themeOrSeries": "Gear",
-      "retailPrice": null,
-      "prices": {},
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
-      "marketPrice": null,
-      "year": 2026,
       "volumeCount": null,
       "ongoing": null
     },
@@ -84991,8 +84976,8 @@
         "USD": 24.99,
         "GBP": 19.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-09-04",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -101264,8 +101249,8 @@
         "USD": 27.99,
         "GBP": 22.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-09-04",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -103676,8 +103661,8 @@
         "USD": 19.99,
         "GBP": 17.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-09-04",
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -126615,6 +126600,23 @@
       "ongoing": null
     },
     {
+      "id": "5011029",
+      "category": "LEGO",
+      "name": "Ninjago: Destiny's Bounty Adventures",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/5011029-1/176500.jpg",
+      "themeOrSeries": "Gear",
+      "retailPrice": null,
+      "prices": {
+        "GBP": 39.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
       "id": "5012",
       "category": "LEGO",
       "name": "Soccer Player with Goal",
@@ -147785,8 +147787,8 @@
         "USD": 19.99,
         "GBP": 17.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-09-04",
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -181704,8 +181706,8 @@
         "USD": 22.99,
         "GBP": 17.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-09-04",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -192468,7 +192470,7 @@
         "GBP": 59.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-07-15",
+      "retirementDate": "2026-09-04",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -194247,8 +194249,8 @@
         "USD": 29.99,
         "GBP": 24.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-09-04",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -201488,8 +201490,8 @@
         "USD": 99.99,
         "GBP": 89.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-09-04",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -201913,8 +201915,8 @@
         "USD": 9.99,
         "GBP": 8.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-09-04",
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -250240,6 +250242,21 @@
       "retirementDate": null,
       "marketPrice": null,
       "year": 2025,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "9788325349042",
+      "category": "LEGO",
+      "name": "Falcon: Droga do Kapitana Ameryki",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/9788325349042-1/173937.jpg",
+      "themeOrSeries": "Books",
+      "retailPrice": null,
+      "prices": {},
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
       "volumeCount": null,
       "ongoing": null
     },
