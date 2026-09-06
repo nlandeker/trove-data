@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-09-05T07:59:25Z",
+  "_generated": "2026-09-06T08:16:25Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -61,6 +61,12 @@
       "name": "My Hero Academia",
       "volumeCount": 42,
       "ongoing": false
+    },
+    {
+      "id": "anilist-74347",
+      "name": "One-Punch Man",
+      "volumeCount": 37,
+      "ongoing": true
     },
     {
       "id": "anilist-30656",
@@ -579,16 +585,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-69883",
-      "name": "Assassination Classroom",
-      "volumeCount": 21,
-      "ongoing": false
-    },
-    {
       "id": "anilist-106064",
       "name": "Chained Soldier",
       "volumeCount": 21,
       "ongoing": true
+    },
+    {
+      "id": "anilist-69883",
+      "name": "Assassination Classroom",
+      "volumeCount": 21,
+      "ongoing": false
     },
     {
       "id": "anilist-33731",
@@ -849,15 +855,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86099",
-      "name": "Wind Breaker",
-      "volumeCount": 26,
-      "ongoing": false
-    },
-    {
       "id": "anilist-112981",
       "name": "Kubo Won't Let Me Be Invisible",
       "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-86099",
+      "name": "Wind Breaker",
+      "volumeCount": 26,
       "ongoing": false
     },
     {
@@ -1065,16 +1071,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-30872",
-      "name": "JoJo's Bizarre Adventure Part 3: Stardust Crusaders",
-      "volumeCount": 16,
-      "ongoing": false
-    },
-    {
       "id": "anilist-101557",
       "name": "The Dangers in My Heart",
       "volumeCount": 14,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30872",
+      "name": "JoJo's Bizarre Adventure Part 3: Stardust Crusaders",
+      "volumeCount": 16,
+      "ongoing": false
     },
     {
       "id": "anilist-85442",
@@ -1125,16 +1131,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-98235",
-      "name": "We Never Learn",
-      "volumeCount": 21,
-      "ongoing": false
-    },
-    {
       "id": "anilist-31224",
       "name": "March Comes in Like a Lion",
       "volumeCount": 18,
       "ongoing": true
+    },
+    {
+      "id": "anilist-98235",
+      "name": "We Never Learn",
+      "volumeCount": 21,
+      "ongoing": false
     },
     {
       "id": "anilist-150440",
@@ -1185,15 +1191,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-30401",
-      "name": "Parasyte",
-      "volumeCount": 10,
-      "ongoing": false
-    },
-    {
       "id": "anilist-112579",
       "name": "My Broken Mariko",
       "volumeCount": 1,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30401",
+      "name": "Parasyte",
+      "volumeCount": 10,
       "ongoing": false
     },
     {
@@ -1371,16 +1377,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-104973",
-      "name": "The Reason Why Raeliana Ended Up at the Duke's Mansion",
-      "volumeCount": 9,
-      "ongoing": false
-    },
-    {
       "id": "anilist-180752",
       "name": "Ichi the Witch",
       "volumeCount": 9,
       "ongoing": true
+    },
+    {
+      "id": "anilist-104973",
+      "name": "The Reason Why Raeliana Ended Up at the Duke's Mansion",
+      "volumeCount": 9,
+      "ongoing": false
     },
     {
       "id": "anilist-121991",
@@ -1713,6 +1719,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-104503",
+      "name": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs",
+      "volumeCount": 13,
+      "ongoing": false
+    },
+    {
       "id": "anilist-30584",
       "name": "Future Diary",
       "volumeCount": 12,
@@ -1722,12 +1734,6 @@
       "id": "anilist-141261",
       "name": "Ayashimon",
       "volumeCount": 3,
-      "ongoing": false
-    },
-    {
-      "id": "anilist-104503",
-      "name": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs",
-      "volumeCount": 13,
       "ongoing": false
     },
     {
@@ -1791,15 +1797,21 @@
       "ongoing": true
     },
     {
-      "id": "anilist-98544",
-      "name": "Moriarty the Patriot",
-      "volumeCount": 23,
+      "id": "anilist-153432",
+      "name": "The Reaper",
+      "volumeCount": 4,
       "ongoing": true
     },
     {
       "id": "anilist-122063",
       "name": "Shangri-La Frontier",
       "volumeCount": 27,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-98544",
+      "name": "Moriarty the Patriot",
+      "volumeCount": 23,
       "ongoing": true
     },
     {
@@ -1827,6 +1839,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-85155",
+      "name": "The Gamer",
+      "volumeCount": 1,
+      "ongoing": false
+    },
+    {
       "id": "anilist-101311",
       "name": "Bakemonogatari",
       "volumeCount": 22,
@@ -1851,15 +1869,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-48597",
-      "name": "Sankarea: Undying Love",
-      "volumeCount": 11,
-      "ongoing": false
-    },
-    {
       "id": "anilist-113488",
       "name": "Weak Hero",
       "volumeCount": 19,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-48597",
+      "name": "Sankarea: Undying Love",
+      "volumeCount": 11,
       "ongoing": false
     },
     {
@@ -2043,16 +2061,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86549",
-      "name": "Go For It, Nakamura!",
-      "volumeCount": 1,
-      "ongoing": false
-    },
-    {
       "id": "anilist-153880",
       "name": "The Art of Reincarnation",
       "volumeCount": 12,
       "ongoing": true
+    },
+    {
+      "id": "anilist-86549",
+      "name": "Go For It, Nakamura!",
+      "volumeCount": 1,
+      "ongoing": false
     },
     {
       "id": "anilist-98112",
@@ -2127,16 +2145,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-106454",
-      "name": "Sensei wa Koi wo Oshierarenai",
-      "volumeCount": 7,
-      "ongoing": false
-    },
-    {
       "id": "anilist-58533",
       "name": "No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!",
       "volumeCount": 28,
       "ongoing": true
+    },
+    {
+      "id": "anilist-106454",
+      "name": "Sensei wa Koi wo Oshierarenai",
+      "volumeCount": 7,
+      "ongoing": false
     },
     {
       "id": "anilist-109728",
@@ -2175,15 +2193,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-31373",
-      "name": "Nijigahara Holograph",
-      "volumeCount": 1,
-      "ongoing": false
-    },
-    {
       "id": "anilist-107918",
       "name": "Doctor Elise: The Royal Lady with the Lamp",
       "volumeCount": 10,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-31373",
+      "name": "Nijigahara Holograph",
+      "volumeCount": 1,
       "ongoing": false
     },
     {
@@ -2205,16 +2223,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30463",
-      "name": "Welcome to the N.H.K.",
-      "volumeCount": 8,
-      "ongoing": false
-    },
-    {
       "id": "anilist-171729",
       "name": "Love Bullet",
       "volumeCount": 2,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30463",
+      "name": "Welcome to the N.H.K.",
+      "volumeCount": 8,
+      "ongoing": false
     },
     {
       "id": "anilist-30142",
