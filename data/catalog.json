@@ -2,7 +2,7 @@
   "version": 2,
   "currency": "EUR",
   "_attribution": "LEGO data: Rebrickable (rebrickable.com) + Brickset (brickset.com). Not affiliated with or endorsed by The LEGO Group.",
-  "_generated": "2026-09-11T08:03:57Z",
+  "_generated": "2026-09-12T07:53:51Z",
   "items": [
     {
       "id": "001",
@@ -6594,8 +6594,8 @@
         "USD": 19.99,
         "GBP": 17.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-09-11",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -103004,8 +103004,8 @@
         "USD": 19.99,
         "GBP": 17.99
       },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-09-03",
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -103566,8 +103566,8 @@
         "USD": 9.99,
         "GBP": 8.99
       },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-09-05",
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -201410,8 +201410,8 @@
         "USD": 14.99,
         "GBP": 12.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-09-11",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -203512,8 +203512,8 @@
         "USD": 99.99,
         "GBP": 89.99
       },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-09-03",
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -206815,8 +206815,8 @@
         "USD": 9.99,
         "GBP": 8.99
       },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-09-02",
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
