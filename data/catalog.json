@@ -2,7 +2,7 @@
   "version": 2,
   "currency": "EUR",
   "_attribution": "LEGO data: Rebrickable (rebrickable.com) + Brickset (brickset.com). Not affiliated with or endorsed by The LEGO Group.",
-  "_generated": "2026-09-12T07:53:51Z",
+  "_generated": "2026-09-13T08:18:25Z",
   "items": [
     {
       "id": "001",
@@ -201964,8 +201964,8 @@
         "USD": 19.99,
         "GBP": 17.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-09-12",
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -257375,6 +257375,21 @@
       "category": "LEGO",
       "name": "Cole",
       "imageURL": "https://cdn.rebrickable.com/media/sets/l0002206-1/179716.jpg",
+      "themeOrSeries": "Ninjago",
+      "retailPrice": null,
+      "prices": {},
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "L0002207",
+      "category": "LEGO",
+      "name": "Acid Monster",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/l0002207-1/181249.jpg",
       "themeOrSeries": "Ninjago",
       "retailPrice": null,
       "prices": {},
