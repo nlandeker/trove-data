@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-09-13T08:41:37Z",
+  "_generated": "2026-09-14T09:27:31Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -717,12 +717,6 @@
       "ongoing": true
     },
     {
-      "id": "anilist-85564",
-      "name": "Mushoku Tensei: Jobless Reincarnation",
-      "volumeCount": 25,
-      "ongoing": true
-    },
-    {
       "id": "anilist-30664",
       "name": "Akira",
       "volumeCount": 6,
@@ -1113,14 +1107,14 @@
       "ongoing": true
     },
     {
-      "id": "anilist-47465",
-      "name": "Memories of Emanon",
+      "id": "anilist-98361",
+      "name": "Three Days of Happiness",
       "volumeCount": 1,
       "ongoing": false
     },
     {
-      "id": "anilist-98361",
-      "name": "Three Days of Happiness",
+      "id": "anilist-47465",
+      "name": "Memories of Emanon",
       "volumeCount": 1,
       "ongoing": false
     },
@@ -1563,15 +1557,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86526",
-      "name": "Platinum End",
-      "volumeCount": 14,
-      "ongoing": false
-    },
-    {
       "id": "anilist-117620",
       "name": "The Summer You Were There",
       "volumeCount": 6,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-86526",
+      "name": "Platinum End",
+      "volumeCount": 14,
       "ongoing": false
     },
     {
@@ -1779,16 +1773,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-114027",
-      "name": "Boy Meets Maria",
-      "volumeCount": 1,
-      "ongoing": false
-    },
-    {
       "id": "anilist-122063",
       "name": "Shangri-La Frontier",
       "volumeCount": 27,
       "ongoing": true
+    },
+    {
+      "id": "anilist-114027",
+      "name": "Boy Meets Maria",
+      "volumeCount": 1,
+      "ongoing": false
     },
     {
       "id": "anilist-87225",
@@ -1833,15 +1827,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-101311",
-      "name": "Bakemonogatari",
-      "volumeCount": 22,
-      "ongoing": false
-    },
-    {
       "id": "anilist-97842",
       "name": "My Hero Academia: Vigilantes",
       "volumeCount": 15,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-101311",
+      "name": "Bakemonogatari",
+      "volumeCount": 22,
       "ongoing": false
     },
     {
@@ -1887,15 +1881,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85235",
-      "name": "School-Live!",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-110605",
       "name": "Leviathan",
       "volumeCount": 9,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85235",
+      "name": "School-Live!",
+      "volumeCount": 12,
       "ongoing": false
     },
     {
@@ -2157,6 +2151,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-107720",
+      "name": "Her Summon",
+      "volumeCount": 14,
+      "ongoing": false
+    },
+    {
       "id": "anilist-159142",
       "name": "Firefly Wedding",
       "volumeCount": 12,
@@ -2175,16 +2175,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-31373",
-      "name": "Nijigahara Holograph",
-      "volumeCount": 1,
-      "ongoing": false
-    },
-    {
       "id": "anilist-171729",
       "name": "Love Bullet",
       "volumeCount": 2,
       "ongoing": true
+    },
+    {
+      "id": "anilist-31373",
+      "name": "Nijigahara Holograph",
+      "volumeCount": 1,
+      "ongoing": false
     },
     {
       "id": "anilist-35293",
@@ -2277,6 +2277,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-201773",
+      "name": "Haimiya Is Scary Cute",
+      "volumeCount": 3,
+      "ongoing": true
+    },
+    {
       "id": "anilist-85139",
       "name": "My Monster Secret: Actually, I Am…",
       "volumeCount": 22,
@@ -2310,12 +2316,6 @@
       "id": "anilist-98466",
       "name": "Kemono Jihen",
       "volumeCount": 26,
-      "ongoing": true
-    },
-    {
-      "id": "anilist-201773",
-      "name": "Haimiya Is Scary Cute",
-      "volumeCount": 3,
       "ongoing": true
     },
     {
@@ -2361,6 +2361,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-96518",
+      "name": "Bokutachi ga Yarimashita",
+      "volumeCount": 9,
+      "ongoing": false
+    },
+    {
       "id": "anilist-85887",
       "name": "Ookami Shounen wa Kyou mo Uso wo Kasaneru",
       "volumeCount": 5,
@@ -2370,12 +2376,6 @@
       "id": "anilist-85566",
       "name": "Love & Lies",
       "volumeCount": 13,
-      "ongoing": false
-    },
-    {
-      "id": "anilist-96518",
-      "name": "Bokutachi ga Yarimashita",
-      "volumeCount": 9,
       "ongoing": false
     },
     {
@@ -2391,10 +2391,10 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86355",
-      "name": "That Time I Got Reincarnated as a Slime",
-      "volumeCount": 23,
-      "ongoing": false
+      "id": "anilist-118695",
+      "name": "I’m in Love with the Villainess",
+      "volumeCount": 5,
+      "ongoing": true
     },
     {
       "id": "anilist-110785",
@@ -2403,10 +2403,10 @@
       "ongoing": false
     },
     {
-      "id": "anilist-118695",
-      "name": "I’m in Love with the Villainess",
-      "volumeCount": 5,
-      "ongoing": true
+      "id": "anilist-86355",
+      "name": "That Time I Got Reincarnated as a Slime",
+      "volumeCount": 23,
+      "ongoing": false
     }
   ]
 }
