@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-09-14T09:27:31Z",
+  "_generated": "2026-09-15T09:07:27Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -61,6 +61,12 @@
       "name": "My Hero Academia",
       "volumeCount": 42,
       "ongoing": false
+    },
+    {
+      "id": "anilist-74347",
+      "name": "One-Punch Man",
+      "volumeCount": 37,
+      "ongoing": true
     },
     {
       "id": "anilist-30656",
@@ -663,16 +669,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-87178",
-      "name": "Boruto: Naruto Next Generations",
-      "volumeCount": 20,
-      "ongoing": false
-    },
-    {
       "id": "anilist-126693",
       "name": "Choujin X",
       "volumeCount": 16,
       "ongoing": true
+    },
+    {
+      "id": "anilist-87178",
+      "name": "Boruto: Naruto Next Generations",
+      "volumeCount": 20,
+      "ongoing": false
     },
     {
       "id": "anilist-38967",
@@ -714,6 +720,12 @@
       "id": "anilist-106758",
       "name": "The Eminence in Shadow",
       "volumeCount": 7,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-85564",
+      "name": "Mushoku Tensei: Jobless Reincarnation",
+      "volumeCount": 25,
       "ongoing": true
     },
     {
@@ -1062,7 +1074,7 @@
       "id": "anilist-101557",
       "name": "The Dangers in My Heart",
       "volumeCount": 14,
-      "ongoing": true
+      "ongoing": false
     },
     {
       "id": "anilist-30872",
@@ -1155,15 +1167,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30145",
-      "name": "BECK",
-      "volumeCount": 34,
-      "ongoing": false
-    },
-    {
       "id": "anilist-39982",
       "name": "Usogui",
       "volumeCount": 49,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30145",
+      "name": "BECK",
+      "volumeCount": 34,
       "ongoing": false
     },
     {
@@ -1479,16 +1491,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-59211",
-      "name": "Monthly Girls' Nozaki-kun",
-      "volumeCount": 18,
-      "ongoing": true
-    },
-    {
       "id": "anilist-30022",
       "name": "Rurouni Kenshin",
       "volumeCount": 28,
       "ongoing": false
+    },
+    {
+      "id": "anilist-59211",
+      "name": "Monthly Girls' Nozaki-kun",
+      "volumeCount": 18,
+      "ongoing": true
     },
     {
       "id": "anilist-31474",
@@ -1599,15 +1611,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-101724",
-      "name": "Uzaki-chan Wants to Hang Out!",
-      "volumeCount": 14,
-      "ongoing": true
-    },
-    {
       "id": "anilist-75143",
       "name": "Kono Oto Tomare!",
       "volumeCount": 34,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-101724",
+      "name": "Uzaki-chan Wants to Hang Out!",
+      "volumeCount": 14,
       "ongoing": true
     },
     {
@@ -1779,16 +1791,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-114027",
-      "name": "Boy Meets Maria",
-      "volumeCount": 1,
-      "ongoing": false
-    },
-    {
       "id": "anilist-87225",
       "name": "Tsukimichi: Moonlit Fantasy",
       "volumeCount": 20,
       "ongoing": true
+    },
+    {
+      "id": "anilist-114027",
+      "name": "Boy Meets Maria",
+      "volumeCount": 1,
+      "ongoing": false
     },
     {
       "id": "anilist-98544",
@@ -1815,27 +1827,27 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86607",
-      "name": "Gleipnir",
-      "volumeCount": 14,
-      "ongoing": false
-    },
-    {
       "id": "anilist-176740",
       "name": "Centuria",
       "volumeCount": 9,
       "ongoing": true
     },
     {
-      "id": "anilist-97842",
-      "name": "My Hero Academia: Vigilantes",
-      "volumeCount": 15,
+      "id": "anilist-86607",
+      "name": "Gleipnir",
+      "volumeCount": 14,
       "ongoing": false
     },
     {
       "id": "anilist-101311",
       "name": "Bakemonogatari",
       "volumeCount": 22,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-97842",
+      "name": "My Hero Academia: Vigilantes",
+      "volumeCount": 15,
       "ongoing": false
     },
     {
@@ -1935,6 +1947,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-147997",
+      "name": "You and I Are Polar Opposites",
+      "volumeCount": 8,
+      "ongoing": false
+    },
+    {
       "id": "anilist-108105",
       "name": "When Will Ayumu Make His Move?",
       "volumeCount": 17,
@@ -1944,12 +1962,6 @@
       "id": "anilist-125624",
       "name": "Even If You Slit My Mouth",
       "volumeCount": 11,
-      "ongoing": false
-    },
-    {
-      "id": "anilist-147997",
-      "name": "You and I Are Polar Opposites",
-      "volumeCount": 8,
       "ongoing": false
     },
     {
@@ -2001,15 +2013,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30933",
-      "name": "Elfen Lied",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-106726",
       "name": "Shimeji Simulation",
       "volumeCount": 5,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30933",
+      "name": "Elfen Lied",
+      "volumeCount": 12,
       "ongoing": false
     },
     {
@@ -2025,15 +2037,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-34571",
-      "name": "Snow White with the Red Hair",
-      "volumeCount": 27,
-      "ongoing": true
-    },
-    {
       "id": "anilist-78151",
       "name": "World Trigger",
       "volumeCount": 29,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-34571",
+      "name": "Snow White with the Red Hair",
+      "volumeCount": 27,
       "ongoing": true
     },
     {
@@ -2145,15 +2157,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-44893",
-      "name": "Bakemonogatari: Monster Tale",
-      "volumeCount": 2,
-      "ongoing": false
-    },
-    {
       "id": "anilist-107720",
       "name": "Her Summon",
       "volumeCount": 14,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-44893",
+      "name": "Bakemonogatari: Monster Tale",
+      "volumeCount": 2,
       "ongoing": false
     },
     {
@@ -2169,16 +2181,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-107918",
-      "name": "Doctor Elise: The Royal Lady with the Lamp",
-      "volumeCount": 10,
-      "ongoing": false
-    },
-    {
       "id": "anilist-171729",
       "name": "Love Bullet",
       "volumeCount": 2,
       "ongoing": true
+    },
+    {
+      "id": "anilist-107918",
+      "name": "Doctor Elise: The Royal Lady with the Lamp",
+      "volumeCount": 10,
+      "ongoing": false
     },
     {
       "id": "anilist-31373",
@@ -2337,15 +2349,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-107540",
-      "name": "Loner Life in Another World",
-      "volumeCount": 18,
-      "ongoing": true
-    },
-    {
       "id": "anilist-169272",
       "name": "Tune In to the Midnight Heart",
       "volumeCount": 14,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-107540",
+      "name": "Loner Life in Another World",
+      "volumeCount": 18,
       "ongoing": true
     },
     {
