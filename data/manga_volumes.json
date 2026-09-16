@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-09-15T09:07:27Z",
+  "_generated": "2026-09-16T09:00:11Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -61,12 +61,6 @@
       "name": "My Hero Academia",
       "volumeCount": 42,
       "ongoing": false
-    },
-    {
-      "id": "anilist-74347",
-      "name": "One-Punch Man",
-      "volumeCount": 37,
-      "ongoing": true
     },
     {
       "id": "anilist-30656",
@@ -893,7 +887,7 @@
     {
       "id": "anilist-101177",
       "name": "Fly Me to the Moon",
-      "volumeCount": 36,
+      "volumeCount": 37,
       "ongoing": true
     },
     {
@@ -1107,16 +1101,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-59983",
-      "name": "Noblesse",
-      "volumeCount": 25,
-      "ongoing": false
-    },
-    {
       "id": "anilist-86508",
       "name": "Dragon Ball Super",
       "volumeCount": 24,
       "ongoing": true
+    },
+    {
+      "id": "anilist-59983",
+      "name": "Noblesse",
+      "volumeCount": 25,
+      "ongoing": false
     },
     {
       "id": "anilist-98361",
@@ -1491,16 +1485,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30022",
-      "name": "Rurouni Kenshin",
-      "volumeCount": 28,
-      "ongoing": false
-    },
-    {
       "id": "anilist-59211",
       "name": "Monthly Girls' Nozaki-kun",
       "volumeCount": 18,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30022",
+      "name": "Rurouni Kenshin",
+      "volumeCount": 28,
+      "ongoing": false
     },
     {
       "id": "anilist-31474",
@@ -1575,15 +1569,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86526",
-      "name": "Platinum End",
-      "volumeCount": 14,
-      "ongoing": false
-    },
-    {
       "id": "anilist-74929",
       "name": "Scum's Wish",
       "volumeCount": 8,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-86526",
+      "name": "Platinum End",
+      "volumeCount": 14,
       "ongoing": false
     },
     {
@@ -1661,7 +1655,7 @@
     {
       "id": "anilist-114383",
       "name": "A Couple of Cuckoos",
-      "volumeCount": 33,
+      "volumeCount": 34,
       "ongoing": true
     },
     {
@@ -1671,15 +1665,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-102989",
-      "name": "Summertime Rendering",
-      "volumeCount": 13,
-      "ongoing": false
-    },
-    {
       "id": "anilist-85247",
       "name": "Twin Star Exorcists",
       "volumeCount": 35,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-102989",
+      "name": "Summertime Rendering",
+      "volumeCount": 13,
       "ongoing": false
     },
     {
@@ -1695,15 +1689,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-33438",
-      "name": "PSYЯEN",
-      "volumeCount": 16,
-      "ongoing": false
-    },
-    {
       "id": "anilist-126135",
       "name": "Bibliomania",
       "volumeCount": 1,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-33438",
+      "name": "PSYЯEN",
+      "volumeCount": 16,
       "ongoing": false
     },
     {
@@ -1941,15 +1935,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86481",
-      "name": "Tsuredure Children",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-147997",
       "name": "You and I Are Polar Opposites",
       "volumeCount": 8,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-86481",
+      "name": "Tsuredure Children",
+      "volumeCount": 12,
       "ongoing": false
     },
     {
@@ -2025,15 +2019,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-98370",
-      "name": "Sasaki and Miyano",
-      "volumeCount": 11,
-      "ongoing": true
-    },
-    {
       "id": "anilist-153880",
       "name": "The Art of Reincarnation",
       "volumeCount": 12,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-98370",
+      "name": "Sasaki and Miyano",
+      "volumeCount": 11,
       "ongoing": true
     },
     {
@@ -2097,14 +2091,14 @@
       "ongoing": false
     },
     {
-      "id": "anilist-68071",
-      "name": "Spirit Circle",
+      "id": "anilist-112621",
+      "name": "I Can't Say No to the Lonely Girl",
       "volumeCount": 6,
       "ongoing": false
     },
     {
-      "id": "anilist-112621",
-      "name": "I Can't Say No to the Lonely Girl",
+      "id": "anilist-68071",
+      "name": "Spirit Circle",
       "volumeCount": 6,
       "ongoing": false
     },
@@ -2154,12 +2148,6 @@
       "id": "anilist-30050",
       "name": "Shaman King",
       "volumeCount": 32,
-      "ongoing": false
-    },
-    {
-      "id": "anilist-107720",
-      "name": "Her Summon",
-      "volumeCount": 14,
       "ongoing": false
     },
     {
@@ -2241,16 +2229,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-87234",
-      "name": "The Elder Sister-Like One",
-      "volumeCount": 6,
-      "ongoing": true
-    },
-    {
       "id": "anilist-31149",
       "name": "Fist of the North Star",
       "volumeCount": 27,
       "ongoing": false
+    },
+    {
+      "id": "anilist-87234",
+      "name": "The Elder Sister-Like One",
+      "volumeCount": 6,
+      "ongoing": true
     },
     {
       "id": "anilist-30671",
@@ -2283,16 +2271,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30092",
-      "name": "Sailor Moon",
-      "volumeCount": 18,
-      "ongoing": false
-    },
-    {
       "id": "anilist-201773",
       "name": "Haimiya Is Scary Cute",
       "volumeCount": 3,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30092",
+      "name": "Sailor Moon",
+      "volumeCount": 18,
+      "ongoing": false
     },
     {
       "id": "anilist-85139",
