@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-09-16T09:00:11Z",
+  "_generated": "2026-09-17T09:05:02Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -61,6 +61,12 @@
       "name": "My Hero Academia",
       "volumeCount": 42,
       "ongoing": false
+    },
+    {
+      "id": "anilist-74347",
+      "name": "One-Punch Man",
+      "volumeCount": 37,
+      "ongoing": true
     },
     {
       "id": "anilist-30656",
@@ -543,15 +549,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-100954",
-      "name": "Sweet Home",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-86082",
       "name": "Delicious in Dungeon",
       "volumeCount": 14,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-100954",
+      "name": "Sweet Home",
+      "volumeCount": 12,
       "ongoing": false
     },
     {
@@ -665,7 +671,7 @@
     {
       "id": "anilist-126693",
       "name": "Choujin X",
-      "volumeCount": 16,
+      "volumeCount": 17,
       "ongoing": true
     },
     {
@@ -953,7 +959,7 @@
     {
       "id": "anilist-114416",
       "name": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You",
-      "volumeCount": 26,
+      "volumeCount": 27,
       "ongoing": true
     },
     {
@@ -1059,16 +1065,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-86568",
-      "name": "The Case Study of Vanitas",
-      "volumeCount": 11,
-      "ongoing": true
-    },
-    {
       "id": "anilist-101557",
       "name": "The Dangers in My Heart",
       "volumeCount": 14,
       "ongoing": false
+    },
+    {
+      "id": "anilist-86568",
+      "name": "The Case Study of Vanitas",
+      "volumeCount": 11,
+      "ongoing": true
     },
     {
       "id": "anilist-30872",
@@ -1101,16 +1107,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86508",
-      "name": "Dragon Ball Super",
-      "volumeCount": 24,
-      "ongoing": true
-    },
-    {
       "id": "anilist-59983",
       "name": "Noblesse",
       "volumeCount": 25,
       "ongoing": false
+    },
+    {
+      "id": "anilist-86508",
+      "name": "Dragon Ball Super",
+      "volumeCount": 24,
+      "ongoing": true
     },
     {
       "id": "anilist-98361",
@@ -1275,15 +1281,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-41734",
-      "name": "Watashitachi no Shiawase na Jikan",
-      "volumeCount": 1,
-      "ongoing": false
-    },
-    {
       "id": "anilist-94490",
       "name": "The Fable",
       "volumeCount": 22,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-41734",
+      "name": "Watashitachi no Shiawase na Jikan",
+      "volumeCount": 1,
       "ongoing": false
     },
     {
@@ -1485,16 +1491,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-59211",
-      "name": "Monthly Girls' Nozaki-kun",
-      "volumeCount": 18,
-      "ongoing": true
-    },
-    {
       "id": "anilist-30022",
       "name": "Rurouni Kenshin",
       "volumeCount": 28,
       "ongoing": false
+    },
+    {
+      "id": "anilist-59211",
+      "name": "Monthly Girls' Nozaki-kun",
+      "volumeCount": 18,
+      "ongoing": true
     },
     {
       "id": "anilist-31474",
@@ -1665,15 +1671,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85247",
-      "name": "Twin Star Exorcists",
-      "volumeCount": 35,
-      "ongoing": false
-    },
-    {
       "id": "anilist-102989",
       "name": "Summertime Rendering",
       "volumeCount": 13,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85247",
+      "name": "Twin Star Exorcists",
+      "volumeCount": 35,
       "ongoing": false
     },
     {
@@ -1773,16 +1779,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30029",
-      "name": "Paradise Kiss",
-      "volumeCount": 5,
-      "ongoing": false
-    },
-    {
       "id": "anilist-122063",
       "name": "Shangri-La Frontier",
       "volumeCount": 27,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30029",
+      "name": "Paradise Kiss",
+      "volumeCount": 5,
+      "ongoing": false
     },
     {
       "id": "anilist-87225",
@@ -1797,9 +1803,9 @@
       "ongoing": false
     },
     {
-      "id": "anilist-98544",
-      "name": "Moriarty the Patriot",
-      "volumeCount": 23,
+      "id": "anilist-153432",
+      "name": "The Reaper",
+      "volumeCount": 4,
       "ongoing": true
     },
     {
@@ -1807,6 +1813,12 @@
       "name": "Girlfriend, Girlfriend",
       "volumeCount": 16,
       "ongoing": false
+    },
+    {
+      "id": "anilist-98544",
+      "name": "Moriarty the Patriot",
+      "volumeCount": 23,
+      "ongoing": true
     },
     {
       "id": "anilist-120502",
@@ -2019,15 +2031,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-153880",
-      "name": "The Art of Reincarnation",
-      "volumeCount": 12,
-      "ongoing": true
-    },
-    {
       "id": "anilist-98370",
       "name": "Sasaki and Miyano",
       "volumeCount": 11,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-153880",
+      "name": "The Art of Reincarnation",
+      "volumeCount": 12,
       "ongoing": true
     },
     {
@@ -2187,16 +2199,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-35293",
-      "name": "Doubt",
-      "volumeCount": 4,
-      "ongoing": false
-    },
-    {
       "id": "anilist-141479",
       "name": "The Legendary Spearman Returns",
       "volumeCount": 20,
       "ongoing": true
+    },
+    {
+      "id": "anilist-35293",
+      "name": "Doubt",
+      "volumeCount": 4,
+      "ongoing": false
     },
     {
       "id": "anilist-99549",
@@ -2265,16 +2277,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-68105",
-      "name": "Kase-san and...",
-      "volumeCount": 5,
-      "ongoing": false
-    },
-    {
       "id": "anilist-201773",
       "name": "Haimiya Is Scary Cute",
       "volumeCount": 3,
       "ongoing": true
+    },
+    {
+      "id": "anilist-68105",
+      "name": "Kase-san and...",
+      "volumeCount": 5,
+      "ongoing": false
     },
     {
       "id": "anilist-30092",
@@ -2295,15 +2307,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-86720",
-      "name": "Helck",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-107518",
       "name": "Heavenly Demon Reborn!",
       "volumeCount": 10,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-86720",
+      "name": "Helck",
+      "volumeCount": 12,
       "ongoing": false
     },
     {
@@ -2349,6 +2361,12 @@
       "ongoing": true
     },
     {
+      "id": "anilist-96518",
+      "name": "Bokutachi ga Yarimashita",
+      "volumeCount": 9,
+      "ongoing": false
+    },
+    {
       "id": "anilist-87213",
       "name": "Yuuna and the Haunted Hot Springs",
       "volumeCount": 24,
@@ -2358,12 +2376,6 @@
       "id": "anilist-106434",
       "name": "Hitomi-chan is Shy With Strangers",
       "volumeCount": 12,
-      "ongoing": false
-    },
-    {
-      "id": "anilist-96518",
-      "name": "Bokutachi ga Yarimashita",
-      "volumeCount": 9,
       "ongoing": false
     },
     {
