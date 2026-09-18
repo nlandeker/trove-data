@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-09-17T09:05:02Z",
+  "_generated": "2026-09-18T08:40:18Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -61,12 +61,6 @@
       "name": "My Hero Academia",
       "volumeCount": 42,
       "ongoing": false
-    },
-    {
-      "id": "anilist-74347",
-      "name": "One-Punch Man",
-      "volumeCount": 37,
-      "ongoing": true
     },
     {
       "id": "anilist-30656",
@@ -393,15 +387,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-101233",
-      "name": "The Way of the Househusband",
-      "volumeCount": 17,
-      "ongoing": true
-    },
-    {
       "id": "anilist-87395",
       "name": "Grand Blue Dreaming",
       "volumeCount": 26,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-101233",
+      "name": "The Way of the Househusband",
+      "volumeCount": 17,
       "ongoing": true
     },
     {
@@ -723,12 +717,6 @@
       "ongoing": true
     },
     {
-      "id": "anilist-85564",
-      "name": "Mushoku Tensei: Jobless Reincarnation",
-      "volumeCount": 25,
-      "ongoing": true
-    },
-    {
       "id": "anilist-30664",
       "name": "Akira",
       "volumeCount": 6,
@@ -957,12 +945,6 @@
       "ongoing": false
     },
     {
-      "id": "anilist-114416",
-      "name": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You",
-      "volumeCount": 27,
-      "ongoing": true
-    },
-    {
       "id": "anilist-30698",
       "name": "Neon Genesis Evangelion",
       "volumeCount": 14,
@@ -1041,16 +1023,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-105011",
-      "name": "More Than a Married Couple, but Not Lovers.",
-      "volumeCount": 13,
-      "ongoing": true
-    },
-    {
       "id": "anilist-110462",
       "name": "Tomb Raider King",
       "volumeCount": 12,
       "ongoing": false
+    },
+    {
+      "id": "anilist-105011",
+      "name": "More Than a Married Couple, but Not Lovers.",
+      "volumeCount": 13,
+      "ongoing": true
     },
     {
       "id": "anilist-33006",
@@ -1083,15 +1065,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85442",
-      "name": "The Rising of the Shield Hero",
-      "volumeCount": 22,
-      "ongoing": true
-    },
-    {
       "id": "anilist-30007",
       "name": "Hajime no Ippo: Fighting Spirit!",
       "volumeCount": 145,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-85442",
+      "name": "The Rising of the Shield Hero",
+      "volumeCount": 22,
       "ongoing": true
     },
     {
@@ -1107,16 +1089,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-59983",
-      "name": "Noblesse",
-      "volumeCount": 25,
-      "ongoing": false
-    },
-    {
       "id": "anilist-86508",
       "name": "Dragon Ball Super",
       "volumeCount": 24,
       "ongoing": true
+    },
+    {
+      "id": "anilist-59983",
+      "name": "Noblesse",
+      "volumeCount": 25,
+      "ongoing": false
     },
     {
       "id": "anilist-98361",
@@ -1197,16 +1179,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30401",
-      "name": "Parasyte",
-      "volumeCount": 10,
-      "ongoing": false
-    },
-    {
       "id": "anilist-179445",
       "name": "Solo Leveling: Ragnarok",
       "volumeCount": 15,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30401",
+      "name": "Parasyte",
+      "volumeCount": 10,
+      "ongoing": false
     },
     {
       "id": "anilist-80145",
@@ -1239,15 +1221,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30044",
-      "name": "Gin Tama",
-      "volumeCount": 77,
-      "ongoing": false
-    },
-    {
       "id": "anilist-106867",
       "name": "My Dearest Self With Malice Aforethought",
       "volumeCount": 11,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30044",
+      "name": "Gin Tama",
+      "volumeCount": 77,
       "ongoing": false
     },
     {
@@ -1509,15 +1491,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30481",
-      "name": "Planetes",
-      "volumeCount": 4,
-      "ongoing": false
-    },
-    {
       "id": "anilist-105641",
       "name": "The Girl I Like Forgot Her Glasses",
       "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30481",
+      "name": "Planetes",
+      "volumeCount": 4,
       "ongoing": false
     },
     {
@@ -1803,12 +1785,6 @@
       "ongoing": false
     },
     {
-      "id": "anilist-153432",
-      "name": "The Reaper",
-      "volumeCount": 4,
-      "ongoing": true
-    },
-    {
       "id": "anilist-116266",
       "name": "Girlfriend, Girlfriend",
       "volumeCount": 16,
@@ -1959,15 +1935,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-108105",
-      "name": "When Will Ayumu Make His Move?",
-      "volumeCount": 17,
-      "ongoing": false
-    },
-    {
       "id": "anilist-125624",
       "name": "Even If You Slit My Mouth",
       "volumeCount": 11,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-108105",
+      "name": "When Will Ayumu Make His Move?",
+      "volumeCount": 17,
       "ongoing": false
     },
     {
@@ -2139,15 +2115,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-58533",
-      "name": "No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!",
-      "volumeCount": 28,
+      "id": "anilist-109728",
+      "name": "The Ice Guy and the Cool Girl",
+      "volumeCount": 12,
       "ongoing": true
     },
     {
-      "id": "anilist-109728",
-      "name": "The Ice Guy and the Cool Girl",
-      "volumeCount": 11,
+      "id": "anilist-58533",
+      "name": "No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!",
+      "volumeCount": 28,
       "ongoing": true
     },
     {
@@ -2241,16 +2217,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-31149",
-      "name": "Fist of the North Star",
-      "volumeCount": 27,
-      "ongoing": false
-    },
-    {
       "id": "anilist-87234",
       "name": "The Elder Sister-Like One",
       "volumeCount": 6,
       "ongoing": true
+    },
+    {
+      "id": "anilist-31149",
+      "name": "Fist of the North Star",
+      "volumeCount": 27,
+      "ongoing": false
     },
     {
       "id": "anilist-30671",
@@ -2271,15 +2247,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-125116",
-      "name": "Wistoria: Wand and Sword",
-      "volumeCount": 16,
-      "ongoing": true
-    },
-    {
       "id": "anilist-201773",
       "name": "Haimiya Is Scary Cute",
       "volumeCount": 3,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-125116",
+      "name": "Wistoria: Wand and Sword",
+      "volumeCount": 16,
       "ongoing": true
     },
     {
@@ -2301,16 +2277,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-100207",
-      "name": "The Great Jahy Will Not Be Defeated!",
-      "volumeCount": 12,
-      "ongoing": true
-    },
-    {
       "id": "anilist-107518",
       "name": "Heavenly Demon Reborn!",
       "volumeCount": 10,
       "ongoing": false
+    },
+    {
+      "id": "anilist-100207",
+      "name": "The Great Jahy Will Not Be Defeated!",
+      "volumeCount": 12,
+      "ongoing": true
     },
     {
       "id": "anilist-86720",
@@ -2385,21 +2361,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85566",
-      "name": "Love & Lies",
-      "volumeCount": 13,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30031",
       "name": "Love★Com",
       "volumeCount": 17,
       "ongoing": false
     },
     {
-      "id": "anilist-110140",
-      "name": "It Takes Two Tomorrow, Too",
-      "volumeCount": 5,
+      "id": "anilist-85566",
+      "name": "Love & Lies",
+      "volumeCount": 13,
       "ongoing": false
     },
     {
@@ -2407,6 +2377,12 @@
       "name": "I’m in Love with the Villainess",
       "volumeCount": 5,
       "ongoing": true
+    },
+    {
+      "id": "anilist-110140",
+      "name": "It Takes Two Tomorrow, Too",
+      "volumeCount": 5,
+      "ongoing": false
     },
     {
       "id": "anilist-110785",
