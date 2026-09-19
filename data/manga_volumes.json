@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-09-18T08:40:18Z",
+  "_generated": "2026-09-19T08:27:25Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -61,6 +61,12 @@
       "name": "My Hero Academia",
       "volumeCount": 42,
       "ongoing": false
+    },
+    {
+      "id": "anilist-74347",
+      "name": "One-Punch Man",
+      "volumeCount": 37,
+      "ongoing": true
     },
     {
       "id": "anilist-30656",
@@ -717,6 +723,12 @@
       "ongoing": true
     },
     {
+      "id": "anilist-85564",
+      "name": "Mushoku Tensei: Jobless Reincarnation",
+      "volumeCount": 25,
+      "ongoing": true
+    },
+    {
       "id": "anilist-30664",
       "name": "Akira",
       "volumeCount": 6,
@@ -945,6 +957,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-114416",
+      "name": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You",
+      "volumeCount": 27,
+      "ongoing": true
+    },
+    {
       "id": "anilist-30698",
       "name": "Neon Genesis Evangelion",
       "volumeCount": 14,
@@ -1089,16 +1107,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86508",
-      "name": "Dragon Ball Super",
-      "volumeCount": 24,
-      "ongoing": true
-    },
-    {
       "id": "anilist-59983",
       "name": "Noblesse",
       "volumeCount": 25,
       "ongoing": false
+    },
+    {
+      "id": "anilist-86508",
+      "name": "Dragon Ball Super",
+      "volumeCount": 24,
+      "ongoing": true
     },
     {
       "id": "anilist-98361",
@@ -1329,16 +1347,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-114791",
-      "name": "Undead Unluck",
-      "volumeCount": 27,
-      "ongoing": false
-    },
-    {
       "id": "anilist-107987",
       "name": "Whisper Me a Love Song",
       "volumeCount": 12,
       "ongoing": true
+    },
+    {
+      "id": "anilist-114791",
+      "name": "Undead Unluck",
+      "volumeCount": 27,
+      "ongoing": false
     },
     {
       "id": "anilist-30418",
@@ -1653,15 +1671,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-102989",
-      "name": "Summertime Rendering",
-      "volumeCount": 13,
-      "ongoing": false
-    },
-    {
       "id": "anilist-85247",
       "name": "Twin Star Exorcists",
       "volumeCount": 35,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-102989",
+      "name": "Summertime Rendering",
+      "volumeCount": 13,
       "ongoing": false
     },
     {
@@ -1989,15 +2007,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-85616",
-      "name": "Seaside Stranger: Umibe no Étranger",
-      "volumeCount": 1,
-      "ongoing": false
-    },
-    {
       "id": "anilist-106726",
       "name": "Shimeji Simulation",
       "volumeCount": 5,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85616",
+      "name": "Seaside Stranger: Umibe no Étranger",
+      "volumeCount": 1,
       "ongoing": false
     },
     {
@@ -2007,15 +2025,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-98370",
-      "name": "Sasaki and Miyano",
-      "volumeCount": 11,
-      "ongoing": true
-    },
-    {
       "id": "anilist-153880",
       "name": "The Art of Reincarnation",
       "volumeCount": 12,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-98370",
+      "name": "Sasaki and Miyano",
+      "volumeCount": 11,
       "ongoing": true
     },
     {
@@ -2115,15 +2133,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-109728",
-      "name": "The Ice Guy and the Cool Girl",
-      "volumeCount": 12,
-      "ongoing": true
-    },
-    {
       "id": "anilist-58533",
       "name": "No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!",
       "volumeCount": 28,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-109728",
+      "name": "The Ice Guy and the Cool Girl",
+      "volumeCount": 12,
       "ongoing": true
     },
     {
@@ -2217,16 +2235,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-87234",
-      "name": "The Elder Sister-Like One",
-      "volumeCount": 6,
-      "ongoing": true
-    },
-    {
       "id": "anilist-31149",
       "name": "Fist of the North Star",
       "volumeCount": 27,
       "ongoing": false
+    },
+    {
+      "id": "anilist-87234",
+      "name": "The Elder Sister-Like One",
+      "volumeCount": 6,
+      "ongoing": true
     },
     {
       "id": "anilist-30671",
@@ -2319,16 +2337,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-35255",
-      "name": "Dengeki Daisy",
-      "volumeCount": 16,
-      "ongoing": false
-    },
-    {
       "id": "anilist-169272",
       "name": "Tune In to the Midnight Heart",
       "volumeCount": 14,
       "ongoing": true
+    },
+    {
+      "id": "anilist-35255",
+      "name": "Dengeki Daisy",
+      "volumeCount": 16,
+      "ongoing": false
     },
     {
       "id": "anilist-107540",
@@ -2361,15 +2379,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30031",
-      "name": "Love★Com",
-      "volumeCount": 17,
-      "ongoing": false
-    },
-    {
       "id": "anilist-85566",
       "name": "Love & Lies",
       "volumeCount": 13,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30031",
+      "name": "Love★Com",
+      "volumeCount": 17,
       "ongoing": false
     },
     {
