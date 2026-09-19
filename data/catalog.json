@@ -2,7 +2,7 @@
   "version": 2,
   "currency": "EUR",
   "_attribution": "LEGO data: Rebrickable (rebrickable.com) + Brickset (brickset.com). Not affiliated with or endorsed by The LEGO Group.",
-  "_generated": "2026-09-18T08:12:17Z",
+  "_generated": "2026-09-19T08:06:24Z",
   "items": [
     {
       "id": "001",
@@ -15025,7 +15025,7 @@
         "USD": 54.99,
         "GBP": 49.99
       },
-      "lifecycleStatus": "RETIRING_SOON",
+      "lifecycleStatus": "AVAILABLE",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2025,
@@ -15218,7 +15218,7 @@
         "USD": 34.99,
         "GBP": 29.99
       },
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2026,
@@ -146124,7 +146124,7 @@
       "themeOrSeries": "City",
       "retailPrice": null,
       "prices": {},
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2024,
@@ -182055,7 +182055,7 @@
         "USD": 54.99,
         "GBP": 44.99
       },
-      "lifecycleStatus": "RETIRING_SOON",
+      "lifecycleStatus": "AVAILABLE",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2026,
@@ -204399,7 +204399,7 @@
         "USD": 27.99,
         "GBP": 19.99
       },
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2025,
@@ -257870,6 +257870,21 @@
       "category": "LEGO",
       "name": "Kitten and Vet's Office",
       "imageURL": "https://cdn.rebrickable.com/media/sets/l0002265-1/174191.jpg",
+      "themeOrSeries": "Friends",
+      "retailPrice": null,
+      "prices": {},
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "L0002266",
+      "category": "LEGO",
+      "name": "Corgi and Ice Cream Stand",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/l0002266-1/181396.jpg",
       "themeOrSeries": "Friends",
       "retailPrice": null,
       "prices": {},
