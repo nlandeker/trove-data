@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-09-19T08:27:25Z",
+  "_generated": "2026-09-20T08:58:34Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -1137,16 +1137,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-98235",
-      "name": "We Never Learn",
-      "volumeCount": 21,
-      "ongoing": false
-    },
-    {
       "id": "anilist-150440",
       "name": "RuriDragon",
       "volumeCount": 5,
       "ongoing": true
+    },
+    {
+      "id": "anilist-98235",
+      "name": "We Never Learn",
+      "volumeCount": 21,
+      "ongoing": false
     },
     {
       "id": "anilist-65003",
@@ -1755,16 +1755,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-52651",
-      "name": "THE BREAKER - NEW WAVES",
-      "volumeCount": 20,
-      "ongoing": false
-    },
-    {
       "id": "anilist-152404",
       "name": "Alya Sometimes Hides Her Feelings in Russian",
       "volumeCount": 11,
       "ongoing": true
+    },
+    {
+      "id": "anilist-52651",
+      "name": "THE BREAKER - NEW WAVES",
+      "volumeCount": 20,
+      "ongoing": false
     },
     {
       "id": "anilist-67707",
@@ -1817,7 +1817,7 @@
     {
       "id": "anilist-120502",
       "name": "In the Clear Moonlit Dusk",
-      "volumeCount": 11,
+      "volumeCount": 12,
       "ongoing": true
     },
     {
@@ -1869,16 +1869,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-101434",
-      "name": "How to Treat a Lady Knight Right",
-      "volumeCount": 7,
-      "ongoing": false
-    },
-    {
       "id": "anilist-135083",
       "name": "WIND BREAKER",
       "volumeCount": 27,
       "ongoing": true
+    },
+    {
+      "id": "anilist-101434",
+      "name": "How to Treat a Lady Knight Right",
+      "volumeCount": 7,
+      "ongoing": false
     },
     {
       "id": "anilist-65719",
@@ -1919,7 +1919,7 @@
     {
       "id": "anilist-107120",
       "name": "Chillin’ in Another World with Level 2 Super Cheat Powers",
-      "volumeCount": 21,
+      "volumeCount": 22,
       "ongoing": true
     },
     {
@@ -2259,16 +2259,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30085",
-      "name": "Azumanga Daioh",
-      "volumeCount": 4,
-      "ongoing": false
-    },
-    {
       "id": "anilist-201773",
       "name": "Haimiya Is Scary Cute",
       "volumeCount": 3,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30085",
+      "name": "Azumanga Daioh",
+      "volumeCount": 4,
+      "ongoing": false
     },
     {
       "id": "anilist-125116",
@@ -2331,16 +2331,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-30904",
-      "name": "Lone Wolf and Cub",
-      "volumeCount": 28,
-      "ongoing": false
-    },
-    {
       "id": "anilist-169272",
       "name": "Tune In to the Midnight Heart",
       "volumeCount": 14,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30904",
+      "name": "Lone Wolf and Cub",
+      "volumeCount": 28,
+      "ongoing": false
     },
     {
       "id": "anilist-35255",
