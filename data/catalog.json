@@ -2,7 +2,7 @@
   "version": 2,
   "currency": "EUR",
   "_attribution": "LEGO data: Rebrickable (rebrickable.com) + Brickset (brickset.com). Not affiliated with or endorsed by The LEGO Group.",
-  "_generated": "2026-09-19T08:06:24Z",
+  "_generated": "2026-09-20T08:36:06Z",
   "items": [
     {
       "id": "001",
@@ -15104,7 +15104,7 @@
         "USD": 19.99,
         "GBP": 17.99
       },
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2025,
@@ -15218,7 +15218,7 @@
         "USD": 34.99,
         "GBP": 29.99
       },
-      "lifecycleStatus": "RETIRING_SOON",
+      "lifecycleStatus": "AVAILABLE",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2026,
@@ -85230,7 +85230,7 @@
         "USD": 14.99,
         "GBP": 12.99
       },
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2025,
@@ -85738,7 +85738,7 @@
         "USD": 39.99,
         "GBP": 34.99
       },
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2026,
@@ -101016,7 +101016,7 @@
       "themeOrSeries": "Technic",
       "retailPrice": null,
       "prices": {},
-      "lifecycleStatus": "RETIRING_SOON",
+      "lifecycleStatus": "AVAILABLE",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2024,
@@ -107104,7 +107104,7 @@
         "USD": 89.99,
         "GBP": 79.99
       },
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2025,
@@ -147001,7 +147001,7 @@
         "USD": 209.99,
         "GBP": 179.99
       },
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2025,
@@ -153850,7 +153850,7 @@
       "lifecycleStatus": "RETIRED",
       "retirementDate": null,
       "marketPrice": null,
-      "year": 2019,
+      "year": 2014,
       "volumeCount": null,
       "ongoing": null
     },
@@ -169367,7 +169367,7 @@
     {
       "id": "70232",
       "category": "LEGO",
-      "name": "Sabre Tooth Tiger Pack",
+      "name": "Saber-tooth Tiger Tribe Pack",
       "imageURL": "https://cdn.rebrickable.com/media/sets/70232-1/9442.jpg",
       "themeOrSeries": "Legends of Chima",
       "retailPrice": null,
@@ -181226,7 +181226,7 @@
       "themeOrSeries": "Ninjago",
       "retailPrice": null,
       "prices": {},
-      "lifecycleStatus": "RETIRING_SOON",
+      "lifecycleStatus": "AVAILABLE",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2024,
@@ -182184,8 +182184,8 @@
         "USD": 9.99,
         "GBP": 8.99
       },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-09-17",
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -183004,7 +183004,7 @@
         "USD": 19.99,
         "GBP": 17.99
       },
-      "lifecycleStatus": "RETIRING_SOON",
+      "lifecycleStatus": "AVAILABLE",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2025,
@@ -201927,7 +201927,7 @@
         "GBP": 19.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-08-30",
+      "retirementDate": "2026-09-09",
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -201983,8 +201983,8 @@
         "USD": 14.99,
         "GBP": 12.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-09-19",
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
