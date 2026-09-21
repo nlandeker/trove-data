@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-09-20T08:58:34Z",
+  "_generated": "2026-09-21T09:29:32Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -61,12 +61,6 @@
       "name": "My Hero Academia",
       "volumeCount": 42,
       "ongoing": false
-    },
-    {
-      "id": "anilist-74347",
-      "name": "One-Punch Man",
-      "volumeCount": 37,
-      "ongoing": true
     },
     {
       "id": "anilist-30656",
@@ -207,15 +201,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-30021",
-      "name": "Death Note",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-101583",
       "name": "My Dress-Up Darling",
       "volumeCount": 15,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30021",
+      "name": "Death Note",
+      "volumeCount": 12,
       "ongoing": false
     },
     {
@@ -675,15 +669,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-87178",
-      "name": "Boruto: Naruto Next Generations",
-      "volumeCount": 20,
-      "ongoing": false
-    },
-    {
       "id": "anilist-38967",
       "name": "Onani Master Kurosawa",
       "volumeCount": 4,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-87178",
+      "name": "Boruto: Naruto Next Generations",
+      "volumeCount": 20,
       "ongoing": false
     },
     {
@@ -733,12 +727,6 @@
       "name": "Akira",
       "volumeCount": 6,
       "ongoing": false
-    },
-    {
-      "id": "anilist-99022",
-      "name": "The Apothecary Diaries",
-      "volumeCount": 16,
-      "ongoing": true
     },
     {
       "id": "anilist-85215",
@@ -831,16 +819,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-38848",
-      "name": "Sun-Ken Rock",
-      "volumeCount": 25,
-      "ongoing": false
-    },
-    {
       "id": "anilist-118408",
       "name": "Villains Are Destined to Die",
       "volumeCount": 9,
       "ongoing": true
+    },
+    {
+      "id": "anilist-38848",
+      "name": "Sun-Ken Rock",
+      "volumeCount": 25,
+      "ongoing": false
     },
     {
       "id": "anilist-30024",
@@ -933,15 +921,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-38586",
-      "name": "THE BREAKER",
-      "volumeCount": 10,
-      "ongoing": false
-    },
-    {
       "id": "anilist-41054",
       "name": "Billy Bat",
       "volumeCount": 20,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-38586",
+      "name": "THE BREAKER",
+      "volumeCount": 10,
       "ongoing": false
     },
     {
@@ -1311,16 +1299,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-100805",
-      "name": "Here U Are",
-      "volumeCount": 8,
-      "ongoing": false
-    },
-    {
       "id": "anilist-104660",
       "name": "Zom 100: Bucket List of the Dead",
       "volumeCount": 23,
       "ongoing": true
+    },
+    {
+      "id": "anilist-100805",
+      "name": "Here U Are",
+      "volumeCount": 8,
+      "ongoing": false
     },
     {
       "id": "anilist-86952",
@@ -1491,16 +1479,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30022",
-      "name": "Rurouni Kenshin",
-      "volumeCount": 28,
-      "ongoing": false
-    },
-    {
       "id": "anilist-59211",
       "name": "Monthly Girls' Nozaki-kun",
       "volumeCount": 18,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30022",
+      "name": "Rurouni Kenshin",
+      "volumeCount": 28,
+      "ongoing": false
     },
     {
       "id": "anilist-31474",
@@ -1563,15 +1551,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-80217",
-      "name": "the gods lie.",
-      "volumeCount": 1,
-      "ongoing": false
-    },
-    {
       "id": "anilist-117620",
       "name": "The Summer You Were There",
       "volumeCount": 6,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-80217",
+      "name": "the gods lie.",
+      "volumeCount": 1,
       "ongoing": false
     },
     {
@@ -1659,12 +1647,6 @@
       "ongoing": false
     },
     {
-      "id": "anilist-114383",
-      "name": "A Couple of Cuckoos",
-      "volumeCount": 34,
-      "ongoing": true
-    },
-    {
       "id": "anilist-30731",
       "name": "Eden: It's an Endless World!",
       "volumeCount": 18,
@@ -1675,6 +1657,12 @@
       "name": "Twin Star Exorcists",
       "volumeCount": 35,
       "ongoing": false
+    },
+    {
+      "id": "anilist-114383",
+      "name": "A Couple of Cuckoos",
+      "volumeCount": 34,
+      "ongoing": true
     },
     {
       "id": "anilist-102989",
@@ -1707,15 +1695,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-43245",
-      "name": "Chihayafuru",
-      "volumeCount": 50,
-      "ongoing": false
-    },
-    {
       "id": "anilist-198372",
       "name": "Jujutsu Kaisen Modulo",
       "volumeCount": 3,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-43245",
+      "name": "Chihayafuru",
+      "volumeCount": 50,
       "ongoing": false
     },
     {
@@ -1773,16 +1761,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30043",
-      "name": "Eyeshield 21",
-      "volumeCount": 37,
-      "ongoing": false
-    },
-    {
       "id": "anilist-122063",
       "name": "Shangri-La Frontier",
       "volumeCount": 27,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30043",
+      "name": "Eyeshield 21",
+      "volumeCount": 37,
+      "ongoing": false
     },
     {
       "id": "anilist-30029",
@@ -1801,6 +1789,12 @@
       "name": "Boy Meets Maria",
       "volumeCount": 1,
       "ongoing": false
+    },
+    {
+      "id": "anilist-153432",
+      "name": "The Reaper",
+      "volumeCount": 4,
+      "ongoing": true
     },
     {
       "id": "anilist-116266",
@@ -2019,16 +2013,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30933",
-      "name": "Elfen Lied",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-153880",
       "name": "The Art of Reincarnation",
       "volumeCount": 12,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30933",
+      "name": "Elfen Lied",
+      "volumeCount": 12,
+      "ongoing": false
     },
     {
       "id": "anilist-98370",
@@ -2157,6 +2151,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-107720",
+      "name": "Her Summon",
+      "volumeCount": 14,
+      "ongoing": false
+    },
+    {
       "id": "anilist-44893",
       "name": "Bakemonogatari: Monster Tale",
       "volumeCount": 2,
@@ -2235,6 +2235,12 @@
       "ongoing": true
     },
     {
+      "id": "anilist-201773",
+      "name": "Haimiya Is Scary Cute",
+      "volumeCount": 3,
+      "ongoing": true
+    },
+    {
       "id": "anilist-31149",
       "name": "Fist of the North Star",
       "volumeCount": 27,
@@ -2257,12 +2263,6 @@
       "name": "Positively Yours",
       "volumeCount": 8,
       "ongoing": false
-    },
-    {
-      "id": "anilist-201773",
-      "name": "Haimiya Is Scary Cute",
-      "volumeCount": 3,
-      "ongoing": true
     },
     {
       "id": "anilist-30085",
@@ -2307,14 +2307,14 @@
       "ongoing": true
     },
     {
-      "id": "anilist-86720",
-      "name": "Helck",
+      "id": "anilist-31131",
+      "name": "Freesia",
       "volumeCount": 12,
       "ongoing": false
     },
     {
-      "id": "anilist-31131",
-      "name": "Freesia",
+      "id": "anilist-86720",
+      "name": "Helck",
       "volumeCount": 12,
       "ongoing": false
     },
@@ -2337,6 +2337,12 @@
       "ongoing": true
     },
     {
+      "id": "anilist-96518",
+      "name": "Bokutachi ga Yarimashita",
+      "volumeCount": 9,
+      "ongoing": false
+    },
+    {
       "id": "anilist-30904",
       "name": "Lone Wolf and Cub",
       "volumeCount": 28,
@@ -2353,12 +2359,6 @@
       "name": "Loner Life in Another World",
       "volumeCount": 18,
       "ongoing": true
-    },
-    {
-      "id": "anilist-96518",
-      "name": "Bokutachi ga Yarimashita",
-      "volumeCount": 9,
-      "ongoing": false
     },
     {
       "id": "anilist-87213",
