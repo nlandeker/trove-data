@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-09-21T09:29:32Z",
+  "_generated": "2026-09-22T08:57:21Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -61,6 +61,12 @@
       "name": "My Hero Academia",
       "volumeCount": 42,
       "ongoing": false
+    },
+    {
+      "id": "anilist-74347",
+      "name": "One-Punch Man",
+      "volumeCount": 37,
+      "ongoing": true
     },
     {
       "id": "anilist-30656",
@@ -729,6 +735,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-99022",
+      "name": "The Apothecary Diaries",
+      "volumeCount": 16,
+      "ongoing": true
+    },
+    {
       "id": "anilist-85215",
       "name": "All You Need Is Kill",
       "volumeCount": 2,
@@ -1107,14 +1119,14 @@
       "ongoing": true
     },
     {
-      "id": "anilist-98361",
-      "name": "Three Days of Happiness",
+      "id": "anilist-47465",
+      "name": "Memories of Emanon",
       "volumeCount": 1,
       "ongoing": false
     },
     {
-      "id": "anilist-47465",
-      "name": "Memories of Emanon",
+      "id": "anilist-98361",
+      "name": "Three Days of Happiness",
       "volumeCount": 1,
       "ongoing": false
     },
@@ -1167,16 +1179,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-76716",
-      "name": "Masamune-kun’s Revenge",
-      "volumeCount": 10,
-      "ongoing": false
-    },
-    {
       "id": "anilist-109285",
       "name": "Skip and Loafer",
       "volumeCount": 13,
       "ongoing": true
+    },
+    {
+      "id": "anilist-76716",
+      "name": "Masamune-kun’s Revenge",
+      "volumeCount": 10,
+      "ongoing": false
     },
     {
       "id": "anilist-112579",
@@ -2007,16 +2019,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85616",
-      "name": "Seaside Stranger: Umibe no Étranger",
-      "volumeCount": 1,
-      "ongoing": false
-    },
-    {
       "id": "anilist-153880",
       "name": "The Art of Reincarnation",
       "volumeCount": 12,
       "ongoing": true
+    },
+    {
+      "id": "anilist-85616",
+      "name": "Seaside Stranger: Umibe no Étranger",
+      "volumeCount": 1,
+      "ongoing": false
     },
     {
       "id": "anilist-30933",
@@ -2151,9 +2163,9 @@
       "ongoing": false
     },
     {
-      "id": "anilist-107720",
-      "name": "Her Summon",
-      "volumeCount": 14,
+      "id": "anilist-159142",
+      "name": "Firefly Wedding",
+      "volumeCount": 12,
       "ongoing": false
     },
     {
@@ -2163,22 +2175,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-159142",
-      "name": "Firefly Wedding",
-      "volumeCount": 12,
-      "ongoing": false
+      "id": "anilist-171729",
+      "name": "Love Bullet",
+      "volumeCount": 2,
+      "ongoing": true
     },
     {
       "id": "anilist-30106",
       "name": "Cardcaptor Sakura",
       "volumeCount": 12,
       "ongoing": false
-    },
-    {
-      "id": "anilist-171729",
-      "name": "Love Bullet",
-      "volumeCount": 2,
-      "ongoing": true
     },
     {
       "id": "anilist-107918",
@@ -2253,15 +2259,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-30671",
-      "name": "To Love Ru",
-      "volumeCount": 18,
-      "ongoing": false
-    },
-    {
       "id": "anilist-120440",
       "name": "Positively Yours",
       "volumeCount": 8,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30671",
+      "name": "To Love Ru",
+      "volumeCount": 18,
       "ongoing": false
     },
     {
@@ -2289,15 +2295,21 @@
       "ongoing": false
     },
     {
+      "id": "anilist-107518",
+      "name": "Heavenly Demon Reborn!",
+      "volumeCount": 10,
+      "ongoing": false
+    },
+    {
       "id": "anilist-85139",
       "name": "My Monster Secret: Actually, I Am…",
       "volumeCount": 22,
       "ongoing": false
     },
     {
-      "id": "anilist-107518",
-      "name": "Heavenly Demon Reborn!",
-      "volumeCount": 10,
+      "id": "anilist-31131",
+      "name": "Freesia",
+      "volumeCount": 12,
       "ongoing": false
     },
     {
@@ -2305,12 +2317,6 @@
       "name": "The Great Jahy Will Not Be Defeated!",
       "volumeCount": 12,
       "ongoing": true
-    },
-    {
-      "id": "anilist-31131",
-      "name": "Freesia",
-      "volumeCount": 12,
-      "ongoing": false
     },
     {
       "id": "anilist-86720",
@@ -2325,15 +2331,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-39115",
-      "name": "Spice & Wolf",
-      "volumeCount": 24,
-      "ongoing": true
-    },
-    {
       "id": "anilist-169272",
       "name": "Tune In to the Midnight Heart",
       "volumeCount": 14,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-39115",
+      "name": "Spice & Wolf",
+      "volumeCount": 24,
       "ongoing": true
     },
     {
@@ -2391,16 +2397,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-118695",
-      "name": "I’m in Love with the Villainess",
-      "volumeCount": 5,
-      "ongoing": true
-    },
-    {
       "id": "anilist-110140",
       "name": "It Takes Two Tomorrow, Too",
       "volumeCount": 5,
       "ongoing": false
+    },
+    {
+      "id": "anilist-118695",
+      "name": "I’m in Love with the Villainess",
+      "volumeCount": 5,
+      "ongoing": true
     },
     {
       "id": "anilist-110785",
