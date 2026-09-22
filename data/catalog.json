@@ -2,7 +2,7 @@
   "version": 2,
   "currency": "EUR",
   "_attribution": "LEGO data: Rebrickable (rebrickable.com) + Brickset (brickset.com). Not affiliated with or endorsed by The LEGO Group.",
-  "_generated": "2026-09-21T08:55:02Z",
+  "_generated": "2026-09-22T08:29:53Z",
   "items": [
     {
       "id": "001",
@@ -6184,7 +6184,7 @@
       "themeOrSeries": "Duplo",
       "retailPrice": null,
       "prices": {},
-      "lifecycleStatus": "RETIRING_SOON",
+      "lifecycleStatus": "AVAILABLE",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2024,
@@ -15123,7 +15123,7 @@
         "USD": 29.99,
         "GBP": 24.99
       },
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2025,
@@ -36372,7 +36372,7 @@
       "themeOrSeries": "LEGO Ideas and CUUSOO",
       "retailPrice": null,
       "prices": {},
-      "lifecycleStatus": "RETIRING_SOON",
+      "lifecycleStatus": "AVAILABLE",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2024,
@@ -181918,7 +181918,7 @@
         "USD": 149.99,
         "GBP": 139.99
       },
-      "lifecycleStatus": "RETIRING_SOON",
+      "lifecycleStatus": "AVAILABLE",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2025,
@@ -182070,7 +182070,7 @@
         "USD": 54.99,
         "GBP": 44.99
       },
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2026,
@@ -206064,7 +206064,7 @@
         "USD": 44.99,
         "GBP": 34.99
       },
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2025,
