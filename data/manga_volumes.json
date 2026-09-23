@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-09-22T08:57:21Z",
+  "_generated": "2026-09-23T04:08:52Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -783,15 +783,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-73661",
-      "name": "Seraph of the End: Vampire Reign",
-      "volumeCount": 37,
-      "ongoing": true
-    },
-    {
       "id": "anilist-144957",
       "name": "The World After the Fall",
       "volumeCount": 3,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-73661",
+      "name": "Seraph of the End: Vampire Reign",
+      "volumeCount": 37,
       "ongoing": true
     },
     {
@@ -819,6 +819,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-118408",
+      "name": "Villains Are Destined to Die",
+      "volumeCount": 9,
+      "ongoing": true
+    },
+    {
       "id": "anilist-43492",
       "name": "Blue Exorcist",
       "volumeCount": 34,
@@ -829,12 +835,6 @@
       "name": "Happiness",
       "volumeCount": 10,
       "ongoing": false
-    },
-    {
-      "id": "anilist-118408",
-      "name": "Villains Are Destined to Die",
-      "volumeCount": 9,
-      "ongoing": true
     },
     {
       "id": "anilist-38848",
@@ -1101,15 +1101,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30102",
-      "name": "Fruits Basket",
-      "volumeCount": 23,
-      "ongoing": false
-    },
-    {
       "id": "anilist-59983",
       "name": "Noblesse",
       "volumeCount": 25,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30102",
+      "name": "Fruits Basket",
+      "volumeCount": 23,
       "ongoing": false
     },
     {
@@ -1425,15 +1425,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-100991",
-      "name": "ACT-AGE",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-136331",
       "name": "The Return of the 8th Class Mage",
       "volumeCount": 5,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-100991",
+      "name": "ACT-AGE",
+      "volumeCount": 12,
       "ongoing": false
     },
     {
@@ -1767,16 +1767,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-67707",
-      "name": "Your Lie in April",
-      "volumeCount": 11,
-      "ongoing": false
-    },
-    {
       "id": "anilist-122063",
       "name": "Shangri-La Frontier",
       "volumeCount": 27,
       "ongoing": true
+    },
+    {
+      "id": "anilist-67707",
+      "name": "Your Lie in April",
+      "volumeCount": 11,
+      "ongoing": false
     },
     {
       "id": "anilist-30043",
@@ -1809,16 +1809,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-116266",
-      "name": "Girlfriend, Girlfriend",
-      "volumeCount": 16,
-      "ongoing": false
-    },
-    {
       "id": "anilist-98544",
       "name": "Moriarty the Patriot",
       "volumeCount": 23,
       "ongoing": true
+    },
+    {
+      "id": "anilist-116266",
+      "name": "Girlfriend, Girlfriend",
+      "volumeCount": 16,
+      "ongoing": false
     },
     {
       "id": "anilist-120502",
@@ -1929,15 +1929,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-78881",
-      "name": "Darwin's Game",
-      "volumeCount": 30,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30651",
       "name": "Nausicaä of the Valley of the Wind",
       "volumeCount": 7,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-78881",
+      "name": "Darwin's Game",
+      "volumeCount": 30,
       "ongoing": false
     },
     {
@@ -1953,15 +1953,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86481",
-      "name": "Tsuredure Children",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-125624",
       "name": "Even If You Slit My Mouth",
       "volumeCount": 11,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-86481",
+      "name": "Tsuredure Children",
+      "volumeCount": 12,
       "ongoing": false
     },
     {
@@ -2037,12 +2037,6 @@
       "ongoing": false
     },
     {
-      "id": "anilist-98370",
-      "name": "Sasaki and Miyano",
-      "volumeCount": 11,
-      "ongoing": true
-    },
-    {
       "id": "anilist-78151",
       "name": "World Trigger",
       "volumeCount": 29,
@@ -2067,16 +2061,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-98112",
-      "name": "Gal Gohan",
-      "volumeCount": 10,
-      "ongoing": false
-    },
-    {
       "id": "anilist-101625",
       "name": "Berserk of Gluttony",
       "volumeCount": 8,
       "ongoing": true
+    },
+    {
+      "id": "anilist-98112",
+      "name": "Gal Gohan",
+      "volumeCount": 10,
+      "ongoing": false
     },
     {
       "id": "anilist-112544",
@@ -2139,15 +2133,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-58533",
-      "name": "No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!",
-      "volumeCount": 28,
-      "ongoing": true
-    },
-    {
       "id": "anilist-109728",
       "name": "The Ice Guy and the Cool Girl",
       "volumeCount": 12,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-58533",
+      "name": "No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!",
+      "volumeCount": 28,
       "ongoing": true
     },
     {
@@ -2157,15 +2151,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30050",
-      "name": "Shaman King",
-      "volumeCount": 32,
-      "ongoing": false
-    },
-    {
       "id": "anilist-159142",
       "name": "Firefly Wedding",
       "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30050",
+      "name": "Shaman King",
+      "volumeCount": 32,
       "ongoing": false
     },
     {
@@ -2235,15 +2229,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-86303",
-      "name": "Miss Kobayashi's Dragon Maid",
-      "volumeCount": 20,
-      "ongoing": true
-    },
-    {
       "id": "anilist-201773",
       "name": "Haimiya Is Scary Cute",
       "volumeCount": 3,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-86303",
+      "name": "Miss Kobayashi's Dragon Maid",
+      "volumeCount": 20,
       "ongoing": true
     },
     {
@@ -2331,6 +2325,12 @@
       "ongoing": true
     },
     {
+      "id": "anilist-96518",
+      "name": "Bokutachi ga Yarimashita",
+      "volumeCount": 9,
+      "ongoing": false
+    },
+    {
       "id": "anilist-169272",
       "name": "Tune In to the Midnight Heart",
       "volumeCount": 14,
@@ -2343,21 +2343,9 @@
       "ongoing": true
     },
     {
-      "id": "anilist-96518",
-      "name": "Bokutachi ga Yarimashita",
-      "volumeCount": 9,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30904",
       "name": "Lone Wolf and Cub",
       "volumeCount": 28,
-      "ongoing": false
-    },
-    {
-      "id": "anilist-35255",
-      "name": "Dengeki Daisy",
-      "volumeCount": 16,
       "ongoing": false
     },
     {
@@ -2365,6 +2353,12 @@
       "name": "Loner Life in Another World",
       "volumeCount": 18,
       "ongoing": true
+    },
+    {
+      "id": "anilist-35255",
+      "name": "Dengeki Daisy",
+      "volumeCount": 16,
+      "ongoing": false
     },
     {
       "id": "anilist-87213",
@@ -2397,16 +2391,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-110140",
-      "name": "It Takes Two Tomorrow, Too",
-      "volumeCount": 5,
-      "ongoing": false
-    },
-    {
       "id": "anilist-118695",
       "name": "I’m in Love with the Villainess",
       "volumeCount": 5,
       "ongoing": true
+    },
+    {
+      "id": "anilist-110140",
+      "name": "It Takes Two Tomorrow, Too",
+      "volumeCount": 5,
+      "ongoing": false
     },
     {
       "id": "anilist-110785",
