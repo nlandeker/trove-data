@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-09-23T04:08:52Z",
+  "_generated": "2026-09-24T04:09:43Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -237,16 +237,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-98416",
-      "name": "Dr. STONE",
-      "volumeCount": 27,
-      "ongoing": false
-    },
-    {
       "id": "anilist-125828",
       "name": "Sakamoto Days",
       "volumeCount": 28,
       "ongoing": true
+    },
+    {
+      "id": "anilist-98416",
+      "name": "Dr. STONE",
+      "volumeCount": 27,
+      "ongoing": false
     },
     {
       "id": "anilist-31133",
@@ -1701,15 +1701,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-33438",
-      "name": "PSYЯEN",
-      "volumeCount": 16,
-      "ongoing": false
-    },
-    {
       "id": "anilist-198372",
       "name": "Jujutsu Kaisen Modulo",
       "volumeCount": 3,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-33438",
+      "name": "PSYЯEN",
+      "volumeCount": 16,
       "ongoing": false
     },
     {
@@ -1809,16 +1809,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-98544",
-      "name": "Moriarty the Patriot",
-      "volumeCount": 23,
-      "ongoing": true
-    },
-    {
       "id": "anilist-116266",
       "name": "Girlfriend, Girlfriend",
       "volumeCount": 16,
       "ongoing": false
+    },
+    {
+      "id": "anilist-98544",
+      "name": "Moriarty the Patriot",
+      "volumeCount": 23,
+      "ongoing": true
     },
     {
       "id": "anilist-120502",
@@ -1941,14 +1941,14 @@
       "ongoing": false
     },
     {
-      "id": "anilist-100937",
-      "name": "DARLING in the FRANXX",
+      "id": "anilist-147997",
+      "name": "You and I Are Polar Opposites",
       "volumeCount": 8,
       "ongoing": false
     },
     {
-      "id": "anilist-147997",
-      "name": "You and I Are Polar Opposites",
+      "id": "anilist-100937",
+      "name": "DARLING in the FRANXX",
       "volumeCount": 8,
       "ongoing": false
     },
@@ -2035,6 +2035,12 @@
       "name": "Elfen Lied",
       "volumeCount": 12,
       "ongoing": false
+    },
+    {
+      "id": "anilist-98370",
+      "name": "Sasaki and Miyano",
+      "volumeCount": 11,
+      "ongoing": true
     },
     {
       "id": "anilist-78151",
@@ -2163,6 +2169,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-107720",
+      "name": "Her Summon",
+      "volumeCount": 14,
+      "ongoing": false
+    },
+    {
       "id": "anilist-44893",
       "name": "Bakemonogatari: Monster Tale",
       "volumeCount": 2,
@@ -2205,15 +2217,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-99549",
-      "name": "Karakai Jouzu no (Moto) Takagi-san",
-      "volumeCount": 23,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30463",
       "name": "Welcome to the N.H.K.",
       "volumeCount": 8,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-99549",
+      "name": "Karakai Jouzu no (Moto) Takagi-san",
+      "volumeCount": 23,
       "ongoing": false
     },
     {
@@ -2223,15 +2235,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-54903",
-      "name": "GANGSTA.",
-      "volumeCount": 9,
-      "ongoing": true
-    },
-    {
       "id": "anilist-201773",
       "name": "Haimiya Is Scary Cute",
       "volumeCount": 3,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-54903",
+      "name": "GANGSTA.",
+      "volumeCount": 9,
       "ongoing": true
     },
     {
@@ -2307,21 +2319,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-100207",
-      "name": "The Great Jahy Will Not Be Defeated!",
-      "volumeCount": 12,
-      "ongoing": true
-    },
-    {
       "id": "anilist-86720",
       "name": "Helck",
       "volumeCount": 12,
       "ongoing": false
     },
     {
-      "id": "anilist-98466",
-      "name": "Kemono Jihen",
-      "volumeCount": 26,
+      "id": "anilist-100207",
+      "name": "The Great Jahy Will Not Be Defeated!",
+      "volumeCount": 12,
       "ongoing": true
     },
     {
@@ -2329,6 +2335,12 @@
       "name": "Bokutachi ga Yarimashita",
       "volumeCount": 9,
       "ongoing": false
+    },
+    {
+      "id": "anilist-98466",
+      "name": "Kemono Jihen",
+      "volumeCount": 26,
+      "ongoing": true
     },
     {
       "id": "anilist-169272",
@@ -2349,16 +2361,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-107540",
-      "name": "Loner Life in Another World",
-      "volumeCount": 18,
-      "ongoing": true
-    },
-    {
       "id": "anilist-35255",
       "name": "Dengeki Daisy",
       "volumeCount": 16,
       "ongoing": false
+    },
+    {
+      "id": "anilist-107540",
+      "name": "Loner Life in Another World",
+      "volumeCount": 18,
+      "ongoing": true
     },
     {
       "id": "anilist-87213",
@@ -2379,15 +2391,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85566",
-      "name": "Love & Lies",
-      "volumeCount": 13,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30031",
       "name": "Love★Com",
       "volumeCount": 17,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85566",
+      "name": "Love & Lies",
+      "volumeCount": 13,
       "ongoing": false
     },
     {
@@ -2403,15 +2415,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-110785",
-      "name": "2.5 Dimensional Seduction",
-      "volumeCount": 25,
-      "ongoing": false
-    },
-    {
       "id": "anilist-86355",
       "name": "That Time I Got Reincarnated as a Slime",
       "volumeCount": 23,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-110785",
+      "name": "2.5 Dimensional Seduction",
+      "volumeCount": 25,
       "ongoing": false
     }
   ]
