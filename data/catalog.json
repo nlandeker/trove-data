@@ -2,7 +2,7 @@
   "version": 2,
   "currency": "EUR",
   "_attribution": "LEGO data: Rebrickable (rebrickable.com) + Brickset (brickset.com). Not affiliated with or endorsed by The LEGO Group.",
-  "_generated": "2026-09-23T03:31:24Z",
+  "_generated": "2026-09-24T03:28:59Z",
   "items": [
     {
       "id": "001",
@@ -103357,7 +103357,7 @@
         "USD": 59.99,
         "GBP": 54.99
       },
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2025,
@@ -107780,7 +107780,7 @@
         "USD": 9.99,
         "GBP": 8.99
       },
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2026,
@@ -146568,8 +146568,8 @@
         "USD": 19.99,
         "GBP": 17.99
       },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-09-22",
+      "lifecycleStatus": "RETIRING_SOON",
+      "retirementDate": null,
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -181256,7 +181256,7 @@
       "themeOrSeries": "Ninjago",
       "retailPrice": null,
       "prices": {},
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2024,
@@ -181595,7 +181595,7 @@
         "USD": 19.99,
         "GBP": 17.99
       },
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2025,
@@ -181933,7 +181933,7 @@
         "USD": 149.99,
         "GBP": 139.99
       },
-      "lifecycleStatus": "RETIRING_SOON",
+      "lifecycleStatus": "AVAILABLE",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2025,
@@ -201698,7 +201698,7 @@
         "USD": 54.99,
         "GBP": 44.99
       },
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2025,
@@ -207363,7 +207363,7 @@
         "USD": 26.99,
         "GBP": 22.99
       },
-      "lifecycleStatus": "RETIRING_SOON",
+      "lifecycleStatus": "AVAILABLE",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2025,
@@ -257611,6 +257611,21 @@
       "ongoing": null
     },
     {
+      "id": "L0002227",
+      "category": "LEGO",
+      "name": "Firefighter with Helicopter",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/l0002227-1/181464.jpg",
+      "themeOrSeries": "City",
+      "retailPrice": null,
+      "prices": {},
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
       "id": "L0002231",
       "category": "LEGO",
       "name": "Phase 1 Clone Pilot",
@@ -257961,6 +257976,21 @@
       "name": "The Riddler",
       "imageURL": "https://cdn.rebrickable.com/media/sets/l0002273-1/179416.jpg",
       "themeOrSeries": "Super Heroes DC",
+      "retailPrice": null,
+      "prices": {},
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "L0002276",
+      "category": "LEGO",
+      "name": "Black Panther with Hoverboard",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/l0002276-1/170346.jpg",
+      "themeOrSeries": "Super Heroes Marvel",
       "retailPrice": null,
       "prices": {},
       "lifecycleStatus": "AVAILABLE",
@@ -263097,6 +263127,21 @@
       "retirementDate": null,
       "marketPrice": null,
       "year": 2023,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "TALLSHIP",
+      "category": "LEGO",
+      "name": "Tall ship",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/tallship-1/181294.jpg",
+      "themeOrSeries": "LEGO Brand Store",
+      "retailPrice": null,
+      "prices": {},
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
       "volumeCount": null,
       "ongoing": null
     },
