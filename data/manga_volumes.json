@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-09-24T04:09:43Z",
+  "_generated": "2026-09-25T04:08:52Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -387,15 +387,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-107098",
-      "name": "Record of Ragnarok",
-      "volumeCount": 28,
-      "ongoing": true
-    },
-    {
       "id": "anilist-87395",
       "name": "Grand Blue Dreaming",
       "volumeCount": 26,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-107098",
+      "name": "Record of Ragnarok",
+      "volumeCount": 28,
       "ongoing": true
     },
     {
@@ -777,16 +777,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-39711",
-      "name": "Bakuman。",
-      "volumeCount": 20,
-      "ongoing": false
-    },
-    {
       "id": "anilist-144957",
       "name": "The World After the Fall",
       "volumeCount": 3,
       "ongoing": true
+    },
+    {
+      "id": "anilist-39711",
+      "name": "Bakuman。",
+      "volumeCount": 20,
+      "ongoing": false
     },
     {
       "id": "anilist-73661",
@@ -831,15 +831,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-86136",
-      "name": "Happiness",
-      "volumeCount": 10,
-      "ongoing": false
-    },
-    {
       "id": "anilist-38848",
       "name": "Sun-Ken Rock",
       "volumeCount": 25,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-86136",
+      "name": "Happiness",
+      "volumeCount": 10,
       "ongoing": false
     },
     {
@@ -993,16 +993,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-33378",
-      "name": "Kimi ni Todoke: From Me to You",
-      "volumeCount": 30,
-      "ongoing": false
-    },
-    {
       "id": "anilist-99324",
       "name": "Welcome to Demon School! Iruma-kun",
       "volumeCount": 50,
       "ongoing": true
+    },
+    {
+      "id": "anilist-33378",
+      "name": "Kimi ni Todoke: From Me to You",
+      "volumeCount": 30,
+      "ongoing": false
     },
     {
       "id": "anilist-30743",
@@ -1119,27 +1119,27 @@
       "ongoing": true
     },
     {
-      "id": "anilist-47465",
-      "name": "Memories of Emanon",
-      "volumeCount": 1,
-      "ongoing": false
-    },
-    {
       "id": "anilist-98361",
       "name": "Three Days of Happiness",
       "volumeCount": 1,
       "ongoing": false
     },
     {
-      "id": "anilist-31224",
-      "name": "March Comes in Like a Lion",
-      "volumeCount": 18,
-      "ongoing": true
+      "id": "anilist-47465",
+      "name": "Memories of Emanon",
+      "volumeCount": 1,
+      "ongoing": false
     },
     {
       "id": "anilist-150440",
       "name": "RuriDragon",
       "volumeCount": 5,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-31224",
+      "name": "March Comes in Like a Lion",
+      "volumeCount": 18,
       "ongoing": true
     },
     {
@@ -1503,15 +1503,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-31474",
-      "name": "Devilman",
-      "volumeCount": 5,
-      "ongoing": false
-    },
-    {
       "id": "anilist-105641",
       "name": "The Girl I Like Forgot Her Glasses",
       "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-31474",
+      "name": "Devilman",
+      "volumeCount": 5,
       "ongoing": false
     },
     {
@@ -1653,21 +1653,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-66413",
-      "name": "Hinamatsuri",
-      "volumeCount": 19,
-      "ongoing": false
-    },
-    {
-      "id": "anilist-30731",
-      "name": "Eden: It's an Endless World!",
-      "volumeCount": 18,
-      "ongoing": false
-    },
-    {
       "id": "anilist-85247",
       "name": "Twin Star Exorcists",
       "volumeCount": 35,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-66413",
+      "name": "Hinamatsuri",
+      "volumeCount": 19,
       "ongoing": false
     },
     {
@@ -1675,6 +1669,12 @@
       "name": "A Couple of Cuckoos",
       "volumeCount": 34,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30731",
+      "name": "Eden: It's an Endless World!",
+      "volumeCount": 18,
+      "ongoing": false
     },
     {
       "id": "anilist-102989",
@@ -1785,21 +1785,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30029",
-      "name": "Paradise Kiss",
-      "volumeCount": 5,
-      "ongoing": false
-    },
-    {
       "id": "anilist-87225",
       "name": "Tsukimichi: Moonlit Fantasy",
       "volumeCount": 20,
       "ongoing": true
     },
     {
-      "id": "anilist-114027",
-      "name": "Boy Meets Maria",
-      "volumeCount": 1,
+      "id": "anilist-30029",
+      "name": "Paradise Kiss",
+      "volumeCount": 5,
       "ongoing": false
     },
     {
@@ -1807,6 +1801,12 @@
       "name": "The Reaper",
       "volumeCount": 4,
       "ongoing": true
+    },
+    {
+      "id": "anilist-114027",
+      "name": "Boy Meets Maria",
+      "volumeCount": 1,
+      "ongoing": false
     },
     {
       "id": "anilist-116266",
@@ -1869,16 +1869,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-48597",
-      "name": "Sankarea: Undying Love",
-      "volumeCount": 11,
-      "ongoing": false
-    },
-    {
       "id": "anilist-135083",
       "name": "WIND BREAKER",
       "volumeCount": 27,
       "ongoing": true
+    },
+    {
+      "id": "anilist-48597",
+      "name": "Sankarea: Undying Love",
+      "volumeCount": 11,
+      "ongoing": false
     },
     {
       "id": "anilist-101434",
@@ -1929,15 +1929,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-30651",
-      "name": "Nausicaä of the Valley of the Wind",
-      "volumeCount": 7,
-      "ongoing": false
-    },
-    {
       "id": "anilist-78881",
       "name": "Darwin's Game",
       "volumeCount": 30,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30651",
+      "name": "Nausicaä of the Valley of the Wind",
+      "volumeCount": 7,
       "ongoing": false
     },
     {
@@ -1989,15 +1989,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-70171",
-      "name": "My Youth Romantic Comedy Is Wrong, As I Expected",
-      "volumeCount": 18,
-      "ongoing": false
-    },
-    {
       "id": "anilist-113055",
       "name": "The Remarried Empress",
       "volumeCount": 9,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-70171",
+      "name": "My Youth Romantic Comedy Is Wrong, As I Expected",
+      "volumeCount": 18,
       "ongoing": false
     },
     {
@@ -2013,16 +2013,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-106726",
-      "name": "Shimeji Simulation",
-      "volumeCount": 5,
-      "ongoing": false
-    },
-    {
       "id": "anilist-153880",
       "name": "The Art of Reincarnation",
       "volumeCount": 12,
       "ongoing": true
+    },
+    {
+      "id": "anilist-106726",
+      "name": "Shimeji Simulation",
+      "volumeCount": 5,
+      "ongoing": false
     },
     {
       "id": "anilist-85616",
@@ -2169,12 +2169,6 @@
       "ongoing": false
     },
     {
-      "id": "anilist-107720",
-      "name": "Her Summon",
-      "volumeCount": 14,
-      "ongoing": false
-    },
-    {
       "id": "anilist-44893",
       "name": "Bakemonogatari: Monster Tale",
       "volumeCount": 2,
@@ -2211,6 +2205,12 @@
       "ongoing": true
     },
     {
+      "id": "anilist-201773",
+      "name": "Haimiya Is Scary Cute",
+      "volumeCount": 3,
+      "ongoing": true
+    },
+    {
       "id": "anilist-35293",
       "name": "Doubt",
       "volumeCount": 4,
@@ -2235,12 +2235,6 @@
       "ongoing": false
     },
     {
-      "id": "anilist-201773",
-      "name": "Haimiya Is Scary Cute",
-      "volumeCount": 3,
-      "ongoing": true
-    },
-    {
       "id": "anilist-54903",
       "name": "GANGSTA.",
       "volumeCount": 9,
@@ -2259,16 +2253,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-87234",
-      "name": "The Elder Sister-Like One",
-      "volumeCount": 6,
-      "ongoing": true
-    },
-    {
       "id": "anilist-120440",
       "name": "Positively Yours",
       "volumeCount": 8,
       "ongoing": false
+    },
+    {
+      "id": "anilist-87234",
+      "name": "The Elder Sister-Like One",
+      "volumeCount": 6,
+      "ongoing": true
     },
     {
       "id": "anilist-30671",
@@ -2277,16 +2271,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30085",
-      "name": "Azumanga Daioh",
-      "volumeCount": 4,
-      "ongoing": false
-    },
-    {
       "id": "anilist-125116",
       "name": "Wistoria: Wand and Sword",
       "volumeCount": 16,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30085",
+      "name": "Azumanga Daioh",
+      "volumeCount": 4,
+      "ongoing": false
     },
     {
       "id": "anilist-68105",
@@ -2331,6 +2325,12 @@
       "ongoing": true
     },
     {
+      "id": "anilist-169272",
+      "name": "Tune In to the Midnight Heart",
+      "volumeCount": 14,
+      "ongoing": true
+    },
+    {
       "id": "anilist-96518",
       "name": "Bokutachi ga Yarimashita",
       "volumeCount": 9,
@@ -2343,15 +2343,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-169272",
-      "name": "Tune In to the Midnight Heart",
-      "volumeCount": 14,
-      "ongoing": true
-    },
-    {
       "id": "anilist-39115",
       "name": "Spice & Wolf",
       "volumeCount": 24,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-107540",
+      "name": "Loner Life in Another World",
+      "volumeCount": 18,
       "ongoing": true
     },
     {
@@ -2365,12 +2365,6 @@
       "name": "Dengeki Daisy",
       "volumeCount": 16,
       "ongoing": false
-    },
-    {
-      "id": "anilist-107540",
-      "name": "Loner Life in Another World",
-      "volumeCount": 18,
-      "ongoing": true
     },
     {
       "id": "anilist-87213",
@@ -2397,16 +2391,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85566",
-      "name": "Love & Lies",
-      "volumeCount": 13,
-      "ongoing": false
-    },
-    {
       "id": "anilist-118695",
       "name": "I’m in Love with the Villainess",
       "volumeCount": 5,
       "ongoing": true
+    },
+    {
+      "id": "anilist-85566",
+      "name": "Love & Lies",
+      "volumeCount": 13,
+      "ongoing": false
     },
     {
       "id": "anilist-110140",
@@ -2415,15 +2409,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86355",
-      "name": "That Time I Got Reincarnated as a Slime",
-      "volumeCount": 23,
-      "ongoing": false
-    },
-    {
       "id": "anilist-110785",
       "name": "2.5 Dimensional Seduction",
       "volumeCount": 25,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-86355",
+      "name": "That Time I Got Reincarnated as a Slime",
+      "volumeCount": 23,
       "ongoing": false
     }
   ]
