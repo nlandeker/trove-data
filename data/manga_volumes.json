@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-09-25T04:08:52Z",
+  "_generated": "2026-09-26T04:08:38Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -831,15 +831,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-38848",
-      "name": "Sun-Ken Rock",
-      "volumeCount": 25,
-      "ongoing": false
-    },
-    {
       "id": "anilist-86136",
       "name": "Happiness",
       "volumeCount": 10,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-38848",
+      "name": "Sun-Ken Rock",
+      "volumeCount": 25,
       "ongoing": false
     },
     {
@@ -909,15 +909,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-87347",
-      "name": "Given",
-      "volumeCount": 9,
-      "ongoing": false
-    },
-    {
       "id": "anilist-107282",
       "name": "Shikimori's Not Just a Cutie",
       "volumeCount": 20,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-87347",
+      "name": "Given",
+      "volumeCount": 9,
       "ongoing": false
     },
     {
@@ -971,7 +971,7 @@
     {
       "id": "anilist-33866",
       "name": "Black Butler",
-      "volumeCount": 35,
+      "volumeCount": 36,
       "ongoing": true
     },
     {
@@ -1107,16 +1107,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30102",
-      "name": "Fruits Basket",
-      "volumeCount": 23,
-      "ongoing": false
-    },
-    {
       "id": "anilist-86508",
       "name": "Dragon Ball Super",
       "volumeCount": 24,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30102",
+      "name": "Fruits Basket",
+      "volumeCount": 23,
+      "ongoing": false
     },
     {
       "id": "anilist-98361",
@@ -1191,16 +1191,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-112579",
-      "name": "My Broken Mariko",
-      "volumeCount": 1,
-      "ongoing": false
-    },
-    {
       "id": "anilist-179445",
       "name": "Solo Leveling: Ragnarok",
       "volumeCount": 15,
       "ongoing": true
+    },
+    {
+      "id": "anilist-112579",
+      "name": "My Broken Mariko",
+      "volumeCount": 1,
+      "ongoing": false
     },
     {
       "id": "anilist-30401",
@@ -1659,16 +1659,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-66413",
-      "name": "Hinamatsuri",
-      "volumeCount": 19,
-      "ongoing": false
-    },
-    {
       "id": "anilist-114383",
       "name": "A Couple of Cuckoos",
       "volumeCount": 34,
       "ongoing": true
+    },
+    {
+      "id": "anilist-66413",
+      "name": "Hinamatsuri",
+      "volumeCount": 19,
+      "ongoing": false
     },
     {
       "id": "anilist-30731",
@@ -1695,15 +1695,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-126135",
-      "name": "Bibliomania",
-      "volumeCount": 1,
-      "ongoing": false
-    },
-    {
       "id": "anilist-198372",
       "name": "Jujutsu Kaisen Modulo",
       "volumeCount": 3,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-126135",
+      "name": "Bibliomania",
+      "volumeCount": 1,
       "ongoing": false
     },
     {
@@ -1761,16 +1761,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-52651",
-      "name": "THE BREAKER - NEW WAVES",
-      "volumeCount": 20,
-      "ongoing": false
-    },
-    {
       "id": "anilist-122063",
       "name": "Shangri-La Frontier",
       "volumeCount": 27,
       "ongoing": true
+    },
+    {
+      "id": "anilist-52651",
+      "name": "THE BREAKER - NEW WAVES",
+      "volumeCount": 20,
+      "ongoing": false
     },
     {
       "id": "anilist-67707",
@@ -1827,16 +1827,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-31101",
-      "name": "Akumetsu",
-      "volumeCount": 18,
-      "ongoing": false
-    },
-    {
       "id": "anilist-176740",
       "name": "Centuria",
       "volumeCount": 9,
       "ongoing": true
+    },
+    {
+      "id": "anilist-31101",
+      "name": "Akumetsu",
+      "volumeCount": 18,
+      "ongoing": false
     },
     {
       "id": "anilist-86607",
@@ -1929,15 +1929,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-78881",
-      "name": "Darwin's Game",
-      "volumeCount": 30,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30651",
       "name": "Nausicaä of the Valley of the Wind",
       "volumeCount": 7,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-78881",
+      "name": "Darwin's Game",
+      "volumeCount": 30,
       "ongoing": false
     },
     {
@@ -2037,21 +2037,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-98370",
-      "name": "Sasaki and Miyano",
-      "volumeCount": 11,
+      "id": "anilist-34571",
+      "name": "Snow White with the Red Hair",
+      "volumeCount": 27,
       "ongoing": true
     },
     {
       "id": "anilist-78151",
       "name": "World Trigger",
       "volumeCount": 29,
-      "ongoing": true
-    },
-    {
-      "id": "anilist-34571",
-      "name": "Snow White with the Red Hair",
-      "volumeCount": 27,
       "ongoing": true
     },
     {
@@ -2115,16 +2109,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-101860",
-      "name": "EDENS ZERO",
-      "volumeCount": 33,
-      "ongoing": false
-    },
-    {
       "id": "anilist-143031",
       "name": "I Want to End This Love Game",
       "volumeCount": 9,
       "ongoing": true
+    },
+    {
+      "id": "anilist-101860",
+      "name": "EDENS ZERO",
+      "volumeCount": 33,
+      "ongoing": false
     },
     {
       "id": "anilist-30074",
@@ -2133,15 +2127,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-103255",
-      "name": "Fairy Tail: 100 Years Quest",
-      "volumeCount": 24,
-      "ongoing": true
-    },
-    {
       "id": "anilist-109728",
       "name": "The Ice Guy and the Cool Girl",
       "volumeCount": 12,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-103255",
+      "name": "Fairy Tail: 100 Years Quest",
+      "volumeCount": 24,
       "ongoing": true
     },
     {
@@ -2159,7 +2153,7 @@
     {
       "id": "anilist-159142",
       "name": "Firefly Wedding",
-      "volumeCount": 12,
+      "volumeCount": 13,
       "ongoing": false
     },
     {
@@ -2169,16 +2163,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-44893",
-      "name": "Bakemonogatari: Monster Tale",
-      "volumeCount": 2,
-      "ongoing": false
-    },
-    {
       "id": "anilist-171729",
       "name": "Love Bullet",
       "volumeCount": 2,
       "ongoing": true
+    },
+    {
+      "id": "anilist-44893",
+      "name": "Bakemonogatari: Monster Tale",
+      "volumeCount": 2,
+      "ongoing": false
     },
     {
       "id": "anilist-30106",
@@ -2193,6 +2187,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-201773",
+      "name": "Haimiya Is Scary Cute",
+      "volumeCount": 3,
+      "ongoing": true
+    },
+    {
       "id": "anilist-31373",
       "name": "Nijigahara Holograph",
       "volumeCount": 1,
@@ -2202,12 +2202,6 @@
       "id": "anilist-141479",
       "name": "The Legendary Spearman Returns",
       "volumeCount": 20,
-      "ongoing": true
-    },
-    {
-      "id": "anilist-201773",
-      "name": "Haimiya Is Scary Cute",
-      "volumeCount": 3,
       "ongoing": true
     },
     {
@@ -2247,15 +2241,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-31149",
-      "name": "Fist of the North Star",
-      "volumeCount": 27,
-      "ongoing": false
-    },
-    {
       "id": "anilist-120440",
       "name": "Positively Yours",
       "volumeCount": 8,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-31149",
+      "name": "Fist of the North Star",
+      "volumeCount": 27,
       "ongoing": false
     },
     {
@@ -2265,16 +2259,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-30671",
-      "name": "To Love Ru",
-      "volumeCount": 18,
-      "ongoing": false
-    },
-    {
       "id": "anilist-125116",
       "name": "Wistoria: Wand and Sword",
       "volumeCount": 16,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30671",
+      "name": "To Love Ru",
+      "volumeCount": 18,
+      "ongoing": false
     },
     {
       "id": "anilist-30085",
@@ -2367,15 +2361,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-87213",
-      "name": "Yuuna and the Haunted Hot Springs",
-      "volumeCount": 24,
-      "ongoing": false
-    },
-    {
       "id": "anilist-106434",
       "name": "Hitomi-chan is Shy With Strangers",
       "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-87213",
+      "name": "Yuuna and the Haunted Hot Springs",
+      "volumeCount": 24,
       "ongoing": false
     },
     {
@@ -2397,12 +2391,6 @@
       "ongoing": true
     },
     {
-      "id": "anilist-85566",
-      "name": "Love & Lies",
-      "volumeCount": 13,
-      "ongoing": false
-    },
-    {
       "id": "anilist-110140",
       "name": "It Takes Two Tomorrow, Too",
       "volumeCount": 5,
@@ -2412,6 +2400,12 @@
       "id": "anilist-110785",
       "name": "2.5 Dimensional Seduction",
       "volumeCount": 25,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85566",
+      "name": "Love & Lies",
+      "volumeCount": 13,
       "ongoing": false
     },
     {
