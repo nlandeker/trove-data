@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-29T03:28:05Z",
-  "scrapeOK": true,
+  "generatedAt": "2026-09-30T03:32:02Z",
+  "scrapeOK": false,
   "scrapedAt": "2026-09-29T03:27:52Z",
-  "retiringSoonCount": 206,
-  "degraded": false
+  "retiringSoonCount": 204,
+  "degraded": true
 }
