@@ -343,7 +343,7 @@ def _bs_image(bs: dict) -> str:
 
 # ponytail: "retiring-soon" is a marketing alias that 301s to "last-chance-to-buy" —
 # fetch the canonical URL directly rather than following a redirect.
-LEGO_RETIRING_URL = "https://www.lego.com/en-us/categories/last-chance-to-buy"
+LEGO_RETIRING_URL = "https://www.lego.com/en-si/categories/last-chance-to-buy"
 _BROWSER_UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
                "(KHTML, like Gecko) Chrome/124.0 Safari/537.36")
 
