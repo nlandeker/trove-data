@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-10-01T04:09:50Z",
+  "_generated": "2026-10-02T04:09:31Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -777,6 +777,12 @@
       "ongoing": true
     },
     {
+      "id": "anilist-119174",
+      "name": "The Boxer",
+      "volumeCount": 13,
+      "ongoing": false
+    },
+    {
       "id": "anilist-39711",
       "name": "Bakuman。",
       "volumeCount": 20,
@@ -787,12 +793,6 @@
       "name": "Seraph of the End: Vampire Reign",
       "volumeCount": 37,
       "ongoing": true
-    },
-    {
-      "id": "anilist-119174",
-      "name": "The Boxer",
-      "volumeCount": 13,
-      "ongoing": false
     },
     {
       "id": "anilist-150378",
@@ -963,16 +963,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-33866",
-      "name": "Black Butler",
-      "volumeCount": 36,
-      "ongoing": true
-    },
-    {
       "id": "anilist-85470",
       "name": "Mushoku Tensei: Jobless Reincarnation",
       "volumeCount": 26,
       "ongoing": false
+    },
+    {
+      "id": "anilist-33866",
+      "name": "Black Butler",
+      "volumeCount": 36,
+      "ongoing": true
     },
     {
       "id": "anilist-109501",
@@ -1337,7 +1337,7 @@
     {
       "id": "anilist-180752",
       "name": "Ichi the Witch",
-      "volumeCount": 9,
+      "volumeCount": 10,
       "ongoing": true
     },
     {
@@ -1431,16 +1431,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-105263",
-      "name": "Dai Dark",
-      "volumeCount": 9,
-      "ongoing": true
-    },
-    {
       "id": "anilist-86265",
       "name": "Kengan Ashura",
       "volumeCount": 27,
       "ongoing": false
+    },
+    {
+      "id": "anilist-105263",
+      "name": "Dai Dark",
+      "volumeCount": 9,
+      "ongoing": true
     },
     {
       "id": "anilist-30053",
@@ -1559,7 +1559,7 @@
     {
       "id": "anilist-144866",
       "name": "Akane-banashi",
-      "volumeCount": 23,
+      "volumeCount": 24,
       "ongoing": true
     },
     {
@@ -1599,15 +1599,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-105791",
-      "name": "Higehiro: After Being Rejected, I Shaved and Took In a High School Runaway",
-      "volumeCount": 13,
-      "ongoing": false
-    },
-    {
       "id": "anilist-43949",
       "name": "Medaka Box",
       "volumeCount": 22,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-105791",
+      "name": "Higehiro: After Being Rejected, I Shaved and Took In a High School Runaway",
+      "volumeCount": 13,
       "ongoing": false
     },
     {
@@ -1719,14 +1719,14 @@
       "ongoing": false
     },
     {
-      "id": "anilist-57231",
-      "name": "Daytime Shooting Star",
+      "id": "anilist-30584",
+      "name": "Future Diary",
       "volumeCount": 12,
       "ongoing": false
     },
     {
-      "id": "anilist-30584",
-      "name": "Future Diary",
+      "id": "anilist-57231",
+      "name": "Daytime Shooting Star",
       "volumeCount": 12,
       "ongoing": false
     },
@@ -1749,16 +1749,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-99609",
-      "name": "I Want to Eat Your Pancreas",
-      "volumeCount": 2,
-      "ongoing": false
-    },
-    {
       "id": "anilist-122063",
       "name": "Shangri-La Frontier",
       "volumeCount": 27,
       "ongoing": true
+    },
+    {
+      "id": "anilist-99609",
+      "name": "I Want to Eat Your Pancreas",
+      "volumeCount": 2,
+      "ongoing": false
     },
     {
       "id": "anilist-52651",
@@ -1823,7 +1823,7 @@
     {
       "id": "anilist-176740",
       "name": "Centuria",
-      "volumeCount": 9,
+      "volumeCount": 10,
       "ongoing": true
     },
     {
@@ -1905,16 +1905,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-85235",
-      "name": "School-Live!",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-66213",
       "name": "Monster Musume",
       "volumeCount": 21,
       "ongoing": true
+    },
+    {
+      "id": "anilist-85235",
+      "name": "School-Live!",
+      "volumeCount": 12,
+      "ongoing": false
     },
     {
       "id": "anilist-60079",
@@ -1989,16 +1989,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-70171",
-      "name": "My Youth Romantic Comedy Is Wrong, As I Expected",
-      "volumeCount": 18,
-      "ongoing": false
-    },
-    {
       "id": "anilist-153880",
       "name": "The Art of Reincarnation",
       "volumeCount": 12,
       "ongoing": true
+    },
+    {
+      "id": "anilist-70171",
+      "name": "My Youth Romantic Comedy Is Wrong, As I Expected",
+      "volumeCount": 18,
+      "ongoing": false
     },
     {
       "id": "anilist-30735",
@@ -2045,7 +2045,7 @@
     {
       "id": "anilist-78151",
       "name": "World Trigger",
-      "volumeCount": 29,
+      "volumeCount": 30,
       "ongoing": true
     },
     {
@@ -2127,6 +2127,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-201773",
+      "name": "Haimiya Is Scary Cute",
+      "volumeCount": 3,
+      "ongoing": true
+    },
+    {
       "id": "anilist-109728",
       "name": "The Ice Guy and the Cool Girl",
       "volumeCount": 12,
@@ -2139,22 +2145,10 @@
       "ongoing": true
     },
     {
-      "id": "anilist-201773",
-      "name": "Haimiya Is Scary Cute",
-      "volumeCount": 3,
-      "ongoing": true
-    },
-    {
       "id": "anilist-58533",
       "name": "No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!",
       "volumeCount": 28,
       "ongoing": true
-    },
-    {
-      "id": "anilist-106454",
-      "name": "Sensei wa Koi wo Oshierarenai",
-      "volumeCount": 7,
-      "ongoing": false
     },
     {
       "id": "anilist-159142",
@@ -2163,10 +2157,22 @@
       "ongoing": false
     },
     {
+      "id": "anilist-106454",
+      "name": "Sensei wa Koi wo Oshierarenai",
+      "volumeCount": 7,
+      "ongoing": false
+    },
+    {
       "id": "anilist-171729",
       "name": "Love Bullet",
       "volumeCount": 2,
       "ongoing": true
+    },
+    {
+      "id": "anilist-107720",
+      "name": "Her Summon",
+      "volumeCount": 14,
+      "ongoing": false
     },
     {
       "id": "anilist-30050",
@@ -2229,21 +2235,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-54903",
-      "name": "GANGSTA.",
-      "volumeCount": 9,
-      "ongoing": true
-    },
-    {
       "id": "anilist-125116",
       "name": "Wistoria: Wand and Sword",
       "volumeCount": 16,
       "ongoing": true
     },
     {
-      "id": "anilist-86303",
-      "name": "Miss Kobayashi's Dragon Maid",
-      "volumeCount": 20,
+      "id": "anilist-54903",
+      "name": "GANGSTA.",
+      "volumeCount": 9,
       "ongoing": true
     },
     {
@@ -2251,6 +2251,12 @@
       "name": "Positively Yours",
       "volumeCount": 8,
       "ongoing": false
+    },
+    {
+      "id": "anilist-86303",
+      "name": "Miss Kobayashi's Dragon Maid",
+      "volumeCount": 20,
+      "ongoing": true
     },
     {
       "id": "anilist-31149",
@@ -2307,15 +2313,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-31131",
-      "name": "Freesia",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-96518",
       "name": "Bokutachi ga Yarimashita",
       "volumeCount": 9,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-31131",
+      "name": "Freesia",
+      "volumeCount": 12,
       "ongoing": false
     },
     {
@@ -2349,15 +2355,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-35255",
-      "name": "Dengeki Daisy",
-      "volumeCount": 16,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30904",
       "name": "Lone Wolf and Cub",
       "volumeCount": 28,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-35255",
+      "name": "Dengeki Daisy",
+      "volumeCount": 16,
       "ongoing": false
     },
     {
@@ -2373,6 +2379,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-86355",
+      "name": "That Time I Got Reincarnated as a Slime",
+      "volumeCount": 23,
+      "ongoing": false
+    },
+    {
       "id": "anilist-110785",
       "name": "2.5 Dimensional Seduction",
       "volumeCount": 25,
@@ -2382,12 +2394,6 @@
       "id": "anilist-85887",
       "name": "Ookami Shounen wa Kyou mo Uso wo Kasaneru",
       "volumeCount": 5,
-      "ongoing": false
-    },
-    {
-      "id": "anilist-86355",
-      "name": "That Time I Got Reincarnated as a Slime",
-      "volumeCount": 23,
       "ongoing": false
     },
     {
