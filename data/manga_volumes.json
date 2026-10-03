@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-10-02T04:09:31Z",
+  "_generated": "2026-10-03T04:14:00Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -783,16 +783,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-39711",
-      "name": "Bakuman。",
-      "volumeCount": 20,
-      "ongoing": false
-    },
-    {
       "id": "anilist-73661",
       "name": "Seraph of the End: Vampire Reign",
       "volumeCount": 37,
       "ongoing": true
+    },
+    {
+      "id": "anilist-39711",
+      "name": "Bakuman。",
+      "volumeCount": 20,
+      "ongoing": false
     },
     {
       "id": "anilist-150378",
@@ -867,16 +867,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30912",
-      "name": "Tomie",
-      "volumeCount": 1,
-      "ongoing": false
-    },
-    {
       "id": "anilist-138603",
       "name": "The Summer Hikaru Died",
       "volumeCount": 9,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30912",
+      "name": "Tomie",
+      "volumeCount": 1,
+      "ongoing": false
     },
     {
       "id": "anilist-94970",
@@ -1023,15 +1023,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-32921",
-      "name": "Maid-sama!",
-      "volumeCount": 18,
-      "ongoing": false
-    },
-    {
       "id": "anilist-110462",
       "name": "Tomb Raider King",
       "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-32921",
+      "name": "Maid-sama!",
+      "volumeCount": 18,
       "ongoing": false
     },
     {
@@ -1683,16 +1683,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-103082",
-      "name": "Pumpkin Night",
-      "volumeCount": 18,
-      "ongoing": true
-    },
-    {
       "id": "anilist-198372",
       "name": "Jujutsu Kaisen Modulo",
       "volumeCount": 3,
       "ongoing": false
+    },
+    {
+      "id": "anilist-103082",
+      "name": "Pumpkin Night",
+      "volumeCount": 18,
+      "ongoing": true
     },
     {
       "id": "anilist-126135",
@@ -1731,15 +1731,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-141261",
-      "name": "Ayashimon",
-      "volumeCount": 3,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30894",
       "name": "Rosario+Vampire",
       "volumeCount": 10,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-141261",
+      "name": "Ayashimon",
+      "volumeCount": 3,
       "ongoing": false
     },
     {
@@ -2037,15 +2037,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-34571",
-      "name": "Snow White with the Red Hair",
-      "volumeCount": 27,
-      "ongoing": true
-    },
-    {
       "id": "anilist-78151",
       "name": "World Trigger",
       "volumeCount": 30,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-34571",
+      "name": "Snow White with the Red Hair",
+      "volumeCount": 27,
       "ongoing": true
     },
     {
@@ -2103,16 +2103,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-68071",
-      "name": "Spirit Circle",
-      "volumeCount": 6,
-      "ongoing": false
-    },
-    {
       "id": "anilist-143031",
       "name": "I Want to End This Love Game",
       "volumeCount": 9,
       "ongoing": true
+    },
+    {
+      "id": "anilist-68071",
+      "name": "Spirit Circle",
+      "volumeCount": 6,
+      "ongoing": false
     },
     {
       "id": "anilist-101860",
@@ -2145,16 +2145,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-58533",
-      "name": "No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!",
-      "volumeCount": 28,
-      "ongoing": true
-    },
-    {
       "id": "anilist-159142",
       "name": "Firefly Wedding",
       "volumeCount": 13,
       "ongoing": false
+    },
+    {
+      "id": "anilist-58533",
+      "name": "No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!",
+      "volumeCount": 28,
+      "ongoing": true
     },
     {
       "id": "anilist-106454",
@@ -2167,12 +2167,6 @@
       "name": "Love Bullet",
       "volumeCount": 2,
       "ongoing": true
-    },
-    {
-      "id": "anilist-107720",
-      "name": "Her Summon",
-      "volumeCount": 14,
-      "ongoing": false
     },
     {
       "id": "anilist-30050",
@@ -2295,27 +2289,27 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30092",
-      "name": "Sailor Moon",
-      "volumeCount": 18,
-      "ongoing": false
-    },
-    {
       "id": "anilist-169272",
       "name": "Tune In to the Midnight Heart",
       "volumeCount": 14,
       "ongoing": true
     },
     {
-      "id": "anilist-85139",
-      "name": "My Monster Secret: Actually, I Am…",
-      "volumeCount": 22,
+      "id": "anilist-30092",
+      "name": "Sailor Moon",
+      "volumeCount": 18,
       "ongoing": false
     },
     {
       "id": "anilist-96518",
       "name": "Bokutachi ga Yarimashita",
       "volumeCount": 9,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85139",
+      "name": "My Monster Secret: Actually, I Am…",
+      "volumeCount": 22,
       "ongoing": false
     },
     {
@@ -2337,15 +2331,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-98466",
-      "name": "Kemono Jihen",
-      "volumeCount": 26,
-      "ongoing": true
-    },
-    {
       "id": "anilist-107540",
       "name": "Loner Life in Another World",
       "volumeCount": 18,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-98466",
+      "name": "Kemono Jihen",
+      "volumeCount": 26,
       "ongoing": true
     },
     {
@@ -2379,22 +2373,22 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86355",
-      "name": "That Time I Got Reincarnated as a Slime",
-      "volumeCount": 23,
-      "ongoing": false
-    },
-    {
       "id": "anilist-110785",
       "name": "2.5 Dimensional Seduction",
       "volumeCount": 25,
       "ongoing": false
     },
     {
-      "id": "anilist-85887",
-      "name": "Ookami Shounen wa Kyou mo Uso wo Kasaneru",
-      "volumeCount": 5,
+      "id": "anilist-86355",
+      "name": "That Time I Got Reincarnated as a Slime",
+      "volumeCount": 23,
       "ongoing": false
+    },
+    {
+      "id": "anilist-118695",
+      "name": "I’m in Love with the Villainess",
+      "volumeCount": 5,
+      "ongoing": true
     },
     {
       "id": "anilist-30031",
@@ -2403,10 +2397,10 @@
       "ongoing": false
     },
     {
-      "id": "anilist-118695",
-      "name": "I’m in Love with the Villainess",
+      "id": "anilist-85887",
+      "name": "Ookami Shounen wa Kyou mo Uso wo Kasaneru",
       "volumeCount": 5,
-      "ongoing": true
+      "ongoing": false
     },
     {
       "id": "anilist-110140",
