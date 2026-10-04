@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-10-03T04:14:00Z",
+  "_generated": "2026-10-04T05:27:13Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -327,14 +327,14 @@
       "ongoing": false
     },
     {
-      "id": "anilist-33009",
-      "name": "JoJo's Bizarre Adventure Part 6: Stone Ocean",
+      "id": "anilist-37375",
+      "name": "The Climber",
       "volumeCount": 17,
       "ongoing": false
     },
     {
-      "id": "anilist-37375",
-      "name": "The Climber",
+      "id": "anilist-33009",
+      "name": "JoJo's Bizarre Adventure Part 6: Stone Ocean",
       "volumeCount": 17,
       "ongoing": false
     },
@@ -561,16 +561,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85849",
-      "name": "ReLIFE",
-      "volumeCount": 15,
-      "ongoing": false
-    },
-    {
       "id": "anilist-106064",
       "name": "Chained Soldier",
       "volumeCount": 21,
       "ongoing": true
+    },
+    {
+      "id": "anilist-85849",
+      "name": "ReLIFE",
+      "volumeCount": 15,
+      "ongoing": false
     },
     {
       "id": "anilist-74485",
@@ -783,16 +783,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-73661",
-      "name": "Seraph of the End: Vampire Reign",
-      "volumeCount": 37,
-      "ongoing": true
-    },
-    {
       "id": "anilist-39711",
       "name": "Bakuman。",
       "volumeCount": 20,
       "ongoing": false
+    },
+    {
+      "id": "anilist-73661",
+      "name": "Seraph of the End: Vampire Reign",
+      "volumeCount": 37,
+      "ongoing": true
     },
     {
       "id": "anilist-150378",
@@ -1029,16 +1029,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-32921",
-      "name": "Maid-sama!",
-      "volumeCount": 18,
-      "ongoing": false
-    },
-    {
       "id": "anilist-105011",
       "name": "More Than a Married Couple, but Not Lovers.",
       "volumeCount": 13,
       "ongoing": true
+    },
+    {
+      "id": "anilist-32921",
+      "name": "Maid-sama!",
+      "volumeCount": 18,
+      "ongoing": false
     },
     {
       "id": "anilist-30004",
@@ -1365,15 +1365,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-31303",
-      "name": "Ashita no Joe: Fighting for Tomorrow",
-      "volumeCount": 20,
-      "ongoing": false
-    },
-    {
       "id": "anilist-104973",
       "name": "The Reason Why Raeliana Ended Up at the Duke's Mansion",
       "volumeCount": 9,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-31303",
+      "name": "Ashita no Joe: Fighting for Tomorrow",
+      "volumeCount": 20,
       "ongoing": false
     },
     {
@@ -1767,10 +1767,10 @@
       "ongoing": false
     },
     {
-      "id": "anilist-67707",
-      "name": "Your Lie in April",
-      "volumeCount": 11,
-      "ongoing": false
+      "id": "anilist-153432",
+      "name": "The Reaper",
+      "volumeCount": 4,
+      "ongoing": true
     },
     {
       "id": "anilist-87225",
@@ -1779,10 +1779,10 @@
       "ongoing": true
     },
     {
-      "id": "anilist-153432",
-      "name": "The Reaper",
-      "volumeCount": 4,
-      "ongoing": true
+      "id": "anilist-67707",
+      "name": "Your Lie in April",
+      "volumeCount": 11,
+      "ongoing": false
     },
     {
       "id": "anilist-30043",
@@ -2121,16 +2121,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30074",
-      "name": "Air Gear",
-      "volumeCount": 37,
-      "ongoing": false
-    },
-    {
       "id": "anilist-201773",
       "name": "Haimiya Is Scary Cute",
       "volumeCount": 3,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30074",
+      "name": "Air Gear",
+      "volumeCount": 37,
+      "ongoing": false
     },
     {
       "id": "anilist-109728",
@@ -2151,16 +2151,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-58533",
-      "name": "No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!",
-      "volumeCount": 28,
-      "ongoing": true
-    },
-    {
       "id": "anilist-106454",
       "name": "Sensei wa Koi wo Oshierarenai",
       "volumeCount": 7,
       "ongoing": false
+    },
+    {
+      "id": "anilist-58533",
+      "name": "No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!",
+      "volumeCount": 28,
+      "ongoing": true
     },
     {
       "id": "anilist-171729",
@@ -2235,16 +2235,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-54903",
-      "name": "GANGSTA.",
-      "volumeCount": 9,
-      "ongoing": true
-    },
-    {
       "id": "anilist-120440",
       "name": "Positively Yours",
       "volumeCount": 8,
       "ongoing": false
+    },
+    {
+      "id": "anilist-54903",
+      "name": "GANGSTA.",
+      "volumeCount": 9,
+      "ongoing": true
     },
     {
       "id": "anilist-86303",
@@ -2307,15 +2307,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85139",
-      "name": "My Monster Secret: Actually, I Am…",
-      "volumeCount": 22,
-      "ongoing": false
-    },
-    {
       "id": "anilist-31131",
       "name": "Freesia",
       "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85139",
+      "name": "My Monster Secret: Actually, I Am…",
+      "volumeCount": 22,
       "ongoing": false
     },
     {
@@ -2349,15 +2349,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-30904",
-      "name": "Lone Wolf and Cub",
-      "volumeCount": 28,
-      "ongoing": false
-    },
-    {
       "id": "anilist-35255",
       "name": "Dengeki Daisy",
       "volumeCount": 16,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30904",
+      "name": "Lone Wolf and Cub",
+      "volumeCount": 28,
       "ongoing": false
     },
     {
