@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-10-04T05:27:13Z",
+  "_generated": "2026-10-05T04:14:20Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -61,6 +61,12 @@
       "name": "My Hero Academia",
       "volumeCount": 42,
       "ongoing": false
+    },
+    {
+      "id": "anilist-74347",
+      "name": "One-Punch Man",
+      "volumeCount": 37,
+      "ongoing": true
     },
     {
       "id": "anilist-30656",
@@ -333,15 +339,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-33009",
-      "name": "JoJo's Bizarre Adventure Part 6: Stone Ocean",
-      "volumeCount": 17,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30936",
       "name": "Homunculus",
       "volumeCount": 15,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-33009",
+      "name": "JoJo's Bizarre Adventure Part 6: Stone Ocean",
+      "volumeCount": 17,
       "ongoing": false
     },
     {
@@ -783,16 +789,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-39711",
-      "name": "Bakuman。",
-      "volumeCount": 20,
-      "ongoing": false
-    },
-    {
       "id": "anilist-73661",
       "name": "Seraph of the End: Vampire Reign",
       "volumeCount": 37,
       "ongoing": true
+    },
+    {
+      "id": "anilist-39711",
+      "name": "Bakuman。",
+      "volumeCount": 20,
+      "ongoing": false
     },
     {
       "id": "anilist-150378",
@@ -989,7 +995,7 @@
     {
       "id": "anilist-99324",
       "name": "Welcome to Demon School! Iruma-kun",
-      "volumeCount": 50,
+      "volumeCount": 8,
       "ongoing": true
     },
     {
@@ -1179,16 +1185,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-76716",
-      "name": "Masamune-kun’s Revenge",
-      "volumeCount": 10,
-      "ongoing": false
-    },
-    {
       "id": "anilist-179445",
       "name": "Solo Leveling: Ragnarok",
       "volumeCount": 15,
       "ongoing": true
+    },
+    {
+      "id": "anilist-76716",
+      "name": "Masamune-kun’s Revenge",
+      "volumeCount": 10,
+      "ongoing": false
     },
     {
       "id": "anilist-112579",
@@ -1413,27 +1419,21 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30267",
-      "name": "HELLSING",
-      "volumeCount": 10,
-      "ongoing": false
-    },
-    {
       "id": "anilist-136331",
       "name": "The Return of the 8th Class Mage",
       "volumeCount": 5,
       "ongoing": false
     },
     {
-      "id": "anilist-100991",
-      "name": "ACT-AGE",
-      "volumeCount": 12,
+      "id": "anilist-30267",
+      "name": "HELLSING",
+      "volumeCount": 10,
       "ongoing": false
     },
     {
-      "id": "anilist-86265",
-      "name": "Kengan Ashura",
-      "volumeCount": 27,
+      "id": "anilist-100991",
+      "name": "ACT-AGE",
+      "volumeCount": 12,
       "ongoing": false
     },
     {
@@ -1446,6 +1446,12 @@
       "id": "anilist-30053",
       "name": "Yu Yu Hakusho",
       "volumeCount": 19,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-86265",
+      "name": "Kengan Ashura",
+      "volumeCount": 27,
       "ongoing": false
     },
     {
@@ -1485,16 +1491,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-59211",
-      "name": "Monthly Girls' Nozaki-kun",
-      "volumeCount": 18,
-      "ongoing": true
-    },
-    {
       "id": "anilist-105641",
       "name": "The Girl I Like Forgot Her Glasses",
       "volumeCount": 12,
       "ongoing": false
+    },
+    {
+      "id": "anilist-59211",
+      "name": "Monthly Girls' Nozaki-kun",
+      "volumeCount": 18,
+      "ongoing": true
     },
     {
       "id": "anilist-30022",
@@ -1773,16 +1779,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-87225",
-      "name": "Tsukimichi: Moonlit Fantasy",
-      "volumeCount": 20,
-      "ongoing": true
-    },
-    {
       "id": "anilist-67707",
       "name": "Your Lie in April",
       "volumeCount": 11,
       "ongoing": false
+    },
+    {
+      "id": "anilist-87225",
+      "name": "Tsukimichi: Moonlit Fantasy",
+      "volumeCount": 20,
+      "ongoing": true
     },
     {
       "id": "anilist-30043",
@@ -1977,6 +1983,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-153880",
+      "name": "The Art of Reincarnation",
+      "volumeCount": 12,
+      "ongoing": true
+    },
+    {
       "id": "anilist-40552",
       "name": "Lucifer and the Biscuit Hammer",
       "volumeCount": 10,
@@ -1987,12 +1999,6 @@
       "name": "The Remarried Empress",
       "volumeCount": 9,
       "ongoing": false
-    },
-    {
-      "id": "anilist-153880",
-      "name": "The Art of Reincarnation",
-      "volumeCount": 12,
-      "ongoing": true
     },
     {
       "id": "anilist-70171",
@@ -2037,15 +2043,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-78151",
-      "name": "World Trigger",
-      "volumeCount": 30,
-      "ongoing": true
-    },
-    {
       "id": "anilist-34571",
       "name": "Snow White with the Red Hair",
       "volumeCount": 27,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-78151",
+      "name": "World Trigger",
+      "volumeCount": 30,
       "ongoing": true
     },
     {
@@ -2115,16 +2121,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-101860",
-      "name": "EDENS ZERO",
-      "volumeCount": 33,
-      "ongoing": false
-    },
-    {
       "id": "anilist-201773",
       "name": "Haimiya Is Scary Cute",
       "volumeCount": 3,
       "ongoing": true
+    },
+    {
+      "id": "anilist-101860",
+      "name": "EDENS ZERO",
+      "volumeCount": 33,
+      "ongoing": false
     },
     {
       "id": "anilist-30074",
@@ -2139,28 +2145,28 @@
       "ongoing": true
     },
     {
-      "id": "anilist-103255",
-      "name": "Fairy Tail: 100 Years Quest",
-      "volumeCount": 24,
-      "ongoing": true
-    },
-    {
       "id": "anilist-159142",
       "name": "Firefly Wedding",
       "volumeCount": 13,
       "ongoing": false
     },
     {
-      "id": "anilist-106454",
-      "name": "Sensei wa Koi wo Oshierarenai",
-      "volumeCount": 7,
-      "ongoing": false
+      "id": "anilist-103255",
+      "name": "Fairy Tail: 100 Years Quest",
+      "volumeCount": 24,
+      "ongoing": true
     },
     {
       "id": "anilist-58533",
       "name": "No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!",
       "volumeCount": 28,
       "ongoing": true
+    },
+    {
+      "id": "anilist-106454",
+      "name": "Sensei wa Koi wo Oshierarenai",
+      "volumeCount": 7,
+      "ongoing": false
     },
     {
       "id": "anilist-171729",
@@ -2205,15 +2211,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-35293",
-      "name": "Doubt",
-      "volumeCount": 4,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30463",
       "name": "Welcome to the N.H.K.",
       "volumeCount": 8,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-35293",
+      "name": "Doubt",
+      "volumeCount": 4,
       "ongoing": false
     },
     {
@@ -2223,16 +2229,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30142",
-      "name": "Battle Royale",
-      "volumeCount": 15,
-      "ongoing": false
-    },
-    {
       "id": "anilist-125116",
       "name": "Wistoria: Wand and Sword",
       "volumeCount": 16,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30142",
+      "name": "Battle Royale",
+      "volumeCount": 15,
+      "ongoing": false
     },
     {
       "id": "anilist-120440",
