@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-10-06T04:09:29Z",
+  "_generated": "2026-10-07T04:10:19Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -147,15 +147,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30001",
-      "name": "Monster",
-      "volumeCount": 18,
-      "ongoing": false
-    },
-    {
       "id": "anilist-86123",
       "name": "Black Clover",
       "volumeCount": 38,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30001",
+      "name": "Monster",
+      "volumeCount": 18,
       "ongoing": false
     },
     {
@@ -389,7 +389,7 @@
     {
       "id": "anilist-87395",
       "name": "Grand Blue Dreaming",
-      "volumeCount": 26,
+      "volumeCount": 27,
       "ongoing": true
     },
     {
@@ -989,7 +989,7 @@
     {
       "id": "anilist-99324",
       "name": "Welcome to Demon School! Iruma-kun",
-      "volumeCount": 8,
+      "volumeCount": 9,
       "ongoing": true
     },
     {
@@ -1437,16 +1437,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-105263",
-      "name": "Dai Dark",
-      "volumeCount": 9,
-      "ongoing": true
-    },
-    {
       "id": "anilist-86265",
       "name": "Kengan Ashura",
       "volumeCount": 27,
       "ongoing": false
+    },
+    {
+      "id": "anilist-105263",
+      "name": "Dai Dark",
+      "volumeCount": 9,
+      "ongoing": true
     },
     {
       "id": "anilist-105332",
@@ -1605,16 +1605,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-43949",
-      "name": "Medaka Box",
-      "volumeCount": 22,
-      "ongoing": false
-    },
-    {
       "id": "anilist-101724",
       "name": "Uzaki-chan Wants to Hang Out!",
       "volumeCount": 14,
       "ongoing": true
+    },
+    {
+      "id": "anilist-43949",
+      "name": "Medaka Box",
+      "volumeCount": 22,
+      "ongoing": false
     },
     {
       "id": "anilist-111149",
@@ -1659,15 +1659,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-102989",
-      "name": "Summertime Rendering",
-      "volumeCount": 13,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30731",
       "name": "Eden: It's an Endless World!",
       "volumeCount": 18,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-102989",
+      "name": "Summertime Rendering",
+      "volumeCount": 13,
       "ongoing": false
     },
     {
@@ -1905,6 +1905,12 @@
       "ongoing": true
     },
     {
+      "id": "anilist-147997",
+      "name": "You and I Are Polar Opposites",
+      "volumeCount": 8,
+      "ongoing": false
+    },
+    {
       "id": "anilist-66213",
       "name": "Monster Musume",
       "volumeCount": 21,
@@ -1914,12 +1920,6 @@
       "id": "anilist-85235",
       "name": "School-Live!",
       "volumeCount": 12,
-      "ongoing": false
-    },
-    {
-      "id": "anilist-147997",
-      "name": "You and I Are Polar Opposites",
-      "volumeCount": 8,
       "ongoing": false
     },
     {
@@ -2103,15 +2103,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-143031",
-      "name": "I Want to End This Love Game",
-      "volumeCount": 9,
-      "ongoing": true
-    },
-    {
       "id": "anilist-201773",
       "name": "Haimiya Is Scary Cute",
       "volumeCount": 3,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-143031",
+      "name": "I Want to End This Love Game",
+      "volumeCount": 9,
       "ongoing": true
     },
     {
@@ -2133,16 +2133,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-109728",
-      "name": "The Ice Guy and the Cool Girl",
-      "volumeCount": 12,
-      "ongoing": true
-    },
-    {
       "id": "anilist-159142",
       "name": "Firefly Wedding",
       "volumeCount": 13,
       "ongoing": false
+    },
+    {
+      "id": "anilist-109728",
+      "name": "The Ice Guy and the Cool Girl",
+      "volumeCount": 12,
+      "ongoing": true
     },
     {
       "id": "anilist-103255",
@@ -2157,21 +2157,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-106454",
-      "name": "Sensei wa Koi wo Oshierarenai",
-      "volumeCount": 7,
-      "ongoing": false
-    },
-    {
       "id": "anilist-171729",
       "name": "Love Bullet",
       "volumeCount": 2,
       "ongoing": true
     },
     {
-      "id": "anilist-107720",
-      "name": "Her Summon",
-      "volumeCount": 14,
+      "id": "anilist-106454",
+      "name": "Sensei wa Koi wo Oshierarenai",
+      "volumeCount": 7,
       "ongoing": false
     },
     {
@@ -2385,27 +2379,27 @@
       "ongoing": false
     },
     {
-      "id": "anilist-118695",
-      "name": "I’m in Love with the Villainess",
-      "volumeCount": 5,
-      "ongoing": true
-    },
-    {
       "id": "anilist-86355",
       "name": "That Time I Got Reincarnated as a Slime",
       "volumeCount": 23,
       "ongoing": false
     },
     {
-      "id": "anilist-85887",
-      "name": "Ookami Shounen wa Kyou mo Uso wo Kasaneru",
+      "id": "anilist-118695",
+      "name": "I’m in Love with the Villainess",
       "volumeCount": 5,
-      "ongoing": false
+      "ongoing": true
     },
     {
       "id": "anilist-30031",
       "name": "Love★Com",
       "volumeCount": 17,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85887",
+      "name": "Ookami Shounen wa Kyou mo Uso wo Kasaneru",
+      "volumeCount": 5,
       "ongoing": false
     },
     {
