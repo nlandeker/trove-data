@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-10-07T04:10:19Z",
+  "_generated": "2026-10-08T04:10:47Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -1379,7 +1379,7 @@
     {
       "id": "anilist-85435",
       "name": "The Ancient Magus' Bride",
-      "volumeCount": 24,
+      "volumeCount": 25,
       "ongoing": true
     },
     {
@@ -1431,6 +1431,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-105263",
+      "name": "Dai Dark",
+      "volumeCount": 9,
+      "ongoing": true
+    },
+    {
       "id": "anilist-30053",
       "name": "Yu Yu Hakusho",
       "volumeCount": 19,
@@ -1441,12 +1447,6 @@
       "name": "Kengan Ashura",
       "volumeCount": 27,
       "ongoing": false
-    },
-    {
-      "id": "anilist-105263",
-      "name": "Dai Dark",
-      "volumeCount": 9,
-      "ongoing": true
     },
     {
       "id": "anilist-105332",
@@ -1599,16 +1599,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-105791",
-      "name": "Higehiro: After Being Rejected, I Shaved and Took In a High School Runaway",
-      "volumeCount": 13,
-      "ongoing": false
-    },
-    {
       "id": "anilist-101724",
       "name": "Uzaki-chan Wants to Hang Out!",
       "volumeCount": 14,
       "ongoing": true
+    },
+    {
+      "id": "anilist-105791",
+      "name": "Higehiro: After Being Rejected, I Shaved and Took In a High School Runaway",
+      "volumeCount": 13,
+      "ongoing": false
     },
     {
       "id": "anilist-43949",
@@ -1743,15 +1743,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-152404",
-      "name": "Alya Sometimes Hides Her Feelings in Russian",
-      "volumeCount": 11,
-      "ongoing": true
-    },
-    {
       "id": "anilist-122063",
       "name": "Shangri-La Frontier",
       "volumeCount": 27,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-152404",
+      "name": "Alya Sometimes Hides Her Feelings in Russian",
+      "volumeCount": 11,
       "ongoing": true
     },
     {
@@ -1809,15 +1809,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-98544",
-      "name": "Moriarty the Patriot",
-      "volumeCount": 23,
-      "ongoing": true
-    },
-    {
       "id": "anilist-176740",
       "name": "Centuria",
       "volumeCount": 10,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-98544",
+      "name": "Moriarty the Patriot",
+      "volumeCount": 23,
       "ongoing": true
     },
     {
@@ -1851,16 +1851,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-50593",
-      "name": "Btooom!",
-      "volumeCount": 27,
-      "ongoing": false
-    },
-    {
       "id": "anilist-135083",
       "name": "WIND BREAKER",
       "volumeCount": 27,
       "ongoing": true
+    },
+    {
+      "id": "anilist-50593",
+      "name": "Btooom!",
+      "volumeCount": 27,
+      "ongoing": false
     },
     {
       "id": "anilist-113488",
@@ -2097,16 +2097,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-112621",
-      "name": "I Can't Say No to the Lonely Girl",
-      "volumeCount": 6,
-      "ongoing": false
-    },
-    {
       "id": "anilist-201773",
       "name": "Haimiya Is Scary Cute",
       "volumeCount": 3,
       "ongoing": true
+    },
+    {
+      "id": "anilist-112621",
+      "name": "I Can't Say No to the Lonely Girl",
+      "volumeCount": 6,
+      "ongoing": false
     },
     {
       "id": "anilist-143031",
@@ -2151,15 +2151,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-58533",
-      "name": "No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!",
-      "volumeCount": 28,
-      "ongoing": true
-    },
-    {
       "id": "anilist-171729",
       "name": "Love Bullet",
       "volumeCount": 2,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-58533",
+      "name": "No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!",
+      "volumeCount": 28,
       "ongoing": true
     },
     {
@@ -2217,16 +2217,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-99549",
-      "name": "Karakai Jouzu no (Moto) Takagi-san",
-      "volumeCount": 23,
-      "ongoing": false
-    },
-    {
       "id": "anilist-125116",
       "name": "Wistoria: Wand and Sword",
       "volumeCount": 16,
       "ongoing": true
+    },
+    {
+      "id": "anilist-99549",
+      "name": "Karakai Jouzu no (Moto) Takagi-san",
+      "volumeCount": 23,
+      "ongoing": false
     },
     {
       "id": "anilist-30142",
