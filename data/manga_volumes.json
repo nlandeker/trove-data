@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-10-08T04:10:47Z",
+  "_generated": "2026-10-09T04:10:14Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -61,12 +61,6 @@
       "name": "My Hero Academia",
       "volumeCount": 42,
       "ongoing": false
-    },
-    {
-      "id": "anilist-74347",
-      "name": "One-Punch Man",
-      "volumeCount": 37,
-      "ongoing": true
     },
     {
       "id": "anilist-30656",
@@ -831,16 +825,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-43492",
-      "name": "Blue Exorcist",
-      "volumeCount": 34,
-      "ongoing": true
-    },
-    {
       "id": "anilist-38848",
       "name": "Sun-Ken Rock",
       "volumeCount": 25,
       "ongoing": false
+    },
+    {
+      "id": "anilist-43492",
+      "name": "Blue Exorcist",
+      "volumeCount": 34,
+      "ongoing": true
     },
     {
       "id": "anilist-30024",
@@ -969,15 +963,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-33866",
-      "name": "Black Butler",
-      "volumeCount": 36,
-      "ongoing": true
-    },
-    {
       "id": "anilist-109501",
       "name": "My Love Story with Yamada-kun at Lv999",
       "volumeCount": 10,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-33866",
+      "name": "Black Butler",
+      "volumeCount": 36,
       "ongoing": true
     },
     {
@@ -1173,15 +1167,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-109285",
-      "name": "Skip and Loafer",
-      "volumeCount": 13,
-      "ongoing": true
-    },
-    {
       "id": "anilist-179445",
       "name": "Solo Leveling: Ragnarok",
       "volumeCount": 15,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-109285",
+      "name": "Skip and Loafer",
+      "volumeCount": 13,
       "ongoing": true
     },
     {
@@ -1629,15 +1623,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-40010",
-      "name": "Beelzebub",
-      "volumeCount": 28,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30010",
       "name": "xxxHOLiC",
       "volumeCount": 19,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-40010",
+      "name": "Beelzebub",
+      "volumeCount": 28,
       "ongoing": false
     },
     {
@@ -1845,16 +1839,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-97842",
-      "name": "My Hero Academia: Vigilantes",
-      "volumeCount": 15,
-      "ongoing": false
-    },
-    {
       "id": "anilist-135083",
       "name": "WIND BREAKER",
       "volumeCount": 27,
       "ongoing": true
+    },
+    {
+      "id": "anilist-97842",
+      "name": "My Hero Academia: Vigilantes",
+      "volumeCount": 15,
+      "ongoing": false
     },
     {
       "id": "anilist-50593",
@@ -1899,16 +1893,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-107120",
-      "name": "Chillin’ in Another World with Level 2 Super Cheat Powers",
-      "volumeCount": 22,
-      "ongoing": true
-    },
-    {
       "id": "anilist-147997",
       "name": "You and I Are Polar Opposites",
       "volumeCount": 8,
       "ongoing": false
+    },
+    {
+      "id": "anilist-107120",
+      "name": "Chillin’ in Another World with Level 2 Super Cheat Powers",
+      "volumeCount": 22,
+      "ongoing": true
     },
     {
       "id": "anilist-66213",
@@ -2091,16 +2085,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-97337",
-      "name": "your name.",
-      "volumeCount": 3,
-      "ongoing": false
-    },
-    {
       "id": "anilist-201773",
       "name": "Haimiya Is Scary Cute",
       "volumeCount": 3,
       "ongoing": true
+    },
+    {
+      "id": "anilist-97337",
+      "name": "your name.",
+      "volumeCount": 3,
+      "ongoing": false
     },
     {
       "id": "anilist-112621",
@@ -2145,15 +2139,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-103255",
-      "name": "Fairy Tail: 100 Years Quest",
-      "volumeCount": 24,
-      "ongoing": true
-    },
-    {
       "id": "anilist-171729",
       "name": "Love Bullet",
       "volumeCount": 2,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-103255",
+      "name": "Fairy Tail: 100 Years Quest",
+      "volumeCount": 24,
       "ongoing": true
     },
     {
@@ -2289,15 +2283,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-68105",
-      "name": "Kase-san and...",
-      "volumeCount": 5,
-      "ongoing": false
-    },
-    {
       "id": "anilist-96518",
       "name": "Bokutachi ga Yarimashita",
       "volumeCount": 9,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-68105",
+      "name": "Kase-san and...",
+      "volumeCount": 5,
       "ongoing": false
     },
     {
@@ -2349,15 +2343,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-35255",
-      "name": "Dengeki Daisy",
-      "volumeCount": 16,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30904",
       "name": "Lone Wolf and Cub",
       "volumeCount": 28,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-35255",
+      "name": "Dengeki Daisy",
+      "volumeCount": 16,
       "ongoing": false
     },
     {
@@ -2379,16 +2373,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86355",
-      "name": "That Time I Got Reincarnated as a Slime",
-      "volumeCount": 23,
-      "ongoing": false
-    },
-    {
       "id": "anilist-118695",
       "name": "I’m in Love with the Villainess",
       "volumeCount": 5,
       "ongoing": true
+    },
+    {
+      "id": "anilist-86355",
+      "name": "That Time I Got Reincarnated as a Slime",
+      "volumeCount": 23,
+      "ongoing": false
     },
     {
       "id": "anilist-30031",
@@ -2399,12 +2393,6 @@
     {
       "id": "anilist-85887",
       "name": "Ookami Shounen wa Kyou mo Uso wo Kasaneru",
-      "volumeCount": 5,
-      "ongoing": false
-    },
-    {
-      "id": "anilist-110140",
-      "name": "It Takes Two Tomorrow, Too",
       "volumeCount": 5,
       "ongoing": false
     }
