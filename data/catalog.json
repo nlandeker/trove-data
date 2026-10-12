@@ -2,7 +2,7 @@
   "version": 2,
   "currency": "EUR",
   "_attribution": "LEGO data: Rebrickable (rebrickable.com) + Brickset (brickset.com). Not affiliated with or endorsed by The LEGO Group.",
-  "_generated": "2026-10-11T03:34:18Z",
+  "_generated": "2026-10-12T03:44:49Z",
   "items": [
     {
       "id": "001",
@@ -6928,7 +6928,7 @@
         "USD": 29.99,
         "GBP": 24.99
       },
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2025,
@@ -15218,7 +15218,7 @@
         "USD": 34.99,
         "GBP": 29.99
       },
-      "lifecycleStatus": "RETIRING_SOON",
+      "lifecycleStatus": "AVAILABLE",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2026,
@@ -35553,7 +35553,7 @@
         "USD": 69.99,
         "GBP": 59.99
       },
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2025,
@@ -101827,7 +101827,7 @@
         "USD": 49.99,
         "GBP": 44.99
       },
-      "lifecycleStatus": "RETIRING_SOON",
+      "lifecycleStatus": "AVAILABLE",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2025,
@@ -147393,8 +147393,8 @@
         "USD": 54.99,
         "GBP": 44.99
       },
-      "lifecycleStatus": "RETIRING_SOON",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-10-11",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -163604,6 +163604,21 @@
       "retirementDate": null,
       "marketPrice": null,
       "year": 2027,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "6675837",
+      "category": "LEGO",
+      "name": "Witch's Flight",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/6675837-1/182152.jpg",
+      "themeOrSeries": "Promotional",
+      "retailPrice": null,
+      "prices": {},
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
       "volumeCount": null,
       "ongoing": null
     },
@@ -195557,8 +195572,8 @@
         "USD": 159.99,
         "GBP": 139.99
       },
-      "lifecycleStatus": "RETIRING_SOON",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-10-11",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -202652,7 +202667,7 @@
         "GBP": 89.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-10-02",
+      "retirementDate": "2026-10-11",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
