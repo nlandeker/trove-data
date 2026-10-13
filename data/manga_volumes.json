@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-10-12T04:17:00Z",
+  "_generated": "2026-10-13T04:14:14Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -61,12 +61,6 @@
       "name": "My Hero Academia",
       "volumeCount": 42,
       "ongoing": false
-    },
-    {
-      "id": "anilist-74347",
-      "name": "One-Punch Man",
-      "volumeCount": 37,
-      "ongoing": true
     },
     {
       "id": "anilist-30656",
@@ -777,16 +771,22 @@
       "ongoing": false
     },
     {
+      "id": "anilist-119174",
+      "name": "The Boxer",
+      "volumeCount": 13,
+      "ongoing": false
+    },
+    {
       "id": "anilist-144957",
       "name": "The World After the Fall",
       "volumeCount": 3,
       "ongoing": true
     },
     {
-      "id": "anilist-119174",
-      "name": "The Boxer",
-      "volumeCount": 13,
-      "ongoing": false
+      "id": "anilist-147149",
+      "name": "Smoking Behind the Supermarket with You",
+      "volumeCount": 9,
+      "ongoing": true
     },
     {
       "id": "anilist-73661",
@@ -799,12 +799,6 @@
       "name": "Bakuman。",
       "volumeCount": 20,
       "ongoing": false
-    },
-    {
-      "id": "anilist-147149",
-      "name": "Smoking Behind the Supermarket with You",
-      "volumeCount": 9,
-      "ongoing": true
     },
     {
       "id": "anilist-150378",
@@ -1191,15 +1185,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-76716",
-      "name": "Masamune-kun’s Revenge",
-      "volumeCount": 10,
-      "ongoing": false
-    },
-    {
       "id": "anilist-112579",
       "name": "My Broken Mariko",
       "volumeCount": 1,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-76716",
+      "name": "Masamune-kun’s Revenge",
+      "volumeCount": 10,
       "ongoing": false
     },
     {
@@ -1503,15 +1497,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-30022",
-      "name": "Rurouni Kenshin",
-      "volumeCount": 28,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30481",
       "name": "Planetes",
       "volumeCount": 4,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30022",
+      "name": "Rurouni Kenshin",
+      "volumeCount": 28,
       "ongoing": false
     },
     {
@@ -1551,15 +1545,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-111403",
-      "name": "Hokkaido Gals Are Super Adorable!",
-      "volumeCount": 14,
-      "ongoing": false
-    },
-    {
       "id": "anilist-117620",
       "name": "The Summer You Were There",
       "volumeCount": 6,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-111403",
+      "name": "Hokkaido Gals Are Super Adorable!",
+      "volumeCount": 14,
       "ongoing": false
     },
     {
@@ -1821,15 +1815,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-98544",
-      "name": "Moriarty the Patriot",
-      "volumeCount": 23,
-      "ongoing": true
-    },
-    {
       "id": "anilist-120502",
       "name": "In the Clear Moonlit Dusk",
       "volumeCount": 12,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-98544",
+      "name": "Moriarty the Patriot",
+      "volumeCount": 23,
       "ongoing": true
     },
     {
@@ -1983,15 +1977,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-113076",
-      "name": "Sometimes Even Reality Is a Lie!",
-      "volumeCount": 9,
-      "ongoing": false
-    },
-    {
       "id": "anilist-113055",
       "name": "The Remarried Empress",
       "volumeCount": 11,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-113076",
+      "name": "Sometimes Even Reality Is a Lie!",
+      "volumeCount": 9,
       "ongoing": false
     },
     {
@@ -2043,6 +2037,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-201773",
+      "name": "Haimiya Is Scary Cute",
+      "volumeCount": 3,
+      "ongoing": true
+    },
+    {
       "id": "anilist-34571",
       "name": "Snow White with the Red Hair",
       "volumeCount": 27,
@@ -2052,12 +2052,6 @@
       "id": "anilist-78151",
       "name": "World Trigger",
       "volumeCount": 30,
-      "ongoing": true
-    },
-    {
-      "id": "anilist-201773",
-      "name": "Haimiya Is Scary Cute",
-      "volumeCount": 3,
       "ongoing": true
     },
     {
@@ -2103,6 +2097,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-159142",
+      "name": "Firefly Wedding",
+      "volumeCount": 13,
+      "ongoing": false
+    },
+    {
       "id": "anilist-97337",
       "name": "your name.",
       "volumeCount": 3,
@@ -2119,12 +2119,6 @@
       "name": "I Want to End This Love Game",
       "volumeCount": 9,
       "ongoing": true
-    },
-    {
-      "id": "anilist-159142",
-      "name": "Firefly Wedding",
-      "volumeCount": 13,
-      "ongoing": false
     },
     {
       "id": "anilist-68071",
@@ -2193,16 +2187,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-107918",
-      "name": "Doctor Elise: The Royal Lady with the Lamp",
-      "volumeCount": 10,
-      "ongoing": false
-    },
-    {
       "id": "anilist-141479",
       "name": "The Legendary Spearman Returns",
       "volumeCount": 20,
       "ongoing": true
+    },
+    {
+      "id": "anilist-107918",
+      "name": "Doctor Elise: The Royal Lady with the Lamp",
+      "volumeCount": 10,
+      "ongoing": false
     },
     {
       "id": "anilist-31373",
