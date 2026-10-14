@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-10-13T04:14:14Z",
+  "_generated": "2026-10-14T04:09:09Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -717,12 +717,6 @@
       "ongoing": true
     },
     {
-      "id": "anilist-85564",
-      "name": "Mushoku Tensei: Jobless Reincarnation",
-      "volumeCount": 25,
-      "ongoing": true
-    },
-    {
       "id": "anilist-30664",
       "name": "Akira",
       "volumeCount": 6,
@@ -943,12 +937,6 @@
       "name": "JoJo's Bizarre Adventure Part 5: Golden Wind",
       "volumeCount": 17,
       "ongoing": false
-    },
-    {
-      "id": "anilist-114416",
-      "name": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You",
-      "volumeCount": 27,
-      "ongoing": true
     },
     {
       "id": "anilist-65573",
@@ -1353,15 +1341,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30418",
-      "name": "Mushishi",
-      "volumeCount": 10,
-      "ongoing": false
-    },
-    {
       "id": "anilist-114791",
       "name": "Undead Unluck",
       "volumeCount": 27,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30418",
+      "name": "Mushishi",
+      "volumeCount": 10,
       "ongoing": false
     },
     {
@@ -1635,15 +1623,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-40010",
-      "name": "Beelzebub",
-      "volumeCount": 28,
-      "ongoing": false
-    },
-    {
       "id": "anilist-38157",
       "name": "Kamisama Kiss",
       "volumeCount": 25,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-40010",
+      "name": "Beelzebub",
+      "volumeCount": 28,
       "ongoing": false
     },
     {
@@ -1737,16 +1725,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-141261",
-      "name": "Ayashimon",
-      "volumeCount": 3,
-      "ongoing": false
-    },
-    {
       "id": "anilist-122063",
       "name": "Shangri-La Frontier",
       "volumeCount": 27,
       "ongoing": true
+    },
+    {
+      "id": "anilist-141261",
+      "name": "Ayashimon",
+      "volumeCount": 3,
+      "ongoing": false
     },
     {
       "id": "anilist-152404",
@@ -1839,16 +1827,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-101311",
-      "name": "Bakemonogatari",
-      "volumeCount": 22,
-      "ongoing": false
-    },
-    {
       "id": "anilist-135083",
       "name": "WIND BREAKER",
       "volumeCount": 27,
       "ongoing": true
+    },
+    {
+      "id": "anilist-101311",
+      "name": "Bakemonogatari",
+      "volumeCount": 22,
+      "ongoing": false
     },
     {
       "id": "anilist-97842",
@@ -2001,16 +1989,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30735",
-      "name": "Black Lagoon",
-      "volumeCount": 14,
-      "ongoing": true
-    },
-    {
       "id": "anilist-106726",
       "name": "Shimeji Simulation",
       "volumeCount": 5,
       "ongoing": false
+    },
+    {
+      "id": "anilist-30735",
+      "name": "Black Lagoon",
+      "volumeCount": 14,
+      "ongoing": true
     },
     {
       "id": "anilist-85495",
@@ -2031,16 +2019,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-85616",
-      "name": "Seaside Stranger: Umibe no Étranger",
-      "volumeCount": 1,
-      "ongoing": false
-    },
-    {
       "id": "anilist-201773",
       "name": "Haimiya Is Scary Cute",
       "volumeCount": 3,
       "ongoing": true
+    },
+    {
+      "id": "anilist-85616",
+      "name": "Seaside Stranger: Umibe no Étranger",
+      "volumeCount": 1,
+      "ongoing": false
     },
     {
       "id": "anilist-34571",
@@ -2061,16 +2049,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86549",
-      "name": "Go For It, Nakamura!",
-      "volumeCount": 1,
-      "ongoing": false
-    },
-    {
       "id": "anilist-101625",
       "name": "Berserk of Gluttony",
       "volumeCount": 8,
       "ongoing": true
+    },
+    {
+      "id": "anilist-86549",
+      "name": "Go For It, Nakamura!",
+      "volumeCount": 1,
+      "ongoing": false
     },
     {
       "id": "anilist-111258",
@@ -2091,27 +2079,27 @@
       "ongoing": false
     },
     {
-      "id": "anilist-121565",
-      "name": "Seasons of Blossom",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-159142",
       "name": "Firefly Wedding",
       "volumeCount": 13,
       "ongoing": false
     },
     {
-      "id": "anilist-97337",
-      "name": "your name.",
-      "volumeCount": 3,
+      "id": "anilist-121565",
+      "name": "Seasons of Blossom",
+      "volumeCount": 12,
       "ongoing": false
     },
     {
       "id": "anilist-112621",
       "name": "I Can't Say No to the Lonely Girl",
       "volumeCount": 6,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-97337",
+      "name": "your name.",
+      "volumeCount": 3,
       "ongoing": false
     },
     {
@@ -2151,15 +2139,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-103255",
-      "name": "Fairy Tail: 100 Years Quest",
-      "volumeCount": 24,
-      "ongoing": true
-    },
-    {
       "id": "anilist-58533",
       "name": "No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!",
       "volumeCount": 28,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-103255",
+      "name": "Fairy Tail: 100 Years Quest",
+      "volumeCount": 24,
       "ongoing": true
     },
     {
@@ -2319,16 +2307,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86720",
-      "name": "Helck",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-107540",
       "name": "Loner Life in Another World",
       "volumeCount": 18,
       "ongoing": true
+    },
+    {
+      "id": "anilist-86720",
+      "name": "Helck",
+      "volumeCount": 12,
+      "ongoing": false
     },
     {
       "id": "anilist-100207",
