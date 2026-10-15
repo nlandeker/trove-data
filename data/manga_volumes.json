@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-10-14T04:09:09Z",
+  "_generated": "2026-10-15T04:08:32Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -279,16 +279,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-30025",
-      "name": "Fullmetal Alchemist",
-      "volumeCount": 27,
-      "ongoing": false
-    },
-    {
       "id": "anilist-140475",
       "name": "The Fragrant Flower Blooms With Dignity",
       "volumeCount": 24,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30025",
+      "name": "Fullmetal Alchemist",
+      "volumeCount": 27,
+      "ongoing": false
     },
     {
       "id": "anilist-86964",
@@ -657,16 +657,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-44790",
-      "name": "Magi: The Labyrinth of Magic",
-      "volumeCount": 37,
-      "ongoing": false
-    },
-    {
       "id": "anilist-126693",
       "name": "Choujin X",
       "volumeCount": 17,
       "ongoing": true
+    },
+    {
+      "id": "anilist-44790",
+      "name": "Magi: The Labyrinth of Magic",
+      "volumeCount": 37,
+      "ongoing": false
     },
     {
       "id": "anilist-38967",
@@ -714,6 +714,12 @@
       "id": "anilist-106758",
       "name": "The Eminence in Shadow",
       "volumeCount": 7,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-85564",
+      "name": "Mushoku Tensei: Jobless Reincarnation",
+      "volumeCount": 25,
       "ongoing": true
     },
     {
@@ -855,16 +861,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86099",
-      "name": "Wind Breaker",
-      "volumeCount": 27,
-      "ongoing": false
-    },
-    {
       "id": "anilist-138603",
       "name": "The Summer Hikaru Died",
       "volumeCount": 9,
       "ongoing": true
+    },
+    {
+      "id": "anilist-86099",
+      "name": "Wind Breaker",
+      "volumeCount": 27,
+      "ongoing": false
     },
     {
       "id": "anilist-30912",
@@ -969,16 +975,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-55297",
-      "name": "Prison School",
-      "volumeCount": 28,
-      "ongoing": false
-    },
-    {
       "id": "anilist-99324",
       "name": "Welcome to Demon School! Iruma-kun",
       "volumeCount": 51,
       "ongoing": true
+    },
+    {
+      "id": "anilist-55297",
+      "name": "Prison School",
+      "volumeCount": 28,
+      "ongoing": false
     },
     {
       "id": "anilist-33378",
@@ -1155,16 +1161,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30145",
-      "name": "BECK",
-      "volumeCount": 34,
-      "ongoing": false
-    },
-    {
       "id": "anilist-179445",
       "name": "Solo Leveling: Ragnarok",
       "volumeCount": 15,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30145",
+      "name": "BECK",
+      "volumeCount": 34,
+      "ongoing": false
     },
     {
       "id": "anilist-109285",
@@ -1365,16 +1371,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85435",
-      "name": "The Ancient Magus' Bride",
-      "volumeCount": 25,
-      "ongoing": true
-    },
-    {
       "id": "anilist-121991",
       "name": "Viral Hit",
       "volumeCount": 10,
       "ongoing": false
+    },
+    {
+      "id": "anilist-85435",
+      "name": "The Ancient Magus' Bride",
+      "volumeCount": 25,
+      "ongoing": true
     },
     {
       "id": "anilist-100557",
@@ -1425,15 +1431,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-86265",
-      "name": "Kengan Ashura",
-      "volumeCount": 27,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30053",
       "name": "Yu Yu Hakusho",
       "volumeCount": 19,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-86265",
+      "name": "Kengan Ashura",
+      "volumeCount": 27,
       "ongoing": false
     },
     {
@@ -1521,15 +1527,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-37519",
-      "name": "Kami nomi zo Shiru Sekai",
-      "volumeCount": 26,
-      "ongoing": false
-    },
-    {
       "id": "anilist-107279",
       "name": "Aoashi",
       "volumeCount": 40,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-37519",
+      "name": "Kami nomi zo Shiru Sekai",
+      "volumeCount": 26,
       "ongoing": false
     },
     {
@@ -1959,15 +1965,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-58361",
-      "name": "HIDEOUT",
-      "volumeCount": 1,
-      "ongoing": false
-    },
-    {
       "id": "anilist-113055",
       "name": "The Remarried Empress",
       "volumeCount": 11,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-58361",
+      "name": "HIDEOUT",
+      "volumeCount": 1,
       "ongoing": false
     },
     {
@@ -2007,6 +2013,12 @@
       "ongoing": true
     },
     {
+      "id": "anilist-201773",
+      "name": "Haimiya Is Scary Cute",
+      "volumeCount": 3,
+      "ongoing": true
+    },
+    {
       "id": "anilist-30933",
       "name": "Elfen Lied",
       "volumeCount": 12,
@@ -2016,12 +2028,6 @@
       "id": "anilist-98370",
       "name": "Sasaki and Miyano",
       "volumeCount": 11,
-      "ongoing": true
-    },
-    {
-      "id": "anilist-201773",
-      "name": "Haimiya Is Scary Cute",
-      "volumeCount": 3,
       "ongoing": true
     },
     {
@@ -2055,6 +2061,12 @@
       "ongoing": true
     },
     {
+      "id": "anilist-159142",
+      "name": "Firefly Wedding",
+      "volumeCount": 13,
+      "ongoing": false
+    },
+    {
       "id": "anilist-86549",
       "name": "Go For It, Nakamura!",
       "volumeCount": 1,
@@ -2079,12 +2091,6 @@
       "ongoing": false
     },
     {
-      "id": "anilist-159142",
-      "name": "Firefly Wedding",
-      "volumeCount": 13,
-      "ongoing": false
-    },
-    {
       "id": "anilist-121565",
       "name": "Seasons of Blossom",
       "volumeCount": 12,
@@ -2097,16 +2103,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-97337",
-      "name": "your name.",
-      "volumeCount": 3,
-      "ongoing": false
-    },
-    {
       "id": "anilist-143031",
       "name": "I Want to End This Love Game",
       "volumeCount": 9,
       "ongoing": true
+    },
+    {
+      "id": "anilist-97337",
+      "name": "your name.",
+      "volumeCount": 3,
+      "ongoing": false
     },
     {
       "id": "anilist-68071",
@@ -2139,15 +2145,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-58533",
-      "name": "No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!",
-      "volumeCount": 28,
-      "ongoing": true
-    },
-    {
       "id": "anilist-103255",
       "name": "Fairy Tail: 100 Years Quest",
       "volumeCount": 24,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-58533",
+      "name": "No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!",
+      "volumeCount": 28,
       "ongoing": true
     },
     {
@@ -2175,16 +2181,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-141479",
-      "name": "The Legendary Spearman Returns",
-      "volumeCount": 20,
-      "ongoing": true
-    },
-    {
       "id": "anilist-107918",
       "name": "Doctor Elise: The Royal Lady with the Lamp",
       "volumeCount": 10,
       "ongoing": false
+    },
+    {
+      "id": "anilist-141479",
+      "name": "The Legendary Spearman Returns",
+      "volumeCount": 20,
+      "ongoing": true
     },
     {
       "id": "anilist-31373",
@@ -2211,15 +2217,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-99549",
-      "name": "Karakai Jouzu no (Moto) Takagi-san",
-      "volumeCount": 23,
-      "ongoing": false
-    },
-    {
       "id": "anilist-120440",
       "name": "Positively Yours",
       "volumeCount": 8,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-99549",
+      "name": "Karakai Jouzu no (Moto) Takagi-san",
+      "volumeCount": 23,
       "ongoing": false
     },
     {
@@ -2259,10 +2265,10 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30085",
-      "name": "Azumanga Daioh",
-      "volumeCount": 4,
-      "ongoing": false
+      "id": "anilist-169272",
+      "name": "Tune In to the Midnight Heart",
+      "volumeCount": 14,
+      "ongoing": true
     },
     {
       "id": "anilist-107518",
@@ -2271,10 +2277,10 @@
       "ongoing": false
     },
     {
-      "id": "anilist-169272",
-      "name": "Tune In to the Midnight Heart",
-      "volumeCount": 14,
-      "ongoing": true
+      "id": "anilist-30085",
+      "name": "Azumanga Daioh",
+      "volumeCount": 4,
+      "ongoing": false
     },
     {
       "id": "anilist-96518",
