@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-10-17T04:08:52Z",
+  "_generated": "2026-10-18T04:08:15Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -61,12 +61,6 @@
       "name": "My Hero Academia",
       "volumeCount": 42,
       "ongoing": false
-    },
-    {
-      "id": "anilist-74347",
-      "name": "One-Punch Man",
-      "volumeCount": 37,
-      "ongoing": true
     },
     {
       "id": "anilist-30656",
@@ -1353,15 +1347,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-114791",
-      "name": "Undead Unluck",
-      "volumeCount": 27,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30418",
       "name": "Mushishi",
       "volumeCount": 10,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-114791",
+      "name": "Undead Unluck",
+      "volumeCount": 27,
       "ongoing": false
     },
     {
@@ -1407,15 +1401,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85134",
-      "name": "The Empty Box and Zeroth Maria",
-      "volumeCount": 7,
-      "ongoing": false
-    },
-    {
       "id": "anilist-136331",
       "name": "The Return of the 8th Class Mage",
       "volumeCount": 5,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85134",
+      "name": "The Empty Box and Zeroth Maria",
+      "volumeCount": 7,
       "ongoing": false
     },
     {
@@ -1875,15 +1869,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-101434",
-      "name": "How to Treat a Lady Knight Right",
-      "volumeCount": 7,
-      "ongoing": false
-    },
-    {
       "id": "anilist-104241",
       "name": "How Do We Relationship?",
       "volumeCount": 14,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-101434",
+      "name": "How to Treat a Lady Knight Right",
+      "volumeCount": 7,
       "ongoing": false
     },
     {
@@ -1911,16 +1905,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-66213",
-      "name": "Monster Musume",
-      "volumeCount": 21,
-      "ongoing": true
-    },
-    {
       "id": "anilist-85235",
       "name": "School-Live!",
       "volumeCount": 12,
       "ongoing": false
+    },
+    {
+      "id": "anilist-66213",
+      "name": "Monster Musume",
+      "volumeCount": 21,
+      "ongoing": true
     },
     {
       "id": "anilist-60079",
@@ -2007,6 +2001,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-201773",
+      "name": "Haimiya Is Scary Cute",
+      "volumeCount": 3,
+      "ongoing": true
+    },
+    {
       "id": "anilist-30735",
       "name": "Black Lagoon",
       "volumeCount": 14,
@@ -2019,10 +2019,10 @@
       "ongoing": true
     },
     {
-      "id": "anilist-201773",
-      "name": "Haimiya Is Scary Cute",
-      "volumeCount": 3,
-      "ongoing": true
+      "id": "anilist-159142",
+      "name": "Firefly Wedding",
+      "volumeCount": 13,
+      "ongoing": false
     },
     {
       "id": "anilist-30933",
@@ -2037,27 +2037,21 @@
       "ongoing": true
     },
     {
-      "id": "anilist-159142",
-      "name": "Firefly Wedding",
-      "volumeCount": 13,
-      "ongoing": false
-    },
-    {
       "id": "anilist-85616",
       "name": "Seaside Stranger: Umibe no Étranger",
       "volumeCount": 1,
       "ongoing": false
     },
     {
-      "id": "anilist-34571",
-      "name": "Snow White with the Red Hair",
-      "volumeCount": 27,
-      "ongoing": true
-    },
-    {
       "id": "anilist-78151",
       "name": "World Trigger",
       "volumeCount": 30,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-34571",
+      "name": "Snow White with the Red Hair",
+      "volumeCount": 27,
       "ongoing": true
     },
     {
@@ -2277,15 +2271,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30085",
-      "name": "Azumanga Daioh",
-      "volumeCount": 4,
-      "ongoing": false
-    },
-    {
       "id": "anilist-107518",
       "name": "Heavenly Demon Reborn!",
       "volumeCount": 10,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30085",
+      "name": "Azumanga Daioh",
+      "volumeCount": 4,
       "ongoing": false
     },
     {
