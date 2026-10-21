@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-10-20T04:09:10Z",
+  "_generated": "2026-10-21T04:08:53Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -747,16 +747,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85307",
-      "name": "Bungo Stray Dogs",
-      "volumeCount": 28,
-      "ongoing": true
-    },
-    {
       "id": "anilist-86770",
       "name": "The Girl From the Other Side: Siúil, a Rún",
       "volumeCount": 11,
       "ongoing": false
+    },
+    {
+      "id": "anilist-85307",
+      "name": "Bungo Stray Dogs",
+      "volumeCount": 28,
+      "ongoing": true
     },
     {
       "id": "anilist-86300",
@@ -771,15 +771,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-98328",
-      "name": "Jagaaan",
-      "volumeCount": 14,
-      "ongoing": false
-    },
-    {
       "id": "anilist-119174",
       "name": "The Boxer",
       "volumeCount": 13,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-98328",
+      "name": "Jagaaan",
+      "volumeCount": 14,
       "ongoing": false
     },
     {
@@ -831,16 +831,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-38848",
-      "name": "Sun-Ken Rock",
-      "volumeCount": 25,
-      "ongoing": false
-    },
-    {
       "id": "anilist-43492",
       "name": "Blue Exorcist",
       "volumeCount": 34,
       "ongoing": true
+    },
+    {
+      "id": "anilist-38848",
+      "name": "Sun-Ken Rock",
+      "volumeCount": 25,
+      "ongoing": false
     },
     {
       "id": "anilist-30024",
@@ -869,8 +869,8 @@
     {
       "id": "anilist-138603",
       "name": "The Summer Hikaru Died",
-      "volumeCount": 9,
-      "ongoing": true
+      "volumeCount": 10,
+      "ongoing": false
     },
     {
       "id": "anilist-86099",
@@ -1029,15 +1029,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-87459",
-      "name": "My Lesbian Experience With Loneliness",
-      "volumeCount": 1,
-      "ongoing": false
-    },
-    {
       "id": "anilist-110462",
       "name": "Tomb Raider King",
       "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-87459",
+      "name": "My Lesbian Experience With Loneliness",
+      "volumeCount": 1,
       "ongoing": false
     },
     {
@@ -1179,15 +1179,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-30145",
-      "name": "BECK",
-      "volumeCount": 34,
-      "ongoing": false
-    },
-    {
       "id": "anilist-112579",
       "name": "My Broken Mariko",
       "volumeCount": 1,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30145",
+      "name": "BECK",
+      "volumeCount": 34,
       "ongoing": false
     },
     {
@@ -1695,16 +1695,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-103082",
-      "name": "Pumpkin Night",
-      "volumeCount": 18,
-      "ongoing": true
-    },
-    {
       "id": "anilist-126135",
       "name": "Bibliomania",
       "volumeCount": 1,
       "ongoing": false
+    },
+    {
+      "id": "anilist-103082",
+      "name": "Pumpkin Night",
+      "volumeCount": 18,
+      "ongoing": true
     },
     {
       "id": "anilist-33438",
@@ -1731,16 +1731,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30894",
-      "name": "Rosario+Vampire",
-      "volumeCount": 10,
-      "ongoing": false
-    },
-    {
       "id": "anilist-122063",
       "name": "Shangri-La Frontier",
       "volumeCount": 28,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30894",
+      "name": "Rosario+Vampire",
+      "volumeCount": 10,
+      "ongoing": false
     },
     {
       "id": "anilist-57231",
@@ -1751,7 +1751,7 @@
     {
       "id": "anilist-152404",
       "name": "Alya Sometimes Hides Her Feelings in Russian",
-      "volumeCount": 11,
+      "volumeCount": 12,
       "ongoing": true
     },
     {
@@ -1773,16 +1773,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-52651",
-      "name": "THE BREAKER - NEW WAVES",
-      "volumeCount": 20,
-      "ongoing": false
-    },
-    {
       "id": "anilist-87225",
       "name": "Tsukimichi: Moonlit Fantasy",
       "volumeCount": 20,
       "ongoing": true
+    },
+    {
+      "id": "anilist-52651",
+      "name": "THE BREAKER - NEW WAVES",
+      "volumeCount": 20,
+      "ongoing": false
     },
     {
       "id": "anilist-67707",
@@ -1839,16 +1839,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86607",
-      "name": "Gleipnir",
-      "volumeCount": 14,
-      "ongoing": false
-    },
-    {
       "id": "anilist-135083",
       "name": "WIND BREAKER",
       "volumeCount": 27,
       "ongoing": true
+    },
+    {
+      "id": "anilist-86607",
+      "name": "Gleipnir",
+      "volumeCount": 14,
+      "ongoing": false
     },
     {
       "id": "anilist-101311",
@@ -1887,15 +1887,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-101434",
-      "name": "How to Treat a Lady Knight Right",
-      "volumeCount": 7,
-      "ongoing": false
-    },
-    {
       "id": "anilist-110605",
       "name": "Leviathan",
       "volumeCount": 9,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-101434",
+      "name": "How to Treat a Lady Knight Right",
+      "volumeCount": 7,
       "ongoing": false
     },
     {
@@ -1917,16 +1917,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-85235",
-      "name": "School-Live!",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-66213",
       "name": "Monster Musume",
       "volumeCount": 21,
       "ongoing": true
+    },
+    {
+      "id": "anilist-85235",
+      "name": "School-Live!",
+      "volumeCount": 12,
+      "ongoing": false
     },
     {
       "id": "anilist-60079",
@@ -2001,6 +2001,12 @@
       "ongoing": true
     },
     {
+      "id": "anilist-159142",
+      "name": "Firefly Wedding",
+      "volumeCount": 13,
+      "ongoing": false
+    },
+    {
       "id": "anilist-106726",
       "name": "Shimeji Simulation",
       "volumeCount": 5,
@@ -2013,27 +2019,21 @@
       "ongoing": false
     },
     {
-      "id": "anilist-159142",
-      "name": "Firefly Wedding",
-      "volumeCount": 13,
-      "ongoing": false
-    },
-    {
       "id": "anilist-70171",
       "name": "My Youth Romantic Comedy Is Wrong, As I Expected",
       "volumeCount": 18,
       "ongoing": false
     },
     {
-      "id": "anilist-30735",
-      "name": "Black Lagoon",
-      "volumeCount": 14,
-      "ongoing": true
-    },
-    {
       "id": "anilist-85495",
       "name": "Re:Monster",
       "volumeCount": 9,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-30735",
+      "name": "Black Lagoon",
+      "volumeCount": 14,
       "ongoing": true
     },
     {
@@ -2187,16 +2187,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30106",
-      "name": "Cardcaptor Sakura",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-141479",
       "name": "The Legendary Spearman Returns",
       "volumeCount": 20,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30106",
+      "name": "Cardcaptor Sakura",
+      "volumeCount": 12,
+      "ongoing": false
     },
     {
       "id": "anilist-107918",
@@ -2223,15 +2223,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-35293",
-      "name": "Doubt",
-      "volumeCount": 4,
-      "ongoing": false
-    },
-    {
       "id": "anilist-120440",
       "name": "Positively Yours",
       "volumeCount": 8,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-35293",
+      "name": "Doubt",
+      "volumeCount": 4,
       "ongoing": false
     },
     {
@@ -2265,12 +2265,6 @@
       "ongoing": true
     },
     {
-      "id": "anilist-31149",
-      "name": "Fist of the North Star",
-      "volumeCount": 27,
-      "ongoing": false
-    },
-    {
       "id": "anilist-96518",
       "name": "Bokutachi ga Yarimashita",
       "volumeCount": 9,
@@ -2280,6 +2274,12 @@
       "id": "anilist-107518",
       "name": "Heavenly Demon Reborn!",
       "volumeCount": 10,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-31149",
+      "name": "Fist of the North Star",
+      "volumeCount": 27,
       "ongoing": false
     },
     {
@@ -2301,15 +2301,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30092",
-      "name": "Sailor Moon",
-      "volumeCount": 18,
-      "ongoing": false
-    },
-    {
       "id": "anilist-68105",
       "name": "Kase-san and...",
       "volumeCount": 5,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30092",
+      "name": "Sailor Moon",
+      "volumeCount": 18,
       "ongoing": false
     },
     {
