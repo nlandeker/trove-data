@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-10-21T04:08:53Z",
+  "_generated": "2026-10-22T04:09:15Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -61,12 +61,6 @@
       "name": "My Hero Academia",
       "volumeCount": 42,
       "ongoing": false
-    },
-    {
-      "id": "anilist-74347",
-      "name": "One-Punch Man",
-      "volumeCount": 37,
-      "ongoing": true
     },
     {
       "id": "anilist-30656",
@@ -615,16 +609,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30745",
-      "name": "Pluto",
-      "volumeCount": 8,
-      "ongoing": false
-    },
-    {
       "id": "anilist-149544",
       "name": "The Guy She Was Interested In Wasn't a Guy at All",
       "volumeCount": 4,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30745",
+      "name": "Pluto",
+      "volumeCount": 8,
+      "ongoing": false
     },
     {
       "id": "anilist-33986",
@@ -849,6 +843,12 @@
       "ongoing": true
     },
     {
+      "id": "anilist-138603",
+      "name": "The Summer Hikaru Died",
+      "volumeCount": 10,
+      "ongoing": false
+    },
+    {
       "id": "anilist-44440",
       "name": "I Am a Hero",
       "volumeCount": 22,
@@ -864,12 +864,6 @@
       "id": "anilist-85911",
       "name": "Tomodachi Game",
       "volumeCount": 26,
-      "ongoing": false
-    },
-    {
-      "id": "anilist-138603",
-      "name": "The Summer Hikaru Died",
-      "volumeCount": 10,
       "ongoing": false
     },
     {
@@ -1125,16 +1119,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-47465",
-      "name": "Memories of Emanon",
-      "volumeCount": 1,
-      "ongoing": false
-    },
-    {
       "id": "anilist-150440",
       "name": "RuriDragon",
       "volumeCount": 5,
       "ongoing": true
+    },
+    {
+      "id": "anilist-47465",
+      "name": "Memories of Emanon",
+      "volumeCount": 1,
+      "ongoing": false
     },
     {
       "id": "anilist-31224",
@@ -1469,7 +1463,7 @@
     {
       "id": "anilist-101942",
       "name": "Heavenly Delusion",
-      "volumeCount": 13,
+      "volumeCount": 14,
       "ongoing": true
     },
     {
@@ -1725,16 +1719,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30584",
-      "name": "Future Diary",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-122063",
       "name": "Shangri-La Frontier",
       "volumeCount": 28,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30584",
+      "name": "Future Diary",
+      "volumeCount": 12,
+      "ongoing": false
     },
     {
       "id": "anilist-30894",
@@ -1797,6 +1791,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-176740",
+      "name": "Centuria",
+      "volumeCount": 10,
+      "ongoing": true
+    },
+    {
       "id": "anilist-114027",
       "name": "Boy Meets Maria",
       "volumeCount": 1,
@@ -1807,12 +1807,6 @@
       "name": "Eyeshield 21",
       "volumeCount": 37,
       "ongoing": false
-    },
-    {
-      "id": "anilist-176740",
-      "name": "Centuria",
-      "volumeCount": 10,
-      "ongoing": true
     },
     {
       "id": "anilist-120502",
@@ -1965,16 +1959,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-108105",
-      "name": "When Will Ayumu Make His Move?",
-      "volumeCount": 17,
-      "ongoing": false
-    },
-    {
       "id": "anilist-153880",
       "name": "The Art of Reincarnation",
       "volumeCount": 12,
       "ongoing": true
+    },
+    {
+      "id": "anilist-108105",
+      "name": "When Will Ayumu Make His Move?",
+      "volumeCount": 17,
+      "ongoing": false
     },
     {
       "id": "anilist-113055",
@@ -2247,6 +2241,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-169272",
+      "name": "Tune In to the Midnight Heart",
+      "volumeCount": 14,
+      "ongoing": true
+    },
+    {
       "id": "anilist-54903",
       "name": "GANGSTA.",
       "volumeCount": 9,
@@ -2256,12 +2256,6 @@
       "id": "anilist-86303",
       "name": "Miss Kobayashi's Dragon Maid",
       "volumeCount": 20,
-      "ongoing": true
-    },
-    {
-      "id": "anilist-169272",
-      "name": "Tune In to the Midnight Heart",
-      "volumeCount": 14,
       "ongoing": true
     },
     {
@@ -2379,16 +2373,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-110785",
-      "name": "2.5 Dimensional Seduction",
-      "volumeCount": 25,
-      "ongoing": false
-    },
-    {
       "id": "anilist-118695",
       "name": "I’m in Love with the Villainess",
       "volumeCount": 5,
       "ongoing": true
+    },
+    {
+      "id": "anilist-110785",
+      "name": "2.5 Dimensional Seduction",
+      "volumeCount": 25,
+      "ongoing": false
     },
     {
       "id": "anilist-86355",
