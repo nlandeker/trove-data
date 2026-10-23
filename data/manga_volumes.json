@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-10-22T04:09:15Z",
+  "_generated": "2026-10-23T04:08:15Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -717,12 +717,6 @@
       "ongoing": true
     },
     {
-      "id": "anilist-85564",
-      "name": "Mushoku Tensei: Jobless Reincarnation",
-      "volumeCount": 25,
-      "ongoing": true
-    },
-    {
       "id": "anilist-30664",
       "name": "Akira",
       "volumeCount": 6,
@@ -741,16 +735,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86770",
-      "name": "The Girl From the Other Side: Siúil, a Rún",
-      "volumeCount": 11,
-      "ongoing": false
-    },
-    {
       "id": "anilist-85307",
       "name": "Bungo Stray Dogs",
       "volumeCount": 28,
       "ongoing": true
+    },
+    {
+      "id": "anilist-86770",
+      "name": "The Girl From the Other Side: Siúil, a Rún",
+      "volumeCount": 11,
+      "ongoing": false
     },
     {
       "id": "anilist-86300",
@@ -1095,16 +1089,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-59983",
-      "name": "Noblesse",
-      "volumeCount": 25,
-      "ongoing": false
-    },
-    {
       "id": "anilist-86508",
       "name": "Dragon Ball Super",
       "volumeCount": 24,
       "ongoing": true
+    },
+    {
+      "id": "anilist-59983",
+      "name": "Noblesse",
+      "volumeCount": 25,
+      "ongoing": false
     },
     {
       "id": "anilist-30102",
@@ -1143,16 +1137,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-65003",
-      "name": "Yamada-kun and the Seven Witches",
-      "volumeCount": 28,
-      "ongoing": false
-    },
-    {
       "id": "anilist-113501",
       "name": "Please Go Home, Miss Akutsu!",
       "volumeCount": 11,
       "ongoing": true
+    },
+    {
+      "id": "anilist-65003",
+      "name": "Yamada-kun and the Seven Witches",
+      "volumeCount": 28,
+      "ongoing": false
     },
     {
       "id": "anilist-31649",
@@ -1563,15 +1557,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-74929",
-      "name": "Scum's Wish",
-      "volumeCount": 8,
-      "ongoing": false
-    },
-    {
       "id": "anilist-80217",
       "name": "the gods lie.",
       "volumeCount": 1,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-74929",
+      "name": "Scum's Wish",
+      "volumeCount": 8,
       "ongoing": false
     },
     {
@@ -1875,15 +1869,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-48597",
-      "name": "Sankarea: Undying Love",
-      "volumeCount": 11,
-      "ongoing": false
-    },
-    {
       "id": "anilist-110605",
       "name": "Leviathan",
       "volumeCount": 9,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-48597",
+      "name": "Sankarea: Undying Love",
+      "volumeCount": 11,
       "ongoing": false
     },
     {
@@ -1977,6 +1971,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-201773",
+      "name": "Haimiya Is Scary Cute",
+      "volumeCount": 3,
+      "ongoing": true
+    },
+    {
       "id": "anilist-58361",
       "name": "HIDEOUT",
       "volumeCount": 1,
@@ -1987,12 +1987,6 @@
       "name": "Sometimes Even Reality Is a Lie!",
       "volumeCount": 9,
       "ongoing": false
-    },
-    {
-      "id": "anilist-201773",
-      "name": "Haimiya Is Scary Cute",
-      "volumeCount": 3,
-      "ongoing": true
     },
     {
       "id": "anilist-159142",
@@ -2067,10 +2061,10 @@
       "ongoing": true
     },
     {
-      "id": "anilist-103111",
-      "name": "My Senpai is Annoying",
-      "volumeCount": 13,
-      "ongoing": false
+      "id": "anilist-111258",
+      "name": "Bocchi the Rock!",
+      "volumeCount": 8,
+      "ongoing": true
     },
     {
       "id": "anilist-86549",
@@ -2079,10 +2073,10 @@
       "ongoing": false
     },
     {
-      "id": "anilist-111258",
-      "name": "Bocchi the Rock!",
-      "volumeCount": 8,
-      "ongoing": true
+      "id": "anilist-103111",
+      "name": "My Senpai is Annoying",
+      "volumeCount": 13,
+      "ongoing": false
     },
     {
       "id": "anilist-112544",
@@ -2283,14 +2277,20 @@
       "ongoing": true
     },
     {
+      "id": "anilist-30671",
+      "name": "To Love Ru",
+      "volumeCount": 18,
+      "ongoing": false
+    },
+    {
       "id": "anilist-30085",
       "name": "Azumanga Daioh",
       "volumeCount": 4,
       "ongoing": false
     },
     {
-      "id": "anilist-30671",
-      "name": "To Love Ru",
+      "id": "anilist-30092",
+      "name": "Sailor Moon",
       "volumeCount": 18,
       "ongoing": false
     },
@@ -2298,12 +2298,6 @@
       "id": "anilist-68105",
       "name": "Kase-san and...",
       "volumeCount": 5,
-      "ongoing": false
-    },
-    {
-      "id": "anilist-30092",
-      "name": "Sailor Moon",
-      "volumeCount": 18,
       "ongoing": false
     },
     {
@@ -2373,16 +2367,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-118695",
-      "name": "I’m in Love with the Villainess",
-      "volumeCount": 5,
-      "ongoing": true
-    },
-    {
       "id": "anilist-110785",
       "name": "2.5 Dimensional Seduction",
       "volumeCount": 25,
       "ongoing": false
+    },
+    {
+      "id": "anilist-118695",
+      "name": "I’m in Love with the Villainess",
+      "volumeCount": 5,
+      "ongoing": true
     },
     {
       "id": "anilist-86355",
