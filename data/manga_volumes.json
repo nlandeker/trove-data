@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-10-23T04:08:15Z",
+  "_generated": "2026-10-24T04:07:43Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -1251,16 +1251,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-115122",
-      "name": "Death Note: a-Kira",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-87321",
       "name": "Goblin Slayer",
       "volumeCount": 16,
       "ongoing": true
+    },
+    {
+      "id": "anilist-115122",
+      "name": "Death Note: a-Kira",
+      "volumeCount": 12,
+      "ongoing": false
     },
     {
       "id": "anilist-30768",
@@ -1347,15 +1347,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30418",
-      "name": "Mushishi",
-      "volumeCount": 10,
-      "ongoing": false
-    },
-    {
       "id": "anilist-114791",
       "name": "Undead Unluck",
       "volumeCount": 27,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30418",
+      "name": "Mushishi",
+      "volumeCount": 10,
       "ongoing": false
     },
     {
@@ -1425,15 +1425,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-100991",
-      "name": "ACT-AGE",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30053",
       "name": "Yu Yu Hakusho",
       "volumeCount": 19,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-100991",
+      "name": "ACT-AGE",
+      "volumeCount": 12,
       "ongoing": false
     },
     {
@@ -1589,7 +1589,7 @@
     {
       "id": "anilist-75143",
       "name": "Kono Oto Tomare!",
-      "volumeCount": 34,
+      "volumeCount": 35,
       "ongoing": true
     },
     {
@@ -1965,16 +1965,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-113055",
-      "name": "The Remarried Empress",
-      "volumeCount": 11,
-      "ongoing": false
-    },
-    {
       "id": "anilist-201773",
       "name": "Haimiya Is Scary Cute",
       "volumeCount": 3,
       "ongoing": true
+    },
+    {
+      "id": "anilist-113055",
+      "name": "The Remarried Empress",
+      "volumeCount": 11,
+      "ongoing": false
     },
     {
       "id": "anilist-58361",
