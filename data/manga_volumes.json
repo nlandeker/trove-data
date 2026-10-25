@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-10-24T04:07:43Z",
+  "_generated": "2026-10-25T04:08:47Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -61,6 +61,12 @@
       "name": "My Hero Academia",
       "volumeCount": 42,
       "ongoing": false
+    },
+    {
+      "id": "anilist-74347",
+      "name": "One-Punch Man",
+      "volumeCount": 37,
+      "ongoing": true
     },
     {
       "id": "anilist-30656",
@@ -735,16 +741,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85307",
-      "name": "Bungo Stray Dogs",
-      "volumeCount": 28,
-      "ongoing": true
-    },
-    {
       "id": "anilist-86770",
       "name": "The Girl From the Other Side: Siúil, a Rún",
       "volumeCount": 11,
       "ongoing": false
+    },
+    {
+      "id": "anilist-85307",
+      "name": "Bungo Stray Dogs",
+      "volumeCount": 28,
+      "ongoing": true
     },
     {
       "id": "anilist-86300",
@@ -1221,15 +1227,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-66267",
-      "name": "Inside Mari",
-      "volumeCount": 9,
-      "ongoing": false
-    },
-    {
       "id": "anilist-106867",
       "name": "My Dearest Self With Malice Aforethought",
       "volumeCount": 11,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-66267",
+      "name": "Inside Mari",
+      "volumeCount": 9,
       "ongoing": false
     },
     {
@@ -1251,16 +1257,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-87321",
-      "name": "Goblin Slayer",
-      "volumeCount": 16,
-      "ongoing": true
-    },
-    {
       "id": "anilist-115122",
       "name": "Death Note: a-Kira",
       "volumeCount": 12,
       "ongoing": false
+    },
+    {
+      "id": "anilist-87321",
+      "name": "Goblin Slayer",
+      "volumeCount": 16,
+      "ongoing": true
     },
     {
       "id": "anilist-30768",
@@ -1533,15 +1539,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-37519",
-      "name": "Kami nomi zo Shiru Sekai",
-      "volumeCount": 26,
-      "ongoing": false
-    },
-    {
       "id": "anilist-117620",
       "name": "The Summer You Were There",
       "volumeCount": 6,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-37519",
+      "name": "Kami nomi zo Shiru Sekai",
+      "volumeCount": 26,
       "ongoing": false
     },
     {
@@ -1773,15 +1779,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-67707",
-      "name": "Your Lie in April",
-      "volumeCount": 11,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30029",
       "name": "Paradise Kiss",
       "volumeCount": 5,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-67707",
+      "name": "Your Lie in April",
+      "volumeCount": 11,
       "ongoing": false
     },
     {
@@ -1806,7 +1812,7 @@
       "id": "anilist-120502",
       "name": "In the Clear Moonlit Dusk",
       "volumeCount": 12,
-      "ongoing": true
+      "ongoing": false
     },
     {
       "id": "anilist-116266",
@@ -1857,15 +1863,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-50593",
-      "name": "Btooom!",
-      "volumeCount": 27,
-      "ongoing": false
-    },
-    {
       "id": "anilist-104241",
       "name": "How Do We Relationship?",
       "volumeCount": 14,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-50593",
+      "name": "Btooom!",
+      "volumeCount": 27,
       "ongoing": false
     },
     {
@@ -1953,6 +1959,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-201773",
+      "name": "Haimiya Is Scary Cute",
+      "volumeCount": 3,
+      "ongoing": true
+    },
+    {
       "id": "anilist-153880",
       "name": "The Art of Reincarnation",
       "volumeCount": 12,
@@ -1965,21 +1977,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-201773",
-      "name": "Haimiya Is Scary Cute",
-      "volumeCount": 3,
-      "ongoing": true
-    },
-    {
       "id": "anilist-113055",
       "name": "The Remarried Empress",
       "volumeCount": 11,
       "ongoing": false
     },
     {
-      "id": "anilist-58361",
-      "name": "HIDEOUT",
-      "volumeCount": 1,
+      "id": "anilist-159142",
+      "name": "Firefly Wedding",
+      "volumeCount": 13,
       "ongoing": false
     },
     {
@@ -1989,9 +1995,9 @@
       "ongoing": false
     },
     {
-      "id": "anilist-159142",
-      "name": "Firefly Wedding",
-      "volumeCount": 13,
+      "id": "anilist-58361",
+      "name": "HIDEOUT",
+      "volumeCount": 1,
       "ongoing": false
     },
     {
@@ -2055,14 +2061,14 @@
       "ongoing": true
     },
     {
-      "id": "anilist-101625",
-      "name": "Berserk of Gluttony",
+      "id": "anilist-111258",
+      "name": "Bocchi the Rock!",
       "volumeCount": 8,
       "ongoing": true
     },
     {
-      "id": "anilist-111258",
-      "name": "Bocchi the Rock!",
+      "id": "anilist-101625",
+      "name": "Berserk of Gluttony",
       "volumeCount": 8,
       "ongoing": true
     },
@@ -2079,14 +2085,14 @@
       "ongoing": false
     },
     {
-      "id": "anilist-112544",
-      "name": "Kowloon Generic Romance",
+      "id": "anilist-121565",
+      "name": "Seasons of Blossom",
       "volumeCount": 12,
       "ongoing": false
     },
     {
-      "id": "anilist-121565",
-      "name": "Seasons of Blossom",
+      "id": "anilist-112544",
+      "name": "Kowloon Generic Romance",
       "volumeCount": 12,
       "ongoing": false
     },
@@ -2229,16 +2235,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30142",
-      "name": "Battle Royale",
-      "volumeCount": 15,
-      "ongoing": false
-    },
-    {
       "id": "anilist-169272",
       "name": "Tune In to the Midnight Heart",
       "volumeCount": 14,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30142",
+      "name": "Battle Royale",
+      "volumeCount": 15,
+      "ongoing": false
     },
     {
       "id": "anilist-54903",
@@ -2367,16 +2373,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-110785",
-      "name": "2.5 Dimensional Seduction",
-      "volumeCount": 25,
-      "ongoing": false
-    },
-    {
       "id": "anilist-118695",
       "name": "I’m in Love with the Villainess",
       "volumeCount": 5,
       "ongoing": true
+    },
+    {
+      "id": "anilist-110785",
+      "name": "2.5 Dimensional Seduction",
+      "volumeCount": 25,
+      "ongoing": false
     },
     {
       "id": "anilist-86355",
