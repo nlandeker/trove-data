@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-10-25T04:08:47Z",
+  "_generated": "2026-10-26T04:09:20Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -723,6 +723,12 @@
       "ongoing": true
     },
     {
+      "id": "anilist-85564",
+      "name": "Mushoku Tensei: Jobless Reincarnation",
+      "volumeCount": 25,
+      "ongoing": true
+    },
+    {
       "id": "anilist-30664",
       "name": "Akira",
       "volumeCount": 6,
@@ -741,16 +747,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86770",
-      "name": "The Girl From the Other Side: Siúil, a Rún",
-      "volumeCount": 11,
-      "ongoing": false
-    },
-    {
       "id": "anilist-85307",
       "name": "Bungo Stray Dogs",
       "volumeCount": 28,
       "ongoing": true
+    },
+    {
+      "id": "anilist-86770",
+      "name": "The Girl From the Other Side: Siúil, a Rún",
+      "volumeCount": 11,
+      "ongoing": false
     },
     {
       "id": "anilist-86300",
@@ -837,16 +843,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30024",
-      "name": "D.Gray-man",
-      "volumeCount": 29,
-      "ongoing": true
-    },
-    {
       "id": "anilist-138603",
       "name": "The Summer Hikaru Died",
       "volumeCount": 10,
       "ongoing": false
+    },
+    {
+      "id": "anilist-30024",
+      "name": "D.Gray-man",
+      "volumeCount": 29,
+      "ongoing": true
     },
     {
       "id": "anilist-44440",
@@ -1257,16 +1263,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-115122",
-      "name": "Death Note: a-Kira",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-87321",
       "name": "Goblin Slayer",
       "volumeCount": 16,
       "ongoing": true
+    },
+    {
+      "id": "anilist-115122",
+      "name": "Death Note: a-Kira",
+      "volumeCount": 12,
+      "ongoing": false
     },
     {
       "id": "anilist-30768",
@@ -1737,16 +1743,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-57231",
-      "name": "Daytime Shooting Star",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-152404",
       "name": "Alya Sometimes Hides Her Feelings in Russian",
       "volumeCount": 12,
       "ongoing": true
+    },
+    {
+      "id": "anilist-57231",
+      "name": "Daytime Shooting Star",
+      "volumeCount": 12,
+      "ongoing": false
     },
     {
       "id": "anilist-141261",
@@ -1779,15 +1785,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30029",
-      "name": "Paradise Kiss",
-      "volumeCount": 5,
-      "ongoing": false
-    },
-    {
       "id": "anilist-67707",
       "name": "Your Lie in April",
       "volumeCount": 11,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30029",
+      "name": "Paradise Kiss",
+      "volumeCount": 5,
       "ongoing": false
     },
     {
@@ -1953,16 +1959,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86481",
-      "name": "Tsuredure Children",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-201773",
       "name": "Haimiya Is Scary Cute",
       "volumeCount": 3,
       "ongoing": true
+    },
+    {
+      "id": "anilist-86481",
+      "name": "Tsuredure Children",
+      "volumeCount": 12,
+      "ongoing": false
     },
     {
       "id": "anilist-153880",
@@ -1977,15 +1983,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-113055",
-      "name": "The Remarried Empress",
-      "volumeCount": 11,
-      "ongoing": false
-    },
-    {
       "id": "anilist-159142",
       "name": "Firefly Wedding",
       "volumeCount": 13,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-113055",
+      "name": "The Remarried Empress",
+      "volumeCount": 11,
       "ongoing": false
     },
     {
@@ -2085,14 +2091,14 @@
       "ongoing": false
     },
     {
-      "id": "anilist-121565",
-      "name": "Seasons of Blossom",
+      "id": "anilist-112544",
+      "name": "Kowloon Generic Romance",
       "volumeCount": 12,
       "ongoing": false
     },
     {
-      "id": "anilist-112544",
-      "name": "Kowloon Generic Romance",
+      "id": "anilist-121565",
+      "name": "Seasons of Blossom",
       "volumeCount": 12,
       "ongoing": false
     },
@@ -2277,16 +2283,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-87234",
-      "name": "The Elder Sister-Like One",
-      "volumeCount": 6,
-      "ongoing": true
-    },
-    {
       "id": "anilist-30671",
       "name": "To Love Ru",
       "volumeCount": 18,
       "ongoing": false
+    },
+    {
+      "id": "anilist-87234",
+      "name": "The Elder Sister-Like One",
+      "volumeCount": 6,
+      "ongoing": true
     },
     {
       "id": "anilist-30085",
@@ -2367,16 +2373,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-87213",
-      "name": "Yuuna and the Haunted Hot Springs",
-      "volumeCount": 24,
-      "ongoing": false
-    },
-    {
       "id": "anilist-118695",
       "name": "I’m in Love with the Villainess",
       "volumeCount": 5,
       "ongoing": true
+    },
+    {
+      "id": "anilist-87213",
+      "name": "Yuuna and the Haunted Hot Springs",
+      "volumeCount": 24,
+      "ongoing": false
     },
     {
       "id": "anilist-110785",
