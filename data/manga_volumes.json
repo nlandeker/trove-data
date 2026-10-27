@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-10-26T04:09:20Z",
+  "_generated": "2026-10-27T04:08:50Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -273,16 +273,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-74489",
-      "name": "Land of the Lustrous",
-      "volumeCount": 13,
-      "ongoing": false
-    },
-    {
       "id": "anilist-98263",
       "name": "Witch Hat Atelier",
       "volumeCount": 16,
       "ongoing": true
+    },
+    {
+      "id": "anilist-74489",
+      "name": "Land of the Lustrous",
+      "volumeCount": 13,
+      "ongoing": false
     },
     {
       "id": "anilist-140475",
@@ -723,12 +723,6 @@
       "ongoing": true
     },
     {
-      "id": "anilist-85564",
-      "name": "Mushoku Tensei: Jobless Reincarnation",
-      "volumeCount": 25,
-      "ongoing": true
-    },
-    {
       "id": "anilist-30664",
       "name": "Akira",
       "volumeCount": 6,
@@ -861,15 +855,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-112981",
-      "name": "Kubo Won't Let Me Be Invisible",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-85911",
       "name": "Tomodachi Game",
       "volumeCount": 26,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-112981",
+      "name": "Kubo Won't Let Me Be Invisible",
+      "volumeCount": 12,
       "ongoing": false
     },
     {
@@ -949,12 +943,6 @@
       "name": "JoJo's Bizarre Adventure Part 5: Golden Wind",
       "volumeCount": 17,
       "ongoing": false
-    },
-    {
-      "id": "anilist-114416",
-      "name": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You",
-      "volumeCount": 27,
-      "ongoing": true
     },
     {
       "id": "anilist-65573",
@@ -1323,15 +1311,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86952",
-      "name": "So I'm a Spider, So What?",
-      "volumeCount": 16,
-      "ongoing": true
-    },
-    {
       "id": "anilist-180752",
       "name": "Ichi the Witch",
       "volumeCount": 10,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-86952",
+      "name": "So I'm a Spider, So What?",
+      "volumeCount": 16,
       "ongoing": true
     },
     {
@@ -1533,15 +1521,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30909",
-      "name": "Gyo",
-      "volumeCount": 2,
-      "ongoing": false
-    },
-    {
       "id": "anilist-107279",
       "name": "Aoashi",
       "volumeCount": 40,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30909",
+      "name": "Gyo",
+      "volumeCount": 2,
       "ongoing": false
     },
     {
@@ -1677,15 +1665,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-66413",
-      "name": "Hinamatsuri",
-      "volumeCount": 19,
-      "ongoing": false
-    },
-    {
       "id": "anilist-198372",
       "name": "Jujutsu Kaisen Modulo",
       "volumeCount": 3,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-66413",
+      "name": "Hinamatsuri",
+      "volumeCount": 19,
       "ongoing": false
     },
     {
@@ -1785,10 +1773,10 @@
       "ongoing": false
     },
     {
-      "id": "anilist-67707",
-      "name": "Your Lie in April",
-      "volumeCount": 11,
-      "ongoing": false
+      "id": "anilist-176740",
+      "name": "Centuria",
+      "volumeCount": 10,
+      "ongoing": true
     },
     {
       "id": "anilist-30029",
@@ -1797,10 +1785,10 @@
       "ongoing": false
     },
     {
-      "id": "anilist-176740",
-      "name": "Centuria",
-      "volumeCount": 10,
-      "ongoing": true
+      "id": "anilist-67707",
+      "name": "Your Lie in April",
+      "volumeCount": 11,
+      "ongoing": false
     },
     {
       "id": "anilist-114027",
@@ -1977,15 +1965,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-108105",
-      "name": "When Will Ayumu Make His Move?",
-      "volumeCount": 17,
-      "ongoing": false
-    },
-    {
       "id": "anilist-159142",
       "name": "Firefly Wedding",
       "volumeCount": 13,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-108105",
+      "name": "When Will Ayumu Make His Move?",
+      "volumeCount": 17,
       "ongoing": false
     },
     {
@@ -2073,16 +2061,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-101625",
-      "name": "Berserk of Gluttony",
-      "volumeCount": 8,
-      "ongoing": true
-    },
-    {
       "id": "anilist-86549",
       "name": "Go For It, Nakamura!",
       "volumeCount": 1,
       "ongoing": false
+    },
+    {
+      "id": "anilist-101625",
+      "name": "Berserk of Gluttony",
+      "volumeCount": 8,
+      "ongoing": true
     },
     {
       "id": "anilist-103111",
@@ -2091,14 +2079,14 @@
       "ongoing": false
     },
     {
-      "id": "anilist-112544",
-      "name": "Kowloon Generic Romance",
+      "id": "anilist-121565",
+      "name": "Seasons of Blossom",
       "volumeCount": 12,
       "ongoing": false
     },
     {
-      "id": "anilist-121565",
-      "name": "Seasons of Blossom",
+      "id": "anilist-112544",
+      "name": "Kowloon Generic Romance",
       "volumeCount": 12,
       "ongoing": false
     },
@@ -2133,6 +2121,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-171729",
+      "name": "Love Bullet",
+      "volumeCount": 2,
+      "ongoing": true
+    },
+    {
       "id": "anilist-101860",
       "name": "EDENS ZERO",
       "volumeCount": 33,
@@ -2143,12 +2137,6 @@
       "name": "Air Gear",
       "volumeCount": 37,
       "ongoing": false
-    },
-    {
-      "id": "anilist-171729",
-      "name": "Love Bullet",
-      "volumeCount": 2,
-      "ongoing": true
     },
     {
       "id": "anilist-109728",
