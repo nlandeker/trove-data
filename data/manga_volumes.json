@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-10-27T04:08:50Z",
+  "_generated": "2026-10-28T04:08:09Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -723,6 +723,12 @@
       "ongoing": true
     },
     {
+      "id": "anilist-85564",
+      "name": "Mushoku Tensei: Jobless Reincarnation",
+      "volumeCount": 25,
+      "ongoing": true
+    },
+    {
       "id": "anilist-30664",
       "name": "Akira",
       "volumeCount": 6,
@@ -945,6 +951,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-114416",
+      "name": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You",
+      "volumeCount": 27,
+      "ongoing": true
+    },
+    {
       "id": "anilist-65573",
       "name": "orange",
       "volumeCount": 7,
@@ -1095,12 +1107,6 @@
       "ongoing": true
     },
     {
-      "id": "anilist-59983",
-      "name": "Noblesse",
-      "volumeCount": 25,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30102",
       "name": "Fruits Basket",
       "volumeCount": 23,
@@ -1249,12 +1255,6 @@
       "name": "My Little Monster",
       "volumeCount": 13,
       "ongoing": false
-    },
-    {
-      "id": "anilist-87321",
-      "name": "Goblin Slayer",
-      "volumeCount": 16,
-      "ongoing": true
     },
     {
       "id": "anilist-115122",
@@ -1647,12 +1647,6 @@
       "ongoing": false
     },
     {
-      "id": "anilist-114383",
-      "name": "A Couple of Cuckoos",
-      "volumeCount": 34,
-      "ongoing": true
-    },
-    {
       "id": "anilist-102989",
       "name": "Summertime Rendering",
       "volumeCount": 13,
@@ -2013,12 +2007,6 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85495",
-      "name": "Re:Monster",
-      "volumeCount": 9,
-      "ongoing": true
-    },
-    {
       "id": "anilist-30735",
       "name": "Black Lagoon",
       "volumeCount": 14,
@@ -2223,28 +2211,22 @@
       "ongoing": false
     },
     {
-      "id": "anilist-99549",
-      "name": "Karakai Jouzu no (Moto) Takagi-san",
-      "volumeCount": 23,
-      "ongoing": false
-    },
-    {
       "id": "anilist-169272",
       "name": "Tune In to the Midnight Heart",
       "volumeCount": 14,
       "ongoing": true
     },
     {
+      "id": "anilist-99549",
+      "name": "Karakai Jouzu no (Moto) Takagi-san",
+      "volumeCount": 23,
+      "ongoing": false
+    },
+    {
       "id": "anilist-30142",
       "name": "Battle Royale",
       "volumeCount": 15,
       "ongoing": false
-    },
-    {
-      "id": "anilist-54903",
-      "name": "GANGSTA.",
-      "volumeCount": 9,
-      "ongoing": true
     },
     {
       "id": "anilist-86303",
@@ -2311,12 +2293,6 @@
       "name": "My Monster Secret: Actually, I Am…",
       "volumeCount": 22,
       "ongoing": false
-    },
-    {
-      "id": "anilist-107540",
-      "name": "Loner Life in Another World",
-      "volumeCount": 19,
-      "ongoing": true
     },
     {
       "id": "anilist-86720",
