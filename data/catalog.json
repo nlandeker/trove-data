@@ -2,7 +2,7 @@
   "version": 2,
   "currency": "EUR",
   "_attribution": "LEGO data: Rebrickable (rebrickable.com) + Brickset (brickset.com). Not affiliated with or endorsed by The LEGO Group.",
-  "_generated": "2026-10-27T03:29:52Z",
+  "_generated": "2026-10-28T03:32:03Z",
   "items": [
     {
       "id": "001",
@@ -86319,7 +86319,7 @@
         "USD": 24.99,
         "GBP": 19.99
       },
-      "lifecycleStatus": "RETIRING_SOON",
+      "lifecycleStatus": "AVAILABLE",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2025,
@@ -104560,7 +104560,7 @@
         "USD": 29.99,
         "GBP": 24.99
       },
-      "lifecycleStatus": "RETIRING_SOON",
+      "lifecycleStatus": "AVAILABLE",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2026,
@@ -108125,7 +108125,7 @@
         "USD": 39.99,
         "GBP": 34.99
       },
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2026,
@@ -138788,7 +138788,7 @@
     {
       "id": "5907762001434",
       "category": "LEGO",
-      "name": "DC Comics Batman: Epickie Pojedynki",
+      "name": "DC Comics Batman: Battle Box",
       "imageURL": "https://cdn.rebrickable.com/media/sets/5907762001434-1/182480.jpg",
       "themeOrSeries": "Books",
       "retailPrice": null,
@@ -147855,7 +147855,7 @@
         "USD": 9.99,
         "GBP": 7.99
       },
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2026,
@@ -159855,6 +159855,21 @@
       "retirementDate": null,
       "marketPrice": null,
       "year": 2025,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "6575864",
+      "category": "LEGO",
+      "name": "Stitch M&T",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/6575864-1/182566.jpg",
+      "themeOrSeries": "Promotional",
+      "retailPrice": null,
+      "prices": {},
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
       "volumeCount": null,
       "ongoing": null
     },
@@ -182445,7 +182460,7 @@
       "themeOrSeries": "Ninjago",
       "retailPrice": null,
       "prices": {},
-      "lifecycleStatus": "RETIRING_SOON",
+      "lifecycleStatus": "AVAILABLE",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2024,
@@ -194133,7 +194148,7 @@
         "USD": 139.99,
         "GBP": 119.99
       },
-      "lifecycleStatus": "RETIRING_SOON",
+      "lifecycleStatus": "AVAILABLE",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2025,
@@ -207258,7 +207273,7 @@
         "USD": 19.99,
         "GBP": 17.99
       },
-      "lifecycleStatus": "RETIRING_SOON",
+      "lifecycleStatus": "AVAILABLE",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2025,
@@ -249856,6 +249871,21 @@
       "category": "LEGO",
       "name": "Minecraft: Rare Mob Expedition: Search & Find Sticker Activity",
       "imageURL": "https://cdn.rebrickable.com/media/sets/9781837252145-1/170089.jpg",
+      "themeOrSeries": "Books",
+      "retailPrice": null,
+      "prices": {},
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "9781837252152",
+      "category": "LEGO",
+      "name": "Ninjago: Dragons Rising: Cole's Mech Mission",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/9781837252152-1/175851.jpg",
       "themeOrSeries": "Books",
       "retailPrice": null,
       "prices": {},
