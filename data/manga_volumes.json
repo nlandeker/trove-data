@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-10-28T04:08:09Z",
+  "_generated": "2026-10-29T04:08:31Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -747,16 +747,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85307",
-      "name": "Bungo Stray Dogs",
-      "volumeCount": 28,
-      "ongoing": true
-    },
-    {
       "id": "anilist-86770",
       "name": "The Girl From the Other Side: Siúil, a Rún",
       "volumeCount": 11,
       "ongoing": false
+    },
+    {
+      "id": "anilist-85307",
+      "name": "Bungo Stray Dogs",
+      "volumeCount": 28,
+      "ongoing": true
     },
     {
       "id": "anilist-86300",
@@ -819,15 +819,21 @@
       "ongoing": true
     },
     {
+      "id": "anilist-86136",
+      "name": "Happiness",
+      "volumeCount": 10,
+      "ongoing": false
+    },
+    {
       "id": "anilist-85802",
       "name": "Domestic Girlfriend",
       "volumeCount": 28,
       "ongoing": false
     },
     {
-      "id": "anilist-86136",
-      "name": "Happiness",
-      "volumeCount": 10,
+      "id": "anilist-38848",
+      "name": "Sun-Ken Rock",
+      "volumeCount": 25,
       "ongoing": false
     },
     {
@@ -835,12 +841,6 @@
       "name": "Blue Exorcist",
       "volumeCount": 34,
       "ongoing": true
-    },
-    {
-      "id": "anilist-38848",
-      "name": "Sun-Ken Rock",
-      "volumeCount": 25,
-      "ongoing": false
     },
     {
       "id": "anilist-138603",
@@ -1107,15 +1107,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-30102",
-      "name": "Fruits Basket",
-      "volumeCount": 23,
+      "id": "anilist-59983",
+      "name": "Noblesse",
+      "volumeCount": 25,
       "ongoing": false
     },
     {
-      "id": "anilist-98361",
-      "name": "Three Days of Happiness",
-      "volumeCount": 1,
+      "id": "anilist-30102",
+      "name": "Fruits Basket",
+      "volumeCount": 23,
       "ongoing": false
     },
     {
@@ -1123,6 +1123,12 @@
       "name": "RuriDragon",
       "volumeCount": 5,
       "ongoing": true
+    },
+    {
+      "id": "anilist-98361",
+      "name": "Three Days of Happiness",
+      "volumeCount": 1,
+      "ongoing": false
     },
     {
       "id": "anilist-47465",
@@ -1155,15 +1161,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-31649",
-      "name": "LIAR GAME",
-      "volumeCount": 19,
-      "ongoing": false
-    },
-    {
       "id": "anilist-39982",
       "name": "Usogui",
       "volumeCount": 49,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-31649",
+      "name": "LIAR GAME",
+      "volumeCount": 19,
       "ongoing": false
     },
     {
@@ -1255,6 +1261,12 @@
       "name": "My Little Monster",
       "volumeCount": 13,
       "ongoing": false
+    },
+    {
+      "id": "anilist-87321",
+      "name": "Goblin Slayer",
+      "volumeCount": 16,
+      "ongoing": true
     },
     {
       "id": "anilist-115122",
@@ -1497,15 +1509,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30022",
-      "name": "Rurouni Kenshin",
-      "volumeCount": 28,
-      "ongoing": false
-    },
-    {
       "id": "anilist-31474",
       "name": "Devilman",
       "volumeCount": 5,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30022",
+      "name": "Rurouni Kenshin",
+      "volumeCount": 28,
       "ongoing": false
     },
     {
@@ -1647,6 +1659,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-114383",
+      "name": "A Couple of Cuckoos",
+      "volumeCount": 34,
+      "ongoing": true
+    },
+    {
       "id": "anilist-102989",
       "name": "Summertime Rendering",
       "volumeCount": 13,
@@ -1719,16 +1737,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30894",
-      "name": "Rosario+Vampire",
-      "volumeCount": 10,
-      "ongoing": false
-    },
-    {
       "id": "anilist-152404",
       "name": "Alya Sometimes Hides Her Feelings in Russian",
       "volumeCount": 12,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30894",
+      "name": "Rosario+Vampire",
+      "volumeCount": 10,
+      "ongoing": false
     },
     {
       "id": "anilist-57231",
@@ -1845,27 +1863,27 @@
       "ongoing": false
     },
     {
-      "id": "anilist-97842",
-      "name": "My Hero Academia: Vigilantes",
-      "volumeCount": 15,
-      "ongoing": false
-    },
-    {
       "id": "anilist-104241",
       "name": "How Do We Relationship?",
       "volumeCount": 14,
       "ongoing": false
     },
     {
-      "id": "anilist-50593",
-      "name": "Btooom!",
-      "volumeCount": 27,
+      "id": "anilist-97842",
+      "name": "My Hero Academia: Vigilantes",
+      "volumeCount": 15,
       "ongoing": false
     },
     {
       "id": "anilist-110605",
       "name": "Leviathan",
       "volumeCount": 9,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-50593",
+      "name": "Btooom!",
+      "volumeCount": 27,
       "ongoing": false
     },
     {
@@ -1935,21 +1953,21 @@
       "ongoing": false
     },
     {
-      "id": "anilist-100937",
-      "name": "DARLING in the FRANXX",
-      "volumeCount": 8,
-      "ongoing": false
-    },
-    {
       "id": "anilist-201773",
       "name": "Haimiya Is Scary Cute",
       "volumeCount": 3,
       "ongoing": true
     },
     {
-      "id": "anilist-86481",
-      "name": "Tsuredure Children",
-      "volumeCount": 12,
+      "id": "anilist-100937",
+      "name": "DARLING in the FRANXX",
+      "volumeCount": 8,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-159142",
+      "name": "Firefly Wedding",
+      "volumeCount": 13,
       "ongoing": false
     },
     {
@@ -1959,9 +1977,9 @@
       "ongoing": true
     },
     {
-      "id": "anilist-159142",
-      "name": "Firefly Wedding",
-      "volumeCount": 13,
+      "id": "anilist-86481",
+      "name": "Tsuredure Children",
+      "volumeCount": 12,
       "ongoing": false
     },
     {
@@ -1977,15 +1995,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-113076",
-      "name": "Sometimes Even Reality Is a Lie!",
-      "volumeCount": 9,
-      "ongoing": false
-    },
-    {
       "id": "anilist-58361",
       "name": "HIDEOUT",
       "volumeCount": 1,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-113076",
+      "name": "Sometimes Even Reality Is a Lie!",
+      "volumeCount": 9,
       "ongoing": false
     },
     {
@@ -2005,6 +2023,12 @@
       "name": "My Youth Romantic Comedy Is Wrong, As I Expected",
       "volumeCount": 18,
       "ongoing": false
+    },
+    {
+      "id": "anilist-85495",
+      "name": "Re:Monster",
+      "volumeCount": 9,
+      "ongoing": true
     },
     {
       "id": "anilist-30735",
@@ -2079,16 +2103,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-98112",
-      "name": "Gal Gohan",
-      "volumeCount": 10,
-      "ongoing": false
-    },
-    {
       "id": "anilist-143031",
       "name": "I Want to End This Love Game",
       "volumeCount": 9,
       "ongoing": true
+    },
+    {
+      "id": "anilist-98112",
+      "name": "Gal Gohan",
+      "volumeCount": 10,
+      "ongoing": false
     },
     {
       "id": "anilist-112621",
@@ -2115,15 +2139,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-101860",
-      "name": "EDENS ZERO",
-      "volumeCount": 33,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30074",
       "name": "Air Gear",
       "volumeCount": 37,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-101860",
+      "name": "EDENS ZERO",
+      "volumeCount": 33,
       "ongoing": false
     },
     {
@@ -2229,16 +2253,22 @@
       "ongoing": false
     },
     {
+      "id": "anilist-96518",
+      "name": "Bokutachi ga Yarimashita",
+      "volumeCount": 9,
+      "ongoing": false
+    },
+    {
       "id": "anilist-86303",
       "name": "Miss Kobayashi's Dragon Maid",
       "volumeCount": 20,
       "ongoing": true
     },
     {
-      "id": "anilist-96518",
-      "name": "Bokutachi ga Yarimashita",
+      "id": "anilist-54903",
+      "name": "GANGSTA.",
       "volumeCount": 9,
-      "ongoing": false
+      "ongoing": true
     },
     {
       "id": "anilist-107518",
@@ -2277,16 +2307,22 @@
       "ongoing": false
     },
     {
+      "id": "anilist-31131",
+      "name": "Freesia",
+      "volumeCount": 12,
+      "ongoing": false
+    },
+    {
       "id": "anilist-68105",
       "name": "Kase-san and...",
       "volumeCount": 5,
       "ongoing": false
     },
     {
-      "id": "anilist-31131",
-      "name": "Freesia",
-      "volumeCount": 12,
-      "ongoing": false
+      "id": "anilist-107540",
+      "name": "Loner Life in Another World",
+      "volumeCount": 19,
+      "ongoing": true
     },
     {
       "id": "anilist-85139",
@@ -2343,15 +2379,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-87213",
-      "name": "Yuuna and the Haunted Hot Springs",
-      "volumeCount": 24,
-      "ongoing": false
-    },
-    {
       "id": "anilist-110785",
       "name": "2.5 Dimensional Seduction",
       "volumeCount": 25,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-87213",
+      "name": "Yuuna and the Haunted Hot Springs",
+      "volumeCount": 24,
       "ongoing": false
     },
     {
