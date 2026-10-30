@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-10-29T04:08:31Z",
+  "_generated": "2026-10-30T04:07:43Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -61,12 +61,6 @@
       "name": "My Hero Academia",
       "volumeCount": 42,
       "ongoing": false
-    },
-    {
-      "id": "anilist-74347",
-      "name": "One-Punch Man",
-      "volumeCount": 37,
-      "ongoing": true
     },
     {
       "id": "anilist-30656",
@@ -543,15 +537,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30336",
-      "name": "GTO: Great Teacher Onizuka",
-      "volumeCount": 25,
-      "ongoing": false
-    },
-    {
       "id": "anilist-86082",
       "name": "Delicious in Dungeon",
       "volumeCount": 14,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30336",
+      "name": "GTO: Great Teacher Onizuka",
+      "volumeCount": 25,
       "ongoing": false
     },
     {
@@ -711,16 +705,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-75757",
-      "name": "Food Wars!: Shokugeki no Soma",
-      "volumeCount": 36,
-      "ongoing": false
-    },
-    {
       "id": "anilist-106758",
       "name": "The Eminence in Shadow",
       "volumeCount": 7,
       "ongoing": true
+    },
+    {
+      "id": "anilist-75757",
+      "name": "Food Wars!: Shokugeki no Soma",
+      "volumeCount": 36,
+      "ongoing": false
     },
     {
       "id": "anilist-85564",
@@ -777,16 +771,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-98328",
-      "name": "Jagaaan",
-      "volumeCount": 14,
-      "ongoing": false
-    },
-    {
       "id": "anilist-144957",
       "name": "The World After the Fall",
       "volumeCount": 3,
       "ongoing": true
+    },
+    {
+      "id": "anilist-98328",
+      "name": "Jagaaan",
+      "volumeCount": 14,
+      "ongoing": false
     },
     {
       "id": "anilist-147149",
@@ -949,12 +943,6 @@
       "name": "JoJo's Bizarre Adventure Part 5: Golden Wind",
       "volumeCount": 17,
       "ongoing": false
-    },
-    {
-      "id": "anilist-114416",
-      "name": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You",
-      "volumeCount": 27,
-      "ongoing": true
     },
     {
       "id": "anilist-65573",
@@ -1731,16 +1719,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-30584",
-      "name": "Future Diary",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-152404",
       "name": "Alya Sometimes Hides Her Feelings in Russian",
       "volumeCount": 12,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30584",
+      "name": "Future Diary",
+      "volumeCount": 12,
+      "ongoing": false
     },
     {
       "id": "anilist-30894",
@@ -1887,15 +1875,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-48597",
-      "name": "Sankarea: Undying Love",
-      "volumeCount": 11,
-      "ongoing": false
-    },
-    {
       "id": "anilist-101434",
       "name": "How to Treat a Lady Knight Right",
       "volumeCount": 7,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-48597",
+      "name": "Sankarea: Undying Love",
+      "volumeCount": 11,
       "ongoing": false
     },
     {
@@ -1935,6 +1923,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-201773",
+      "name": "Haimiya Is Scary Cute",
+      "volumeCount": 3,
+      "ongoing": true
+    },
+    {
       "id": "anilist-30651",
       "name": "Nausicaä of the Valley of the Wind",
       "volumeCount": 7,
@@ -1951,12 +1945,6 @@
       "name": "Even If You Slit My Mouth",
       "volumeCount": 11,
       "ongoing": false
-    },
-    {
-      "id": "anilist-201773",
-      "name": "Haimiya Is Scary Cute",
-      "volumeCount": 3,
-      "ongoing": true
     },
     {
       "id": "anilist-100937",
@@ -1992,7 +1980,7 @@
       "id": "anilist-113055",
       "name": "The Remarried Empress",
       "volumeCount": 11,
-      "ongoing": false
+      "ongoing": true
     },
     {
       "id": "anilist-58361",
@@ -2019,16 +2007,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-70171",
-      "name": "My Youth Romantic Comedy Is Wrong, As I Expected",
-      "volumeCount": 18,
-      "ongoing": false
-    },
-    {
       "id": "anilist-85495",
       "name": "Re:Monster",
       "volumeCount": 9,
       "ongoing": true
+    },
+    {
+      "id": "anilist-70171",
+      "name": "My Youth Romantic Comedy Is Wrong, As I Expected",
+      "volumeCount": 18,
+      "ongoing": false
     },
     {
       "id": "anilist-30735",
@@ -2055,15 +2043,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-78151",
-      "name": "World Trigger",
-      "volumeCount": 30,
-      "ongoing": true
-    },
-    {
       "id": "anilist-34571",
       "name": "Snow White with the Red Hair",
       "volumeCount": 27,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-78151",
+      "name": "World Trigger",
+      "volumeCount": 30,
       "ongoing": true
     },
     {
@@ -2229,16 +2217,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-35293",
-      "name": "Doubt",
-      "volumeCount": 4,
-      "ongoing": false
-    },
-    {
       "id": "anilist-169272",
       "name": "Tune In to the Midnight Heart",
       "volumeCount": 14,
       "ongoing": true
+    },
+    {
+      "id": "anilist-35293",
+      "name": "Doubt",
+      "volumeCount": 4,
+      "ongoing": false
     },
     {
       "id": "anilist-99549",
@@ -2247,15 +2235,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30142",
-      "name": "Battle Royale",
-      "volumeCount": 15,
-      "ongoing": false
-    },
-    {
       "id": "anilist-96518",
       "name": "Bokutachi ga Yarimashita",
       "volumeCount": 9,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30142",
+      "name": "Battle Royale",
+      "volumeCount": 15,
       "ongoing": false
     },
     {
@@ -2301,15 +2289,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30092",
-      "name": "Sailor Moon",
-      "volumeCount": 18,
-      "ongoing": false
-    },
-    {
       "id": "anilist-31131",
       "name": "Freesia",
       "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30092",
+      "name": "Sailor Moon",
+      "volumeCount": 18,
       "ongoing": false
     },
     {
