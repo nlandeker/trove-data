@@ -2,7 +2,7 @@
   "version": 2,
   "currency": "EUR",
   "_attribution": "LEGO data: Rebrickable (rebrickable.com) + Brickset (brickset.com). Not affiliated with or endorsed by The LEGO Group.",
-  "_generated": "2026-10-29T03:21:35Z",
+  "_generated": "2026-10-30T03:25:01Z",
   "items": [
     {
       "id": "001",
@@ -6928,7 +6928,7 @@
         "USD": 29.99,
         "GBP": 24.99
       },
-      "lifecycleStatus": "RETIRING_SOON",
+      "lifecycleStatus": "AVAILABLE",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2025,
@@ -36722,7 +36722,7 @@
       "id": "21358",
       "category": "LEGO",
       "name": "Minifigure Vending Machine",
-      "imageURL": "https://cdn.rebrickable.com/media/sets/21358-1/156824.jpg",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/21358-1/182696.jpg",
       "themeOrSeries": "LEGO Ideas and CUUSOO",
       "retailPrice": 169.99,
       "prices": {
@@ -40003,7 +40003,7 @@
     {
       "id": "236",
       "category": "LEGO",
-      "name": "Garage with Automatic Door (White base and door frame)",
+      "name": "Garage with Automatic Door (White Base and Door Frame)",
       "imageURL": "https://cdn.rebrickable.com/media/sets/236-1/13455.jpg",
       "themeOrSeries": "System",
       "retailPrice": null,
@@ -70190,7 +70190,7 @@
     {
       "id": "3741",
       "category": "LEGO",
-      "name": "Large Locomotive (base unit without color trim elements)",
+      "name": "Large Locomotive (Base Unit without Color Trim Elements)",
       "imageURL": "https://cdn.rebrickable.com/media/sets/3741-1/7215.jpg",
       "themeOrSeries": "Train",
       "retailPrice": null,
@@ -70205,7 +70205,7 @@
     {
       "id": "3742",
       "category": "LEGO",
-      "name": "Tender Basis (without color trim elements)",
+      "name": "Tender Basis (without Color Trim Elements)",
       "imageURL": "https://cdn.rebrickable.com/media/sets/3742-1/9662.jpg",
       "themeOrSeries": "Train",
       "retailPrice": null,
@@ -86319,7 +86319,7 @@
         "USD": 24.99,
         "GBP": 19.99
       },
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2025,
@@ -86362,6 +86362,21 @@
       "name": "Ditto as Squirtle: Movie Night",
       "imageURL": "https://cdn.rebrickable.com/media/sets/40887-1/175248.jpg",
       "themeOrSeries": "Pok\u00e9mon",
+      "retailPrice": null,
+      "prices": {},
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "40889",
+      "category": "LEGO",
+      "name": "Build, Paint and Play!",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/40889-1/182520.jpg",
+      "themeOrSeries": "LEGO Ideas and CUUSOO",
       "retailPrice": null,
       "prices": {},
       "lifecycleStatus": "AVAILABLE",
@@ -90345,7 +90360,7 @@
     {
       "id": "412403",
       "category": "LEGO",
-      "name": "Race car",
+      "name": "Race Car",
       "imageURL": "https://cdn.rebrickable.com/media/sets/412403-1/147225.jpg",
       "themeOrSeries": "Technic",
       "retailPrice": null,
@@ -97504,7 +97519,7 @@
     {
       "id": "4186868",
       "category": "LEGO",
-      "name": "Large Train Engine with Tender Black (Motorizable, sets 4534, 4535)",
+      "name": "Large Train Engine with Tender Black (Motorizable, Sets 4534-1, 4535-1)",
       "imageURL": "https://cdn.rebrickable.com/media/sets/4186868-1/12134.jpg",
       "themeOrSeries": "Train",
       "retailPrice": null,
@@ -99169,7 +99184,7 @@
     {
       "id": "42029",
       "category": "LEGO",
-      "name": "Customized Pick up Truck",
+      "name": "Customized Pick Up Truck",
       "imageURL": "https://cdn.rebrickable.com/media/sets/42029-1/1890.jpg",
       "themeOrSeries": "Technic",
       "retailPrice": null,
@@ -101574,7 +101589,7 @@
       "themeOrSeries": "Technic",
       "retailPrice": null,
       "prices": {},
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2024,
@@ -108529,7 +108544,7 @@
     {
       "id": "434",
       "category": "LEGO",
-      "name": "50 lettered bricks (The Building Toy)",
+      "name": "50 Lettered Bricks (The Building Toy)",
       "imageURL": "https://cdn.rebrickable.com/media/sets/434-1/1322.jpg",
       "themeOrSeries": "System",
       "retailPrice": null,
@@ -108634,7 +108649,7 @@
     {
       "id": "437",
       "category": "LEGO",
-      "name": "50 numbered bricks (The Building Toy)",
+      "name": "50 Numbered Bricks (The Building Toy)",
       "imageURL": "https://cdn.rebrickable.com/media/sets/437-1/8671.jpg",
       "themeOrSeries": "System",
       "retailPrice": null,
@@ -110734,7 +110749,7 @@
     {
       "id": "4500",
       "category": "LEGO",
-      "name": "Rebel Snowspeeder [Redesign] - Blue box",
+      "name": "Rebel Snowspeeder [Redesign] - Blue Box",
       "imageURL": "https://cdn.rebrickable.com/media/sets/4500-1/16216.jpg",
       "themeOrSeries": "Star Wars",
       "retailPrice": null,
@@ -110929,7 +110944,7 @@
     {
       "id": "4501",
       "category": "LEGO",
-      "name": "Mos Eisley Cantina, Blue box",
+      "name": "Mos Eisley Cantina, Blue Box",
       "imageURL": "https://cdn.rebrickable.com/media/sets/4501-1/121626.jpg",
       "themeOrSeries": "Star Wars",
       "retailPrice": null,
@@ -111484,7 +111499,7 @@
     {
       "id": "45120",
       "category": "LEGO",
-      "name": "LearnToLearn Core set",
+      "name": "LearnToLearn Core Set",
       "imageURL": "https://cdn.rebrickable.com/media/sets/45120-1/121565.jpg",
       "themeOrSeries": "Educational and Dacta",
       "retailPrice": null,
@@ -111710,7 +111725,7 @@
     {
       "id": "4521221",
       "category": "LEGO",
-      "name": "Gold chrome plated C-3PO",
+      "name": "Gold Chrome Plated C-3PO",
       "imageURL": "https://cdn.rebrickable.com/media/sets/4521221-1/11781.jpg",
       "themeOrSeries": "Star Wars",
       "retailPrice": null,
@@ -113585,7 +113600,7 @@
     {
       "id": "45832",
       "category": "LEGO",
-      "name": "BIOGLOW Challenge set",
+      "name": "BIOGLOW Challenge Set",
       "imageURL": "https://cdn.rebrickable.com/media/sets/45832-1/179325.jpg",
       "themeOrSeries": "FIRST LEGO League",
       "retailPrice": null,
@@ -114995,7 +115010,7 @@
     {
       "id": "4679a",
       "category": "LEGO",
-      "name": "Bricks and Creations Tub (Bottom Tub and its contents only)",
+      "name": "Bricks and Creations Tub (Bottom Tub and its Contents Only)",
       "imageURL": "https://cdn.rebrickable.com/media/sets/4679a-1/6480.jpg",
       "themeOrSeries": "Make & Create",
       "retailPrice": null,
@@ -115010,7 +115025,7 @@
     {
       "id": "4679b",
       "category": "LEGO",
-      "name": "Free 500 LEGO Bricks (Bonus box and its contents only)",
+      "name": "Free 500 LEGO Bricks (Bonus Box and its Contents Only)",
       "imageURL": "https://cdn.rebrickable.com/media/sets/4679b-2/3181.jpg",
       "themeOrSeries": "Make & Create",
       "retailPrice": null,
@@ -115700,7 +115715,7 @@
     {
       "id": "472506",
       "category": "LEGO",
-      "name": "Hero with Crafting table, Furnace and Anvil",
+      "name": "Hero with Crafting Table, Furnace and Anvil",
       "imageURL": "https://cdn.rebrickable.com/media/sets/472506-1/159202.jpg",
       "themeOrSeries": "Minecraft",
       "retailPrice": null,
@@ -118025,7 +118040,7 @@
     {
       "id": "493",
       "category": "LEGO",
-      "name": "Space Command Center (Flatplate version)",
+      "name": "Space Command Center (Flatplate Version)",
       "imageURL": "https://cdn.rebrickable.com/media/sets/493-1/11391.jpg",
       "themeOrSeries": "Space",
       "retailPrice": null,
@@ -122330,7 +122345,7 @@
     {
       "id": "5003257",
       "category": "LEGO",
-      "name": "Gorzan Buildable watch",
+      "name": "Gorzan Buildable Watch",
       "imageURL": "https://cdn.rebrickable.com/media/sets/5003257-1/124717.jpg",
       "themeOrSeries": "Gear",
       "retailPrice": null,
@@ -127139,6 +127154,25 @@
       "ongoing": null
     },
     {
+      "id": "5010353",
+      "category": "LEGO",
+      "name": "Tiny Pets: Corgi",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/5010353-1/169495.jpg",
+      "themeOrSeries": "Books",
+      "retailPrice": 9.99,
+      "prices": {
+        "EUR": 9.99,
+        "USD": 12.99,
+        "GBP": 8.99
+      },
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-09-24",
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
       "id": "5010355",
       "category": "LEGO",
       "name": "ReBuild Activity Cards: Space",
@@ -129233,7 +129267,7 @@
     {
       "id": "518",
       "category": "LEGO",
-      "name": "2 x 4 Plates (cardboard box version)",
+      "name": "2 x 4 Plates (Cardboard Box Version)",
       "imageURL": "https://cdn.rebrickable.com/media/sets/518-1/16720.jpg",
       "themeOrSeries": "System",
       "retailPrice": null,
@@ -129383,7 +129417,7 @@
     {
       "id": "519",
       "category": "LEGO",
-      "name": "2 x 3 Plates (cardboard box version)",
+      "name": "2 x 3 Plates (Cardboard Box Version)",
       "imageURL": "https://cdn.rebrickable.com/media/sets/519-1/4653.jpg",
       "themeOrSeries": "System",
       "retailPrice": null,
@@ -129548,7 +129582,7 @@
     {
       "id": "520",
       "category": "LEGO",
-      "name": "2 x 2 Plates (cardboard box version)",
+      "name": "2 x 2 Plates (Cardboard Box Version)",
       "imageURL": "https://cdn.rebrickable.com/media/sets/520-1/8313.jpg",
       "themeOrSeries": "System",
       "retailPrice": null,
@@ -129668,7 +129702,7 @@
     {
       "id": "521",
       "category": "LEGO",
-      "name": "1 x 1 and 1 x 2 Plates (cardboard box version)",
+      "name": "1 x 1 and 1 x 2 Plates (Cardboard Box Version)",
       "imageURL": "https://cdn.rebrickable.com/media/sets/521-1/4658.jpg",
       "themeOrSeries": "System",
       "retailPrice": null,
@@ -130193,7 +130227,7 @@
     {
       "id": "5240",
       "category": "LEGO",
-      "name": "TECHNIC Wheels with 43 mm + 24 mm tyres",
+      "name": "TECHNIC Wheels with 43 mm + 24 mm Tyres",
       "imageURL": "https://cdn.rebrickable.com/media/sets/5240-1/11638.jpg",
       "themeOrSeries": "Service Packs",
       "retailPrice": null,
@@ -130763,7 +130797,7 @@
     {
       "id": "5274",
       "category": "LEGO",
-      "name": "8 Tires / Tyres (4x24, 4x 30 mm) w/hubs",
+      "name": "8 Tires / Tyres (4x24, 4x 30 mm) with Hubs",
       "imageURL": "https://cdn.rebrickable.com/media/sets/5274-1/4739.jpg",
       "themeOrSeries": "Service Packs",
       "retailPrice": null,
@@ -131723,7 +131757,7 @@
     {
       "id": "5370a",
       "category": "LEGO",
-      "name": "Large Make and Create Bucket with Special LEGO Bonus Bricks (Bucket and its contents only)",
+      "name": "Large Make and Create Bucket with Special LEGO Bonus Bricks (Bucket and its Contents Only)",
       "imageURL": "https://cdn.rebrickable.com/media/sets/5370a-1/1178.jpg",
       "themeOrSeries": "Make & Create",
       "retailPrice": null,
@@ -131738,7 +131772,7 @@
     {
       "id": "5370b",
       "category": "LEGO",
-      "name": "Large Make and Create Bucket with Special LEGO Bonus Bricks (Bonus box and its contents only)",
+      "name": "Large Make and Create Bucket with Special LEGO Bonus Bricks (Bonus Box and its Contents Only)",
       "imageURL": "https://cdn.rebrickable.com/media/sets/5370b-1/9501.jpg",
       "themeOrSeries": "Make & Create",
       "retailPrice": null,
@@ -136013,7 +136047,7 @@
     {
       "id": "562305",
       "category": "LEGO",
-      "name": "Sushi stand",
+      "name": "Sushi Stand",
       "imageURL": "https://cdn.rebrickable.com/media/sets/562305-1/134962.jpg",
       "themeOrSeries": "Friends",
       "retailPrice": null,
@@ -138923,7 +138957,7 @@
     {
       "id": "5909",
       "category": "LEGO",
-      "name": "Treasure Raiders set with Mummy Storage Container",
+      "name": "Treasure Raiders Set with Mummy Storage Container",
       "imageURL": "https://cdn.rebrickable.com/media/sets/5909-1/5629.jpg",
       "themeOrSeries": "Adventurers",
       "retailPrice": null,
@@ -163221,7 +163255,7 @@
     {
       "id": "6651880",
       "category": "LEGO",
-      "name": "Arcade driving game",
+      "name": "Arcade Driving Game",
       "imageURL": "https://cdn.rebrickable.com/media/sets/6651880-1/169318.jpg",
       "themeOrSeries": "LEGO Brand Store",
       "retailPrice": null,
@@ -163791,7 +163825,7 @@
     {
       "id": "6674871",
       "category": "LEGO",
-      "name": "Tall ship",
+      "name": "Tall Ship",
       "imageURL": "https://cdn.rebrickable.com/media/sets/6674871-1/181294.jpg",
       "themeOrSeries": "LEGO Brand Store",
       "retailPrice": null,
@@ -163920,6 +163954,21 @@
       "retirementDate": null,
       "marketPrice": null,
       "year": 1981,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "6680477",
+      "category": "LEGO",
+      "name": "Soap Box Racer",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/6680477-1/182597.jpg",
+      "themeOrSeries": "Promotional",
+      "retailPrice": null,
+      "prices": {},
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
       "volumeCount": null,
       "ongoing": null
     },
@@ -169746,7 +169795,7 @@
     {
       "id": "7015",
       "category": "LEGO",
-      "name": "Viking Warrior challenges the Fenris Wolf",
+      "name": "Viking Warrior Challenges the Fenris Wolf",
       "imageURL": "https://cdn.rebrickable.com/media/sets/7015-1/76739.jpg",
       "themeOrSeries": "Vikings",
       "retailPrice": null,
@@ -169821,7 +169870,7 @@
     {
       "id": "7016",
       "category": "LEGO",
-      "name": "Viking Boat against the Wyvern Dragon",
+      "name": "Viking Boat Against the Wyvern Dragon",
       "imageURL": "https://cdn.rebrickable.com/media/sets/7016-1/76736.jpg",
       "themeOrSeries": "Vikings",
       "retailPrice": null,
@@ -170046,7 +170095,7 @@
     {
       "id": "7018",
       "category": "LEGO",
-      "name": "Viking Ship challenges the Midgard Serpent",
+      "name": "Viking Ship Challenges the Midgard Serpent",
       "imageURL": "https://cdn.rebrickable.com/media/sets/7018-1/67796.jpg",
       "themeOrSeries": "Vikings",
       "retailPrice": null,
@@ -178101,7 +178150,7 @@
     {
       "id": "71311",
       "category": "LEGO",
-      "name": "Kopaka and Melum - Unity set",
+      "name": "Kopaka and Melum - Unity Set",
       "imageURL": "https://cdn.rebrickable.com/media/sets/71311-1/31905.jpg",
       "themeOrSeries": "Bionicle",
       "retailPrice": null,
@@ -184559,7 +184608,7 @@
     {
       "id": "7216",
       "category": "LEGO",
-      "name": "Gold Good Guy - looking Right (Duracell 8 pack AA) {Turaga Lhikan}",
+      "name": "Gold Good Guy - Looking Right (Duracell 8 Pack AA) {Turaga Lhikan}",
       "imageURL": "https://cdn.rebrickable.com/media/sets/7216-1/3231.jpg",
       "themeOrSeries": "Bionicle",
       "retailPrice": null,
@@ -184726,7 +184775,7 @@
     {
       "id": "7217",
       "category": "LEGO",
-      "name": "Braca (Duracell 12 pack AA battery promotion)",
+      "name": "Braca (Duracell 12 Pack AA Battery Promotion)",
       "imageURL": "https://cdn.rebrickable.com/media/sets/7217-1/3317.jpg",
       "themeOrSeries": "Bionicle",
       "retailPrice": null,
@@ -208283,7 +208332,7 @@
     {
       "id": "7720",
       "category": "LEGO",
-      "name": "Diesel Freight Train Set, battery",
+      "name": "Diesel Freight Train Set, Battery",
       "imageURL": "https://cdn.rebrickable.com/media/sets/7720-1/6603.jpg",
       "themeOrSeries": "Train",
       "retailPrice": null,
@@ -216600,7 +216649,7 @@
     {
       "id": "8133",
       "category": "LEGO",
-      "name": "Rally Rider",
+      "name": "Rally Runner",
       "imageURL": "https://cdn.rebrickable.com/media/sets/8133-1/124231.jpg",
       "themeOrSeries": "Racers",
       "retailPrice": null,
@@ -228990,7 +229039,7 @@
     {
       "id": "8770",
       "category": "LEGO",
-      "name": "Danju (European version without Cards)",
+      "name": "Danju (European Version without Cards)",
       "imageURL": "https://cdn.rebrickable.com/media/sets/8770-1/124601.jpg",
       "themeOrSeries": "Castle",
       "retailPrice": null,
@@ -229020,7 +229069,7 @@
     {
       "id": "8771",
       "category": "LEGO",
-      "name": "Jayko (European version without Cards)",
+      "name": "Jayko (European Version without Cards)",
       "imageURL": "https://cdn.rebrickable.com/media/sets/8771-1/124600.jpg",
       "themeOrSeries": "Castle",
       "retailPrice": null,
@@ -229035,7 +229084,7 @@
     {
       "id": "8772",
       "category": "LEGO",
-      "name": "Rascus (European version without Cards)",
+      "name": "Rascus (European Version without Cards)",
       "imageURL": "https://cdn.rebrickable.com/media/sets/8772-1/124557.jpg",
       "themeOrSeries": "Castle",
       "retailPrice": null,
@@ -229050,7 +229099,7 @@
     {
       "id": "8773",
       "category": "LEGO",
-      "name": "Santis (European version without Cards)",
+      "name": "Santis (European Version without Cards)",
       "imageURL": "https://cdn.rebrickable.com/media/sets/8773-1/124556.jpg",
       "themeOrSeries": "Castle",
       "retailPrice": null,
@@ -229065,7 +229114,7 @@
     {
       "id": "8774",
       "category": "LEGO",
-      "name": "Vladek (European version without Cards)",
+      "name": "Vladek (European Version without Cards)",
       "imageURL": "https://cdn.rebrickable.com/media/sets/8774-1/124614.jpg",
       "themeOrSeries": "Castle",
       "retailPrice": null,
@@ -229170,7 +229219,7 @@
     {
       "id": "8782",
       "category": "LEGO",
-      "name": "Danju (USA version with 3 Cards)",
+      "name": "Danju (USA Version with 3 Cards)",
       "imageURL": "https://cdn.rebrickable.com/media/sets/8782-1/75998.jpg",
       "themeOrSeries": "Castle",
       "retailPrice": null,
@@ -229185,7 +229234,7 @@
     {
       "id": "8783",
       "category": "LEGO",
-      "name": "Jayko (USA version with 3 Cards)",
+      "name": "Jayko (USA Version with 3 Cards)",
       "imageURL": "https://cdn.rebrickable.com/media/sets/8783-1/140956.jpg",
       "themeOrSeries": "Castle",
       "retailPrice": null,
@@ -229200,7 +229249,7 @@
     {
       "id": "8784",
       "category": "LEGO",
-      "name": "Rascus (USA version with 3 Cards)",
+      "name": "Rascus (USA Version with 3 Cards)",
       "imageURL": "https://cdn.rebrickable.com/media/sets/8784-1/16763.jpg",
       "themeOrSeries": "Castle",
       "retailPrice": null,
@@ -229215,7 +229264,7 @@
     {
       "id": "8785",
       "category": "LEGO",
-      "name": "Santis (USA version with 3 Cards)",
+      "name": "Santis (USA Version with 3 Cards)",
       "imageURL": "https://cdn.rebrickable.com/media/sets/8785-1/227.jpg",
       "themeOrSeries": "Castle",
       "retailPrice": null,
@@ -229260,7 +229309,7 @@
     {
       "id": "8786",
       "category": "LEGO",
-      "name": "Vladek (USA version with 3 Cards)",
+      "name": "Vladek (USA Version with 3 Cards)",
       "imageURL": "https://cdn.rebrickable.com/media/sets/8786-1/16801.jpg",
       "themeOrSeries": "Castle",
       "retailPrice": null,
@@ -234904,7 +234953,7 @@
     {
       "id": "906",
       "category": "LEGO",
-      "name": "12 doors and 5 hinges",
+      "name": "12 Doors and 5 Hinges",
       "imageURL": "https://cdn.rebrickable.com/media/sets/906-1/8422.jpg",
       "themeOrSeries": "System",
       "retailPrice": null,
@@ -238499,7 +238548,7 @@
     {
       "id": "915",
       "category": "LEGO",
-      "name": "6 bricks with 16 and 20 studs and 3 Angle Bricks White/Red",
+      "name": "6 Bricks with 16 and 20 Studs and 3 Angle Bricks White/Red",
       "imageURL": "https://cdn.rebrickable.com/media/sets/915-1/12439.jpg",
       "themeOrSeries": "System",
       "retailPrice": null,
@@ -239054,7 +239103,7 @@
     {
       "id": "919",
       "category": "LEGO",
-      "name": "31 bricks with 2, 4 and 6 studs",
+      "name": "31 Bricks with 2, 4 and 6 Studs",
       "imageURL": "https://cdn.rebrickable.com/media/sets/919-1/14649.jpg",
       "themeOrSeries": "System",
       "retailPrice": null,
@@ -239579,7 +239628,7 @@
     {
       "id": "923",
       "category": "LEGO",
-      "name": "50 bricks, curved and round",
+      "name": "50 Bricks, Curved and Round",
       "imageURL": "https://cdn.rebrickable.com/media/sets/923-1/7264.jpg",
       "themeOrSeries": "System",
       "retailPrice": null,
@@ -242849,7 +242898,7 @@
     {
       "id": "952303",
       "category": "LEGO",
-      "name": "Lawn mower",
+      "name": "Lawn Mower",
       "imageURL": "https://cdn.rebrickable.com/media/sets/952303-1/134608.jpg",
       "themeOrSeries": "City",
       "retailPrice": null,
@@ -244379,7 +244428,7 @@
     {
       "id": "964",
       "category": "LEGO",
-      "name": "10 building plates 2 x 8, 4 x 8, 6 x 8",
+      "name": "10 Building Plates 2 x 8, 4 x 8, 6 x 8",
       "imageURL": "https://cdn.rebrickable.com/media/sets/964-1/8466.jpg",
       "themeOrSeries": "System",
       "retailPrice": null,
@@ -245009,7 +245058,7 @@
     {
       "id": "970021",
       "category": "LEGO",
-      "name": "Red Rover Tires and Hubs (4 tires 4 hubs)",
+      "name": "Red Rover Tires and Hubs (4 Tires 4 Hubs)",
       "imageURL": "https://cdn.rebrickable.com/media/sets/970021-1/12516.jpg",
       "themeOrSeries": "Educational and Dacta",
       "retailPrice": null,
@@ -245084,7 +245133,7 @@
     {
       "id": "970040",
       "category": "LEGO",
-      "name": "Caterpillar Hub and Tread (Set of 2 treads 4 Hubs)",
+      "name": "Caterpillar Hub and Tread (Set of 2 Treads 4 Hubs)",
       "imageURL": "https://cdn.rebrickable.com/media/sets/970040-1/12517.jpg",
       "themeOrSeries": "Educational and Dacta",
       "retailPrice": null,
@@ -245144,7 +245193,7 @@
     {
       "id": "970047",
       "category": "LEGO",
-      "name": "Large Tire and Hub (2 tires 2 hubs)",
+      "name": "Large Tire and Hub (2 Tires, 2 Hubs)",
       "imageURL": "https://cdn.rebrickable.com/media/sets/970047-1/14081.jpg",
       "themeOrSeries": "Educational and Dacta",
       "retailPrice": null,
@@ -245219,7 +245268,7 @@
     {
       "id": "970111",
       "category": "LEGO",
-      "name": "Large Lawn Tire & Hub (4 tires 4 hubs)",
+      "name": "Large Lawn Tire & Hub (4 Tires, 4 Hubs)",
       "imageURL": "https://cdn.rebrickable.com/media/sets/970111-1/8473.jpg",
       "themeOrSeries": "Educational and Dacta",
       "retailPrice": null,
@@ -245234,7 +245283,7 @@
     {
       "id": "970112",
       "category": "LEGO",
-      "name": "Small Lawn Tire & Hub (4 tires 4 hubs)",
+      "name": "Small Lawn Tire & Hub (4 Tires, 4 Hubs)",
       "imageURL": "https://cdn.rebrickable.com/media/sets/970112-1/8478.jpg",
       "themeOrSeries": "Educational and Dacta",
       "retailPrice": null,
@@ -245819,7 +245868,7 @@
     {
       "id": "970630",
       "category": "LEGO",
-      "name": "Pulleys (For micromotor pack of 10)",
+      "name": "Pulleys (For Micromotor Pack of 10)",
       "imageURL": "https://cdn.rebrickable.com/media/sets/970630-1/12546.jpg",
       "themeOrSeries": "Educational and Dacta",
       "retailPrice": null,
@@ -245984,7 +246033,7 @@
     {
       "id": "970641",
       "category": "LEGO",
-      "name": "Gear Casings (Pack of 10 contained 20 prior to 2005 Dacta catalog)",
+      "name": "Gear Casings (Pack of 10 Contained 20 Prior to 2005 Dacta Catalog)",
       "imageURL": "https://cdn.rebrickable.com/media/sets/970641-1/12560.jpg",
       "themeOrSeries": "Educational and Dacta",
       "retailPrice": null,
@@ -246344,7 +246393,7 @@
     {
       "id": "970684",
       "category": "LEGO",
-      "name": "Wheels (Tires hubs axle plates and bricks)",
+      "name": "Wheels (Tires Hubs Axle Plates and Bricks)",
       "imageURL": "https://cdn.rebrickable.com/media/sets/970684-1/8505.jpg",
       "themeOrSeries": "Educational and Dacta",
       "retailPrice": null,
@@ -246734,7 +246783,7 @@
     {
       "id": "9771",
       "category": "LEGO",
-      "name": "Interface Card and Cable for TC Logo - IBM compatible",
+      "name": "Interface Card and Cable for TC Logo - IBM Compatible",
       "imageURL": "https://cdn.rebrickable.com/media/sets/9771-1/9413.jpg",
       "themeOrSeries": "Educational and Dacta",
       "retailPrice": null,
@@ -251804,7 +251853,7 @@
     {
       "id": "980",
       "category": "LEGO",
-      "name": "23 sloping bricks, including roof peak bricks, Red",
+      "name": "23 Sloping Bricks, including Roof Peak Bricks, Red",
       "imageURL": "https://cdn.rebrickable.com/media/sets/980-1/8515.jpg",
       "themeOrSeries": "System",
       "retailPrice": null,
@@ -251819,7 +251868,7 @@
     {
       "id": "981",
       "category": "LEGO",
-      "name": "34 sloping profile bricks, including profile peak bricks, Red",
+      "name": "34 Sloping Profile Bricks, including Profile Peak Bricks, Red",
       "imageURL": "https://cdn.rebrickable.com/media/sets/981-1/6387.jpg",
       "themeOrSeries": "System",
       "retailPrice": null,
@@ -252404,7 +252453,7 @@
     {
       "id": "990",
       "category": "LEGO",
-      "name": "Trees and Signs (1971 version with granulated trees and 4 bricks)",
+      "name": "Trees and Signs (1971 Version with Granulated Trees and 4 Bricks)",
       "imageURL": "https://cdn.rebrickable.com/media/sets/990-1/16307.jpg",
       "themeOrSeries": "Universal Building Set",
       "retailPrice": null,
@@ -252539,7 +252588,7 @@
     {
       "id": "991331",
       "category": "LEGO",
-      "name": "Small Wide Tire & Hub (Pack of 8 each)",
+      "name": "Small Wide Tire & Hub (Pack of 8 Each)",
       "imageURL": "https://cdn.rebrickable.com/media/sets/991331-1/12607.jpg",
       "themeOrSeries": "Educational and Dacta",
       "retailPrice": null,
@@ -252584,7 +252633,7 @@
     {
       "id": "991335",
       "category": "LEGO",
-      "name": "Swivel Magnet Pack (Pack of 10 each)",
+      "name": "Swivel Magnet Pack (Pack of 10 Each)",
       "imageURL": "https://cdn.rebrickable.com/media/sets/991335-1/12610.jpg",
       "themeOrSeries": "Educational and Dacta",
       "retailPrice": null,
@@ -252989,7 +253038,7 @@
     {
       "id": "994",
       "category": "LEGO",
-      "name": "LEGO fences with garden gates",
+      "name": "LEGO Fences with Garden Gates",
       "imageURL": "https://cdn.rebrickable.com/media/sets/994-1/12636.jpg",
       "themeOrSeries": "System",
       "retailPrice": null,
@@ -253649,7 +253698,7 @@
     {
       "id": "AUTOSHOW",
       "category": "LEGO",
-      "name": "Chevrolet Silverado Lego Movie promotional",
+      "name": "Chevrolet Silverado Lego Movie Promotional",
       "imageURL": "https://cdn.rebrickable.com/media/sets/autoshow-1/177303.jpg",
       "themeOrSeries": "Promotional",
       "retailPrice": null,
@@ -256184,7 +256233,7 @@
     {
       "id": "EG00020",
       "category": "LEGO",
-      "name": "2K Drive pack",
+      "name": "2K Drive Pack",
       "imageURL": "https://cdn.rebrickable.com/media/sets/eg00020-1/141702.jpg",
       "themeOrSeries": "Other",
       "retailPrice": null,
@@ -257189,7 +257238,7 @@
     {
       "id": "EG00172",
       "category": "LEGO",
-      "name": "Multipack Baby Animals Trio (2 of each)",
+      "name": "Multipack Baby Animals Trio (2 of Each)",
       "imageURL": "https://cdn.rebrickable.com/media/sets/eg00172-1/167486.jpg",
       "themeOrSeries": "Other",
       "retailPrice": null,
@@ -257324,7 +257373,7 @@
     {
       "id": "EXPERTHEART",
       "category": "LEGO",
-      "name": "A \u201cwoah, you MADE that?!\u201d heart",
+      "name": "A \u201cwoah, you MADE that?!\u201d Heart",
       "imageURL": "https://cdn.rebrickable.com/media/sets/expertheart-1/129475.jpg",
       "themeOrSeries": "Seasonal",
       "retailPrice": null,
@@ -259784,7 +259833,7 @@
     {
       "id": "LEGO-Modulex",
       "category": "LEGO",
-      "name": "Unused Modulex parts sold by LEGO",
+      "name": "Unused Modulex Parts Sold by LEGO",
       "imageURL": "https://cdn.rebrickable.com/media/sets/lego-modulex-1/15658.jpg",
       "themeOrSeries": "Other",
       "retailPrice": null,
@@ -260039,7 +260088,7 @@
     {
       "id": "LIMEMAX",
       "category": "LEGO",
-      "name": "LEGO Club Lime Max polybag",
+      "name": "LEGO Club Lime Max Polybag",
       "imageURL": "",
       "themeOrSeries": "LEGO Exclusive",
       "retailPrice": null,
@@ -263774,7 +263823,7 @@
     {
       "id": "S3",
       "category": "LEGO",
-      "name": "Wheels and tyres",
+      "name": "Wheels and Tyres",
       "imageURL": "https://cdn.rebrickable.com/media/sets/s3-1/119052.jpg",
       "themeOrSeries": "Service Packs",
       "retailPrice": null,
@@ -265947,25 +265996,6 @@
       "retirementDate": "2026-07-23",
       "marketPrice": null,
       "year": 2025,
-      "volumeCount": null,
-      "ongoing": null
-    },
-    {
-      "id": "5010353",
-      "category": "LEGO",
-      "name": "Desk Pets \u2013 Corgi",
-      "imageURL": "https://images.brickset.com/sets/images/5010353-1.jpg",
-      "themeOrSeries": "Books",
-      "retailPrice": 9.99,
-      "prices": {
-        "EUR": 9.99,
-        "USD": 12.99,
-        "GBP": 8.99
-      },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-09-24",
-      "marketPrice": null,
-      "year": 2026,
       "volumeCount": null,
       "ongoing": null
     },
