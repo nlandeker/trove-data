@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-10-30T04:07:43Z",
+  "_generated": "2026-10-31T04:07:17Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -825,6 +825,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-138603",
+      "name": "The Summer Hikaru Died",
+      "volumeCount": 10,
+      "ongoing": false
+    },
+    {
       "id": "anilist-38848",
       "name": "Sun-Ken Rock",
       "volumeCount": 25,
@@ -835,12 +841,6 @@
       "name": "Blue Exorcist",
       "volumeCount": 34,
       "ongoing": true
-    },
-    {
-      "id": "anilist-138603",
-      "name": "The Summer Hikaru Died",
-      "volumeCount": 10,
-      "ongoing": false
     },
     {
       "id": "anilist-30024",
@@ -1845,15 +1845,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-113488",
-      "name": "Weak Hero",
-      "volumeCount": 19,
-      "ongoing": false
-    },
-    {
       "id": "anilist-104241",
       "name": "How Do We Relationship?",
       "volumeCount": 14,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-113488",
+      "name": "Weak Hero",
+      "volumeCount": 19,
       "ongoing": false
     },
     {
@@ -1875,15 +1875,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-101434",
-      "name": "How to Treat a Lady Knight Right",
-      "volumeCount": 7,
-      "ongoing": false
-    },
-    {
       "id": "anilist-48597",
       "name": "Sankarea: Undying Love",
       "volumeCount": 11,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-101434",
+      "name": "How to Treat a Lady Knight Right",
+      "volumeCount": 7,
       "ongoing": false
     },
     {
@@ -1917,16 +1917,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-60079",
-      "name": "The Sound of Magic: Annarasumanara",
-      "volumeCount": 3,
-      "ongoing": false
-    },
-    {
       "id": "anilist-201773",
       "name": "Haimiya Is Scary Cute",
       "volumeCount": 3,
       "ongoing": true
+    },
+    {
+      "id": "anilist-60079",
+      "name": "The Sound of Magic: Annarasumanara",
+      "volumeCount": 3,
+      "ongoing": false
     },
     {
       "id": "anilist-30651",
@@ -2169,15 +2169,21 @@
       "ongoing": false
     },
     {
+      "id": "anilist-141479",
+      "name": "The Legendary Spearman Returns",
+      "volumeCount": 20,
+      "ongoing": true
+    },
+    {
       "id": "anilist-44893",
       "name": "Bakemonogatari: Monster Tale",
       "volumeCount": 2,
       "ongoing": false
     },
     {
-      "id": "anilist-141479",
-      "name": "The Legendary Spearman Returns",
-      "volumeCount": 20,
+      "id": "anilist-125116",
+      "name": "Wistoria: Wand and Sword",
+      "volumeCount": 16,
       "ongoing": true
     },
     {
@@ -2191,12 +2197,6 @@
       "name": "Doctor Elise: The Royal Lady with the Lamp",
       "volumeCount": 10,
       "ongoing": false
-    },
-    {
-      "id": "anilist-125116",
-      "name": "Wistoria: Wand and Sword",
-      "volumeCount": 16,
-      "ongoing": true
     },
     {
       "id": "anilist-31373",
@@ -2253,27 +2253,27 @@
       "ongoing": true
     },
     {
-      "id": "anilist-54903",
-      "name": "GANGSTA.",
-      "volumeCount": 9,
-      "ongoing": true
-    },
-    {
       "id": "anilist-107518",
       "name": "Heavenly Demon Reborn!",
       "volumeCount": 10,
       "ongoing": false
     },
     {
-      "id": "anilist-31149",
-      "name": "Fist of the North Star",
-      "volumeCount": 27,
-      "ongoing": false
+      "id": "anilist-54903",
+      "name": "GANGSTA.",
+      "volumeCount": 9,
+      "ongoing": true
     },
     {
       "id": "anilist-30671",
       "name": "To Love Ru",
       "volumeCount": 18,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-31149",
+      "name": "Fist of the North Star",
+      "volumeCount": 27,
       "ongoing": false
     },
     {
