@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-10-31T04:07:17Z",
+  "_generated": "2026-11-01T04:07:52Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -471,14 +471,14 @@
       "ongoing": false
     },
     {
-      "id": "anilist-54692",
-      "name": "Noragami: Stray God",
+      "id": "anilist-55515",
+      "name": "JoJo’s Bizarre Adventure: Part 8—JoJolion",
       "volumeCount": 27,
       "ongoing": false
     },
     {
-      "id": "anilist-55515",
-      "name": "JoJo’s Bizarre Adventure: Part 8—JoJolion",
+      "id": "anilist-54692",
+      "name": "Noragami: Stray God",
       "volumeCount": 27,
       "ongoing": false
     },
@@ -1263,15 +1263,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30768",
-      "name": "Battle Angel Alita",
-      "volumeCount": 9,
-      "ongoing": false
-    },
-    {
       "id": "anilist-94490",
       "name": "The Fable",
       "volumeCount": 22,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30768",
+      "name": "Battle Angel Alita",
+      "volumeCount": 9,
       "ongoing": false
     },
     {
@@ -1659,15 +1659,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30731",
-      "name": "Eden: It's an Endless World!",
-      "volumeCount": 18,
-      "ongoing": false
-    },
-    {
       "id": "anilist-198372",
       "name": "Jujutsu Kaisen Modulo",
       "volumeCount": 3,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30731",
+      "name": "Eden: It's an Endless World!",
+      "volumeCount": 18,
       "ongoing": false
     },
     {
@@ -1725,15 +1725,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-30584",
-      "name": "Future Diary",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30894",
       "name": "Rosario+Vampire",
       "volumeCount": 10,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30584",
+      "name": "Future Diary",
+      "volumeCount": 12,
       "ongoing": false
     },
     {
@@ -1767,16 +1767,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-52651",
-      "name": "THE BREAKER - NEW WAVES",
-      "volumeCount": 20,
-      "ongoing": false
-    },
-    {
       "id": "anilist-176740",
       "name": "Centuria",
       "volumeCount": 10,
       "ongoing": true
+    },
+    {
+      "id": "anilist-52651",
+      "name": "THE BREAKER - NEW WAVES",
+      "volumeCount": 20,
+      "ongoing": false
     },
     {
       "id": "anilist-30029",
@@ -1821,16 +1821,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-31101",
-      "name": "Akumetsu",
-      "volumeCount": 18,
-      "ongoing": false
-    },
-    {
       "id": "anilist-135083",
       "name": "WIND BREAKER",
       "volumeCount": 27,
       "ongoing": true
+    },
+    {
+      "id": "anilist-31101",
+      "name": "Akumetsu",
+      "volumeCount": 18,
+      "ongoing": false
     },
     {
       "id": "anilist-86607",
@@ -1857,15 +1857,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-97842",
-      "name": "My Hero Academia: Vigilantes",
-      "volumeCount": 15,
-      "ongoing": false
-    },
-    {
       "id": "anilist-110605",
       "name": "Leviathan",
       "volumeCount": 9,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-97842",
+      "name": "My Hero Academia: Vigilantes",
+      "volumeCount": 15,
       "ongoing": false
     },
     {
@@ -1905,6 +1905,12 @@
       "ongoing": true
     },
     {
+      "id": "anilist-201773",
+      "name": "Haimiya Is Scary Cute",
+      "volumeCount": 3,
+      "ongoing": true
+    },
+    {
       "id": "anilist-66213",
       "name": "Monster Musume",
       "volumeCount": 21,
@@ -1915,12 +1921,6 @@
       "name": "School-Live!",
       "volumeCount": 12,
       "ongoing": false
-    },
-    {
-      "id": "anilist-201773",
-      "name": "Haimiya Is Scary Cute",
-      "volumeCount": 3,
-      "ongoing": true
     },
     {
       "id": "anilist-60079",
@@ -1935,27 +1935,27 @@
       "ongoing": false
     },
     {
-      "id": "anilist-78881",
-      "name": "Darwin's Game",
-      "volumeCount": 30,
-      "ongoing": false
-    },
-    {
       "id": "anilist-125624",
       "name": "Even If You Slit My Mouth",
       "volumeCount": 11,
       "ongoing": false
     },
     {
-      "id": "anilist-100937",
-      "name": "DARLING in the FRANXX",
-      "volumeCount": 8,
+      "id": "anilist-78881",
+      "name": "Darwin's Game",
+      "volumeCount": 30,
       "ongoing": false
     },
     {
       "id": "anilist-159142",
       "name": "Firefly Wedding",
       "volumeCount": 13,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-100937",
+      "name": "DARLING in the FRANXX",
+      "volumeCount": 8,
       "ongoing": false
     },
     {
@@ -1971,27 +1971,27 @@
       "ongoing": false
     },
     {
-      "id": "anilist-108105",
-      "name": "When Will Ayumu Make His Move?",
-      "volumeCount": 17,
-      "ongoing": false
-    },
-    {
       "id": "anilist-113055",
       "name": "The Remarried Empress",
       "volumeCount": 11,
       "ongoing": true
     },
     {
-      "id": "anilist-58361",
-      "name": "HIDEOUT",
-      "volumeCount": 1,
+      "id": "anilist-108105",
+      "name": "When Will Ayumu Make His Move?",
+      "volumeCount": 17,
       "ongoing": false
     },
     {
       "id": "anilist-113076",
       "name": "Sometimes Even Reality Is a Lie!",
       "volumeCount": 9,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-58361",
+      "name": "HIDEOUT",
+      "volumeCount": 1,
       "ongoing": false
     },
     {
@@ -2037,16 +2037,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-85616",
-      "name": "Seaside Stranger: Umibe no Étranger",
-      "volumeCount": 1,
-      "ongoing": false
-    },
-    {
       "id": "anilist-34571",
       "name": "Snow White with the Red Hair",
       "volumeCount": 27,
       "ongoing": true
+    },
+    {
+      "id": "anilist-85616",
+      "name": "Seaside Stranger: Umibe no Étranger",
+      "volumeCount": 1,
+      "ongoing": false
     },
     {
       "id": "anilist-78151",
@@ -2061,16 +2061,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-86549",
-      "name": "Go For It, Nakamura!",
-      "volumeCount": 1,
-      "ongoing": false
-    },
-    {
       "id": "anilist-101625",
       "name": "Berserk of Gluttony",
       "volumeCount": 8,
       "ongoing": true
+    },
+    {
+      "id": "anilist-86549",
+      "name": "Go For It, Nakamura!",
+      "volumeCount": 1,
+      "ongoing": false
     },
     {
       "id": "anilist-103111",
@@ -2247,16 +2247,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86303",
-      "name": "Miss Kobayashi's Dragon Maid",
-      "volumeCount": 20,
-      "ongoing": true
-    },
-    {
       "id": "anilist-107518",
       "name": "Heavenly Demon Reborn!",
       "volumeCount": 10,
       "ongoing": false
+    },
+    {
+      "id": "anilist-86303",
+      "name": "Miss Kobayashi's Dragon Maid",
+      "volumeCount": 20,
+      "ongoing": true
     },
     {
       "id": "anilist-54903",
