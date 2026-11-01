@@ -2,7 +2,7 @@
   "version": 2,
   "currency": "EUR",
   "_attribution": "LEGO data: Rebrickable (rebrickable.com) + Brickset (brickset.com). Not affiliated with or endorsed by The LEGO Group.",
-  "_generated": "2026-10-31T03:18:24Z",
+  "_generated": "2026-11-01T03:23:19Z",
   "items": [
     {
       "id": "001",
@@ -35629,7 +35629,7 @@
         "USD": 54.99,
         "GBP": 49.99
       },
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2025,
@@ -104002,7 +104002,7 @@
         "USD": 29.99,
         "GBP": 24.99
       },
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2025,
@@ -104355,7 +104355,7 @@
         "USD": 49.99,
         "GBP": 44.99
       },
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2026,
@@ -195847,7 +195847,7 @@
         "USD": 159.99,
         "GBP": 139.99
       },
-      "lifecycleStatus": "RETIRING_SOON",
+      "lifecycleStatus": "AVAILABLE",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2025,
@@ -252469,7 +252469,7 @@
       "id": "99",
       "category": "LEGO",
       "name": "Gift Set",
-      "imageURL": "",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/99-1/182727.jpg",
       "themeOrSeries": "System",
       "retailPrice": null,
       "prices": {},
@@ -259355,6 +259355,21 @@
       "category": "LEGO",
       "name": "Raptor and Volcano",
       "imageURL": "https://cdn.rebrickable.com/media/sets/l0002261-1/179914.jpg",
+      "themeOrSeries": "Jurassic World",
+      "retailPrice": null,
+      "prices": {},
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "L0002262",
+      "category": "LEGO",
+      "name": "Raptor in Enclosure",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/l0002262-1/182734.jpg",
       "themeOrSeries": "Jurassic World",
       "retailPrice": null,
       "prices": {},
