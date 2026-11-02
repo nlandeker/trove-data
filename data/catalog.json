@@ -2,7 +2,7 @@
   "version": 2,
   "currency": "EUR",
   "_attribution": "LEGO data: Rebrickable (rebrickable.com) + Brickset (brickset.com). Not affiliated with or endorsed by The LEGO Group.",
-  "_generated": "2026-11-01T03:23:19Z",
+  "_generated": "2026-11-02T03:24:18Z",
   "items": [
     {
       "id": "001",
@@ -5932,6 +5932,25 @@
       "retirementDate": null,
       "marketPrice": null,
       "year": 2024,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "10371",
+      "category": "LEGO",
+      "name": "Cozy Plants",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/10371-1/181388.jpg",
+      "themeOrSeries": "Botanicals",
+      "retailPrice": 19.99,
+      "prices": {
+        "EUR": 19.99,
+        "USD": 22.99,
+        "GBP": 17.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
       "volumeCount": null,
       "ongoing": null
     },
@@ -16474,6 +16493,25 @@
       "ongoing": null
     },
     {
+      "id": "11388",
+      "category": "LEGO",
+      "name": "Venetian Neighborhood",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/11388-1/182357.jpg",
+      "themeOrSeries": "Icons",
+      "retailPrice": 499.99,
+      "prices": {
+        "EUR": 499.99,
+        "USD": 549.99,
+        "GBP": 449.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
       "id": "11389",
       "category": "LEGO",
       "name": "Project Hail Mary",
@@ -16484,6 +16522,25 @@
         "EUR": 109.99,
         "USD": 99.99,
         "GBP": 99.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "11390",
+      "category": "LEGO",
+      "name": "Dragon Ball: Shenron & Goku",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/11390-1/181575.jpg",
+      "themeOrSeries": "Icons",
+      "retailPrice": 139.99,
+      "prices": {
+        "EUR": 139.99,
+        "USD": 179.99,
+        "GBP": 129.99
       },
       "lifecycleStatus": "AVAILABLE",
       "retirementDate": null,
@@ -32587,6 +32644,25 @@
         "EUR": 79.99,
         "USD": 79.99,
         "GBP": 69.99
+      },
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "21065",
+      "category": "LEGO",
+      "name": "Sagrada Fam\u00edlia",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/21065-1/175336.jpg",
+      "themeOrSeries": "Architecture",
+      "retailPrice": 749.99,
+      "prices": {
+        "EUR": 749.99,
+        "USD": 799.99,
+        "GBP": 649.99
       },
       "lifecycleStatus": "AVAILABLE",
       "retirementDate": null,
@@ -86497,6 +86573,21 @@
       "name": "Darth Vader's Lightsaber",
       "imageURL": "https://cdn.rebrickable.com/media/sets/40897-1/180214.jpg",
       "themeOrSeries": "Star Wars",
+      "retailPrice": null,
+      "prices": {},
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "40898",
+      "category": "LEGO",
+      "name": "Venetian Water Taxi",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/40898-1/182396.jpg",
+      "themeOrSeries": "Icons",
       "retailPrice": null,
       "prices": {},
       "lifecycleStatus": "AVAILABLE",
@@ -146477,7 +146568,7 @@
       "themeOrSeries": "City",
       "retailPrice": null,
       "prices": {},
-      "lifecycleStatus": "RETIRING_SOON",
+      "lifecycleStatus": "AVAILABLE",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2024,
@@ -180465,7 +180556,7 @@
         "USD": 99.99,
         "GBP": 89.99
       },
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2026,
