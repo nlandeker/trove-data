@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-11-01T04:07:52Z",
+  "_generated": "2026-11-02T04:07:13Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -1233,15 +1233,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30044",
-      "name": "Gin Tama",
-      "volumeCount": 77,
-      "ongoing": false
-    },
-    {
       "id": "anilist-142568",
       "name": "Takopi's Original Sin",
       "volumeCount": 2,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30044",
+      "name": "Gin Tama",
+      "volumeCount": 77,
       "ongoing": false
     },
     {
@@ -1485,16 +1485,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-59211",
-      "name": "Monthly Girls' Nozaki-kun",
-      "volumeCount": 18,
-      "ongoing": true
-    },
-    {
       "id": "anilist-30481",
       "name": "Planetes",
       "volumeCount": 4,
       "ongoing": false
+    },
+    {
+      "id": "anilist-59211",
+      "name": "Monthly Girls' Nozaki-kun",
+      "volumeCount": 18,
+      "ongoing": true
     },
     {
       "id": "anilist-31474",
@@ -1653,15 +1653,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-102989",
-      "name": "Summertime Rendering",
-      "volumeCount": 13,
-      "ongoing": false
-    },
-    {
       "id": "anilist-198372",
       "name": "Jujutsu Kaisen Modulo",
       "volumeCount": 3,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-102989",
+      "name": "Summertime Rendering",
+      "volumeCount": 13,
       "ongoing": false
     },
     {
@@ -2043,16 +2043,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-85616",
-      "name": "Seaside Stranger: Umibe no Étranger",
-      "volumeCount": 1,
-      "ongoing": false
-    },
-    {
       "id": "anilist-78151",
       "name": "World Trigger",
       "volumeCount": 30,
       "ongoing": true
+    },
+    {
+      "id": "anilist-85616",
+      "name": "Seaside Stranger: Umibe no Étranger",
+      "volumeCount": 1,
+      "ongoing": false
     },
     {
       "id": "anilist-111258",
@@ -2061,16 +2061,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-101625",
-      "name": "Berserk of Gluttony",
-      "volumeCount": 8,
-      "ongoing": true
-    },
-    {
       "id": "anilist-86549",
       "name": "Go For It, Nakamura!",
       "volumeCount": 1,
       "ongoing": false
+    },
+    {
+      "id": "anilist-101625",
+      "name": "Berserk of Gluttony",
+      "volumeCount": 8,
+      "ongoing": true
     },
     {
       "id": "anilist-103111",
@@ -2175,16 +2175,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-44893",
-      "name": "Bakemonogatari: Monster Tale",
-      "volumeCount": 2,
-      "ongoing": false
-    },
-    {
       "id": "anilist-125116",
       "name": "Wistoria: Wand and Sword",
       "volumeCount": 16,
       "ongoing": true
+    },
+    {
+      "id": "anilist-44893",
+      "name": "Bakemonogatari: Monster Tale",
+      "volumeCount": 2,
+      "ongoing": false
     },
     {
       "id": "anilist-30106",
@@ -2229,27 +2229,27 @@
       "ongoing": false
     },
     {
-      "id": "anilist-99549",
-      "name": "Karakai Jouzu no (Moto) Takagi-san",
-      "volumeCount": 23,
-      "ongoing": false
-    },
-    {
       "id": "anilist-96518",
       "name": "Bokutachi ga Yarimashita",
       "volumeCount": 9,
       "ongoing": false
     },
     {
-      "id": "anilist-30142",
-      "name": "Battle Royale",
-      "volumeCount": 15,
+      "id": "anilist-99549",
+      "name": "Karakai Jouzu no (Moto) Takagi-san",
+      "volumeCount": 23,
       "ongoing": false
     },
     {
       "id": "anilist-107518",
       "name": "Heavenly Demon Reborn!",
       "volumeCount": 10,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30142",
+      "name": "Battle Royale",
+      "volumeCount": 15,
       "ongoing": false
     },
     {
@@ -2337,16 +2337,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-39115",
-      "name": "Spice & Wolf",
-      "volumeCount": 24,
-      "ongoing": true
-    },
-    {
       "id": "anilist-30904",
       "name": "Lone Wolf and Cub",
       "volumeCount": 28,
       "ongoing": false
+    },
+    {
+      "id": "anilist-39115",
+      "name": "Spice & Wolf",
+      "volumeCount": 24,
+      "ongoing": true
     },
     {
       "id": "anilist-35255",
