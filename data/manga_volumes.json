@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-11-02T04:07:13Z",
+  "_generated": "2026-11-03T04:07:31Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -61,6 +61,12 @@
       "name": "My Hero Academia",
       "volumeCount": 42,
       "ongoing": false
+    },
+    {
+      "id": "anilist-74347",
+      "name": "One-Punch Man",
+      "volumeCount": 37,
+      "ongoing": true
     },
     {
       "id": "anilist-30656",
@@ -423,15 +429,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86310",
-      "name": "Fire Force",
-      "volumeCount": 34,
-      "ongoing": false
-    },
-    {
       "id": "anilist-111233",
       "name": "Call of the Night",
       "volumeCount": 20,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-86310",
+      "name": "Fire Force",
+      "volumeCount": 34,
       "ongoing": false
     },
     {
@@ -945,6 +951,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-114416",
+      "name": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You",
+      "volumeCount": 27,
+      "ongoing": true
+    },
+    {
       "id": "anilist-65573",
       "name": "orange",
       "volumeCount": 7,
@@ -957,16 +969,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85470",
-      "name": "Mushoku Tensei: Jobless Reincarnation",
-      "volumeCount": 26,
-      "ongoing": false
-    },
-    {
       "id": "anilist-109501",
       "name": "My Love Story with Yamada-kun at Lv999",
       "volumeCount": 10,
       "ongoing": true
+    },
+    {
+      "id": "anilist-85470",
+      "name": "Mushoku Tensei: Jobless Reincarnation",
+      "volumeCount": 26,
+      "ongoing": false
     },
     {
       "id": "anilist-33866",
@@ -977,7 +989,7 @@
     {
       "id": "anilist-99324",
       "name": "Welcome to Demon School! Iruma-kun",
-      "volumeCount": 51,
+      "volumeCount": 9,
       "ongoing": true
     },
     {
@@ -1209,15 +1221,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-33285",
-      "name": "Holyland",
-      "volumeCount": 18,
-      "ongoing": false
-    },
-    {
       "id": "anilist-110473",
       "name": "Insomniacs After School",
       "volumeCount": 14,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-33285",
+      "name": "Holyland",
+      "volumeCount": 18,
       "ongoing": false
     },
     {
@@ -1305,16 +1317,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-100805",
-      "name": "Here U Are",
-      "volumeCount": 8,
-      "ongoing": false
-    },
-    {
       "id": "anilist-180752",
       "name": "Ichi the Witch",
       "volumeCount": 10,
       "ongoing": true
+    },
+    {
+      "id": "anilist-100805",
+      "name": "Here U Are",
+      "volumeCount": 8,
+      "ongoing": false
     },
     {
       "id": "anilist-86952",
@@ -1689,6 +1701,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-104503",
+      "name": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs",
+      "volumeCount": 13,
+      "ongoing": false
+    },
+    {
       "id": "anilist-103082",
       "name": "Pumpkin Night",
       "volumeCount": 18,
@@ -1698,12 +1716,6 @@
       "id": "anilist-33438",
       "name": "PSYЯEN",
       "volumeCount": 16,
-      "ongoing": false
-    },
-    {
-      "id": "anilist-104503",
-      "name": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs",
-      "volumeCount": 13,
       "ongoing": false
     },
     {
@@ -1753,12 +1765,6 @@
       "name": "I Want to Eat Your Pancreas",
       "volumeCount": 2,
       "ongoing": false
-    },
-    {
-      "id": "anilist-153432",
-      "name": "The Reaper",
-      "volumeCount": 4,
-      "ongoing": true
     },
     {
       "id": "anilist-87225",
@@ -1839,15 +1845,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-101311",
-      "name": "Bakemonogatari",
-      "volumeCount": 22,
-      "ongoing": false
-    },
-    {
       "id": "anilist-104241",
       "name": "How Do We Relationship?",
       "volumeCount": 14,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-101311",
+      "name": "Bakemonogatari",
+      "volumeCount": 22,
       "ongoing": false
     },
     {
@@ -1887,15 +1893,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-65719",
-      "name": "Like a Butterfly",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-147997",
       "name": "You and I Are Polar Opposites",
       "volumeCount": 8,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-65719",
+      "name": "Like a Butterfly",
+      "volumeCount": 12,
       "ongoing": false
     },
     {
@@ -1935,6 +1941,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-159142",
+      "name": "Firefly Wedding",
+      "volumeCount": 13,
+      "ongoing": false
+    },
+    {
       "id": "anilist-125624",
       "name": "Even If You Slit My Mouth",
       "volumeCount": 11,
@@ -1944,12 +1956,6 @@
       "id": "anilist-78881",
       "name": "Darwin's Game",
       "volumeCount": 30,
-      "ongoing": false
-    },
-    {
-      "id": "anilist-159142",
-      "name": "Firefly Wedding",
-      "volumeCount": 13,
       "ongoing": false
     },
     {
@@ -2037,6 +2043,12 @@
       "ongoing": true
     },
     {
+      "id": "anilist-111258",
+      "name": "Bocchi the Rock!",
+      "volumeCount": 8,
+      "ongoing": true
+    },
+    {
       "id": "anilist-34571",
       "name": "Snow White with the Red Hair",
       "volumeCount": 27,
@@ -2053,12 +2065,6 @@
       "name": "Seaside Stranger: Umibe no Étranger",
       "volumeCount": 1,
       "ongoing": false
-    },
-    {
-      "id": "anilist-111258",
-      "name": "Bocchi the Rock!",
-      "volumeCount": 8,
-      "ongoing": true
     },
     {
       "id": "anilist-86549",
@@ -2187,15 +2193,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30106",
-      "name": "Cardcaptor Sakura",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-107918",
       "name": "Doctor Elise: The Royal Lady with the Lamp",
       "volumeCount": 10,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30106",
+      "name": "Cardcaptor Sakura",
+      "volumeCount": 12,
       "ongoing": false
     },
     {
