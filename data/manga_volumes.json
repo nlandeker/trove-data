@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-11-03T04:07:31Z",
+  "_generated": "2026-11-04T04:06:51Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -77,7 +77,7 @@
     {
       "id": "anilist-108556",
       "name": "SPY x FAMILY",
-      "volumeCount": 17,
+      "volumeCount": 18,
       "ongoing": true
     },
     {
@@ -131,7 +131,7 @@
     {
       "id": "anilist-132029",
       "name": "Dandadan",
-      "volumeCount": 25,
+      "volumeCount": 26,
       "ongoing": true
     },
     {
@@ -239,7 +239,7 @@
     {
       "id": "anilist-125828",
       "name": "Sakamoto Days",
-      "volumeCount": 28,
+      "volumeCount": 29,
       "ongoing": true
     },
     {
@@ -569,19 +569,13 @@
     {
       "id": "anilist-106064",
       "name": "Chained Soldier",
-      "volumeCount": 21,
+      "volumeCount": 22,
       "ongoing": true
     },
     {
       "id": "anilist-85849",
       "name": "ReLIFE",
       "volumeCount": 15,
-      "ongoing": false
-    },
-    {
-      "id": "anilist-85141",
-      "name": "The God of High School",
-      "volumeCount": 4,
       "ongoing": false
     },
     {
@@ -729,16 +723,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-30664",
-      "name": "Akira",
-      "volumeCount": 6,
-      "ongoing": false
-    },
-    {
       "id": "anilist-99022",
       "name": "The Apothecary Diaries",
       "volumeCount": 16,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30664",
+      "name": "Akira",
+      "volumeCount": 6,
+      "ongoing": false
     },
     {
       "id": "anilist-85215",
@@ -837,16 +831,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-38848",
-      "name": "Sun-Ken Rock",
-      "volumeCount": 25,
-      "ongoing": false
-    },
-    {
       "id": "anilist-43492",
       "name": "Blue Exorcist",
       "volumeCount": 34,
       "ongoing": true
+    },
+    {
+      "id": "anilist-38848",
+      "name": "Sun-Ken Rock",
+      "volumeCount": 25,
+      "ongoing": false
     },
     {
       "id": "anilist-30024",
@@ -1659,16 +1653,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-114383",
-      "name": "A Couple of Cuckoos",
-      "volumeCount": 34,
-      "ongoing": true
-    },
-    {
       "id": "anilist-198372",
       "name": "Jujutsu Kaisen Modulo",
       "volumeCount": 3,
       "ongoing": false
+    },
+    {
+      "id": "anilist-114383",
+      "name": "A Couple of Cuckoos",
+      "volumeCount": 34,
+      "ongoing": true
     },
     {
       "id": "anilist-102989",
@@ -1935,15 +1929,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30651",
-      "name": "Nausicaä of the Valley of the Wind",
-      "volumeCount": 7,
-      "ongoing": false
-    },
-    {
       "id": "anilist-159142",
       "name": "Firefly Wedding",
       "volumeCount": 13,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30651",
+      "name": "Nausicaä of the Valley of the Wind",
+      "volumeCount": 7,
       "ongoing": false
     },
     {
@@ -2079,15 +2073,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-103111",
-      "name": "My Senpai is Annoying",
-      "volumeCount": 13,
-      "ongoing": false
-    },
-    {
       "id": "anilist-121565",
       "name": "Seasons of Blossom",
       "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-103111",
+      "name": "My Senpai is Annoying",
+      "volumeCount": 13,
       "ongoing": false
     },
     {
@@ -2229,15 +2223,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-35293",
-      "name": "Doubt",
-      "volumeCount": 4,
-      "ongoing": false
-    },
-    {
       "id": "anilist-96518",
       "name": "Bokutachi ga Yarimashita",
       "volumeCount": 9,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-35293",
+      "name": "Doubt",
+      "volumeCount": 4,
       "ongoing": false
     },
     {
@@ -2331,15 +2325,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-100207",
-      "name": "The Great Jahy Will Not Be Defeated!",
-      "volumeCount": 12,
-      "ongoing": true
-    },
-    {
       "id": "anilist-98466",
       "name": "Kemono Jihen",
       "volumeCount": 26,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-100207",
+      "name": "The Great Jahy Will Not Be Defeated!",
+      "volumeCount": 12,
       "ongoing": true
     },
     {
@@ -2361,16 +2355,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-106434",
-      "name": "Hitomi-chan is Shy With Strangers",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-118695",
       "name": "I’m in Love with the Villainess",
       "volumeCount": 5,
       "ongoing": true
+    },
+    {
+      "id": "anilist-106434",
+      "name": "Hitomi-chan is Shy With Strangers",
+      "volumeCount": 12,
+      "ongoing": false
     },
     {
       "id": "anilist-110785",
