@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-11-04T04:06:51Z",
+  "_generated": "2026-11-05T04:07:24Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -435,27 +435,27 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86310",
-      "name": "Fire Force",
-      "volumeCount": 34,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30149",
       "name": "BLAME!",
       "volumeCount": 10,
       "ongoing": false
     },
     {
-      "id": "anilist-86717",
-      "name": "Wotakoi: Love is Hard for Otaku",
-      "volumeCount": 11,
+      "id": "anilist-86310",
+      "name": "Fire Force",
+      "volumeCount": 34,
       "ongoing": false
     },
     {
       "id": "anilist-100568",
       "name": "The Horizon",
       "volumeCount": 3,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-86717",
+      "name": "Wotakoi: Love is Hard for Otaku",
+      "volumeCount": 11,
       "ongoing": false
     },
     {
@@ -1011,16 +1011,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-87208",
-      "name": "Our Dreams at Dusk: Shimanami Tasogare",
-      "volumeCount": 4,
-      "ongoing": false
-    },
-    {
       "id": "anilist-105011",
       "name": "More Than a Married Couple, but Not Lovers.",
       "volumeCount": 13,
       "ongoing": true
+    },
+    {
+      "id": "anilist-87208",
+      "name": "Our Dreams at Dusk: Shimanami Tasogare",
+      "volumeCount": 4,
+      "ongoing": false
     },
     {
       "id": "anilist-110462",
@@ -1899,15 +1899,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-107120",
-      "name": "Chillin’ in Another World with Level 2 Super Cheat Powers",
-      "volumeCount": 22,
-      "ongoing": true
-    },
-    {
       "id": "anilist-201773",
       "name": "Haimiya Is Scary Cute",
       "volumeCount": 3,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-107120",
+      "name": "Chillin’ in Another World with Level 2 Super Cheat Powers",
+      "volumeCount": 22,
       "ongoing": true
     },
     {
@@ -1923,15 +1923,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-60079",
-      "name": "The Sound of Magic: Annarasumanara",
-      "volumeCount": 3,
-      "ongoing": false
-    },
-    {
       "id": "anilist-159142",
       "name": "Firefly Wedding",
       "volumeCount": 13,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-60079",
+      "name": "The Sound of Magic: Annarasumanara",
+      "volumeCount": 3,
       "ongoing": false
     },
     {
@@ -1965,16 +1965,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-86481",
-      "name": "Tsuredure Children",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-113055",
       "name": "The Remarried Empress",
       "volumeCount": 11,
       "ongoing": true
+    },
+    {
+      "id": "anilist-86481",
+      "name": "Tsuredure Children",
+      "volumeCount": 12,
+      "ongoing": false
     },
     {
       "id": "anilist-108105",
@@ -2001,16 +2001,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-40552",
-      "name": "Lucifer and the Biscuit Hammer",
-      "volumeCount": 10,
-      "ongoing": false
-    },
-    {
       "id": "anilist-85495",
       "name": "Re:Monster",
       "volumeCount": 9,
       "ongoing": true
+    },
+    {
+      "id": "anilist-40552",
+      "name": "Lucifer and the Biscuit Hammer",
+      "volumeCount": 10,
+      "ongoing": false
     },
     {
       "id": "anilist-70171",
@@ -2043,15 +2043,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-34571",
-      "name": "Snow White with the Red Hair",
-      "volumeCount": 27,
-      "ongoing": true
-    },
-    {
       "id": "anilist-78151",
       "name": "World Trigger",
       "volumeCount": 30,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-34571",
+      "name": "Snow White with the Red Hair",
+      "volumeCount": 27,
       "ongoing": true
     },
     {
@@ -2115,16 +2115,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-68071",
-      "name": "Spirit Circle",
-      "volumeCount": 6,
-      "ongoing": false
-    },
-    {
       "id": "anilist-171729",
       "name": "Love Bullet",
       "volumeCount": 2,
       "ongoing": true
+    },
+    {
+      "id": "anilist-68071",
+      "name": "Spirit Circle",
+      "volumeCount": 6,
+      "ongoing": false
     },
     {
       "id": "anilist-30074",
@@ -2145,15 +2145,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-103255",
-      "name": "Fairy Tail: 100 Years Quest",
-      "volumeCount": 24,
-      "ongoing": true
-    },
-    {
       "id": "anilist-58533",
       "name": "No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!",
       "volumeCount": 28,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-103255",
+      "name": "Fairy Tail: 100 Years Quest",
+      "volumeCount": 24,
       "ongoing": true
     },
     {
@@ -2169,15 +2169,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-141479",
-      "name": "The Legendary Spearman Returns",
-      "volumeCount": 20,
-      "ongoing": true
-    },
-    {
       "id": "anilist-125116",
       "name": "Wistoria: Wand and Sword",
       "volumeCount": 16,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-141479",
+      "name": "The Legendary Spearman Returns",
+      "volumeCount": 20,
       "ongoing": true
     },
     {
@@ -2247,16 +2247,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30142",
-      "name": "Battle Royale",
-      "volumeCount": 15,
-      "ongoing": false
-    },
-    {
       "id": "anilist-86303",
       "name": "Miss Kobayashi's Dragon Maid",
       "volumeCount": 20,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30142",
+      "name": "Battle Royale",
+      "volumeCount": 15,
+      "ongoing": false
     },
     {
       "id": "anilist-54903",
@@ -2265,15 +2265,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-30671",
-      "name": "To Love Ru",
-      "volumeCount": 18,
-      "ongoing": false
-    },
-    {
       "id": "anilist-31149",
       "name": "Fist of the North Star",
       "volumeCount": 27,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30671",
+      "name": "To Love Ru",
+      "volumeCount": 18,
       "ongoing": false
     },
     {
@@ -2295,6 +2295,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-107540",
+      "name": "Loner Life in Another World",
+      "volumeCount": 19,
+      "ongoing": true
+    },
+    {
       "id": "anilist-30092",
       "name": "Sailor Moon",
       "volumeCount": 18,
@@ -2305,12 +2311,6 @@
       "name": "Kase-san and...",
       "volumeCount": 5,
       "ongoing": false
-    },
-    {
-      "id": "anilist-107540",
-      "name": "Loner Life in Another World",
-      "volumeCount": 19,
-      "ongoing": true
     },
     {
       "id": "anilist-85139",
@@ -2337,16 +2337,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-30904",
-      "name": "Lone Wolf and Cub",
-      "volumeCount": 28,
-      "ongoing": false
-    },
-    {
       "id": "anilist-39115",
       "name": "Spice & Wolf",
       "volumeCount": 24,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30904",
+      "name": "Lone Wolf and Cub",
+      "volumeCount": 28,
+      "ongoing": false
     },
     {
       "id": "anilist-35255",
