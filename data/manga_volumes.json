@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-11-05T04:07:24Z",
+  "_generated": "2026-11-06T04:06:39Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -819,15 +819,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85802",
-      "name": "Domestic Girlfriend",
-      "volumeCount": 28,
-      "ongoing": false
-    },
-    {
       "id": "anilist-138603",
       "name": "The Summer Hikaru Died",
       "volumeCount": 10,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85802",
+      "name": "Domestic Girlfriend",
+      "volumeCount": 28,
       "ongoing": false
     },
     {
@@ -1161,16 +1161,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-31649",
-      "name": "LIAR GAME",
-      "volumeCount": 19,
-      "ongoing": false
-    },
-    {
       "id": "anilist-179445",
       "name": "Solo Leveling: Ragnarok",
       "volumeCount": 15,
       "ongoing": true
+    },
+    {
+      "id": "anilist-31649",
+      "name": "LIAR GAME",
+      "volumeCount": 19,
+      "ongoing": false
     },
     {
       "id": "anilist-112579",
@@ -1263,15 +1263,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-115122",
-      "name": "Death Note: a-Kira",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-94490",
       "name": "The Fable",
       "volumeCount": 22,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-115122",
+      "name": "Death Note: a-Kira",
+      "volumeCount": 12,
       "ongoing": false
     },
     {
@@ -1443,15 +1443,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86265",
-      "name": "Kengan Ashura",
-      "volumeCount": 27,
-      "ongoing": false
-    },
-    {
       "id": "anilist-105332",
       "name": "Sweat and Soap",
       "volumeCount": 11,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-86265",
+      "name": "Kengan Ashura",
+      "volumeCount": 27,
       "ongoing": false
     },
     {
@@ -1851,15 +1851,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-113488",
-      "name": "Weak Hero",
-      "volumeCount": 19,
-      "ongoing": false
-    },
-    {
       "id": "anilist-110605",
       "name": "Leviathan",
       "volumeCount": 9,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-113488",
+      "name": "Weak Hero",
+      "volumeCount": 19,
       "ongoing": false
     },
     {
@@ -1901,7 +1901,7 @@
     {
       "id": "anilist-201773",
       "name": "Haimiya Is Scary Cute",
-      "volumeCount": 3,
+      "volumeCount": 4,
       "ongoing": true
     },
     {
@@ -2085,16 +2085,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-112544",
-      "name": "Kowloon Generic Romance",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-143031",
       "name": "I Want to End This Love Game",
       "volumeCount": 9,
       "ongoing": true
+    },
+    {
+      "id": "anilist-112544",
+      "name": "Kowloon Generic Romance",
+      "volumeCount": 12,
+      "ongoing": false
     },
     {
       "id": "anilist-98112",
@@ -2145,15 +2145,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-58533",
-      "name": "No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!",
-      "volumeCount": 28,
-      "ongoing": true
-    },
-    {
       "id": "anilist-103255",
       "name": "Fairy Tail: 100 Years Quest",
       "volumeCount": 24,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-58533",
+      "name": "No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!",
+      "volumeCount": 28,
       "ongoing": true
     },
     {
@@ -2163,16 +2163,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30050",
-      "name": "Shaman King",
-      "volumeCount": 32,
-      "ongoing": false
-    },
-    {
       "id": "anilist-125116",
       "name": "Wistoria: Wand and Sword",
       "volumeCount": 16,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30050",
+      "name": "Shaman King",
+      "volumeCount": 32,
+      "ongoing": false
     },
     {
       "id": "anilist-141479",
@@ -2247,16 +2247,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86303",
-      "name": "Miss Kobayashi's Dragon Maid",
-      "volumeCount": 20,
-      "ongoing": true
-    },
-    {
       "id": "anilist-30142",
       "name": "Battle Royale",
       "volumeCount": 15,
       "ongoing": false
+    },
+    {
+      "id": "anilist-86303",
+      "name": "Miss Kobayashi's Dragon Maid",
+      "volumeCount": 20,
+      "ongoing": true
     },
     {
       "id": "anilist-54903",
@@ -2277,16 +2277,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-87234",
-      "name": "The Elder Sister-Like One",
-      "volumeCount": 6,
-      "ongoing": true
-    },
-    {
       "id": "anilist-30085",
       "name": "Azumanga Daioh",
       "volumeCount": 4,
       "ongoing": false
+    },
+    {
+      "id": "anilist-87234",
+      "name": "The Elder Sister-Like One",
+      "volumeCount": 6,
+      "ongoing": true
     },
     {
       "id": "anilist-31131",
@@ -2337,16 +2337,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-39115",
-      "name": "Spice & Wolf",
-      "volumeCount": 24,
-      "ongoing": true
-    },
-    {
       "id": "anilist-30904",
       "name": "Lone Wolf and Cub",
       "volumeCount": 28,
       "ongoing": false
+    },
+    {
+      "id": "anilist-39115",
+      "name": "Spice & Wolf",
+      "volumeCount": 24,
+      "ongoing": true
     },
     {
       "id": "anilist-35255",
@@ -2382,6 +2382,12 @@
       "id": "anilist-86355",
       "name": "That Time I Got Reincarnated as a Slime",
       "volumeCount": 23,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30031",
+      "name": "Love★Com",
+      "volumeCount": 17,
       "ongoing": false
     }
   ]
