@@ -2,7 +2,7 @@
   "version": 2,
   "currency": "EUR",
   "_attribution": "LEGO data: Rebrickable (rebrickable.com) + Brickset (brickset.com). Not affiliated with or endorsed by The LEGO Group.",
-  "_generated": "2026-11-05T03:21:33Z",
+  "_generated": "2026-11-06T03:21:34Z",
   "items": [
     {
       "id": "001",
@@ -6667,7 +6667,7 @@
         "GBP": 8.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-09-30",
+      "retirementDate": "2026-10-12",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -6890,7 +6890,7 @@
         "USD": 49.99,
         "GBP": 44.99
       },
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2025,
@@ -16913,8 +16913,8 @@
         "USD": 14.99,
         "GBP": 12.99
       },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-11-04",
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -24603,7 +24603,7 @@
     {
       "id": "1641",
       "category": "LEGO",
-      "name": "Crocodile",
+      "name": "Giddy the Gator",
       "imageURL": "https://cdn.rebrickable.com/media/sets/1641-1/10399.jpg",
       "themeOrSeries": "Duplo",
       "retailPrice": null,
@@ -35520,7 +35520,7 @@
         "GBP": 17.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-11-04",
+      "retirementDate": "2026-10-21",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -102068,8 +102068,8 @@
         "USD": 49.99,
         "GBP": 44.99
       },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-10-12",
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -104074,8 +104074,8 @@
         "USD": 9.99,
         "GBP": 8.99
       },
-      "lifecycleStatus": "RETIRING_SOON",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-11-05",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -146538,7 +146538,7 @@
       "themeOrSeries": "City",
       "retailPrice": null,
       "prices": {},
-      "lifecycleStatus": "RETIRING_SOON",
+      "lifecycleStatus": "AVAILABLE",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2024,
@@ -148166,8 +148166,8 @@
         "USD": 19.99,
         "GBP": 17.99
       },
-      "lifecycleStatus": "RETIRING_SOON",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-11-05",
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -155022,7 +155022,7 @@
       "id": "6394854",
       "category": "LEGO",
       "name": "Shenzhen Brand Store Opening Associate Figure",
-      "imageURL": "",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/6394854-1/182848.jpg",
       "themeOrSeries": "LEGO Brand Store",
       "retailPrice": null,
       "prices": {},
@@ -180375,7 +180375,7 @@
         "GBP": 24.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-11-04",
+      "retirementDate": "2026-11-05",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -180484,8 +180484,8 @@
         "USD": 79.99,
         "GBP": 69.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-11-05",
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -184141,7 +184141,7 @@
         "GBP": 44.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-11-04",
+      "retirementDate": "2026-08-15",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -194702,8 +194702,8 @@
         "USD": 22.99,
         "GBP": 17.99
       },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-11-04",
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -203305,8 +203305,8 @@
         "USD": 19.99,
         "GBP": 17.99
       },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-10-19",
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -207821,7 +207821,7 @@
         "GBP": 34.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-08-15",
+      "retirementDate": "2026-11-05",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -208770,7 +208770,7 @@
         "GBP": 22.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-11-04",
+      "retirementDate": "2026-09-24",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -266083,6 +266083,21 @@
       "retirementDate": null,
       "marketPrice": null,
       "year": 2013,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "ZHENGZHOU",
+      "category": "LEGO",
+      "name": "LEGO Store Zhengzhou Anniversary Set",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/zhengzhou-1/182849.jpg",
+      "themeOrSeries": "LEGO Brand Store",
+      "retailPrice": null,
+      "prices": {},
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2021,
       "volumeCount": null,
       "ongoing": null
     },
