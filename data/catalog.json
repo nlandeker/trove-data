@@ -2,7 +2,7 @@
   "version": 2,
   "currency": "EUR",
   "_attribution": "LEGO data: Rebrickable (rebrickable.com) + Brickset (brickset.com). Not affiliated with or endorsed by The LEGO Group.",
-  "_generated": "2026-11-07T03:24:51Z",
+  "_generated": "2026-11-08T03:22:33Z",
   "items": [
     {
       "id": "001",
@@ -5947,8 +5947,8 @@
         "USD": 22.99,
         "GBP": 17.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-11-07",
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -6818,7 +6818,7 @@
         "USD": 44.99,
         "GBP": 34.99
       },
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2025,
@@ -6890,7 +6890,7 @@
         "USD": 49.99,
         "GBP": 44.99
       },
-      "lifecycleStatus": "RETIRING_SOON",
+      "lifecycleStatus": "AVAILABLE",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2025,
@@ -35705,7 +35705,7 @@
         "USD": 54.99,
         "GBP": 49.99
       },
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2025,
@@ -101740,7 +101740,7 @@
       "themeOrSeries": "Technic",
       "retailPrice": null,
       "prices": {},
-      "lifecycleStatus": "RETIRING_SOON",
+      "lifecycleStatus": "AVAILABLE",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2024,
@@ -148056,8 +148056,8 @@
         "USD": 9.99,
         "GBP": 8.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-11-07",
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -182812,7 +182812,7 @@
         "GBP": 8.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-10-08",
+      "retirementDate": "2026-11-07",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -259161,6 +259161,21 @@
       "category": "LEGO",
       "name": "Firefighter with Helicopter",
       "imageURL": "https://cdn.rebrickable.com/media/sets/l0002227-1/181464.jpg",
+      "themeOrSeries": "City",
+      "retailPrice": null,
+      "prices": {},
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
+      "marketPrice": null,
+      "year": 2026,
+      "volumeCount": null,
+      "ongoing": null
+    },
+    {
+      "id": "L0002228",
+      "category": "LEGO",
+      "name": "Aeroplane",
+      "imageURL": "https://cdn.rebrickable.com/media/sets/l0002228-1/183026.jpg",
       "themeOrSeries": "City",
       "retailPrice": null,
       "prices": {},
