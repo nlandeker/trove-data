@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-11-07T04:06:47Z",
+  "_generated": "2026-11-08T04:07:08Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -87,16 +87,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-87423",
-      "name": "The Promised Neverland",
-      "volumeCount": 20,
-      "ongoing": false
-    },
-    {
       "id": "anilist-119257",
       "name": "Omniscient Reader",
       "volumeCount": 20,
       "ongoing": true
+    },
+    {
+      "id": "anilist-87423",
+      "name": "The Promised Neverland",
+      "volumeCount": 20,
+      "ongoing": false
     },
     {
       "id": "anilist-106130",
@@ -429,15 +429,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30149",
-      "name": "BLAME!",
-      "volumeCount": 10,
-      "ongoing": false
-    },
-    {
       "id": "anilist-111233",
       "name": "Call of the Night",
       "volumeCount": 20,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30149",
+      "name": "BLAME!",
+      "volumeCount": 10,
       "ongoing": false
     },
     {
@@ -571,12 +571,6 @@
       "name": "Chained Soldier",
       "volumeCount": 22,
       "ongoing": true
-    },
-    {
-      "id": "anilist-85141",
-      "name": "The God of High School",
-      "volumeCount": 4,
-      "ongoing": false
     },
     {
       "id": "anilist-85849",
@@ -1359,15 +1353,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30418",
-      "name": "Mushishi",
-      "volumeCount": 10,
-      "ongoing": false
-    },
-    {
       "id": "anilist-114791",
       "name": "Undead Unluck",
       "volumeCount": 27,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30418",
+      "name": "Mushishi",
+      "volumeCount": 10,
       "ongoing": false
     },
     {
@@ -1449,15 +1443,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-100991",
-      "name": "ACT-AGE",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-86265",
       "name": "Kengan Ashura",
       "volumeCount": 27,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-100991",
+      "name": "ACT-AGE",
+      "volumeCount": 12,
       "ongoing": false
     },
     {
@@ -1761,12 +1755,6 @@
       "ongoing": false
     },
     {
-      "id": "anilist-153432",
-      "name": "The Reaper",
-      "volumeCount": 4,
-      "ongoing": true
-    },
-    {
       "id": "anilist-99609",
       "name": "I Want to Eat Your Pancreas",
       "volumeCount": 2,
@@ -1845,14 +1833,14 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86607",
-      "name": "Gleipnir",
+      "id": "anilist-104241",
+      "name": "How Do We Relationship?",
       "volumeCount": 14,
       "ongoing": false
     },
     {
-      "id": "anilist-104241",
-      "name": "How Do We Relationship?",
+      "id": "anilist-86607",
+      "name": "Gleipnir",
       "volumeCount": 14,
       "ongoing": false
     },
@@ -1899,16 +1887,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-147997",
-      "name": "You and I Are Polar Opposites",
-      "volumeCount": 8,
-      "ongoing": false
-    },
-    {
       "id": "anilist-201773",
       "name": "Haimiya Is Scary Cute",
       "volumeCount": 4,
       "ongoing": true
+    },
+    {
+      "id": "anilist-147997",
+      "name": "You and I Are Polar Opposites",
+      "volumeCount": 8,
+      "ongoing": false
     },
     {
       "id": "anilist-65719",
@@ -1923,6 +1911,12 @@
       "ongoing": true
     },
     {
+      "id": "anilist-159142",
+      "name": "Firefly Wedding",
+      "volumeCount": 13,
+      "ongoing": false
+    },
+    {
       "id": "anilist-66213",
       "name": "Monster Musume",
       "volumeCount": 21,
@@ -1932,12 +1926,6 @@
       "id": "anilist-85235",
       "name": "School-Live!",
       "volumeCount": 12,
-      "ongoing": false
-    },
-    {
-      "id": "anilist-159142",
-      "name": "Firefly Wedding",
-      "volumeCount": 13,
       "ongoing": false
     },
     {
@@ -2013,16 +2001,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-40552",
-      "name": "Lucifer and the Biscuit Hammer",
-      "volumeCount": 10,
-      "ongoing": false
-    },
-    {
       "id": "anilist-85495",
       "name": "Re:Monster",
       "volumeCount": 9,
       "ongoing": true
+    },
+    {
+      "id": "anilist-40552",
+      "name": "Lucifer and the Biscuit Hammer",
+      "volumeCount": 10,
+      "ongoing": false
     },
     {
       "id": "anilist-70171",
@@ -2073,15 +2061,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86549",
-      "name": "Go For It, Nakamura!",
-      "volumeCount": 1,
-      "ongoing": false
-    },
-    {
       "id": "anilist-121565",
       "name": "Seasons of Blossom",
       "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-86549",
+      "name": "Go For It, Nakamura!",
+      "volumeCount": 1,
       "ongoing": false
     },
     {
@@ -2223,16 +2211,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-120440",
-      "name": "Positively Yours",
-      "volumeCount": 8,
-      "ongoing": false
-    },
-    {
       "id": "anilist-169272",
       "name": "Tune In to the Midnight Heart",
       "volumeCount": 14,
       "ongoing": true
+    },
+    {
+      "id": "anilist-120440",
+      "name": "Positively Yours",
+      "volumeCount": 8,
+      "ongoing": false
     },
     {
       "id": "anilist-96518",
@@ -2373,15 +2361,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-106434",
-      "name": "Hitomi-chan is Shy With Strangers",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-110785",
       "name": "2.5 Dimensional Seduction",
       "volumeCount": 25,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-106434",
+      "name": "Hitomi-chan is Shy With Strangers",
+      "volumeCount": 12,
       "ongoing": false
     },
     {
@@ -2394,12 +2382,6 @@
       "id": "anilist-86355",
       "name": "That Time I Got Reincarnated as a Slime",
       "volumeCount": 23,
-      "ongoing": false
-    },
-    {
-      "id": "anilist-30031",
-      "name": "Love★Com",
-      "volumeCount": 17,
       "ongoing": false
     }
   ]
