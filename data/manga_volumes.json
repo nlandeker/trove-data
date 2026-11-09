@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-11-08T04:07:08Z",
+  "_generated": "2026-11-09T04:07:36Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -207,16 +207,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85143",
-      "name": "Tower of God",
-      "volumeCount": 20,
-      "ongoing": true
-    },
-    {
       "id": "anilist-30021",
       "name": "Death Note",
       "volumeCount": 12,
       "ongoing": false
+    },
+    {
+      "id": "anilist-85143",
+      "name": "Tower of God",
+      "volumeCount": 20,
+      "ongoing": true
     },
     {
       "id": "anilist-30011",
@@ -585,15 +585,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-69883",
-      "name": "Assassination Classroom",
-      "volumeCount": 21,
-      "ongoing": false
-    },
-    {
       "id": "anilist-33731",
       "name": "Solanin",
       "volumeCount": 2,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-69883",
+      "name": "Assassination Classroom",
+      "volumeCount": 21,
       "ongoing": false
     },
     {
@@ -715,12 +715,6 @@
       "name": "Food Wars!: Shokugeki no Soma",
       "volumeCount": 36,
       "ongoing": false
-    },
-    {
-      "id": "anilist-85564",
-      "name": "Mushoku Tensei: Jobless Reincarnation",
-      "volumeCount": 25,
-      "ongoing": true
     },
     {
       "id": "anilist-99022",
@@ -879,16 +873,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-94970",
-      "name": "Classroom of the Elite",
-      "volumeCount": 14,
-      "ongoing": false
-    },
-    {
       "id": "anilist-101177",
       "name": "Fly Me to the Moon",
       "volumeCount": 37,
       "ongoing": true
+    },
+    {
+      "id": "anilist-94970",
+      "name": "Classroom of the Elite",
+      "volumeCount": 14,
+      "ongoing": false
     },
     {
       "id": "anilist-63031",
@@ -1097,7 +1091,7 @@
     {
       "id": "anilist-86508",
       "name": "Dragon Ball Super",
-      "volumeCount": 24,
+      "volumeCount": 42,
       "ongoing": true
     },
     {
@@ -1443,15 +1437,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86265",
-      "name": "Kengan Ashura",
-      "volumeCount": 27,
-      "ongoing": false
-    },
-    {
       "id": "anilist-100991",
       "name": "ACT-AGE",
       "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-86265",
+      "name": "Kengan Ashura",
+      "volumeCount": 27,
       "ongoing": false
     },
     {
@@ -1601,7 +1595,7 @@
     {
       "id": "anilist-101724",
       "name": "Uzaki-chan Wants to Hang Out!",
-      "volumeCount": 14,
+      "volumeCount": 15,
       "ongoing": true
     },
     {
@@ -1641,6 +1635,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-198372",
+      "name": "Jujutsu Kaisen Modulo",
+      "volumeCount": 3,
+      "ongoing": false
+    },
+    {
       "id": "anilist-40010",
       "name": "Beelzebub",
       "volumeCount": 28,
@@ -1650,12 +1650,6 @@
       "id": "anilist-85247",
       "name": "Twin Star Exorcists",
       "volumeCount": 35,
-      "ongoing": false
-    },
-    {
-      "id": "anilist-198372",
-      "name": "Jujutsu Kaisen Modulo",
-      "volumeCount": 3,
       "ongoing": false
     },
     {
@@ -1701,28 +1695,28 @@
       "ongoing": false
     },
     {
-      "id": "anilist-103082",
-      "name": "Pumpkin Night",
-      "volumeCount": 18,
-      "ongoing": true
-    },
-    {
       "id": "anilist-33438",
       "name": "PSYЯEN",
       "volumeCount": 16,
       "ongoing": false
     },
     {
-      "id": "anilist-43245",
-      "name": "Chihayafuru",
-      "volumeCount": 50,
-      "ongoing": false
+      "id": "anilist-103082",
+      "name": "Pumpkin Night",
+      "volumeCount": 18,
+      "ongoing": true
     },
     {
       "id": "anilist-122063",
       "name": "Shangri-La Frontier",
       "volumeCount": 28,
       "ongoing": true
+    },
+    {
+      "id": "anilist-43245",
+      "name": "Chihayafuru",
+      "volumeCount": 50,
+      "ongoing": false
     },
     {
       "id": "anilist-152404",
@@ -1851,15 +1845,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-101311",
-      "name": "Bakemonogatari",
-      "volumeCount": 22,
-      "ongoing": false
-    },
-    {
       "id": "anilist-113488",
       "name": "Weak Hero",
       "volumeCount": 19,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-101311",
+      "name": "Bakemonogatari",
+      "volumeCount": 22,
       "ongoing": false
     },
     {
@@ -2103,14 +2097,14 @@
       "ongoing": false
     },
     {
-      "id": "anilist-112621",
-      "name": "I Can't Say No to the Lonely Girl",
+      "id": "anilist-68071",
+      "name": "Spirit Circle",
       "volumeCount": 6,
       "ongoing": false
     },
     {
-      "id": "anilist-68071",
-      "name": "Spirit Circle",
+      "id": "anilist-112621",
+      "name": "I Can't Say No to the Lonely Girl",
       "volumeCount": 6,
       "ongoing": false
     },
@@ -2145,15 +2139,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-58533",
-      "name": "No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!",
-      "volumeCount": 28,
-      "ongoing": true
-    },
-    {
       "id": "anilist-103255",
       "name": "Fairy Tail: 100 Years Quest",
       "volumeCount": 24,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-58533",
+      "name": "No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!",
+      "volumeCount": 28,
       "ongoing": true
     },
     {
@@ -2169,16 +2163,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-30050",
-      "name": "Shaman King",
-      "volumeCount": 32,
-      "ongoing": false
-    },
-    {
       "id": "anilist-141479",
       "name": "The Legendary Spearman Returns",
       "volumeCount": 20,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30050",
+      "name": "Shaman King",
+      "volumeCount": 32,
+      "ongoing": false
     },
     {
       "id": "anilist-44893",
@@ -2205,16 +2199,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30463",
-      "name": "Welcome to the N.H.K.",
-      "volumeCount": 8,
-      "ongoing": false
-    },
-    {
       "id": "anilist-169272",
       "name": "Tune In to the Midnight Heart",
       "volumeCount": 14,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30463",
+      "name": "Welcome to the N.H.K.",
+      "volumeCount": 8,
+      "ongoing": false
     },
     {
       "id": "anilist-120440",
@@ -2247,16 +2241,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30142",
-      "name": "Battle Royale",
-      "volumeCount": 15,
-      "ongoing": false
-    },
-    {
       "id": "anilist-86303",
       "name": "Miss Kobayashi's Dragon Maid",
       "volumeCount": 20,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30142",
+      "name": "Battle Royale",
+      "volumeCount": 15,
+      "ongoing": false
     },
     {
       "id": "anilist-54903",
@@ -2265,10 +2259,10 @@
       "ongoing": true
     },
     {
-      "id": "anilist-31149",
-      "name": "Fist of the North Star",
-      "volumeCount": 27,
-      "ongoing": false
+      "id": "anilist-87234",
+      "name": "The Elder Sister-Like One",
+      "volumeCount": 6,
+      "ongoing": true
     },
     {
       "id": "anilist-30671",
@@ -2277,16 +2271,16 @@
       "ongoing": false
     },
     {
+      "id": "anilist-31149",
+      "name": "Fist of the North Star",
+      "volumeCount": 27,
+      "ongoing": false
+    },
+    {
       "id": "anilist-30085",
       "name": "Azumanga Daioh",
       "volumeCount": 4,
       "ongoing": false
-    },
-    {
-      "id": "anilist-87234",
-      "name": "The Elder Sister-Like One",
-      "volumeCount": 6,
-      "ongoing": true
     },
     {
       "id": "anilist-31131",
