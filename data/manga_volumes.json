@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-11-09T04:07:36Z",
+  "_generated": "2026-11-10T04:06:38Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -61,12 +61,6 @@
       "name": "My Hero Academia",
       "volumeCount": 42,
       "ongoing": false
-    },
-    {
-      "id": "anilist-74347",
-      "name": "One-Punch Man",
-      "volumeCount": 37,
-      "ongoing": true
     },
     {
       "id": "anilist-30656",
@@ -417,27 +411,27 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86218",
-      "name": "Bloom Into You",
-      "volumeCount": 8,
-      "ongoing": false
-    },
-    {
       "id": "anilist-98397",
       "name": "Blood on the Tracks",
       "volumeCount": 17,
       "ongoing": false
     },
     {
-      "id": "anilist-111233",
-      "name": "Call of the Night",
-      "volumeCount": 20,
+      "id": "anilist-86218",
+      "name": "Bloom Into You",
+      "volumeCount": 8,
       "ongoing": false
     },
     {
       "id": "anilist-30149",
       "name": "BLAME!",
       "volumeCount": 10,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-111233",
+      "name": "Call of the Night",
+      "volumeCount": 20,
       "ongoing": false
     },
     {
@@ -453,15 +447,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86717",
-      "name": "Wotakoi: Love is Hard for Otaku",
-      "volumeCount": 11,
-      "ongoing": false
-    },
-    {
       "id": "anilist-136807",
       "name": "Look Back",
       "volumeCount": 1,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-86717",
+      "name": "Wotakoi: Love is Hard for Otaku",
+      "volumeCount": 11,
       "ongoing": false
     },
     {
@@ -571,6 +565,12 @@
       "name": "Chained Soldier",
       "volumeCount": 22,
       "ongoing": true
+    },
+    {
+      "id": "anilist-85141",
+      "name": "The God of High School",
+      "volumeCount": 4,
+      "ongoing": false
     },
     {
       "id": "anilist-85849",
@@ -977,7 +977,7 @@
     {
       "id": "anilist-99324",
       "name": "Welcome to Demon School! Iruma-kun",
-      "volumeCount": 9,
+      "volumeCount": 51,
       "ongoing": true
     },
     {
@@ -1091,7 +1091,7 @@
     {
       "id": "anilist-86508",
       "name": "Dragon Ball Super",
-      "volumeCount": 42,
+      "volumeCount": 24,
       "ongoing": true
     },
     {
@@ -1143,16 +1143,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-65003",
-      "name": "Yamada-kun and the Seven Witches",
-      "volumeCount": 28,
-      "ongoing": false
-    },
-    {
       "id": "anilist-179445",
       "name": "Solo Leveling: Ragnarok",
       "volumeCount": 15,
       "ongoing": true
+    },
+    {
+      "id": "anilist-65003",
+      "name": "Yamada-kun and the Seven Witches",
+      "volumeCount": 28,
+      "ongoing": false
     },
     {
       "id": "anilist-39982",
@@ -1299,15 +1299,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-104660",
-      "name": "Zom 100: Bucket List of the Dead",
-      "volumeCount": 23,
-      "ongoing": true
-    },
-    {
       "id": "anilist-180752",
       "name": "Ichi the Witch",
       "volumeCount": 10,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-104660",
+      "name": "Zom 100: Bucket List of the Dead",
+      "volumeCount": 23,
       "ongoing": true
     },
     {
@@ -1437,15 +1437,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-100991",
-      "name": "ACT-AGE",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-86265",
       "name": "Kengan Ashura",
       "volumeCount": 27,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-100991",
+      "name": "ACT-AGE",
+      "volumeCount": 12,
       "ongoing": false
     },
     {
@@ -1515,15 +1515,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-115000",
-      "name": "Unholy Blood",
-      "volumeCount": 8,
-      "ongoing": false
-    },
-    {
       "id": "anilist-107279",
       "name": "Aoashi",
       "volumeCount": 40,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-115000",
+      "name": "Unholy Blood",
+      "volumeCount": 8,
       "ongoing": false
     },
     {
@@ -1641,15 +1641,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-40010",
-      "name": "Beelzebub",
-      "volumeCount": 28,
-      "ongoing": false
-    },
-    {
       "id": "anilist-85247",
       "name": "Twin Star Exorcists",
       "volumeCount": 35,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-40010",
+      "name": "Beelzebub",
+      "volumeCount": 28,
       "ongoing": false
     },
     {
@@ -1747,6 +1747,12 @@
       "name": "Ayashimon",
       "volumeCount": 3,
       "ongoing": false
+    },
+    {
+      "id": "anilist-153432",
+      "name": "The Reaper",
+      "volumeCount": 4,
+      "ongoing": true
     },
     {
       "id": "anilist-99609",
@@ -2061,16 +2067,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86549",
-      "name": "Go For It, Nakamura!",
-      "volumeCount": 1,
-      "ongoing": false
-    },
-    {
       "id": "anilist-101625",
       "name": "Berserk of Gluttony",
       "volumeCount": 8,
       "ongoing": true
+    },
+    {
+      "id": "anilist-86549",
+      "name": "Go For It, Nakamura!",
+      "volumeCount": 1,
+      "ongoing": false
     },
     {
       "id": "anilist-103111",
@@ -2091,15 +2097,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-98112",
-      "name": "Gal Gohan",
-      "volumeCount": 10,
-      "ongoing": false
-    },
-    {
       "id": "anilist-68071",
       "name": "Spirit Circle",
       "volumeCount": 6,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-98112",
+      "name": "Gal Gohan",
+      "volumeCount": 10,
       "ongoing": false
     },
     {
@@ -2139,15 +2145,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-103255",
-      "name": "Fairy Tail: 100 Years Quest",
-      "volumeCount": 24,
-      "ongoing": true
-    },
-    {
       "id": "anilist-58533",
       "name": "No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!",
       "volumeCount": 28,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-103255",
+      "name": "Fairy Tail: 100 Years Quest",
+      "volumeCount": 24,
       "ongoing": true
     },
     {
@@ -2193,16 +2199,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-31373",
-      "name": "Nijigahara Holograph",
-      "volumeCount": 1,
-      "ongoing": false
-    },
-    {
       "id": "anilist-169272",
       "name": "Tune In to the Midnight Heart",
       "volumeCount": 14,
       "ongoing": true
+    },
+    {
+      "id": "anilist-31373",
+      "name": "Nijigahara Holograph",
+      "volumeCount": 1,
+      "ongoing": false
     },
     {
       "id": "anilist-30463",
@@ -2331,16 +2337,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-39115",
-      "name": "Spice & Wolf",
-      "volumeCount": 24,
-      "ongoing": true
-    },
-    {
       "id": "anilist-30904",
       "name": "Lone Wolf and Cub",
       "volumeCount": 28,
       "ongoing": false
+    },
+    {
+      "id": "anilist-39115",
+      "name": "Spice & Wolf",
+      "volumeCount": 24,
+      "ongoing": true
     },
     {
       "id": "anilist-35255",
@@ -2367,15 +2373,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-87213",
-      "name": "Yuuna and the Haunted Hot Springs",
-      "volumeCount": 24,
-      "ongoing": false
-    },
-    {
       "id": "anilist-86355",
       "name": "That Time I Got Reincarnated as a Slime",
       "volumeCount": 23,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-87213",
+      "name": "Yuuna and the Haunted Hot Springs",
+      "volumeCount": 24,
       "ongoing": false
     }
   ]
