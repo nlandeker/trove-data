@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-11-10T04:06:38Z",
+  "_generated": "2026-11-11T04:06:26Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -153,15 +153,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-97852",
-      "name": "Komi Can't Communicate",
-      "volumeCount": 37,
-      "ongoing": false
-    },
-    {
       "id": "anilist-117195",
       "name": "[Oshi no Ko]",
       "volumeCount": 16,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-97852",
+      "name": "Komi Can't Communicate",
+      "volumeCount": 37,
       "ongoing": false
     },
     {
@@ -351,15 +351,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-98842",
-      "name": "Toilet-Bound Hanako-kun",
-      "volumeCount": 25,
-      "ongoing": true
-    },
-    {
       "id": "anilist-169355",
       "name": "Kagurabachi",
       "volumeCount": 12,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-98842",
+      "name": "Toilet-Bound Hanako-kun",
+      "volumeCount": 25,
       "ongoing": true
     },
     {
@@ -1293,16 +1293,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-30756",
-      "name": "Banana Fish",
-      "volumeCount": 19,
-      "ongoing": false
-    },
-    {
       "id": "anilist-180752",
       "name": "Ichi the Witch",
       "volumeCount": 10,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30756",
+      "name": "Banana Fish",
+      "volumeCount": 19,
+      "ongoing": false
     },
     {
       "id": "anilist-104660",
@@ -1527,15 +1527,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30909",
-      "name": "Gyo",
-      "volumeCount": 2,
-      "ongoing": false
-    },
-    {
       "id": "anilist-117620",
       "name": "The Summer You Were There",
       "volumeCount": 6,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30909",
+      "name": "Gyo",
+      "volumeCount": 2,
       "ongoing": false
     },
     {
@@ -1875,6 +1875,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-201773",
+      "name": "Haimiya Is Scary Cute",
+      "volumeCount": 4,
+      "ongoing": true
+    },
+    {
       "id": "anilist-48597",
       "name": "Sankarea: Undying Love",
       "volumeCount": 11,
@@ -1885,12 +1891,6 @@
       "name": "How to Treat a Lady Knight Right",
       "volumeCount": 7,
       "ongoing": false
-    },
-    {
-      "id": "anilist-201773",
-      "name": "Haimiya Is Scary Cute",
-      "volumeCount": 4,
-      "ongoing": true
     },
     {
       "id": "anilist-147997",
@@ -2013,16 +2013,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-70171",
-      "name": "My Youth Romantic Comedy Is Wrong, As I Expected",
-      "volumeCount": 18,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30735",
       "name": "Black Lagoon",
       "volumeCount": 14,
       "ongoing": true
+    },
+    {
+      "id": "anilist-70171",
+      "name": "My Youth Romantic Comedy Is Wrong, As I Expected",
+      "volumeCount": 18,
+      "ongoing": false
     },
     {
       "id": "anilist-30933",
@@ -2181,15 +2181,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-44893",
-      "name": "Bakemonogatari: Monster Tale",
-      "volumeCount": 2,
-      "ongoing": false
-    },
-    {
       "id": "anilist-107918",
       "name": "Doctor Elise: The Royal Lady with the Lamp",
       "volumeCount": 10,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-44893",
+      "name": "Bakemonogatari: Monster Tale",
+      "volumeCount": 2,
       "ongoing": false
     },
     {
@@ -2205,9 +2205,9 @@
       "ongoing": true
     },
     {
-      "id": "anilist-31373",
-      "name": "Nijigahara Holograph",
-      "volumeCount": 1,
+      "id": "anilist-120440",
+      "name": "Positively Yours",
+      "volumeCount": 8,
       "ongoing": false
     },
     {
@@ -2217,9 +2217,9 @@
       "ongoing": false
     },
     {
-      "id": "anilist-120440",
-      "name": "Positively Yours",
-      "volumeCount": 8,
+      "id": "anilist-31373",
+      "name": "Nijigahara Holograph",
+      "volumeCount": 1,
       "ongoing": false
     },
     {
@@ -2229,15 +2229,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-35293",
-      "name": "Doubt",
-      "volumeCount": 4,
-      "ongoing": false
-    },
-    {
       "id": "anilist-107518",
       "name": "Heavenly Demon Reborn!",
       "volumeCount": 10,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-35293",
+      "name": "Doubt",
+      "volumeCount": 4,
       "ongoing": false
     },
     {
@@ -2247,16 +2247,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86303",
-      "name": "Miss Kobayashi's Dragon Maid",
-      "volumeCount": 20,
-      "ongoing": true
-    },
-    {
       "id": "anilist-30142",
       "name": "Battle Royale",
       "volumeCount": 15,
       "ongoing": false
+    },
+    {
+      "id": "anilist-86303",
+      "name": "Miss Kobayashi's Dragon Maid",
+      "volumeCount": 20,
+      "ongoing": true
     },
     {
       "id": "anilist-54903",
@@ -2271,15 +2271,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-30671",
-      "name": "To Love Ru",
-      "volumeCount": 18,
-      "ongoing": false
-    },
-    {
       "id": "anilist-31149",
       "name": "Fist of the North Star",
       "volumeCount": 27,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30671",
+      "name": "To Love Ru",
+      "volumeCount": 18,
       "ongoing": false
     },
     {
@@ -2337,16 +2337,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-30904",
-      "name": "Lone Wolf and Cub",
-      "volumeCount": 28,
-      "ongoing": false
-    },
-    {
       "id": "anilist-39115",
       "name": "Spice & Wolf",
       "volumeCount": 24,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30904",
+      "name": "Lone Wolf and Cub",
+      "volumeCount": 28,
+      "ongoing": false
     },
     {
       "id": "anilist-35255",
