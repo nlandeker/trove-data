@@ -2,7 +2,7 @@
   "version": 2,
   "currency": "EUR",
   "_attribution": "LEGO data: Rebrickable (rebrickable.com) + Brickset (brickset.com). Not affiliated with or endorsed by The LEGO Group.",
-  "_generated": "2026-11-10T03:21:34Z",
+  "_generated": "2026-11-11T03:24:14Z",
   "items": [
     {
       "id": "001",
@@ -6723,7 +6723,7 @@
         "USD": 44.99,
         "GBP": 39.99
       },
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2025,
@@ -6852,7 +6852,7 @@
         "USD": 74.99,
         "GBP": 59.99
       },
-      "lifecycleStatus": "RETIRING_SOON",
+      "lifecycleStatus": "AVAILABLE",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2025,
@@ -6929,7 +6929,7 @@
         "GBP": 54.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-10-22",
+      "retirementDate": "2026-11-10",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -6947,7 +6947,7 @@
         "USD": 29.99,
         "GBP": 24.99
       },
-      "lifecycleStatus": "AVAILABLE",
+      "lifecycleStatus": "RETIRING_SOON",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2025,
@@ -15218,8 +15218,8 @@
         "USD": 9.99,
         "GBP": 8.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-11-10",
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -35725,7 +35725,7 @@
         "GBP": 74.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-10-14",
+      "retirementDate": "2026-10-03",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -37674,7 +37674,7 @@
         "GBP": 12.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-11-09",
+      "retirementDate": "2026-11-10",
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -61173,8 +61173,8 @@
         "USD": 29.99,
         "GBP": 24.99
       },
-      "lifecycleStatus": "RETIRING_SOON",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-11-10",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -61302,8 +61302,8 @@
         "USD": 44.99,
         "GBP": 34.99
       },
-      "lifecycleStatus": "RETIRING_SOON",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-11-10",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -101959,7 +101959,7 @@
         "GBP": 22.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-09-04",
+      "retirementDate": "2026-11-10",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -102326,8 +102326,8 @@
         "USD": 429.99,
         "GBP": 349.99
       },
-      "lifecycleStatus": "RETIRING_SOON",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-11-10",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -102345,8 +102345,8 @@
         "USD": 59.99,
         "GBP": 54.99
       },
-      "lifecycleStatus": "RETIRING_SOON",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-11-10",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -103793,8 +103793,8 @@
         "USD": 29.99,
         "GBP": 24.99
       },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-11-08",
+      "lifecycleStatus": "RETIRING_SOON",
+      "retirementDate": null,
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -104093,8 +104093,8 @@
         "USD": 29.99,
         "GBP": 24.99
       },
-      "lifecycleStatus": "AVAILABLE",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-11-10",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -104371,7 +104371,7 @@
         "GBP": 17.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-11-06",
+      "retirementDate": "2026-10-05",
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -107646,8 +107646,8 @@
         "USD": 19.99,
         "GBP": 17.99
       },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-11-04",
+      "lifecycleStatus": "RETIRING_SOON",
+      "retirementDate": null,
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -108402,8 +108402,8 @@
         "USD": 149.99,
         "GBP": 139.99
       },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-10-03",
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -146808,7 +146808,7 @@
       "themeOrSeries": "City",
       "retailPrice": null,
       "prices": {},
-      "lifecycleStatus": "RETIRING_SOON",
+      "lifecycleStatus": "AVAILABLE",
       "retirementDate": null,
       "marketPrice": null,
       "year": 2024,
@@ -147703,8 +147703,8 @@
         "USD": 64.99,
         "GBP": 54.99
       },
-      "lifecycleStatus": "RETIRING_SOON",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-11-10",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -182978,8 +182978,8 @@
         "USD": 99.99,
         "GBP": 89.99
       },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-10-09",
+      "lifecycleStatus": "RETIRING_SOON",
+      "retirementDate": null,
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -184175,7 +184175,7 @@
         "GBP": 89.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-11-06",
+      "retirementDate": "2026-08-16",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -193999,8 +193999,8 @@
         "USD": 22.99,
         "GBP": 17.99
       },
-      "lifecycleStatus": "RETIRING_SOON",
-      "retirementDate": null,
+      "lifecycleStatus": "RETIRED",
+      "retirementDate": "2026-11-10",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
@@ -203301,8 +203301,8 @@
         "USD": 9.99,
         "GBP": 8.99
       },
-      "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-11-09",
+      "lifecycleStatus": "AVAILABLE",
+      "retirementDate": null,
       "marketPrice": null,
       "year": 2026,
       "volumeCount": null,
@@ -207836,7 +207836,7 @@
         "GBP": 34.99
       },
       "lifecycleStatus": "RETIRED",
-      "retirementDate": "2026-11-05",
+      "retirementDate": "2026-08-15",
       "marketPrice": null,
       "year": 2025,
       "volumeCount": null,
