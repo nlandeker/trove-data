@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-11-11T04:06:26Z",
+  "_generated": "2026-11-12T04:07:18Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -999,16 +999,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-31630",
-      "name": "JoJo's Bizarre Adventure Part 2: Battle Tendency",
-      "volumeCount": 7,
-      "ongoing": false
-    },
-    {
       "id": "anilist-105011",
       "name": "More Than a Married Couple, but Not Lovers.",
       "volumeCount": 13,
       "ongoing": true
+    },
+    {
+      "id": "anilist-31630",
+      "name": "JoJo's Bizarre Adventure Part 2: Battle Tendency",
+      "volumeCount": 7,
+      "ongoing": false
     },
     {
       "id": "anilist-87208",
@@ -1263,15 +1263,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-115122",
-      "name": "Death Note: a-Kira",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30768",
       "name": "Battle Angel Alita",
       "volumeCount": 9,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-115122",
+      "name": "Death Note: a-Kira",
+      "volumeCount": 12,
       "ongoing": false
     },
     {
@@ -1503,16 +1503,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30022",
-      "name": "Rurouni Kenshin",
-      "volumeCount": 28,
-      "ongoing": false
-    },
-    {
       "id": "anilist-134369",
       "name": "Medaka Kuroiwa is Impervious to My Charms",
       "volumeCount": 26,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30022",
+      "name": "Rurouni Kenshin",
+      "volumeCount": 28,
+      "ongoing": false
     },
     {
       "id": "anilist-107279",
@@ -1629,15 +1629,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-38157",
-      "name": "Kamisama Kiss",
-      "volumeCount": 25,
-      "ongoing": false
-    },
-    {
       "id": "anilist-198372",
       "name": "Jujutsu Kaisen Modulo",
       "volumeCount": 3,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-38157",
+      "name": "Kamisama Kiss",
+      "volumeCount": 25,
       "ongoing": false
     },
     {
@@ -1839,15 +1839,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86607",
-      "name": "Gleipnir",
-      "volumeCount": 14,
-      "ongoing": false
-    },
-    {
       "id": "anilist-110605",
       "name": "Leviathan",
       "volumeCount": 9,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-86607",
+      "name": "Gleipnir",
+      "volumeCount": 14,
       "ongoing": false
     },
     {
@@ -1869,16 +1869,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-50593",
-      "name": "Btooom!",
-      "volumeCount": 27,
-      "ongoing": false
-    },
-    {
       "id": "anilist-201773",
       "name": "Haimiya Is Scary Cute",
       "volumeCount": 4,
       "ongoing": true
+    },
+    {
+      "id": "anilist-50593",
+      "name": "Btooom!",
+      "volumeCount": 27,
+      "ongoing": false
     },
     {
       "id": "anilist-48597",
@@ -1905,16 +1905,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-107120",
-      "name": "Chillin’ in Another World with Level 2 Super Cheat Powers",
-      "volumeCount": 22,
-      "ongoing": true
-    },
-    {
       "id": "anilist-159142",
       "name": "Firefly Wedding",
       "volumeCount": 13,
       "ongoing": false
+    },
+    {
+      "id": "anilist-107120",
+      "name": "Chillin’ in Another World with Level 2 Super Cheat Powers",
+      "volumeCount": 22,
+      "ongoing": true
     },
     {
       "id": "anilist-66213",
@@ -2055,15 +2055,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-85616",
-      "name": "Seaside Stranger: Umibe no Étranger",
-      "volumeCount": 1,
-      "ongoing": false
-    },
-    {
       "id": "anilist-121565",
       "name": "Seasons of Blossom",
       "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85616",
+      "name": "Seaside Stranger: Umibe no Étranger",
+      "volumeCount": 1,
       "ongoing": false
     },
     {
@@ -2079,16 +2079,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-103111",
-      "name": "My Senpai is Annoying",
-      "volumeCount": 13,
-      "ongoing": false
-    },
-    {
       "id": "anilist-143031",
       "name": "I Want to End This Love Game",
       "volumeCount": 9,
       "ongoing": true
+    },
+    {
+      "id": "anilist-103111",
+      "name": "My Senpai is Annoying",
+      "volumeCount": 13,
+      "ongoing": false
     },
     {
       "id": "anilist-112544",
@@ -2147,7 +2147,7 @@
     {
       "id": "anilist-58533",
       "name": "No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!",
-      "volumeCount": 28,
+      "volumeCount": 29,
       "ongoing": true
     },
     {
@@ -2271,15 +2271,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-31149",
-      "name": "Fist of the North Star",
-      "volumeCount": 27,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30671",
       "name": "To Love Ru",
       "volumeCount": 18,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-31149",
+      "name": "Fist of the North Star",
+      "volumeCount": 27,
       "ongoing": false
     },
     {
@@ -2337,16 +2337,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-39115",
-      "name": "Spice & Wolf",
-      "volumeCount": 24,
-      "ongoing": true
-    },
-    {
       "id": "anilist-30904",
       "name": "Lone Wolf and Cub",
       "volumeCount": 28,
       "ongoing": false
+    },
+    {
+      "id": "anilist-39115",
+      "name": "Spice & Wolf",
+      "volumeCount": 24,
+      "ongoing": true
     },
     {
       "id": "anilist-35255",
