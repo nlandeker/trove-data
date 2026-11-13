@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-11-12T04:07:18Z",
+  "_generated": "2026-11-13T04:07:22Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -807,14 +807,14 @@
       "ongoing": true
     },
     {
-      "id": "anilist-86136",
-      "name": "Happiness",
+      "id": "anilist-138603",
+      "name": "The Summer Hikaru Died",
       "volumeCount": 10,
       "ongoing": false
     },
     {
-      "id": "anilist-138603",
-      "name": "The Summer Hikaru Died",
+      "id": "anilist-86136",
+      "name": "Happiness",
       "volumeCount": 10,
       "ongoing": false
     },
@@ -843,15 +843,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-44440",
-      "name": "I Am a Hero",
-      "volumeCount": 22,
-      "ongoing": false
-    },
-    {
       "id": "anilist-85911",
       "name": "Tomodachi Game",
       "volumeCount": 26,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-44440",
+      "name": "I Am a Hero",
+      "volumeCount": 22,
       "ongoing": false
     },
     {
@@ -1137,15 +1137,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-113501",
-      "name": "Please Go Home, Miss Akutsu!",
-      "volumeCount": 11,
-      "ongoing": true
-    },
-    {
       "id": "anilist-179445",
       "name": "Solo Leveling: Ragnarok",
       "volumeCount": 15,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-113501",
+      "name": "Please Go Home, Miss Akutsu!",
+      "volumeCount": 11,
       "ongoing": true
     },
     {
@@ -1827,15 +1827,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-31101",
-      "name": "Akumetsu",
-      "volumeCount": 18,
-      "ongoing": false
-    },
-    {
       "id": "anilist-104241",
       "name": "How Do We Relationship?",
       "volumeCount": 14,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-31101",
+      "name": "Akumetsu",
+      "volumeCount": 18,
       "ongoing": false
     },
     {
@@ -1863,16 +1863,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-97842",
-      "name": "My Hero Academia: Vigilantes",
-      "volumeCount": 15,
-      "ongoing": false
-    },
-    {
       "id": "anilist-201773",
       "name": "Haimiya Is Scary Cute",
       "volumeCount": 4,
       "ongoing": true
+    },
+    {
+      "id": "anilist-97842",
+      "name": "My Hero Academia: Vigilantes",
+      "volumeCount": 15,
+      "ongoing": false
     },
     {
       "id": "anilist-50593",
@@ -1953,6 +1953,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-113055",
+      "name": "The Remarried Empress",
+      "volumeCount": 11,
+      "ongoing": true
+    },
+    {
       "id": "anilist-100937",
       "name": "DARLING in the FRANXX",
       "volumeCount": 8,
@@ -1962,12 +1968,6 @@
       "id": "anilist-153880",
       "name": "The Art of Reincarnation",
       "volumeCount": 12,
-      "ongoing": true
-    },
-    {
-      "id": "anilist-113055",
-      "name": "The Remarried Empress",
-      "volumeCount": 11,
       "ongoing": true
     },
     {
@@ -2145,15 +2145,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-58533",
-      "name": "No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!",
-      "volumeCount": 29,
-      "ongoing": true
-    },
-    {
       "id": "anilist-103255",
       "name": "Fairy Tail: 100 Years Quest",
       "volumeCount": 24,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-58533",
+      "name": "No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!",
+      "volumeCount": 29,
       "ongoing": true
     },
     {
@@ -2271,15 +2271,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-30671",
-      "name": "To Love Ru",
-      "volumeCount": 18,
-      "ongoing": false
-    },
-    {
       "id": "anilist-31149",
       "name": "Fist of the North Star",
       "volumeCount": 27,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30671",
+      "name": "To Love Ru",
+      "volumeCount": 18,
       "ongoing": false
     },
     {
