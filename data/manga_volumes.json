@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-11-13T04:07:22Z",
+  "_generated": "2026-11-14T04:06:11Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -651,16 +651,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-105393",
-      "name": "A Returner's Magic Should Be Special",
-      "volumeCount": 6,
-      "ongoing": false
-    },
-    {
       "id": "anilist-126693",
       "name": "Choujin X",
       "volumeCount": 17,
       "ongoing": true
+    },
+    {
+      "id": "anilist-105393",
+      "name": "A Returner's Magic Should Be Special",
+      "volumeCount": 6,
+      "ongoing": false
     },
     {
       "id": "anilist-44790",
@@ -831,16 +831,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-38848",
-      "name": "Sun-Ken Rock",
-      "volumeCount": 25,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30024",
       "name": "D.Gray-man",
       "volumeCount": 29,
       "ongoing": true
+    },
+    {
+      "id": "anilist-38848",
+      "name": "Sun-Ken Rock",
+      "volumeCount": 25,
+      "ongoing": false
     },
     {
       "id": "anilist-85911",
@@ -1251,16 +1251,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-87321",
-      "name": "Goblin Slayer",
-      "volumeCount": 16,
-      "ongoing": true
-    },
-    {
       "id": "anilist-94490",
       "name": "The Fable",
       "volumeCount": 22,
       "ongoing": false
+    },
+    {
+      "id": "anilist-87321",
+      "name": "Goblin Slayer",
+      "volumeCount": 16,
+      "ongoing": true
     },
     {
       "id": "anilist-30768",
@@ -1287,15 +1287,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-41514",
-      "name": "A Bride's Story",
-      "volumeCount": 15,
-      "ongoing": true
-    },
-    {
       "id": "anilist-180752",
       "name": "Ichi the Witch",
       "volumeCount": 10,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-41514",
+      "name": "A Bride's Story",
+      "volumeCount": 15,
       "ongoing": true
     },
     {
@@ -1449,16 +1449,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86279",
-      "name": "Boarding School Juliet",
-      "volumeCount": 16,
-      "ongoing": false
-    },
-    {
       "id": "anilist-101942",
       "name": "Heavenly Delusion",
       "volumeCount": 14,
       "ongoing": true
+    },
+    {
+      "id": "anilist-86279",
+      "name": "Boarding School Juliet",
+      "volumeCount": 16,
+      "ongoing": false
     },
     {
       "id": "anilist-105577",
@@ -1491,16 +1491,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-59211",
-      "name": "Monthly Girls' Nozaki-kun",
-      "volumeCount": 18,
-      "ongoing": true
-    },
-    {
       "id": "anilist-31474",
       "name": "Devilman",
       "volumeCount": 5,
       "ongoing": false
+    },
+    {
+      "id": "anilist-59211",
+      "name": "Monthly Girls' Nozaki-kun",
+      "volumeCount": 18,
+      "ongoing": true
     },
     {
       "id": "anilist-134369",
@@ -1683,15 +1683,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-126135",
-      "name": "Bibliomania",
-      "volumeCount": 1,
-      "ongoing": false
-    },
-    {
       "id": "anilist-104503",
       "name": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs",
       "volumeCount": 13,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-126135",
+      "name": "Bibliomania",
+      "volumeCount": 1,
       "ongoing": false
     },
     {
@@ -1851,6 +1851,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-201773",
+      "name": "Haimiya Is Scary Cute",
+      "volumeCount": 4,
+      "ongoing": true
+    },
+    {
       "id": "anilist-113488",
       "name": "Weak Hero",
       "volumeCount": 19,
@@ -1861,12 +1867,6 @@
       "name": "Bakemonogatari",
       "volumeCount": 22,
       "ongoing": false
-    },
-    {
-      "id": "anilist-201773",
-      "name": "Haimiya Is Scary Cute",
-      "volumeCount": 4,
-      "ongoing": true
     },
     {
       "id": "anilist-97842",
@@ -1929,15 +1929,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-60079",
-      "name": "The Sound of Magic: Annarasumanara",
-      "volumeCount": 3,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30651",
       "name": "Nausicaä of the Valley of the Wind",
       "volumeCount": 7,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-60079",
+      "name": "The Sound of Magic: Annarasumanara",
+      "volumeCount": 3,
       "ongoing": false
     },
     {
@@ -2103,15 +2103,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-98112",
-      "name": "Gal Gohan",
-      "volumeCount": 10,
-      "ongoing": false
-    },
-    {
       "id": "anilist-112621",
       "name": "I Can't Say No to the Lonely Girl",
       "volumeCount": 6,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-98112",
+      "name": "Gal Gohan",
+      "volumeCount": 10,
       "ongoing": false
     },
     {
