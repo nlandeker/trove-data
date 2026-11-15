@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-11-14T04:06:11Z",
+  "_generated": "2026-11-15T04:06:44Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -345,16 +345,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-105469",
-      "name": "Jujutsu Kaisen 0",
-      "volumeCount": 1,
-      "ongoing": false
-    },
-    {
       "id": "anilist-169355",
       "name": "Kagurabachi",
       "volumeCount": 12,
       "ongoing": true
+    },
+    {
+      "id": "anilist-105469",
+      "name": "Jujutsu Kaisen 0",
+      "volumeCount": 1,
+      "ongoing": false
     },
     {
       "id": "anilist-98842",
@@ -393,15 +393,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-101233",
-      "name": "The Way of the Househusband",
-      "volumeCount": 17,
-      "ongoing": true
-    },
-    {
       "id": "anilist-144946",
       "name": "Gachiakuta",
       "volumeCount": 19,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-101233",
+      "name": "The Way of the Househusband",
+      "volumeCount": 17,
       "ongoing": true
     },
     {
@@ -1011,15 +1011,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-87208",
-      "name": "Our Dreams at Dusk: Shimanami Tasogare",
-      "volumeCount": 4,
-      "ongoing": false
-    },
-    {
       "id": "anilist-110462",
       "name": "Tomb Raider King",
       "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-87208",
+      "name": "Our Dreams at Dusk: Shimanami Tasogare",
+      "volumeCount": 4,
       "ongoing": false
     },
     {
@@ -1341,15 +1341,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-69325",
-      "name": "Erased",
-      "volumeCount": 9,
-      "ongoing": false
-    },
-    {
       "id": "anilist-114791",
       "name": "Undead Unluck",
       "volumeCount": 27,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-69325",
+      "name": "Erased",
+      "volumeCount": 9,
       "ongoing": false
     },
     {
@@ -1755,6 +1755,12 @@
       "ongoing": true
     },
     {
+      "id": "anilist-176740",
+      "name": "Centuria",
+      "volumeCount": 10,
+      "ongoing": true
+    },
+    {
       "id": "anilist-99609",
       "name": "I Want to Eat Your Pancreas",
       "volumeCount": 2,
@@ -1764,12 +1770,6 @@
       "id": "anilist-87225",
       "name": "Tsukimichi: Moonlit Fantasy",
       "volumeCount": 20,
-      "ongoing": true
-    },
-    {
-      "id": "anilist-176740",
-      "name": "Centuria",
-      "volumeCount": 10,
       "ongoing": true
     },
     {
@@ -1845,16 +1845,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86607",
-      "name": "Gleipnir",
-      "volumeCount": 14,
-      "ongoing": false
-    },
-    {
       "id": "anilist-201773",
       "name": "Haimiya Is Scary Cute",
       "volumeCount": 4,
       "ongoing": true
+    },
+    {
+      "id": "anilist-86607",
+      "name": "Gleipnir",
+      "volumeCount": 14,
+      "ongoing": false
     },
     {
       "id": "anilist-113488",
@@ -1947,16 +1947,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-78881",
-      "name": "Darwin's Game",
-      "volumeCount": 30,
-      "ongoing": false
-    },
-    {
       "id": "anilist-113055",
       "name": "The Remarried Empress",
       "volumeCount": 11,
       "ongoing": true
+    },
+    {
+      "id": "anilist-78881",
+      "name": "Darwin's Game",
+      "volumeCount": 30,
+      "ongoing": false
     },
     {
       "id": "anilist-100937",
@@ -2007,16 +2007,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-40552",
-      "name": "Lucifer and the Biscuit Hammer",
-      "volumeCount": 10,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30735",
       "name": "Black Lagoon",
       "volumeCount": 14,
       "ongoing": true
+    },
+    {
+      "id": "anilist-40552",
+      "name": "Lucifer and the Biscuit Hammer",
+      "volumeCount": 10,
+      "ongoing": false
     },
     {
       "id": "anilist-70171",
@@ -2265,16 +2265,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-87234",
-      "name": "The Elder Sister-Like One",
-      "volumeCount": 6,
-      "ongoing": true
-    },
-    {
       "id": "anilist-31149",
       "name": "Fist of the North Star",
       "volumeCount": 27,
       "ongoing": false
+    },
+    {
+      "id": "anilist-87234",
+      "name": "The Elder Sister-Like One",
+      "volumeCount": 6,
+      "ongoing": true
     },
     {
       "id": "anilist-30671",
