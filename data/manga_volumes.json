@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-11-15T04:06:44Z",
+  "_generated": "2026-11-16T04:07:26Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -459,12 +459,6 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30104",
-      "name": "Yotsuba&!",
-      "volumeCount": 16,
-      "ongoing": true
-    },
-    {
       "id": "anilist-79865",
       "name": "Ajin: Demi-Human",
       "volumeCount": 17,
@@ -715,6 +709,12 @@
       "name": "Food Wars!: Shokugeki no Soma",
       "volumeCount": 36,
       "ongoing": false
+    },
+    {
+      "id": "anilist-85564",
+      "name": "Mushoku Tensei: Jobless Reincarnation",
+      "volumeCount": 25,
+      "ongoing": true
     },
     {
       "id": "anilist-99022",
@@ -1149,15 +1149,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-65003",
-      "name": "Yamada-kun and the Seven Witches",
-      "volumeCount": 28,
-      "ongoing": false
-    },
-    {
       "id": "anilist-39982",
       "name": "Usogui",
       "volumeCount": 49,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-65003",
+      "name": "Yamada-kun and the Seven Witches",
+      "volumeCount": 28,
       "ongoing": false
     },
     {
@@ -1695,16 +1695,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-33438",
-      "name": "PSYЯEN",
-      "volumeCount": 16,
-      "ongoing": false
-    },
-    {
       "id": "anilist-103082",
       "name": "Pumpkin Night",
       "volumeCount": 18,
       "ongoing": true
+    },
+    {
+      "id": "anilist-33438",
+      "name": "PSYЯEN",
+      "volumeCount": 16,
+      "ongoing": false
     },
     {
       "id": "anilist-122063",
@@ -1749,15 +1749,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-153432",
-      "name": "The Reaper",
-      "volumeCount": 4,
-      "ongoing": true
-    },
-    {
       "id": "anilist-176740",
       "name": "Centuria",
       "volumeCount": 10,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-87225",
+      "name": "Tsukimichi: Moonlit Fantasy",
+      "volumeCount": 20,
       "ongoing": true
     },
     {
@@ -1765,12 +1765,6 @@
       "name": "I Want to Eat Your Pancreas",
       "volumeCount": 2,
       "ongoing": false
-    },
-    {
-      "id": "anilist-87225",
-      "name": "Tsukimichi: Moonlit Fantasy",
-      "volumeCount": 20,
-      "ongoing": true
     },
     {
       "id": "anilist-52651",
@@ -1785,15 +1779,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-67707",
-      "name": "Your Lie in April",
-      "volumeCount": 11,
-      "ongoing": false
-    },
-    {
       "id": "anilist-114027",
       "name": "Boy Meets Maria",
       "volumeCount": 1,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-67707",
+      "name": "Your Lie in April",
+      "volumeCount": 11,
       "ongoing": false
     },
     {
@@ -1833,15 +1827,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-31101",
-      "name": "Akumetsu",
-      "volumeCount": 18,
-      "ongoing": false
-    },
-    {
       "id": "anilist-110605",
       "name": "Leviathan",
       "volumeCount": 9,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-31101",
+      "name": "Akumetsu",
+      "volumeCount": 18,
       "ongoing": false
     },
     {
@@ -2115,16 +2109,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-97337",
-      "name": "your name.",
-      "volumeCount": 3,
-      "ongoing": false
-    },
-    {
       "id": "anilist-171729",
       "name": "Love Bullet",
       "volumeCount": 2,
       "ongoing": true
+    },
+    {
+      "id": "anilist-97337",
+      "name": "your name.",
+      "volumeCount": 3,
+      "ongoing": false
     },
     {
       "id": "anilist-30074",
@@ -2277,15 +2271,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-30671",
-      "name": "To Love Ru",
-      "volumeCount": 18,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30085",
       "name": "Azumanga Daioh",
       "volumeCount": 4,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30671",
+      "name": "To Love Ru",
+      "volumeCount": 18,
       "ongoing": false
     },
     {
@@ -2376,12 +2370,6 @@
       "id": "anilist-86355",
       "name": "That Time I Got Reincarnated as a Slime",
       "volumeCount": 23,
-      "ongoing": false
-    },
-    {
-      "id": "anilist-87213",
-      "name": "Yuuna and the Haunted Hot Springs",
-      "volumeCount": 24,
       "ongoing": false
     }
   ]
