@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-11-16T04:07:26Z",
+  "_generated": "2026-11-17T04:07:14Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -95,7 +95,7 @@
     {
       "id": "anilist-106130",
       "name": "Blue Lock",
-      "volumeCount": 40,
+      "volumeCount": 41,
       "ongoing": true
     },
     {
@@ -459,6 +459,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-30104",
+      "name": "Yotsuba&!",
+      "volumeCount": 16,
+      "ongoing": true
+    },
+    {
       "id": "anilist-79865",
       "name": "Ajin: Demi-Human",
       "volumeCount": 17,
@@ -479,7 +485,7 @@
     {
       "id": "anilist-99943",
       "name": "Rent-A-Girlfriend",
-      "volumeCount": 47,
+      "volumeCount": 48,
       "ongoing": true
     },
     {
@@ -1623,15 +1629,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30010",
-      "name": "xxxHOLiC",
-      "volumeCount": 19,
-      "ongoing": false
-    },
-    {
       "id": "anilist-198372",
       "name": "Jujutsu Kaisen Modulo",
       "volumeCount": 3,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30010",
+      "name": "xxxHOLiC",
+      "volumeCount": 19,
       "ongoing": false
     },
     {
@@ -1695,16 +1701,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-103082",
-      "name": "Pumpkin Night",
-      "volumeCount": 18,
-      "ongoing": true
-    },
-    {
       "id": "anilist-33438",
       "name": "PSYЯEN",
       "volumeCount": 16,
       "ongoing": false
+    },
+    {
+      "id": "anilist-103082",
+      "name": "Pumpkin Night",
+      "volumeCount": 18,
+      "ongoing": true
     },
     {
       "id": "anilist-122063",
@@ -1752,6 +1758,12 @@
       "id": "anilist-176740",
       "name": "Centuria",
       "volumeCount": 10,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-153432",
+      "name": "The Reaper",
+      "volumeCount": 4,
       "ongoing": true
     },
     {
@@ -1821,6 +1833,12 @@
       "ongoing": true
     },
     {
+      "id": "anilist-201773",
+      "name": "Haimiya Is Scary Cute",
+      "volumeCount": 4,
+      "ongoing": true
+    },
+    {
       "id": "anilist-104241",
       "name": "How Do We Relationship?",
       "volumeCount": 14,
@@ -1837,12 +1855,6 @@
       "name": "Akumetsu",
       "volumeCount": 18,
       "ongoing": false
-    },
-    {
-      "id": "anilist-201773",
-      "name": "Haimiya Is Scary Cute",
-      "volumeCount": 4,
-      "ongoing": true
     },
     {
       "id": "anilist-86607",
@@ -1893,15 +1905,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-65719",
-      "name": "Like a Butterfly",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-159142",
       "name": "Firefly Wedding",
       "volumeCount": 13,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-65719",
+      "name": "Like a Butterfly",
+      "volumeCount": 12,
       "ongoing": false
     },
     {
@@ -1935,16 +1947,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-125624",
-      "name": "Even If You Slit My Mouth",
-      "volumeCount": 11,
-      "ongoing": false
-    },
-    {
       "id": "anilist-113055",
       "name": "The Remarried Empress",
       "volumeCount": 11,
       "ongoing": true
+    },
+    {
+      "id": "anilist-125624",
+      "name": "Even If You Slit My Mouth",
+      "volumeCount": 11,
+      "ongoing": false
     },
     {
       "id": "anilist-78881",
@@ -2025,15 +2037,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-98370",
-      "name": "Sasaki and Miyano",
-      "volumeCount": 11,
-      "ongoing": true
-    },
-    {
       "id": "anilist-111258",
       "name": "Bocchi the Rock!",
       "volumeCount": 8,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-98370",
+      "name": "Sasaki and Miyano",
+      "volumeCount": 11,
       "ongoing": true
     },
     {
@@ -2043,16 +2055,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-34571",
-      "name": "Snow White with the Red Hair",
-      "volumeCount": 27,
-      "ongoing": true
-    },
-    {
       "id": "anilist-121565",
       "name": "Seasons of Blossom",
       "volumeCount": 12,
       "ongoing": false
+    },
+    {
+      "id": "anilist-34571",
+      "name": "Snow White with the Red Hair",
+      "volumeCount": 27,
+      "ongoing": true
     },
     {
       "id": "anilist-85616",
@@ -2139,15 +2151,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-103255",
-      "name": "Fairy Tail: 100 Years Quest",
-      "volumeCount": 24,
-      "ongoing": true
-    },
-    {
       "id": "anilist-58533",
       "name": "No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!",
       "volumeCount": 29,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-103255",
+      "name": "Fairy Tail: 100 Years Quest",
+      "volumeCount": 24,
       "ongoing": true
     },
     {
@@ -2195,7 +2207,7 @@
     {
       "id": "anilist-169272",
       "name": "Tune In to the Midnight Heart",
-      "volumeCount": 14,
+      "volumeCount": 15,
       "ongoing": true
     },
     {
@@ -2211,15 +2223,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-31373",
-      "name": "Nijigahara Holograph",
-      "volumeCount": 1,
-      "ongoing": false
-    },
-    {
       "id": "anilist-96518",
       "name": "Bokutachi ga Yarimashita",
       "volumeCount": 9,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-31373",
+      "name": "Nijigahara Holograph",
+      "volumeCount": 1,
       "ongoing": false
     },
     {
@@ -2235,15 +2247,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-99549",
-      "name": "Karakai Jouzu no (Moto) Takagi-san",
-      "volumeCount": 23,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30142",
       "name": "Battle Royale",
       "volumeCount": 15,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-99549",
+      "name": "Karakai Jouzu no (Moto) Takagi-san",
+      "volumeCount": 23,
       "ongoing": false
     },
     {
@@ -2259,16 +2271,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-31149",
-      "name": "Fist of the North Star",
-      "volumeCount": 27,
-      "ongoing": false
-    },
-    {
       "id": "anilist-87234",
       "name": "The Elder Sister-Like One",
       "volumeCount": 6,
       "ongoing": true
+    },
+    {
+      "id": "anilist-31149",
+      "name": "Fist of the North Star",
+      "volumeCount": 27,
+      "ongoing": false
     },
     {
       "id": "anilist-30085",
