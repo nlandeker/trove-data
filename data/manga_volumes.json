@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-11-17T04:07:14Z",
+  "_generated": "2026-11-18T04:06:29Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -305,7 +305,7 @@
     {
       "id": "anilist-46765",
       "name": "Kingdom",
-      "volumeCount": 80,
+      "volumeCount": 81,
       "ongoing": true
     },
     {
@@ -885,15 +885,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-94970",
-      "name": "Classroom of the Elite",
-      "volumeCount": 14,
-      "ongoing": false
-    },
-    {
       "id": "anilist-63031",
       "name": "Alice in Borderland",
       "volumeCount": 18,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-94970",
+      "name": "Classroom of the Elite",
+      "volumeCount": 14,
       "ongoing": false
     },
     {
@@ -1343,7 +1343,7 @@
     {
       "id": "anilist-107987",
       "name": "Whisper Me a Love Song",
-      "volumeCount": 12,
+      "volumeCount": 13,
       "ongoing": true
     },
     {
@@ -1353,15 +1353,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-69325",
-      "name": "Erased",
-      "volumeCount": 9,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30418",
       "name": "Mushishi",
       "volumeCount": 10,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-69325",
+      "name": "Erased",
+      "volumeCount": 9,
       "ongoing": false
     },
     {
@@ -1659,16 +1659,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-114383",
-      "name": "A Couple of Cuckoos",
-      "volumeCount": 34,
-      "ongoing": true
-    },
-    {
       "id": "anilist-102989",
       "name": "Summertime Rendering",
       "volumeCount": 13,
       "ongoing": false
+    },
+    {
+      "id": "anilist-114383",
+      "name": "A Couple of Cuckoos",
+      "volumeCount": 34,
+      "ongoing": true
     },
     {
       "id": "anilist-30731",
@@ -1701,16 +1701,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-33438",
-      "name": "PSYЯEN",
-      "volumeCount": 16,
-      "ongoing": false
-    },
-    {
       "id": "anilist-103082",
       "name": "Pumpkin Night",
       "volumeCount": 18,
       "ongoing": true
+    },
+    {
+      "id": "anilist-33438",
+      "name": "PSYЯEN",
+      "volumeCount": 16,
+      "ongoing": false
     },
     {
       "id": "anilist-122063",
@@ -1779,15 +1779,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-52651",
-      "name": "THE BREAKER - NEW WAVES",
-      "volumeCount": 20,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30029",
       "name": "Paradise Kiss",
       "volumeCount": 5,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-52651",
+      "name": "THE BREAKER - NEW WAVES",
+      "volumeCount": 20,
       "ongoing": false
     },
     {
@@ -1839,15 +1839,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-104241",
-      "name": "How Do We Relationship?",
-      "volumeCount": 14,
-      "ongoing": false
-    },
-    {
       "id": "anilist-110605",
       "name": "Leviathan",
       "volumeCount": 9,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-104241",
+      "name": "How Do We Relationship?",
+      "volumeCount": 14,
       "ongoing": false
     },
     {
@@ -2079,16 +2079,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-86549",
-      "name": "Go For It, Nakamura!",
-      "volumeCount": 1,
-      "ongoing": false
-    },
-    {
       "id": "anilist-143031",
       "name": "I Want to End This Love Game",
       "volumeCount": 9,
       "ongoing": true
+    },
+    {
+      "id": "anilist-86549",
+      "name": "Go For It, Nakamura!",
+      "volumeCount": 1,
+      "ongoing": false
     },
     {
       "id": "anilist-103111",
@@ -2217,15 +2217,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30463",
-      "name": "Welcome to the N.H.K.",
-      "volumeCount": 8,
-      "ongoing": false
-    },
-    {
       "id": "anilist-96518",
       "name": "Bokutachi ga Yarimashita",
       "volumeCount": 9,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30463",
+      "name": "Welcome to the N.H.K.",
+      "volumeCount": 8,
       "ongoing": false
     },
     {
@@ -2271,16 +2271,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-87234",
-      "name": "The Elder Sister-Like One",
-      "volumeCount": 6,
-      "ongoing": true
-    },
-    {
       "id": "anilist-31149",
       "name": "Fist of the North Star",
       "volumeCount": 27,
       "ongoing": false
+    },
+    {
+      "id": "anilist-87234",
+      "name": "The Elder Sister-Like One",
+      "volumeCount": 6,
+      "ongoing": true
     },
     {
       "id": "anilist-30085",
@@ -2355,16 +2355,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-35255",
-      "name": "Dengeki Daisy",
-      "volumeCount": 16,
-      "ongoing": false
-    },
-    {
       "id": "anilist-118695",
       "name": "I’m in Love with the Villainess",
       "volumeCount": 5,
       "ongoing": true
+    },
+    {
+      "id": "anilist-35255",
+      "name": "Dengeki Daisy",
+      "volumeCount": 16,
+      "ongoing": false
     },
     {
       "id": "anilist-110785",
