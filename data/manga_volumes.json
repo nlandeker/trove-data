@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-11-18T04:06:29Z",
+  "_generated": "2026-11-19T04:07:22Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -321,15 +321,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-54705",
-      "name": "The Flowers of Evil",
-      "volumeCount": 11,
-      "ongoing": false
-    },
-    {
       "id": "anilist-37375",
       "name": "The Climber",
       "volumeCount": 17,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-54705",
+      "name": "The Flowers of Evil",
+      "volumeCount": 11,
       "ongoing": false
     },
     {
@@ -441,15 +441,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-100568",
-      "name": "The Horizon",
-      "volumeCount": 3,
-      "ongoing": false
-    },
-    {
       "id": "anilist-136807",
       "name": "Look Back",
       "volumeCount": 1,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-100568",
+      "name": "The Horizon",
+      "volumeCount": 3,
       "ongoing": false
     },
     {
@@ -759,16 +759,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-105097",
-      "name": "Mieruko-chan",
-      "volumeCount": 14,
-      "ongoing": true
-    },
-    {
       "id": "anilist-119174",
       "name": "The Boxer",
       "volumeCount": 13,
       "ongoing": false
+    },
+    {
+      "id": "anilist-105097",
+      "name": "Mieruko-chan",
+      "volumeCount": 14,
+      "ongoing": true
     },
     {
       "id": "anilist-144957",
@@ -1659,6 +1659,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-30731",
+      "name": "Eden: It's an Endless World!",
+      "volumeCount": 18,
+      "ongoing": false
+    },
+    {
       "id": "anilist-102989",
       "name": "Summertime Rendering",
       "volumeCount": 13,
@@ -1669,12 +1675,6 @@
       "name": "A Couple of Cuckoos",
       "volumeCount": 34,
       "ongoing": true
-    },
-    {
-      "id": "anilist-30731",
-      "name": "Eden: It's an Endless World!",
-      "volumeCount": 18,
-      "ongoing": false
     },
     {
       "id": "anilist-66413",
@@ -1758,12 +1758,6 @@
       "id": "anilist-176740",
       "name": "Centuria",
       "volumeCount": 10,
-      "ongoing": true
-    },
-    {
-      "id": "anilist-153432",
-      "name": "The Reaper",
-      "volumeCount": 4,
       "ongoing": true
     },
     {
@@ -2019,15 +2013,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-40552",
-      "name": "Lucifer and the Biscuit Hammer",
-      "volumeCount": 10,
-      "ongoing": false
-    },
-    {
       "id": "anilist-70171",
       "name": "My Youth Romantic Comedy Is Wrong, As I Expected",
       "volumeCount": 18,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-40552",
+      "name": "Lucifer and the Biscuit Hammer",
+      "volumeCount": 10,
       "ongoing": false
     },
     {
@@ -2073,15 +2067,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-101625",
-      "name": "Berserk of Gluttony",
-      "volumeCount": 8,
-      "ongoing": true
-    },
-    {
       "id": "anilist-143031",
       "name": "I Want to End This Love Game",
       "volumeCount": 9,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-101625",
+      "name": "Berserk of Gluttony",
+      "volumeCount": 8,
       "ongoing": true
     },
     {
@@ -2151,15 +2145,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-58533",
-      "name": "No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!",
-      "volumeCount": 29,
-      "ongoing": true
-    },
-    {
       "id": "anilist-103255",
       "name": "Fairy Tail: 100 Years Quest",
       "volumeCount": 24,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-58533",
+      "name": "No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!",
+      "volumeCount": 29,
       "ongoing": true
     },
     {
@@ -2379,9 +2373,9 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86355",
-      "name": "That Time I Got Reincarnated as a Slime",
-      "volumeCount": 23,
+      "id": "anilist-130300",
+      "name": "Father, I Don't Want this Marriage",
+      "volumeCount": 8,
       "ongoing": false
     }
   ]
