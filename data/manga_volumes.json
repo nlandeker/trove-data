@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-11-19T04:07:22Z",
+  "_generated": "2026-11-20T04:06:53Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -233,7 +233,7 @@
     {
       "id": "anilist-125828",
       "name": "Sakamoto Days",
-      "volumeCount": 29,
+      "volumeCount": 31,
       "ongoing": true
     },
     {
@@ -389,7 +389,7 @@
     {
       "id": "anilist-107098",
       "name": "Record of Ragnarok",
-      "volumeCount": 28,
+      "volumeCount": 29,
       "ongoing": true
     },
     {
@@ -767,7 +767,7 @@
     {
       "id": "anilist-105097",
       "name": "Mieruko-chan",
-      "volumeCount": 14,
+      "volumeCount": 15,
       "ongoing": true
     },
     {
@@ -777,16 +777,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-98328",
-      "name": "Jagaaan",
-      "volumeCount": 14,
-      "ongoing": false
-    },
-    {
       "id": "anilist-147149",
       "name": "Smoking Behind the Supermarket with You",
       "volumeCount": 9,
       "ongoing": true
+    },
+    {
+      "id": "anilist-98328",
+      "name": "Jagaaan",
+      "volumeCount": 14,
+      "ongoing": false
     },
     {
       "id": "anilist-150378",
@@ -1187,7 +1187,7 @@
     {
       "id": "anilist-109285",
       "name": "Skip and Loafer",
-      "volumeCount": 13,
+      "volumeCount": 14,
       "ongoing": true
     },
     {
@@ -1431,15 +1431,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-30053",
-      "name": "Yu Yu Hakusho",
-      "volumeCount": 19,
-      "ongoing": false
-    },
-    {
       "id": "anilist-105332",
       "name": "Sweat and Soap",
       "volumeCount": 11,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30053",
+      "name": "Yu Yu Hakusho",
+      "volumeCount": 19,
       "ongoing": false
     },
     {
@@ -1749,15 +1749,21 @@
       "ongoing": false
     },
     {
+      "id": "anilist-176740",
+      "name": "Centuria",
+      "volumeCount": 10,
+      "ongoing": true
+    },
+    {
       "id": "anilist-141261",
       "name": "Ayashimon",
       "volumeCount": 3,
       "ongoing": false
     },
     {
-      "id": "anilist-176740",
-      "name": "Centuria",
-      "volumeCount": 10,
+      "id": "anilist-153432",
+      "name": "The Reaper",
+      "volumeCount": 4,
       "ongoing": true
     },
     {
@@ -1821,27 +1827,27 @@
       "ongoing": true
     },
     {
-      "id": "anilist-135083",
-      "name": "WIND BREAKER",
-      "volumeCount": 27,
-      "ongoing": true
-    },
-    {
       "id": "anilist-201773",
       "name": "Haimiya Is Scary Cute",
       "volumeCount": 4,
       "ongoing": true
     },
     {
-      "id": "anilist-110605",
-      "name": "Leviathan",
-      "volumeCount": 9,
-      "ongoing": false
+      "id": "anilist-135083",
+      "name": "WIND BREAKER",
+      "volumeCount": 27,
+      "ongoing": true
     },
     {
       "id": "anilist-104241",
       "name": "How Do We Relationship?",
       "volumeCount": 14,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-110605",
+      "name": "Leviathan",
+      "volumeCount": 9,
       "ongoing": false
     },
     {
@@ -1935,16 +1941,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-60079",
-      "name": "The Sound of Magic: Annarasumanara",
-      "volumeCount": 3,
-      "ongoing": false
-    },
-    {
       "id": "anilist-113055",
       "name": "The Remarried Empress",
       "volumeCount": 11,
       "ongoing": true
+    },
+    {
+      "id": "anilist-60079",
+      "name": "The Sound of Magic: Annarasumanara",
+      "volumeCount": 3,
+      "ongoing": false
     },
     {
       "id": "anilist-125624",
@@ -2043,16 +2049,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-78151",
-      "name": "World Trigger",
-      "volumeCount": 30,
-      "ongoing": true
-    },
-    {
       "id": "anilist-121565",
       "name": "Seasons of Blossom",
       "volumeCount": 12,
       "ongoing": false
+    },
+    {
+      "id": "anilist-78151",
+      "name": "World Trigger",
+      "volumeCount": 30,
+      "ongoing": true
     },
     {
       "id": "anilist-34571",
@@ -2187,15 +2193,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-44893",
-      "name": "Bakemonogatari: Monster Tale",
-      "volumeCount": 2,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30106",
       "name": "Cardcaptor Sakura",
       "volumeCount": 12,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-44893",
+      "name": "Bakemonogatari: Monster Tale",
+      "volumeCount": 2,
       "ongoing": false
     },
     {
@@ -2271,16 +2277,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-87234",
-      "name": "The Elder Sister-Like One",
-      "volumeCount": 6,
-      "ongoing": true
-    },
-    {
       "id": "anilist-30085",
       "name": "Azumanga Daioh",
       "volumeCount": 4,
       "ongoing": false
+    },
+    {
+      "id": "anilist-87234",
+      "name": "The Elder Sister-Like One",
+      "volumeCount": 6,
+      "ongoing": true
     },
     {
       "id": "anilist-30671",
@@ -2331,16 +2337,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-100207",
-      "name": "The Great Jahy Will Not Be Defeated!",
-      "volumeCount": 12,
-      "ongoing": true
-    },
-    {
       "id": "anilist-30904",
       "name": "Lone Wolf and Cub",
       "volumeCount": 28,
       "ongoing": false
+    },
+    {
+      "id": "anilist-100207",
+      "name": "The Great Jahy Will Not Be Defeated!",
+      "volumeCount": 12,
+      "ongoing": true
     },
     {
       "id": "anilist-39115",
