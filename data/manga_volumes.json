@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-11-20T04:06:53Z",
+  "_generated": "2026-11-21T04:07:17Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -459,12 +459,6 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30104",
-      "name": "Yotsuba&!",
-      "volumeCount": 16,
-      "ongoing": true
-    },
-    {
       "id": "anilist-79865",
       "name": "Ajin: Demi-Human",
       "volumeCount": 17,
@@ -663,15 +657,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-44790",
-      "name": "Magi: The Labyrinth of Magic",
-      "volumeCount": 37,
-      "ongoing": false
-    },
-    {
       "id": "anilist-38967",
       "name": "Onani Master Kurosawa",
       "volumeCount": 4,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-44790",
+      "name": "Magi: The Labyrinth of Magic",
+      "volumeCount": 37,
       "ongoing": false
     },
     {
@@ -831,15 +825,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-43492",
-      "name": "Blue Exorcist",
-      "volumeCount": 34,
-      "ongoing": true
-    },
-    {
       "id": "anilist-30024",
       "name": "D.Gray-man",
       "volumeCount": 29,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-43492",
+      "name": "Blue Exorcist",
+      "volumeCount": 34,
       "ongoing": true
     },
     {
@@ -1287,16 +1281,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85533",
-      "name": "Teasing Master Takagi-san",
-      "volumeCount": 20,
-      "ongoing": false
-    },
-    {
       "id": "anilist-180752",
       "name": "Ichi the Witch",
       "volumeCount": 10,
       "ongoing": true
+    },
+    {
+      "id": "anilist-85533",
+      "name": "Teasing Master Takagi-san",
+      "volumeCount": 20,
+      "ongoing": false
     },
     {
       "id": "anilist-41514",
@@ -1503,27 +1497,27 @@
       "ongoing": false
     },
     {
-      "id": "anilist-59211",
-      "name": "Monthly Girls' Nozaki-kun",
-      "volumeCount": 18,
-      "ongoing": true
-    },
-    {
       "id": "anilist-134369",
       "name": "Medaka Kuroiwa is Impervious to My Charms",
       "volumeCount": 26,
       "ongoing": true
     },
     {
-      "id": "anilist-30022",
-      "name": "Rurouni Kenshin",
-      "volumeCount": 28,
-      "ongoing": false
+      "id": "anilist-59211",
+      "name": "Monthly Girls' Nozaki-kun",
+      "volumeCount": 18,
+      "ongoing": true
     },
     {
       "id": "anilist-107279",
       "name": "Aoashi",
       "volumeCount": 40,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30022",
+      "name": "Rurouni Kenshin",
+      "volumeCount": 28,
       "ongoing": false
     },
     {
@@ -1653,15 +1647,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-40010",
-      "name": "Beelzebub",
-      "volumeCount": 28,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30731",
       "name": "Eden: It's an Endless World!",
       "volumeCount": 18,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-40010",
+      "name": "Beelzebub",
+      "volumeCount": 28,
       "ongoing": false
     },
     {
@@ -1839,15 +1833,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-104241",
-      "name": "How Do We Relationship?",
-      "volumeCount": 14,
-      "ongoing": false
-    },
-    {
       "id": "anilist-110605",
       "name": "Leviathan",
       "volumeCount": 9,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-104241",
+      "name": "How Do We Relationship?",
+      "volumeCount": 14,
       "ongoing": false
     },
     {
@@ -1935,16 +1929,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30651",
-      "name": "Nausicaä of the Valley of the Wind",
-      "volumeCount": 7,
-      "ongoing": false
-    },
-    {
       "id": "anilist-113055",
       "name": "The Remarried Empress",
       "volumeCount": 11,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30651",
+      "name": "Nausicaä of the Valley of the Wind",
+      "volumeCount": 7,
+      "ongoing": false
     },
     {
       "id": "anilist-60079",
@@ -1965,16 +1959,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-100937",
-      "name": "DARLING in the FRANXX",
-      "volumeCount": 8,
-      "ongoing": false
-    },
-    {
       "id": "anilist-153880",
       "name": "The Art of Reincarnation",
       "volumeCount": 12,
       "ongoing": true
+    },
+    {
+      "id": "anilist-100937",
+      "name": "DARLING in the FRANXX",
+      "volumeCount": 8,
+      "ongoing": false
     },
     {
       "id": "anilist-86481",
@@ -2151,15 +2145,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-103255",
-      "name": "Fairy Tail: 100 Years Quest",
-      "volumeCount": 24,
-      "ongoing": true
-    },
-    {
       "id": "anilist-58533",
       "name": "No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!",
       "volumeCount": 29,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-103255",
+      "name": "Fairy Tail: 100 Years Quest",
+      "volumeCount": 24,
       "ongoing": true
     },
     {
@@ -2271,15 +2265,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-31149",
-      "name": "Fist of the North Star",
-      "volumeCount": 27,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30085",
       "name": "Azumanga Daioh",
       "volumeCount": 4,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-31149",
+      "name": "Fist of the North Star",
+      "volumeCount": 27,
       "ongoing": false
     },
     {
