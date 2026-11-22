@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-11-21T04:07:17Z",
+  "_generated": "2026-11-22T04:06:29Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -993,16 +993,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30743",
-      "name": "21st Century Boys",
-      "volumeCount": 2,
-      "ongoing": false
-    },
-    {
       "id": "anilist-105011",
       "name": "More Than a Married Couple, but Not Lovers.",
       "volumeCount": 13,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30743",
+      "name": "21st Century Boys",
+      "volumeCount": 2,
+      "ongoing": false
     },
     {
       "id": "anilist-31630",
@@ -1143,16 +1143,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-113501",
-      "name": "Please Go Home, Miss Akutsu!",
-      "volumeCount": 11,
-      "ongoing": true
-    },
-    {
       "id": "anilist-39982",
       "name": "Usogui",
       "volumeCount": 49,
       "ongoing": false
+    },
+    {
+      "id": "anilist-113501",
+      "name": "Please Go Home, Miss Akutsu!",
+      "volumeCount": 11,
+      "ongoing": true
     },
     {
       "id": "anilist-65003",
@@ -1617,15 +1617,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85388",
-      "name": "High-Rise Invasion",
-      "volumeCount": 21,
-      "ongoing": false
-    },
-    {
       "id": "anilist-198372",
       "name": "Jujutsu Kaisen Modulo",
       "volumeCount": 3,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85388",
+      "name": "High-Rise Invasion",
+      "volumeCount": 21,
       "ongoing": false
     },
     {
@@ -1647,15 +1647,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30731",
-      "name": "Eden: It's an Endless World!",
-      "volumeCount": 18,
-      "ongoing": false
-    },
-    {
       "id": "anilist-40010",
       "name": "Beelzebub",
       "volumeCount": 28,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30731",
+      "name": "Eden: It's an Endless World!",
+      "volumeCount": 18,
       "ongoing": false
     },
     {
@@ -1755,12 +1755,6 @@
       "ongoing": false
     },
     {
-      "id": "anilist-153432",
-      "name": "The Reaper",
-      "volumeCount": 4,
-      "ongoing": true
-    },
-    {
       "id": "anilist-87225",
       "name": "Tsukimichi: Moonlit Fantasy",
       "volumeCount": 20,
@@ -1833,15 +1827,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-110605",
-      "name": "Leviathan",
-      "volumeCount": 9,
-      "ongoing": false
-    },
-    {
       "id": "anilist-104241",
       "name": "How Do We Relationship?",
       "volumeCount": 14,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-110605",
+      "name": "Leviathan",
+      "volumeCount": 9,
       "ongoing": false
     },
     {
@@ -1953,16 +1947,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-78881",
-      "name": "Darwin's Game",
-      "volumeCount": 30,
-      "ongoing": false
-    },
-    {
       "id": "anilist-153880",
       "name": "The Art of Reincarnation",
       "volumeCount": 12,
       "ongoing": true
+    },
+    {
+      "id": "anilist-78881",
+      "name": "Darwin's Game",
+      "volumeCount": 30,
+      "ongoing": false
     },
     {
       "id": "anilist-100937",
@@ -1983,15 +1977,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-113076",
-      "name": "Sometimes Even Reality Is a Lie!",
-      "volumeCount": 9,
-      "ongoing": false
-    },
-    {
       "id": "anilist-58361",
       "name": "HIDEOUT",
       "volumeCount": 1,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-113076",
+      "name": "Sometimes Even Reality Is a Lie!",
+      "volumeCount": 9,
       "ongoing": false
     },
     {
@@ -2061,16 +2055,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-85616",
-      "name": "Seaside Stranger: Umibe no Étranger",
-      "volumeCount": 1,
-      "ongoing": false
-    },
-    {
       "id": "anilist-143031",
       "name": "I Want to End This Love Game",
       "volumeCount": 9,
       "ongoing": true
+    },
+    {
+      "id": "anilist-85616",
+      "name": "Seaside Stranger: Umibe no Étranger",
+      "volumeCount": 1,
+      "ongoing": false
     },
     {
       "id": "anilist-101625",
@@ -2082,6 +2076,12 @@
       "id": "anilist-86549",
       "name": "Go For It, Nakamura!",
       "volumeCount": 1,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-68071",
+      "name": "Spirit Circle",
+      "volumeCount": 6,
       "ongoing": false
     },
     {
@@ -2097,21 +2097,9 @@
       "ongoing": false
     },
     {
-      "id": "anilist-68071",
-      "name": "Spirit Circle",
-      "volumeCount": 6,
-      "ongoing": false
-    },
-    {
       "id": "anilist-112621",
       "name": "I Can't Say No to the Lonely Girl",
       "volumeCount": 6,
-      "ongoing": false
-    },
-    {
-      "id": "anilist-98112",
-      "name": "Gal Gohan",
-      "volumeCount": 10,
       "ongoing": false
     },
     {
@@ -2119,6 +2107,12 @@
       "name": "Love Bullet",
       "volumeCount": 2,
       "ongoing": true
+    },
+    {
+      "id": "anilist-98112",
+      "name": "Gal Gohan",
+      "volumeCount": 10,
+      "ongoing": false
     },
     {
       "id": "anilist-97337",
@@ -2145,15 +2139,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-58533",
-      "name": "No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!",
-      "volumeCount": 29,
-      "ongoing": true
-    },
-    {
       "id": "anilist-103255",
       "name": "Fairy Tail: 100 Years Quest",
       "volumeCount": 24,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-58533",
+      "name": "No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!",
+      "volumeCount": 29,
       "ongoing": true
     },
     {
@@ -2265,15 +2259,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-30085",
-      "name": "Azumanga Daioh",
-      "volumeCount": 4,
-      "ongoing": false
-    },
-    {
       "id": "anilist-31149",
       "name": "Fist of the North Star",
       "volumeCount": 27,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30085",
+      "name": "Azumanga Daioh",
+      "volumeCount": 4,
       "ongoing": false
     },
     {
@@ -2307,15 +2301,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-68105",
-      "name": "Kase-san and...",
-      "volumeCount": 5,
-      "ongoing": false
-    },
-    {
       "id": "anilist-85139",
       "name": "My Monster Secret: Actually, I Am…",
       "volumeCount": 22,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-68105",
+      "name": "Kase-san and...",
+      "volumeCount": 5,
       "ongoing": false
     },
     {
