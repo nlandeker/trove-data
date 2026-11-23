@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-11-22T04:06:29Z",
+  "_generated": "2026-11-23T04:06:30Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -234,7 +234,7 @@
       "id": "anilist-125828",
       "name": "Sakamoto Days",
       "volumeCount": 31,
-      "ongoing": true
+      "ongoing": false
     },
     {
       "id": "anilist-98416",
@@ -1215,15 +1215,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-33285",
-      "name": "Holyland",
-      "volumeCount": 18,
-      "ongoing": false
-    },
-    {
       "id": "anilist-106867",
       "name": "My Dearest Self With Malice Aforethought",
       "volumeCount": 11,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-33285",
+      "name": "Holyland",
+      "volumeCount": 18,
       "ongoing": false
     },
     {
@@ -1245,15 +1245,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-43702",
-      "name": "My Little Monster",
-      "volumeCount": 13,
-      "ongoing": false
-    },
-    {
       "id": "anilist-94490",
       "name": "The Fable",
       "volumeCount": 22,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-43702",
+      "name": "My Little Monster",
+      "volumeCount": 13,
       "ongoing": false
     },
     {
@@ -1497,6 +1497,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-107279",
+      "name": "Aoashi",
+      "volumeCount": 40,
+      "ongoing": false
+    },
+    {
       "id": "anilist-134369",
       "name": "Medaka Kuroiwa is Impervious to My Charms",
       "volumeCount": 26,
@@ -1507,12 +1513,6 @@
       "name": "Monthly Girls' Nozaki-kun",
       "volumeCount": 18,
       "ongoing": true
-    },
-    {
-      "id": "anilist-107279",
-      "name": "Aoashi",
-      "volumeCount": 40,
-      "ongoing": false
     },
     {
       "id": "anilist-30022",
@@ -1647,15 +1647,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-40010",
-      "name": "Beelzebub",
-      "volumeCount": 28,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30731",
       "name": "Eden: It's an Endless World!",
       "volumeCount": 18,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-40010",
+      "name": "Beelzebub",
+      "volumeCount": 28,
       "ongoing": false
     },
     {
@@ -1773,15 +1773,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-52651",
-      "name": "THE BREAKER - NEW WAVES",
-      "volumeCount": 20,
-      "ongoing": false
-    },
-    {
       "id": "anilist-114027",
       "name": "Boy Meets Maria",
       "volumeCount": 1,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-52651",
+      "name": "THE BREAKER - NEW WAVES",
+      "volumeCount": 20,
       "ongoing": false
     },
     {
@@ -1803,6 +1803,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-201773",
+      "name": "Haimiya Is Scary Cute",
+      "volumeCount": 4,
+      "ongoing": true
+    },
+    {
       "id": "anilist-116266",
       "name": "Girlfriend, Girlfriend",
       "volumeCount": 16,
@@ -1815,27 +1821,21 @@
       "ongoing": true
     },
     {
-      "id": "anilist-201773",
-      "name": "Haimiya Is Scary Cute",
-      "volumeCount": 4,
-      "ongoing": true
-    },
-    {
       "id": "anilist-135083",
       "name": "WIND BREAKER",
       "volumeCount": 27,
       "ongoing": true
     },
     {
-      "id": "anilist-104241",
-      "name": "How Do We Relationship?",
-      "volumeCount": 14,
-      "ongoing": false
-    },
-    {
       "id": "anilist-110605",
       "name": "Leviathan",
       "volumeCount": 9,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-104241",
+      "name": "How Do We Relationship?",
+      "volumeCount": 14,
       "ongoing": false
     },
     {
@@ -2079,6 +2079,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-112544",
+      "name": "Kowloon Generic Romance",
+      "volumeCount": 12,
+      "ongoing": false
+    },
+    {
       "id": "anilist-68071",
       "name": "Spirit Circle",
       "volumeCount": 6,
@@ -2088,12 +2094,6 @@
       "id": "anilist-103111",
       "name": "My Senpai is Annoying",
       "volumeCount": 13,
-      "ongoing": false
-    },
-    {
-      "id": "anilist-112544",
-      "name": "Kowloon Generic Romance",
-      "volumeCount": 12,
       "ongoing": false
     },
     {
@@ -2301,15 +2301,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-85139",
-      "name": "My Monster Secret: Actually, I Am…",
-      "volumeCount": 22,
-      "ongoing": false
-    },
-    {
       "id": "anilist-68105",
       "name": "Kase-san and...",
       "volumeCount": 5,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85139",
+      "name": "My Monster Secret: Actually, I Am…",
+      "volumeCount": 22,
       "ongoing": false
     },
     {
@@ -2349,27 +2349,27 @@
       "ongoing": true
     },
     {
-      "id": "anilist-35255",
-      "name": "Dengeki Daisy",
-      "volumeCount": 16,
-      "ongoing": false
-    },
-    {
       "id": "anilist-110785",
       "name": "2.5 Dimensional Seduction",
       "volumeCount": 25,
       "ongoing": false
     },
     {
-      "id": "anilist-106434",
-      "name": "Hitomi-chan is Shy With Strangers",
-      "volumeCount": 12,
+      "id": "anilist-35255",
+      "name": "Dengeki Daisy",
+      "volumeCount": 16,
       "ongoing": false
     },
     {
       "id": "anilist-130300",
       "name": "Father, I Don't Want this Marriage",
       "volumeCount": 8,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-106434",
+      "name": "Hitomi-chan is Shy With Strangers",
+      "volumeCount": 12,
       "ongoing": false
     }
   ]
