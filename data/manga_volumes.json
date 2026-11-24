@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-11-23T04:06:30Z",
+  "_generated": "2026-11-24T04:06:39Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -61,6 +61,12 @@
       "name": "My Hero Academia",
       "volumeCount": 42,
       "ongoing": false
+    },
+    {
+      "id": "anilist-74347",
+      "name": "One-Punch Man",
+      "volumeCount": 37,
+      "ongoing": true
     },
     {
       "id": "anilist-30656",
@@ -1091,7 +1097,7 @@
     {
       "id": "anilist-86508",
       "name": "Dragon Ball Super",
-      "volumeCount": 24,
+      "volumeCount": 42,
       "ongoing": true
     },
     {
@@ -1491,15 +1497,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-31474",
-      "name": "Devilman",
-      "volumeCount": 5,
-      "ongoing": false
-    },
-    {
       "id": "anilist-107279",
       "name": "Aoashi",
       "volumeCount": 40,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-31474",
+      "name": "Devilman",
+      "volumeCount": 5,
       "ongoing": false
     },
     {
@@ -1539,15 +1545,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-37519",
-      "name": "Kami nomi zo Shiru Sekai",
-      "volumeCount": 26,
-      "ongoing": false
-    },
-    {
       "id": "anilist-111403",
       "name": "Hokkaido Gals Are Super Adorable!",
       "volumeCount": 14,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-37519",
+      "name": "Kami nomi zo Shiru Sekai",
+      "volumeCount": 26,
       "ongoing": false
     },
     {
@@ -1683,15 +1689,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-104503",
-      "name": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs",
-      "volumeCount": 13,
-      "ongoing": false
-    },
-    {
       "id": "anilist-126135",
       "name": "Bibliomania",
       "volumeCount": 1,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-104503",
+      "name": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs",
+      "volumeCount": 13,
       "ongoing": false
     },
     {
@@ -1773,15 +1779,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-114027",
-      "name": "Boy Meets Maria",
-      "volumeCount": 1,
-      "ongoing": false
-    },
-    {
       "id": "anilist-52651",
       "name": "THE BREAKER - NEW WAVES",
       "volumeCount": 20,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-114027",
+      "name": "Boy Meets Maria",
+      "volumeCount": 1,
       "ongoing": false
     },
     {
@@ -1809,16 +1815,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-116266",
-      "name": "Girlfriend, Girlfriend",
-      "volumeCount": 16,
-      "ongoing": false
-    },
-    {
       "id": "anilist-98544",
       "name": "Moriarty the Patriot",
       "volumeCount": 23,
       "ongoing": true
+    },
+    {
+      "id": "anilist-116266",
+      "name": "Girlfriend, Girlfriend",
+      "volumeCount": 16,
+      "ongoing": false
     },
     {
       "id": "anilist-135083",
@@ -1887,15 +1893,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-147997",
-      "name": "You and I Are Polar Opposites",
-      "volumeCount": 8,
-      "ongoing": false
-    },
-    {
       "id": "anilist-159142",
       "name": "Firefly Wedding",
       "volumeCount": 13,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-147997",
+      "name": "You and I Are Polar Opposites",
+      "volumeCount": 8,
       "ongoing": false
     },
     {
@@ -2079,15 +2085,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-112544",
-      "name": "Kowloon Generic Romance",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-68071",
       "name": "Spirit Circle",
       "volumeCount": 6,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-112544",
+      "name": "Kowloon Generic Romance",
+      "volumeCount": 12,
       "ongoing": false
     },
     {
@@ -2151,16 +2157,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-106454",
-      "name": "Sensei wa Koi wo Oshierarenai",
-      "volumeCount": 7,
-      "ongoing": false
-    },
-    {
       "id": "anilist-125116",
       "name": "Wistoria: Wand and Sword",
       "volumeCount": 16,
       "ongoing": true
+    },
+    {
+      "id": "anilist-106454",
+      "name": "Sensei wa Koi wo Oshierarenai",
+      "volumeCount": 7,
+      "ongoing": false
     },
     {
       "id": "anilist-141479",
@@ -2169,15 +2175,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-30050",
-      "name": "Shaman King",
-      "volumeCount": 32,
-      "ongoing": false
-    },
-    {
       "id": "anilist-107918",
       "name": "Doctor Elise: The Royal Lady with the Lamp",
       "volumeCount": 10,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30050",
+      "name": "Shaman King",
+      "volumeCount": 32,
       "ongoing": false
     },
     {
@@ -2259,15 +2265,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-31149",
-      "name": "Fist of the North Star",
-      "volumeCount": 27,
-      "ongoing": false
-    },
-    {
       "id": "anilist-30085",
       "name": "Azumanga Daioh",
       "volumeCount": 4,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-31149",
+      "name": "Fist of the North Star",
+      "volumeCount": 27,
       "ongoing": false
     },
     {
@@ -2349,15 +2355,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-110785",
-      "name": "2.5 Dimensional Seduction",
-      "volumeCount": 25,
-      "ongoing": false
-    },
-    {
       "id": "anilist-35255",
       "name": "Dengeki Daisy",
       "volumeCount": 16,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-110785",
+      "name": "2.5 Dimensional Seduction",
+      "volumeCount": 25,
       "ongoing": false
     },
     {
