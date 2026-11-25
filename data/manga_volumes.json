@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-11-24T04:06:39Z",
+  "_generated": "2026-11-25T04:07:21Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -123,16 +123,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-102988",
-      "name": "Tokyo Revengers",
-      "volumeCount": 31,
-      "ongoing": false
-    },
-    {
       "id": "anilist-132029",
       "name": "Dandadan",
       "volumeCount": 26,
       "ongoing": true
+    },
+    {
+      "id": "anilist-102988",
+      "name": "Tokyo Revengers",
+      "volumeCount": 31,
+      "ongoing": false
     },
     {
       "id": "anilist-30026",
@@ -465,6 +465,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-30104",
+      "name": "Yotsuba&!",
+      "volumeCount": 16,
+      "ongoing": true
+    },
+    {
       "id": "anilist-79865",
       "name": "Ajin: Demi-Human",
       "volumeCount": 17,
@@ -633,15 +639,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-97830",
-      "name": "To Your Eternity",
-      "volumeCount": 25,
-      "ongoing": false
-    },
-    {
       "id": "anilist-85412",
       "name": "Girls' Last Tour",
       "volumeCount": 6,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-97830",
+      "name": "To Your Eternity",
+      "volumeCount": 25,
       "ongoing": false
     },
     {
@@ -843,15 +849,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-38848",
-      "name": "Sun-Ken Rock",
-      "volumeCount": 25,
-      "ongoing": false
-    },
-    {
       "id": "anilist-85911",
       "name": "Tomodachi Game",
       "volumeCount": 26,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-38848",
+      "name": "Sun-Ken Rock",
+      "volumeCount": 25,
       "ongoing": false
     },
     {
@@ -993,16 +999,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-33378",
-      "name": "Kimi ni Todoke: From Me to You",
-      "volumeCount": 30,
-      "ongoing": false
-    },
-    {
       "id": "anilist-105011",
       "name": "More Than a Married Couple, but Not Lovers.",
       "volumeCount": 13,
       "ongoing": true
+    },
+    {
+      "id": "anilist-33378",
+      "name": "Kimi ni Todoke: From Me to You",
+      "volumeCount": 30,
+      "ongoing": false
     },
     {
       "id": "anilist-30743",
@@ -1097,7 +1103,7 @@
     {
       "id": "anilist-86508",
       "name": "Dragon Ball Super",
-      "volumeCount": 42,
+      "volumeCount": 24,
       "ongoing": true
     },
     {
@@ -1281,16 +1287,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-41734",
-      "name": "Watashitachi no Shiawase na Jikan",
-      "volumeCount": 1,
-      "ongoing": false
-    },
-    {
       "id": "anilist-180752",
       "name": "Ichi the Witch",
       "volumeCount": 10,
       "ongoing": true
+    },
+    {
+      "id": "anilist-41734",
+      "name": "Watashitachi no Shiawase na Jikan",
+      "volumeCount": 1,
+      "ongoing": false
     },
     {
       "id": "anilist-85533",
@@ -1425,16 +1431,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-105263",
-      "name": "Dai Dark",
-      "volumeCount": 9,
-      "ongoing": true
-    },
-    {
       "id": "anilist-105332",
       "name": "Sweat and Soap",
       "volumeCount": 11,
       "ongoing": false
+    },
+    {
+      "id": "anilist-105263",
+      "name": "Dai Dark",
+      "volumeCount": 9,
+      "ongoing": true
     },
     {
       "id": "anilist-30053",
@@ -1497,15 +1503,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-107279",
-      "name": "Aoashi",
-      "volumeCount": 40,
-      "ongoing": false
-    },
-    {
       "id": "anilist-31474",
       "name": "Devilman",
       "volumeCount": 5,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-107279",
+      "name": "Aoashi",
+      "volumeCount": 40,
       "ongoing": false
     },
     {
@@ -1779,15 +1785,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-52651",
-      "name": "THE BREAKER - NEW WAVES",
-      "volumeCount": 20,
-      "ongoing": false
-    },
-    {
       "id": "anilist-114027",
       "name": "Boy Meets Maria",
       "volumeCount": 1,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-52651",
+      "name": "THE BREAKER - NEW WAVES",
+      "volumeCount": 20,
       "ongoing": false
     },
     {
@@ -1983,6 +1989,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-106726",
+      "name": "Shimeji Simulation",
+      "volumeCount": 5,
+      "ongoing": false
+    },
+    {
       "id": "anilist-58361",
       "name": "HIDEOUT",
       "volumeCount": 1,
@@ -1995,21 +2007,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-106726",
-      "name": "Shimeji Simulation",
-      "volumeCount": 5,
-      "ongoing": false
+      "id": "anilist-30735",
+      "name": "Black Lagoon",
+      "volumeCount": 14,
+      "ongoing": true
     },
     {
       "id": "anilist-85495",
       "name": "Re:Monster",
       "volumeCount": 9,
-      "ongoing": true
-    },
-    {
-      "id": "anilist-30735",
-      "name": "Black Lagoon",
-      "volumeCount": 14,
       "ongoing": true
     },
     {
@@ -2055,15 +2061,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-34571",
-      "name": "Snow White with the Red Hair",
-      "volumeCount": 27,
-      "ongoing": true
-    },
-    {
       "id": "anilist-143031",
       "name": "I Want to End This Love Game",
       "volumeCount": 9,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-34571",
+      "name": "Snow White with the Red Hair",
+      "volumeCount": 27,
       "ongoing": true
     },
     {
@@ -2205,15 +2211,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-120440",
-      "name": "Positively Yours",
-      "volumeCount": 8,
-      "ongoing": false
-    },
-    {
       "id": "anilist-96518",
       "name": "Bokutachi ga Yarimashita",
       "volumeCount": 9,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-120440",
+      "name": "Positively Yours",
+      "volumeCount": 8,
       "ongoing": false
     },
     {
