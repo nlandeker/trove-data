@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-11-25T04:07:21Z",
+  "_generated": "2026-11-26T04:07:21Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -61,12 +61,6 @@
       "name": "My Hero Academia",
       "volumeCount": 42,
       "ongoing": false
-    },
-    {
-      "id": "anilist-74347",
-      "name": "One-Punch Man",
-      "volumeCount": 37,
-      "ongoing": true
     },
     {
       "id": "anilist-30656",
@@ -465,16 +459,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30104",
-      "name": "Yotsuba&!",
-      "volumeCount": 16,
-      "ongoing": true
-    },
-    {
       "id": "anilist-79865",
       "name": "Ajin: Demi-Human",
       "volumeCount": 17,
       "ongoing": false
+    },
+    {
+      "id": "anilist-30104",
+      "name": "Yotsuba&!",
+      "volumeCount": 16,
+      "ongoing": true
     },
     {
       "id": "anilist-55515",
@@ -609,16 +603,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30042",
-      "name": "Dragon Ball",
-      "volumeCount": 42,
-      "ongoing": false
-    },
-    {
       "id": "anilist-149544",
       "name": "The Guy She Was Interested In Wasn't a Guy at All",
       "volumeCount": 4,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30042",
+      "name": "Dragon Ball",
+      "volumeCount": 42,
+      "ongoing": false
     },
     {
       "id": "anilist-30745",
@@ -721,12 +715,6 @@
       "name": "Food Wars!: Shokugeki no Soma",
       "volumeCount": 36,
       "ongoing": false
-    },
-    {
-      "id": "anilist-85564",
-      "name": "Mushoku Tensei: Jobless Reincarnation",
-      "volumeCount": 25,
-      "ongoing": true
     },
     {
       "id": "anilist-99022",
@@ -849,15 +837,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-85911",
-      "name": "Tomodachi Game",
-      "volumeCount": 26,
-      "ongoing": false
-    },
-    {
       "id": "anilist-38848",
       "name": "Sun-Ken Rock",
       "volumeCount": 25,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-85911",
+      "name": "Tomodachi Game",
+      "volumeCount": 26,
       "ongoing": false
     },
     {
@@ -1053,16 +1041,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-33006",
-      "name": "JoJo's Bizarre Adventure Part 4: Diamond is Unbreakable",
-      "volumeCount": 18,
-      "ongoing": false
-    },
-    {
       "id": "anilist-111189",
       "name": "A Sign of Affection",
       "volumeCount": 14,
       "ongoing": true
+    },
+    {
+      "id": "anilist-33006",
+      "name": "JoJo's Bizarre Adventure Part 4: Diamond is Unbreakable",
+      "volumeCount": 18,
+      "ongoing": false
     },
     {
       "id": "anilist-101557",
@@ -1503,15 +1491,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-31474",
-      "name": "Devilman",
-      "volumeCount": 5,
-      "ongoing": false
-    },
-    {
       "id": "anilist-107279",
       "name": "Aoashi",
       "volumeCount": 40,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-31474",
+      "name": "Devilman",
+      "volumeCount": 5,
       "ongoing": false
     },
     {
@@ -1761,6 +1749,12 @@
       "ongoing": true
     },
     {
+      "id": "anilist-153432",
+      "name": "The Reaper",
+      "volumeCount": 4,
+      "ongoing": true
+    },
+    {
       "id": "anilist-141261",
       "name": "Ayashimon",
       "volumeCount": 3,
@@ -1857,15 +1851,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-86607",
-      "name": "Gleipnir",
-      "volumeCount": 14,
-      "ongoing": false
-    },
-    {
       "id": "anilist-113488",
       "name": "Weak Hero",
       "volumeCount": 19,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-86607",
+      "name": "Gleipnir",
+      "volumeCount": 14,
       "ongoing": false
     },
     {
@@ -1887,6 +1881,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-159142",
+      "name": "Firefly Wedding",
+      "volumeCount": 13,
+      "ongoing": false
+    },
+    {
       "id": "anilist-48597",
       "name": "Sankarea: Undying Love",
       "volumeCount": 11,
@@ -1896,12 +1896,6 @@
       "id": "anilist-101434",
       "name": "How to Treat a Lady Knight Right",
       "volumeCount": 7,
-      "ongoing": false
-    },
-    {
-      "id": "anilist-159142",
-      "name": "Firefly Wedding",
-      "volumeCount": 13,
       "ongoing": false
     },
     {
@@ -2157,15 +2151,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-58533",
-      "name": "No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!",
-      "volumeCount": 29,
-      "ongoing": true
-    },
-    {
       "id": "anilist-125116",
       "name": "Wistoria: Wand and Sword",
       "volumeCount": 16,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-58533",
+      "name": "No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!",
+      "volumeCount": 29,
       "ongoing": true
     },
     {
@@ -2199,16 +2193,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-44893",
-      "name": "Bakemonogatari: Monster Tale",
-      "volumeCount": 2,
-      "ongoing": false
-    },
-    {
       "id": "anilist-169272",
       "name": "Tune In to the Midnight Heart",
       "volumeCount": 15,
       "ongoing": true
+    },
+    {
+      "id": "anilist-44893",
+      "name": "Bakemonogatari: Monster Tale",
+      "volumeCount": 2,
+      "ongoing": false
     },
     {
       "id": "anilist-96518",
@@ -2283,16 +2277,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-87234",
-      "name": "The Elder Sister-Like One",
-      "volumeCount": 6,
-      "ongoing": true
-    },
-    {
       "id": "anilist-30671",
       "name": "To Love Ru",
       "volumeCount": 18,
       "ongoing": false
+    },
+    {
+      "id": "anilist-87234",
+      "name": "The Elder Sister-Like One",
+      "volumeCount": 6,
+      "ongoing": true
     },
     {
       "id": "anilist-31131",
