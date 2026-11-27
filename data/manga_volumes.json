@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-11-26T04:07:21Z",
+  "_generated": "2026-11-27T04:06:36Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -359,7 +359,7 @@
     {
       "id": "anilist-98842",
       "name": "Toilet-Bound Hanako-kun",
-      "volumeCount": 25,
+      "volumeCount": 26,
       "ongoing": true
     },
     {
@@ -717,6 +717,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-85564",
+      "name": "Mushoku Tensei: Jobless Reincarnation",
+      "volumeCount": 25,
+      "ongoing": true
+    },
+    {
       "id": "anilist-99022",
       "name": "The Apothecary Diaries",
       "volumeCount": 16,
@@ -837,15 +843,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-38848",
-      "name": "Sun-Ken Rock",
-      "volumeCount": 25,
-      "ongoing": false
-    },
-    {
       "id": "anilist-85911",
       "name": "Tomodachi Game",
       "volumeCount": 26,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-38848",
+      "name": "Sun-Ken Rock",
+      "volumeCount": 25,
       "ongoing": false
     },
     {
@@ -951,16 +957,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30698",
-      "name": "Neon Genesis Evangelion",
-      "volumeCount": 14,
-      "ongoing": false
-    },
-    {
       "id": "anilist-109501",
       "name": "My Love Story with Yamada-kun at Lv999",
       "volumeCount": 10,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30698",
+      "name": "Neon Genesis Evangelion",
+      "volumeCount": 14,
+      "ongoing": false
     },
     {
       "id": "anilist-85470",
@@ -1353,14 +1359,14 @@
       "ongoing": false
     },
     {
-      "id": "anilist-69325",
-      "name": "Erased",
+      "id": "anilist-104973",
+      "name": "The Reason Why Raeliana Ended Up at the Duke's Mansion",
       "volumeCount": 9,
       "ongoing": false
     },
     {
-      "id": "anilist-104973",
-      "name": "The Reason Why Raeliana Ended Up at the Duke's Mansion",
+      "id": "anilist-69325",
+      "name": "Erased",
       "volumeCount": 9,
       "ongoing": false
     },
@@ -1395,15 +1401,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-30047",
-      "name": "Reborn!",
-      "volumeCount": 42,
-      "ongoing": false
-    },
-    {
       "id": "anilist-136331",
       "name": "The Return of the 8th Class Mage",
       "volumeCount": 5,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-30047",
+      "name": "Reborn!",
+      "volumeCount": 42,
       "ongoing": false
     },
     {
@@ -1491,15 +1497,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-107279",
-      "name": "Aoashi",
-      "volumeCount": 40,
-      "ongoing": false
-    },
-    {
       "id": "anilist-31474",
       "name": "Devilman",
       "volumeCount": 5,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-107279",
+      "name": "Aoashi",
+      "volumeCount": 40,
       "ongoing": false
     },
     {
@@ -1701,16 +1707,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-33438",
-      "name": "PSYЯEN",
-      "volumeCount": 16,
-      "ongoing": false
-    },
-    {
       "id": "anilist-122063",
       "name": "Shangri-La Frontier",
       "volumeCount": 28,
       "ongoing": true
+    },
+    {
+      "id": "anilist-33438",
+      "name": "PSYЯEN",
+      "volumeCount": 16,
+      "ongoing": false
     },
     {
       "id": "anilist-43245",
@@ -1875,15 +1881,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-50593",
-      "name": "Btooom!",
-      "volumeCount": 27,
-      "ongoing": false
-    },
-    {
       "id": "anilist-159142",
       "name": "Firefly Wedding",
       "volumeCount": 13,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-50593",
+      "name": "Btooom!",
+      "volumeCount": 27,
       "ongoing": false
     },
     {
@@ -1917,6 +1923,12 @@
       "ongoing": true
     },
     {
+      "id": "anilist-113055",
+      "name": "The Remarried Empress",
+      "volumeCount": 11,
+      "ongoing": true
+    },
+    {
       "id": "anilist-66213",
       "name": "Monster Musume",
       "volumeCount": 21,
@@ -1927,12 +1939,6 @@
       "name": "School-Live!",
       "volumeCount": 12,
       "ongoing": false
-    },
-    {
-      "id": "anilist-113055",
-      "name": "The Remarried Empress",
-      "volumeCount": 11,
-      "ongoing": true
     },
     {
       "id": "anilist-30651",
@@ -2049,15 +2055,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-78151",
-      "name": "World Trigger",
-      "volumeCount": 30,
-      "ongoing": true
-    },
-    {
       "id": "anilist-143031",
       "name": "I Want to End This Love Game",
       "volumeCount": 9,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-78151",
+      "name": "World Trigger",
+      "volumeCount": 30,
       "ongoing": true
     },
     {
@@ -2145,15 +2151,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-103255",
-      "name": "Fairy Tail: 100 Years Quest",
-      "volumeCount": 24,
-      "ongoing": true
-    },
-    {
       "id": "anilist-125116",
       "name": "Wistoria: Wand and Sword",
       "volumeCount": 16,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-103255",
+      "name": "Fairy Tail: 100 Years Quest",
+      "volumeCount": 24,
       "ongoing": true
     },
     {
@@ -2355,15 +2361,15 @@
       "ongoing": true
     },
     {
-      "id": "anilist-35255",
-      "name": "Dengeki Daisy",
-      "volumeCount": 16,
-      "ongoing": false
-    },
-    {
       "id": "anilist-110785",
       "name": "2.5 Dimensional Seduction",
       "volumeCount": 25,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-35255",
+      "name": "Dengeki Daisy",
+      "volumeCount": 16,
       "ongoing": false
     },
     {
