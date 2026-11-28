@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "_generated": "2026-11-27T04:06:36Z",
+  "_generated": "2026-11-28T04:06:22Z",
   "items": [
     {
       "id": "anilist-105778",
@@ -597,16 +597,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-51525",
-      "name": "Yona of the Dawn",
-      "volumeCount": 48,
-      "ongoing": false
-    },
-    {
       "id": "anilist-149544",
       "name": "The Guy She Was Interested In Wasn't a Guy at All",
       "volumeCount": 4,
       "ongoing": true
+    },
+    {
+      "id": "anilist-51525",
+      "name": "Yona of the Dawn",
+      "volumeCount": 48,
+      "ongoing": false
     },
     {
       "id": "anilist-30042",
@@ -1137,16 +1137,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-98235",
-      "name": "We Never Learn",
-      "volumeCount": 21,
-      "ongoing": false
-    },
-    {
       "id": "anilist-179445",
       "name": "Solo Leveling: Ragnarok",
       "volumeCount": 15,
       "ongoing": true
+    },
+    {
+      "id": "anilist-98235",
+      "name": "We Never Learn",
+      "volumeCount": 21,
+      "ongoing": false
     },
     {
       "id": "anilist-39982",
@@ -1167,15 +1167,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-31649",
-      "name": "LIAR GAME",
-      "volumeCount": 19,
-      "ongoing": false
-    },
-    {
       "id": "anilist-112579",
       "name": "My Broken Mariko",
       "volumeCount": 1,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-31649",
+      "name": "LIAR GAME",
+      "volumeCount": 19,
       "ongoing": false
     },
     {
@@ -1497,15 +1497,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-31474",
-      "name": "Devilman",
-      "volumeCount": 5,
-      "ongoing": false
-    },
-    {
       "id": "anilist-107279",
       "name": "Aoashi",
       "volumeCount": 40,
+      "ongoing": false
+    },
+    {
+      "id": "anilist-31474",
+      "name": "Devilman",
+      "volumeCount": 5,
       "ongoing": false
     },
     {
@@ -1701,15 +1701,15 @@
       "ongoing": false
     },
     {
-      "id": "anilist-103082",
-      "name": "Pumpkin Night",
-      "volumeCount": 18,
-      "ongoing": true
-    },
-    {
       "id": "anilist-122063",
       "name": "Shangri-La Frontier",
       "volumeCount": 28,
+      "ongoing": true
+    },
+    {
+      "id": "anilist-103082",
+      "name": "Pumpkin Night",
+      "volumeCount": 18,
       "ongoing": true
     },
     {
@@ -1743,16 +1743,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-57231",
-      "name": "Daytime Shooting Star",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-176740",
       "name": "Centuria",
       "volumeCount": 10,
       "ongoing": true
+    },
+    {
+      "id": "anilist-57231",
+      "name": "Daytime Shooting Star",
+      "volumeCount": 12,
+      "ongoing": false
     },
     {
       "id": "anilist-153432",
@@ -1803,6 +1803,12 @@
       "ongoing": false
     },
     {
+      "id": "anilist-201773",
+      "name": "Haimiya Is Scary Cute",
+      "volumeCount": 4,
+      "ongoing": true
+    },
+    {
       "id": "anilist-30043",
       "name": "Eyeshield 21",
       "volumeCount": 37,
@@ -1813,12 +1819,6 @@
       "name": "In the Clear Moonlit Dusk",
       "volumeCount": 12,
       "ongoing": false
-    },
-    {
-      "id": "anilist-201773",
-      "name": "Haimiya Is Scary Cute",
-      "volumeCount": 4,
-      "ongoing": true
     },
     {
       "id": "anilist-98544",
@@ -1929,16 +1929,16 @@
       "ongoing": true
     },
     {
-      "id": "anilist-66213",
-      "name": "Monster Musume",
-      "volumeCount": 21,
-      "ongoing": true
-    },
-    {
       "id": "anilist-85235",
       "name": "School-Live!",
       "volumeCount": 12,
       "ongoing": false
+    },
+    {
+      "id": "anilist-66213",
+      "name": "Monster Musume",
+      "volumeCount": 21,
+      "ongoing": true
     },
     {
       "id": "anilist-30651",
@@ -2031,16 +2031,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30933",
-      "name": "Elfen Lied",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-111258",
       "name": "Bocchi the Rock!",
       "volumeCount": 8,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30933",
+      "name": "Elfen Lied",
+      "volumeCount": 12,
+      "ongoing": false
     },
     {
       "id": "anilist-98370",
@@ -2193,16 +2193,16 @@
       "ongoing": false
     },
     {
-      "id": "anilist-30106",
-      "name": "Cardcaptor Sakura",
-      "volumeCount": 12,
-      "ongoing": false
-    },
-    {
       "id": "anilist-169272",
       "name": "Tune In to the Midnight Heart",
       "volumeCount": 15,
       "ongoing": true
+    },
+    {
+      "id": "anilist-30106",
+      "name": "Cardcaptor Sakura",
+      "volumeCount": 12,
+      "ongoing": false
     },
     {
       "id": "anilist-44893",
